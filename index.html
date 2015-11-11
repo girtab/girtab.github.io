@@ -2,7 +2,14 @@
 <script type="text/javascript" src="data/js/jquery.csv2table.js"></script>
 <script>
 $(function(){
-  $('#table_disp').csv2table('data/csv/RU_game_grossing_2015-11-11.csv');
+    var Ymd = (new Date()).getFullYear() + ("0"+( now.getMonth()+1 ) ).slice(-2) + ( "0"+now.getDate() ).slice(-2);
+    var arg = {"country_code": "RU", "rank_type": "game_grossing", "date": Ymd};
+    var pair = location.search.substring(1).split('&');
+    for(var i=0; pair[i]; ++i) {
+        var kv = pair[i].split('=');
+        arg[kv[0]]=kv[1];
+    }
+    $('#table_disp').csv2table('data/csv/'+arg["country_code"]+'_'+arg['rank_type']+'_'+arg['date']+'.csv');
 });
 </script>
   
