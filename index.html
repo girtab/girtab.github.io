@@ -3,7 +3,7 @@
 <script>
 $(function(){
     var now = new Date();
-    var Ymd = now.getFullYear() + ("0"+( now.getMonth()+1 ) ).slice(-2) + ( "0"+now.getDate() ).slice(-2);
+    var Ymd = now.getFullYear() + "-" + ("0"+( now.getMonth()+1 ) ).slice(-2) + "-" + ( "0"+now.getDate() ).slice(-2);
     var arg = {"country_code": "RU", "rank_type": "game_grossing", "date": Ymd};
     var pair = location.search.substring(1).split('&');
     for(var i=0; pair[i]; ++i) {
