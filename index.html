@@ -4,15 +4,32 @@
 $(function(){
     var now = new Date();
     var Ymd = now.getFullYear() + "-" + ("0"+( now.getMonth()+1 ) ).slice(-2) + "-" + ( "0"+now.getDate() ).slice(-2);
-    var arg = {"country_code": "RU", "rank_type": "game_grossing", "date": Ymd};
+    var arg = {"country_code": "US", "rank_type": "game_grossing", "date": Ymd};
     var pair = location.search.substring(1).split('&');
     for(var i=0; pair[i]; ++i) {
         var kv = pair[i].split('=');
         arg[kv[0]]=kv[1];
+    };
+    $("#date").append(Ymd);
+    var country_list = [{"country_name":"Japan","country_code":"JP"},{"country_name":"United States of America","country_code":"US"},{"country_name":"United Kingdom","country_code":"UK"},{"country_name":"Australia","country_code":"AU"},{"country_name":"France","country_code":"FR"},{"country_name":"Italy","country_code":"IT"},{"country_name":"Germany","country_code":"DE"},{"country_name":"Spain","country_code":"ES"},{"country_name":"Portugal","country_code":"PT"},{"country_name":"Taiwan","country_code":"TW"},{"country_name":"Brazil","country_code":"BR"},{"country_name":"Russia","country_code":"RU"},{"country_name":"Sweden","country_code":"SE"},{"country_name":"Canada","country_code":"CA"},{"country_name":"Singapore","country_code":"SG"},{"country_name":"Switzerland","country_code":"CH"},{"country_name":"South Korea","country_code":"KR"},{"country_name":"Netherlands","country_code":"NZ"}];
+    for (var i = 0; i < country_list.length; ++i) {
+        var selected = (country_list[i]["country_code"] == arg["country_code"]) ? "selected" : "";
+        $("#country_code").append("<option value='"+ country_list[i]["country_code"] +"' " + selected +">" +country_list[i]["country_name"]+ "</option>");
+    };
+    var rank_type_list = [{"name":"\u7121\u6599\u30c8\u30c3\u30d7\u30b2\u30fc\u30e0","rank_type":"game_free","url":"https:\/\/play.google.com\/store\/apps\/category\/GAME\/collection\/topselling_free"},{"name":"\u65b0\u7740\u7121\u6599\u30c8\u30c3\u30d7\u30b2\u30fc\u30e0","rank_type":"game_new_free","url":"https:\/\/play.google.com\/store\/apps\/category\/GAME\/collection\/topselling_new_free"},{"name":"\u58f2\u4e0a\u30c8\u30c3\u30d7\u306e\u30b2\u30fc\u30e0","rank_type":"game_grossing","url":"https:\/\/play.google.com\/store\/apps\/category\/GAME\/collection\/topgrossing"},{"name":"\u6709\u6599\u30c8\u30c3\u30d7\u30b2\u30fc\u30e0","rank_type":"game_paid","url":"https:\/\/play.google.com\/store\/apps\/category\/GAME\/collection\/topselling_paid"},{"name":"\u65b0\u7740\u6709\u6599\u30c8\u30c3\u30d7\u30b2\u30fc\u30e0","rank_type":"game_new_paid","url":"https:\/\/play.google.com\/store\/apps\/category\/GAME\/collection\/topselling_new_paid"}];
+    for (var i = 0; i < rank_type_list.length; ++i) {
+        var selected = (rank_type_list[i]["rank_type"] == arg["rank_type"]) ? "selected" : "";
+        $("#rank_type").append("<option value='"+rank_type_list[i]["rank_type"]+"' "+selected+">"+rank_type_list[i]["name"]+"</option>")
     }
     $('#table_disp').csv2table('data/csv/'+arg["country_code"]+'_'+arg['rank_type']+'_'+arg['date']+'.csv');
 });
+function search() {
+    location.href = "./index.html?country_code="+$("#country_code").val()+"&rank_type="+$("#rank_type").val()+"&date=" + $("#date").val();
+}
 </script>
-  
+<div id="date"></div>
+<select id="country_code"></select>  
+<select id="rank_type"></select>
+<input type="button" value="Search" onclick=search() />
 <div id="table_disp"></div>
 
