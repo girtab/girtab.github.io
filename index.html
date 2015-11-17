@@ -24,7 +24,7 @@ $(function(){
     $('#table_disp').csv2table('data/csv/'+arg["country_code"]+'_'+arg['rank_type']+'_'+arg['date']+'.csv');
 });
 function search() {
-    location.href = "./index.html?country_code="+$("#country_code").val()+"&rank_type="+$("#rank_type").val()+"&date=" + $("#date").val();
+    location.href = "./index.html?country_code="+$("#country_code").val()+"&rank_type="+$("#rank_type").val()+"&date=" + $("#date").text();
 }
 </script>
 <div id="date"></div>
