@@ -71,7 +71,7 @@ com.ebay.kr.auction,"옥션,모바일쇼핑은옥션–편하게사자!",69,KR,2
 com.gggg.ggggmine,보석캐기,70,KR,2016-01-22
 com.nhn.android.ndrive,네이버클라우드-NAVERCloud,71,KR,2016-01-22
 com.tnkfactory.cashpop2,캐시팝팝2-매일매일쌓이는무한혜택,72,KR,2016-01-22
-com.duapps.cleaner,DUCleaner,73,KR,2016-01-22
+com.duapps.cleaner,DUCleaner(Boost&ClearCache),73,KR,2016-01-22
 com.robtopx.geometrydashmeltdown,GeometryDashMeltdown,74,KR,2016-01-22
 com.cashslide,캐시슬라이드-안밀면손해,75,KR,2016-01-22
 com.nhnpixelcube.friendspop,프렌즈팝forKakao,76,KR,2016-01-22
@@ -101,9 +101,9 @@ com.shcard.smartpay,신한카드-신한앱카드(간편결제),99,KR,2016-01-22
 gogolook.callgogolook2,Whoscall-発信元表示・着信拒否,100,KR,2016-01-22
 com.kakao.music,카카오뮤직KakaoMusic,101,KR,2016-01-22
 com.cjenm.sknights,세븐나이츠forKakao,102,KR,2016-01-22
-com.hnsmall,홈&쇼핑–반값의비밀!TV상품사면혜택이팡팡,103,KR,2016-01-22
-com.nhnent.payapp,PAYCO-페이코,104,KR,2016-01-22
-kr.co.dreamshopping.mcapp,"신세계TV쇼핑-신규회원10%쿠폰,5,000P증정",105,KR,2016-01-22
+kr.co.dreamshopping.mcapp,"신세계TV쇼핑-신규회원10%쿠폰,5,000P증정",103,KR,2016-01-22
+com.hnsmall,홈&쇼핑–반값의비밀!TV상품사면혜택이팡팡,104,KR,2016-01-22
+com.nhnent.payapp,PAYCO-페이코,105,KR,2016-01-22
 com.locnall.KimGiSa,국민내비김기사-2.0,106,KR,2016-01-22
 com.google.android.apps.translate,Google翻訳,107,KR,2016-01-22
 com.buzzni.android.subapp.shoppingmoa,"홈쇼핑모아-TV홈쇼핑편성표,생방송,알림,검색을한눈에",108,KR,2016-01-22
@@ -230,7 +230,7 @@ kr.co.quicket,번개장터-모바일1등중고마켓앱,228,KR,2016-01-22
 com.mangoplate,"망고플레이트-맛집검색,맛집추천앱",229,KR,2016-01-22
 com.gamepub.ew.g,전함제국:강철의함대,230,KR,2016-01-22
 kr.co.captv.pooqV2,푹(pooq),231,KR,2016-01-22
-m4u.mobile.user,"미팅포유-채팅,소개팅,랜덤채팅,만남,미팅,돌싱",232,KR,2016-01-22
+m4u.mobile.user,"미팅포유-채팅,랜덤채팅,소개팅",232,KR,2016-01-22
 com.picsart.studio,PicsArt-フォトスタジオ[編集アプリ]-Editor,233,KR,2016-01-22
 com.omnitel.android.lottewebview,롯데홈쇼핑LOTTEHomeshopping,234,KR,2016-01-22
 com.kiloo.subwaysurf,SubwaySurfers,235,KR,2016-01-22
@@ -414,14 +414,14 @@ kr.co.memebox.meme,"미미박스-뷰티,화장품,쇼핑,내손안의뷰티샵",
 com.hanafn.push.agent,하나금융그룹알리미서비스(PushAgent),413,KR,2016-01-22
 com.hotelscombined.mobile,ホテルズコンバインド-ホテル料金比較・予約,414,KR,2016-01-22
 me.scan.android.client,QRCodeReader,415,KR,2016-01-22
-com.koramgame.ggplay.sfyyqkrcbt,요괴요(CBT),416,KR,2016-01-22
-com.skplanet.tmaplink,Tmaplink,417,KR,2016-01-22
-net.devking.randomchat.android,新しい人と対話(ランダムチャット),418,KR,2016-01-22
+com.skplanet.tmaplink,Tmaplink,416,KR,2016-01-22
+net.devking.randomchat.android,新しい人と対話(ランダムチャット),417,KR,2016-01-22
+com.koramgame.ggplay.sfyyqkrcbt,요괴요(CBT),418,KR,2016-01-22
 kr.co.saramin.brandapp,취업은사람인-채용취업공채입사지원을,419,KR,2016-01-22
 com.ak.android.akplaza,AKPLAZA백화점,420,KR,2016-01-22
 com.traport.travelhow,"트래블하우-항공권,여행사가격비교및예약플랫폼",421,KR,2016-01-22
-air.com.eni.AnimalJudy007,AnimalJudy:Penguincare,422,KR,2016-01-22
-com.lgcns.mpost,MPost,423,KR,2016-01-22
+com.lgcns.mpost,MPost,422,KR,2016-01-22
+air.com.eni.AnimalJudy007,AnimalJudy:Penguincare,423,KR,2016-01-22
 com.yes24.commerce,예스24도서서점,424,KR,2016-01-22
 com.vanillabreeze.earwax.kr,크레용귓밥팍-세계최초귀파기게임,425,KR,2016-01-22
 air.com.eni.ChefJudy041,ChefJudy:ChocolateEggDraw,426,KR,2016-01-22
@@ -489,8 +489,8 @@ jp.ne.hardyinfinity.bluelightfilter.nightmode,ブルーライト軽減フィル�
 com.skt.ptt,오키토키-전문가수준의무료무전기워키토키PTT,488,KR,2016-01-22
 com.mediocre.smashhit,SmashHit,489,KR,2016-01-22
 com.ftg.idolexp,눈떠보니아이돌연습생,490,KR,2016-01-22
-com.applepie4.mylittlepet,HelloPet,491,KR,2016-01-22
-com.ea.game.pvz2_row,Plantsvs.Zombies2,492,KR,2016-01-22
+com.ea.game.pvz2_row,Plantsvs.Zombies2,491,KR,2016-01-22
+com.applepie4.mylittlepet,HelloPet,492,KR,2016-01-22
 com.pixonic.wwr,WalkingWarRobots,493,KR,2016-01-22
 com.geopia.simchat,"심심채팅-남친,여친,랜덤채팅",494,KR,2016-01-22
 com.appstard.loveletter,러브레터-무료소개팅어플(채팅만남미팅앱),495,KR,2016-01-22
