@@ -17,7 +17,7 @@ com.dotemu.ihnmaims,IHaveNoMouth,15,VN,2016-01-25
 com.valorware.ninthdawnii,9thDawnII2RPG,16,VN,2016-01-25
 uk.co.iscoutfmm.fmm2016scout.v2,FMM2016Scout,17,VN,2016-01-25
 com.mtvn.blazedinorescue_google,BlazeDinosaurEggRescueGame,18,VN,2016-01-25
-com.KobraStudio.RageIsland,RageIsland,19,VN,2016-01-25
+com.KobraStudio.RageIsland,RageIsland-ZombieSurvival,19,VN,2016-01-25
 com.nvidia.metalgearrisingrevengeance,MetalGearRising:Revengeance,20,VN,2016-01-25
 com.pacstudiogames.worldzsurvival,PixelDayZ,21,VN,2016-01-25
 com.tory.miner.android,MineralMiner,22,VN,2016-01-25
@@ -29,7 +29,7 @@ com.itdeve.customaimpro,CustomaimPro,27,VN,2016-01-25
 org.pbskids.wkbabybuddies,WildKrattsBabyBuddies,28,VN,2016-01-25
 com.KozGames.SovietRally,SovietRally,29,VN,2016-01-25
 com.playplayfun.mondaynightmonsters,MondayNightMonstersFootball,30,VN,2016-01-25
-com.ezeducation.doodletables,DoodleTables,31,VN,2016-01-25
+com.ezeducation.doodletables,DoodleTables(TimesTables),31,VN,2016-01-25
 jp.gr.java_conf.uroboros.allice,水平思考推理ゲーム　海辺の少女～完全版～,32,VN,2016-01-25
 com.egproject.thehouse,TheHouse,33,VN,2016-01-25
 com.Brianside.HolidaywithyourgirlVR,HolidaywithmygirlVR,34,VN,2016-01-25
@@ -57,8 +57,8 @@ com.jsa.shogilive2016a,日本将棋連盟ライブ中継2016年1～6月版,55,VN
 com.firerabbit.games.hog.castle.full,呪われし王宮:3D映像・アイテム探求型冒険ゲーム,56,VN,2016-01-25
 ru.SixtyEightGames.russianfreeride,RussianFreeRide,57,VN,2016-01-25
 com.Knap.Zoo_Craft,ZooCraft2HD,58,VN,2016-01-25
-smarttech.littlebots.android.mysteryboxnew,MysteryBox,59,VN,2016-01-25
-com.mobiljoy.space,SpaceJaunt,60,VN,2016-01-25
+com.mobiljoy.space,SpaceJaunt,59,VN,2016-01-25
+com.ratinteractive.GreedyPugs,GreedyPugs,60,VN,2016-01-25
 com.samahmed.blueprint,bluprint:TheBuildingGame,61,VN,2016-01-25
 com.BlueSunsetGames.TribellumPrologue,Tribellum:Prologue,62,VN,2016-01-25
 com.heisenbergent.pnGG3d113,GangsterGranny3,63,VN,2016-01-25
@@ -164,7 +164,7 @@ com.boomzap.sarpgfull,SuperAwesomeRPG,162,VN,2016-01-25
 com.protatsujin.xmas,クリスマスの達人★PRO版★~つくって売ってお店をでっかく~,163,VN,2016-01-25
 com.dervac.HystoriofaRobot,ThePathofRobot,164,VN,2016-01-25
 com.Knap.Kraft,SkyblockCraftSurvivalHD,165,VN,2016-01-25
-com.glowingbrain.turnemgreenfull,Turn'emGreen,166,VN,2016-01-25
+com.glowingbrain.turnemgreenfull,Turn'emGreenDeluxe(NoAds),166,VN,2016-01-25
 com.king.pong,Multiplayerpong,167,VN,2016-01-25
 air.powerfalls,PowerFalls,168,VN,2016-01-25
 com.axitama.duelsoccer.borneovspadang,DuelSoccer:BorneovsPadang,169,VN,2016-01-25
@@ -265,13 +265,11 @@ com.PIOSystems.TrapDatNinjaPAID,TrapDatNinja,263,VN,2016-01-25
 com.sapps.callbridge.android,CallBridge,264,VN,2016-01-25
 com.msedutainment.www.electsim2016demprimary,ElectSim2016DemPrimary,265,VN,2016-01-25
 com.CED.TrashMonstersDeluxe,TrashMonstersDELUXE,266,VN,2016-01-25
-com.scarpelli.airhockeycardboard,AirHockeyVR,267,VN,2016-01-25
-com.andreyonadam.learningshapes,LearnShapes,268,VN,2016-01-25
-com.outlook.Formatrex,Forma-Trex,269,VN,2016-01-25
-com.alkamilsoftech.toyofdragon,TheToysofDragon,270,VN,2016-01-25
-com.axitama.duelsoccer.arekmalangvssurabaya,Duel:ArekMalangvsSurabaya,271,VN,2016-01-25
-alex.globalassault,GlobalResistance,272,VN,2016-01-25
-com.neo.codehunt,Metatron,273,VN,2016-01-25
-air.com.tutotoons.app.sweetlittledwarfs.full,SweetLittleDwarfsFULL,274,VN,2016-01-25
-com.BlazingDamon.TiltThePixelAdFree,TiltThePixelAdFree,275,VN,2016-01-25
-com.humboldttechgroup.stoplight,PlayStoplight,276,VN,2016-01-25
+com.outlook.Formatrex,Forma-Trex,267,VN,2016-01-25
+com.alkamilsoftech.toyofdragon,TheToysofDragon,268,VN,2016-01-25
+com.axitama.duelsoccer.arekmalangvssurabaya,Duel:ArekMalangvsSurabaya,269,VN,2016-01-25
+alex.globalassault,GlobalResistance,270,VN,2016-01-25
+com.neo.codehunt,Metatron,271,VN,2016-01-25
+air.com.tutotoons.app.sweetlittledwarfs.full,SweetLittleDwarfsFULL,272,VN,2016-01-25
+com.BlazingDamon.TiltThePixelAdFree,TiltThePixelAdFree,273,VN,2016-01-25
+com.humboldttechgroup.stoplight,PlayStoplight,274,VN,2016-01-25
