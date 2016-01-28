@@ -1,8 +1,8 @@
 app_id,app_name,rank,country_code,date
 com.nexon.hit,HIT,1,KR,2016-01-28
 com.cjenm.ModooMarbleKakao,모두의마블forKakao,2,KR,2016-01-28
-com.cjenm.sknights,세븐나이츠forKakao,3,KR,2016-01-28
-com.webzen.muorigin.google,뮤오리진,4,KR,2016-01-28
+com.webzen.muorigin.google,뮤오리진,3,KR,2016-01-28
+com.cjenm.sknights,세븐나이츠forKakao,4,KR,2016-01-28
 com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),5,KR,2016-01-28
 com.netmarble.rav,레이븐withNAVER,6,KR,2016-01-28
 com.nhnpixelcube.friendspop,프렌즈팝forKakao,7,KR,2016-01-28
@@ -12,8 +12,8 @@ com.netmarble.wefire,백발백중forKakao,10,KR,2016-01-28
 com.netmarble.idea,이데아,11,KR,2016-01-28
 com.supercell.boombeach,ブーム・ビーチ(BoomBeach),12,KR,2016-01-28
 com.ea.game.fom.nexon_kr,FIFAONLINE3MbyEASPORTS™,13,KR,2016-01-28
-com.sundaytoz.mobile.anipang2.google.kakao.service,애니팡2forKakao,14,KR,2016-01-28
-com.netmarble.goldenagegb,ギルド・オブ・オナー,15,KR,2016-01-28
+com.netmarble.goldenagegb,ギルド・オブ・オナー,14,KR,2016-01-28
+com.sundaytoz.mobile.anipang2.google.kakao.service,애니팡2forKakao,15,KR,2016-01-28
 com.cjenm.monster,몬스터길들이기forKakao,16,KR,2016-01-28
 com.com2us.smon.normal.freefull.google.kr.android.common,サマナーズウォー:SkyArena,17,KR,2016-01-28
 com.hcg.cok.gp,クラッシュオブキングス-「城」を奪い返せ！,18,KR,2016-01-28
@@ -22,15 +22,15 @@ com.gamevil.psrforkakao,별이되어라!forKakao,20,KR,2016-01-28
 kr.co.feverstudio.apps.everytown,에브리타운forKakao,21,KR,2016-01-28
 com.snailgamekr.jiuyin_gp,구음진경,22,KR,2016-01-28
 com.sundaytoz.kakao.matgo.service,애니팡맞고forKakao,23,KR,2016-01-28
-com.korea4399.qjzs.google,크래셔:전투의신,24,KR,2016-01-28
-com.nexon.dominations.asia.g,ドミネーションズ-文明創造-(DomiNations),25,KR,2016-01-28
-com.blizzard.wtcg.hearthstone,Hearthstone:ハースストーン,26,KR,2016-01-28
-com.neowiz.games.poker,"피망포커:카지노로얄(7포커,로우바둑이,하이로우)",27,KR,2016-01-28
-com.joycity.god,ダイスの神,28,KR,2016-01-28
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,29,KR,2016-01-28
-com.ftt.hero_gl_4kakao,영웅forKakao,30,KR,2016-01-28
-com.ninemgames.tennis.nzin,슈퍼스타테니스forKakao,31,KR,2016-01-28
-com.netmarble.mherosgb,MARVELFutureFight,32,KR,2016-01-28
+com.netmarble.mherosgb,MARVELFutureFight,24,KR,2016-01-28
+com.korea4399.qjzs.google,크래셔:전투의신,25,KR,2016-01-28
+com.nexon.dominations.asia.g,ドミネーションズ-文明創造-(DomiNations),26,KR,2016-01-28
+com.blizzard.wtcg.hearthstone,Hearthstone:ハースストーン,27,KR,2016-01-28
+com.neowiz.games.poker,"피망포커:카지노로얄(7포커,로우바둑이,하이로우)",28,KR,2016-01-28
+com.joycity.god,ダイスの神,29,KR,2016-01-28
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,30,KR,2016-01-28
+com.ftt.hero_gl_4kakao,영웅forKakao,31,KR,2016-01-28
+com.ninemgames.tennis.nzin,슈퍼스타테니스forKakao,32,KR,2016-01-28
 com.longtech.lastwars.gp,LastEmpire-WarZ,33,KR,2016-01-28
 com.flmobile.drkakao.google,대륙forKakao,34,KR,2016-01-28
 com.sundaytoz.mobile.anisachun.google.service,애니팡사천성forKakao,35,KR,2016-01-28
@@ -46,20 +46,20 @@ com.machinezone.gow.kr,게임오브워(GameofWar),44,KR,2016-01-28
 com.nhnent.SKQUEST,クルセイダークエスト,45,KR,2016-01-28
 com.nexon.loh.korkakao,영웅의군단forKakao,46,KR,2016-01-28
 com.neowiz.games.newmatgo,피망뉴맞고:대한민국1등고스톱,47,KR,2016-01-28
-com.devsisters.CookieRunForKakao,쿠키런forKakao,48,KR,2016-01-28
-com.cjenm.chagu2014,차구차구forKakao,49,KR,2016-01-28
-com.entermate.arcanekakao_kr_gg,아케인forKakao,50,KR,2016-01-28
-com.nexon.loh.korgooglev1,영웅의군단,51,KR,2016-01-28
-com.ckk.tora,토라(TORA),52,KR,2016-01-28
+com.ckk.tora,토라(TORA),48,KR,2016-01-28
+com.devsisters.CookieRunForKakao,쿠키런forKakao,49,KR,2016-01-28
+com.cjenm.chagu2014,차구차구forKakao,50,KR,2016-01-28
+com.entermate.arcanekakao_kr_gg,아케인forKakao,51,KR,2016-01-28
+com.nexon.loh.korgooglev1,영웅의군단,52,KR,2016-01-28
 com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),53,KR,2016-01-28
 com.nexon.fwar,FantasyWarTactics,54,KR,2016-01-28
 com.gamepub.tk.g,일기토삼국지,55,KR,2016-01-28
 com.NextFloor.DragonFlightKakao,DragonFlightforKakao,56,KR,2016-01-28
 com.king.candycrushsaga,キャンディークラッシュ,57,KR,2016-01-28
 com.joymax.hr2,히어로스톤forKakao,58,KR,2016-01-28
-com.cjenm.dragu,드래곤가드SforKakao,59,KR,2016-01-28
-com.sundaytoz.mobile.aquastory.google.kakao.service,아쿠아스토리forKakao,60,KR,2016-01-28
-com.gamevilusa.mlbpi15.android.google.global.normal,MLBパーフェクトイニング15,61,KR,2016-01-28
+com.sundaytoz.mobile.aquastory.google.kakao.service,아쿠아스토리forKakao,59,KR,2016-01-28
+com.gamevilusa.mlbpi15.android.google.global.normal,MLBパーフェクトイニング15,60,KR,2016-01-28
+com.cjenm.dragu,드래곤가드SforKakao,61,KR,2016-01-28
 com.lezhin.comics,レジンコミックス-毎日無料でWebマンガを！,62,KR,2016-01-28
 com.sundaytoz.mobile.anipang.google.service,애니팡forKakao,63,KR,2016-01-28
 com.digitalsky.rotk.kr,삼국지Z,64,KR,2016-01-28
@@ -71,23 +71,23 @@ jp.naver.lineplay.android,LINEプレイ-アバターコミュニティ,69,KR,201
 com.netmaru.digisoul,디지몬소울체이서,70,KR,2016-01-28
 com.NoonDate,정오의데이트-소개팅은소개팅고수에게,71,KR,2016-01-28
 com.mechanist.watcherforkakao.google.kr,왓쳐forKakao,72,KR,2016-01-28
-com.gaeagame.kr.heroes100,100Heroes,73,KR,2016-01-28
-com.gaeagame.kr.dota.kakao,도탑전기forKakao,74,KR,2016-01-28
-com.tag.PDSg,팔라독&히어로즈,75,KR,2016-01-28
+com.gaeagame.kr.dota.kakao,도탑전기forKakao,73,KR,2016-01-28
+com.tag.PDSg,팔라독&히어로즈,74,KR,2016-01-28
+com.gaeagame.kr.heroes100,100Heroes,75,KR,2016-01-28
 com.ENP.myongjang.kr.googleplay,명장의조건,76,KR,2016-01-28
 com.NextFloor.ElBrisaKakao,엘브리사forKakao,77,KR,2016-01-28
 com.gameade.SGMS.kakao.google,삼국무신forKakao,78,KR,2016-01-28
-com.playrix.township,タウンシップ(Township),79,KR,2016-01-28
-com.nslm.hg.google,로라시아대륙전기,80,KR,2016-01-28
-com.ftt.eternalclash.gl.kr,이터널클래시,81,KR,2016-01-28
-com.foursgames.idlegame,용사는구직중,82,KR,2016-01-28
-net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,83,KR,2016-01-28
-com.maf.moneyhero,중년기사김봉식:천국의계단-새로운여정,84,KR,2016-01-28
-kr.neogames.realfarm.band,레알팜withBAND,85,KR,2016-01-28
-com.actoz.won,Wonder5Masters,86,KR,2016-01-28
-com.gamepub.ew.g,전함제국:강철의함대,87,KR,2016-01-28
-com.nexon.tlbbg,천룡팔부:진시황의부활,88,KR,2016-01-28
-com.scopely.headshot,ウォーキング・デッドサバイバルへの道,89,KR,2016-01-28
+com.scopely.headshot,ウォーキング・デッドサバイバルへの道,79,KR,2016-01-28
+com.playrix.township,タウンシップ(Township),80,KR,2016-01-28
+com.nslm.hg.google,로라시아대륙전기,81,KR,2016-01-28
+com.ftt.eternalclash.gl.kr,이터널클래시,82,KR,2016-01-28
+com.foursgames.idlegame,용사는구직중,83,KR,2016-01-28
+net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,84,KR,2016-01-28
+com.maf.moneyhero,중년기사김봉식:천국의계단-새로운여정,85,KR,2016-01-28
+kr.neogames.realfarm.band,레알팜withBAND,86,KR,2016-01-28
+com.actoz.won,Wonder5Masters,87,KR,2016-01-28
+com.gamepub.ew.g,전함제국:강철의함대,88,KR,2016-01-28
+com.nexon.tlbbg,천룡팔부,89,KR,2016-01-28
 com.nexon.mapleliven.gp,포켓메이플스토리forKakao,90,KR,2016-01-28
 com.dorsia.amanda,아만다:아무나만나지않는당신을위한소개팅,91,KR,2016-01-28
 kr.co.infinio.zultalks,"즐톡S-랜덤채팅,친구만들기",92,KR,2016-01-28
@@ -98,24 +98,24 @@ com.mojang.minecraftpe,マインクラフトMinecraft:PocketEd.,96,KR,2016-01-28
 com.zynga.empires2,エンパイアーズ＆アライズ「Empires&Allies」,97,KR,2016-01-28
 com.gamevil.kritikamobile.android.google.global.normal,クリティカ～天上の騎士団～,98,KR,2016-01-28
 com.asobimo.avabel_gp_b3,RPGアヴァベルオンライン,99,KR,2016-01-28
-com.netmarble.magu2,마구마구2forKakao,100,KR,2016-01-28
-com.com2us.acefishing.normal.freefull.google.global.android.common,釣りオン！,101,KR,2016-01-28
-com.com2us.soccerspirits.normal2.freefull.google.global.android.common,SoccerSpirits,102,KR,2016-01-28
-com.ngonsub.VikingIsland,바이킹아일랜드forKakao,103,KR,2016-01-28
-com.com2us.kbomanager.normal2.freefull.google.global.android.common,컴투스프로야구for매니저시즌3,104,KR,2016-01-28
-com.joycity.lastdragon,ヒーローサーガ,105,KR,2016-01-28
-com.flmobile.ostkakao.google,오스트크로니클forKakao,106,KR,2016-01-28
-com.lyxz.lykr.two,환세:선계대전(지존재패),107,KR,2016-01-28
+com.com2us.acefishing.normal.freefull.google.global.android.common,釣りオン！,100,KR,2016-01-28
+com.com2us.soccerspirits.normal2.freefull.google.global.android.common,SoccerSpirits,101,KR,2016-01-28
+com.ngonsub.VikingIsland,바이킹아일랜드forKakao,102,KR,2016-01-28
+com.com2us.kbomanager.normal2.freefull.google.global.android.common,컴투스프로야구for매니저시즌3,103,KR,2016-01-28
+com.joycity.lastdragon,ヒーローサーガ,104,KR,2016-01-28
+com.flmobile.ostkakao.google,오스트크로니클forKakao,105,KR,2016-01-28
+com.lyxz.lykr.two,환세:선계대전(지존재패),106,KR,2016-01-28
+com.ckk.llwka,탈forKakao,107,KR,2016-01-28
 com.koramgame.ggplay.ldxycbt,난투withNAVER,108,KR,2016-01-28
 com.lunosoft.disneyhiddencatch,디즈니틀린그림찾기시즌2forKakao,109,KR,2016-01-28
-com.ckk.llwka,탈forKakao,110,KR,2016-01-28
-com.stac.empire.main,AgeofWarringEmpire,111,KR,2016-01-28
-com.ea.game.simcitymobile_row,SimCityBuildIt,112,KR,2016-01-28
-com.ckk.heroes,삼국G카드,113,KR,2016-01-28
-com.linecorp.LGRGS,LINEレンジャー,114,KR,2016-01-28
-rocks.sggames.clashoftank.andoid.kr,클래시오브탱크(전차제국),115,KR,2016-01-28
-com.patigames.ilovepasta4kakao,아이러브파스타forKakao,116,KR,2016-01-28
-com.azarlive.android,Azar-ビデオチャット、友達検索,117,KR,2016-01-28
+com.stac.empire.main,AgeofWarringEmpire,110,KR,2016-01-28
+com.ea.game.simcitymobile_row,SimCityBuildIt,111,KR,2016-01-28
+com.ckk.heroes,삼국G카드,112,KR,2016-01-28
+com.linecorp.LGRGS,LINEレンジャー,113,KR,2016-01-28
+rocks.sggames.clashoftank.andoid.kr,클래시오브탱크(전차제국),114,KR,2016-01-28
+com.patigames.ilovepasta4kakao,아이러브파스타forKakao,115,KR,2016-01-28
+com.azarlive.android,Azar-ビデオチャット、友達検索,116,KR,2016-01-28
+com.netmarble.magu2,마구마구2forKakao,117,KR,2016-01-28
 com.king.paradisebay,パラダイス・ベイ,118,KR,2016-01-28
 com.gamedreamer.kr.dukr,댄스업!,119,KR,2016-01-28
 com.lx.restoria,두근두근레스토랑forKakao,120,KR,2016-01-28
@@ -182,112 +182,112 @@ com.nhnent.SKLOVELIVE,러브라이브!SchoolIdolfestival,180,KR,2016-01-28
 com.hw.and.zgjdkr1,주군을따르라,181,KR,2016-01-28
 com.gamevil.zenoniaonline.android.google.global.normal,ゼノニアS：時空の狭間,182,KR,2016-01-28
 newapp.picture.test,영톡채팅-랜덤채팅동네채팅친구만들기,183,KR,2016-01-28
-air.com.blueinter.google.kakao.kingsams,패왕삼국SforKakao,184,KR,2016-01-28
-com.rayark.pluto,Deemo,185,KR,2016-01-28
-com.endressdreamky.loveting,"너랑나랑-매일16명소개팅(소셜데이팅,애인찾기)",186,KR,2016-01-28
-com.perplelab.hod,ドラゴンシューター~進化するシューティングRPG！~,187,KR,2016-01-28
-com.cmgekorea.aotforkakao.google,에이지오브탱크forKakao,188,KR,2016-01-28
-com.netmarble.thflight,스텔라사가forKakao,189,KR,2016-01-28
-com.liveplay.liveclub,ライブクラブ（映像チャット、ランダムチャット、チャット）,190,KR,2016-01-28
-com.cmplay.tiles2,ピアノタイル2,191,KR,2016-01-28
-com.archbears.bs,블랙서바이벌,192,KR,2016-01-28
-com.ea.game.easportsufc_row,EASPORTS™UFC®,193,KR,2016-01-28
-com.koramgame.ggplay.wsjjkr,블라스트,194,KR,2016-01-28
-com.tag.jskakaog,[삼국지]나를따르라forKakao,195,KR,2016-01-28
-kr.co.appintalk.love,앙톡-채팅남친여친친구와랜덤채팅하자,196,KR,2016-01-28
-com.ea.games.simsfreeplay_row,TheSimsFreePlay,197,KR,2016-01-28
-com.everyapps.monsmons,몬스X몬스,198,KR,2016-01-28
-com.scs.android.chattalk,세이클럽무료채팅앱,199,KR,2016-01-28
-com.palmple.korproc.google,큐라레:마법도서관,200,KR,2016-01-28
-com.funplus.familyfarm,にじいろ牧場,201,KR,2016-01-28
-kr.daum_mobage.am_db.g13000131,판타지카(Fantasica),202,KR,2016-01-28
-net.kernys.aooni,좀비고등학교,203,KR,2016-01-28
-kr.mrjeonjw.app.a2048,2048도전,204,KR,2016-01-28
-com.dinocooler.android.fm3,タップ・キングダム,205,KR,2016-01-28
-com.com2us.imo.normal.freefull.google.global.android.common,アイモ:TheWorldofMagic,206,KR,2016-01-28
-com.gameloft.android.ANMP.GloftO2HM,オーダー&カオス2：リデンプション,207,KR,2016-01-28
-com.king.farmheroessaga,ファームヒーロー,208,KR,2016-01-28
-com.nhncorp.wooparoomountain,우파루마운틴forKakao,209,KR,2016-01-28
-com.nikeagames.OrpheusStory,오르페우스스토리,210,KR,2016-01-28
-com.gggg.ggggbigfisherman,대어부시대,211,KR,2016-01-28
-com.gameloft.android.ANMP.Gloft5DHM,DarkQuest5（ダーククエスト5）,212,KR,2016-01-28
-com.willsm.macaron,"마카롱-무료채팅,무료소개팅",213,KR,2016-01-28
-com.ckk.jajin,미검영웅전,214,KR,2016-01-28
-kr.co.angames.galaxyconflict.google.android,ASTRONEST-TheBeginning,215,KR,2016-01-28
-com.netmarble.mpoker,"넷마블포커-7포커,로우바둑이",216,KR,2016-01-28
-com.patigames.minimon,ミニモンマスターズ(MinimonMasters),217,KR,2016-01-28
-air.com.goodgamestudios.empirefourkingdoms,エンパイア・フォーキングダム(Empire),218,KR,2016-01-28
-com.netmarble.scsmobile,모두의쿠키:사천성이달라졌어요forKakao,219,KR,2016-01-28
-com.gamedreamer.kr.hjkr,해적:심해의무법자,220,KR,2016-01-28
-com.flmobile.dr.google,대륙:웰메이드MMORPG,221,KR,2016-01-28
-com.socialquantum.acitykakao,메가폴리스forKakao,222,KR,2016-01-28
-com.koramgame.ggplay.dhkr,다크헌터,223,KR,2016-01-28
-com.koramgame.ggplay.wxwzkr,바람을가르다,224,KR,2016-01-28
-com.linyworks.AtlanStory,아틀란스토리-시간의균열forKakao,225,KR,2016-01-28
-kr.skaksdmlthtlrwl.skaksdmlthtlrwl,나만의소식지,226,KR,2016-01-28
-com.nextmv.rain.googlekr,여우비,227,KR,2016-01-28
-net.couplemaker.meeting,Couplemaker(デートチャット出会い),228,KR,2016-01-28
-com.dreamplay.vanatorv2kakao.google,베나토르forKakao,229,KR,2016-01-28
+com.netmarble.scsmobile,모두의쿠키:사천성이달라졌어요forKakao,184,KR,2016-01-28
+com.netmarble.thflight,스텔라사가forKakao,185,KR,2016-01-28
+air.com.blueinter.google.kakao.kingsams,패왕삼국SforKakao,186,KR,2016-01-28
+com.rayark.pluto,Deemo,187,KR,2016-01-28
+com.endressdreamky.loveting,"너랑나랑-매일16명소개팅(소셜데이팅,애인찾기)",188,KR,2016-01-28
+com.perplelab.hod,ドラゴンシューター~進化するシューティングRPG！~,189,KR,2016-01-28
+com.cmgekorea.aotforkakao.google,에이지오브탱크forKakao,190,KR,2016-01-28
+com.liveplay.liveclub,ライブクラブ（映像チャット、ランダムチャット、チャット）,191,KR,2016-01-28
+com.cmplay.tiles2,ピアノタイル2,192,KR,2016-01-28
+com.archbears.bs,블랙서바이벌,193,KR,2016-01-28
+com.ea.game.easportsufc_row,EASPORTS™UFC®,194,KR,2016-01-28
+com.koramgame.ggplay.wsjjkr,블라스트,195,KR,2016-01-28
+com.tag.jskakaog,[삼국지]나를따르라forKakao,196,KR,2016-01-28
+kr.co.appintalk.love,앙톡-채팅남친여친친구와랜덤채팅하자,197,KR,2016-01-28
+com.ea.games.simsfreeplay_row,TheSimsFreePlay,198,KR,2016-01-28
+com.everyapps.monsmons,몬스X몬스,199,KR,2016-01-28
+com.scs.android.chattalk,세이클럽무료채팅앱,200,KR,2016-01-28
+com.palmple.korproc.google,큐라레:마법도서관,201,KR,2016-01-28
+com.funplus.familyfarm,にじいろ牧場,202,KR,2016-01-28
+com.netmarble.mpoker,"넷마블포커-7포커,로우바둑이",203,KR,2016-01-28
+kr.daum_mobage.am_db.g13000131,판타지카(Fantasica),204,KR,2016-01-28
+net.kernys.aooni,좀비고등학교,205,KR,2016-01-28
+kr.mrjeonjw.app.a2048,2048도전,206,KR,2016-01-28
+com.dinocooler.android.fm3,タップ・キングダム,207,KR,2016-01-28
+com.com2us.imo.normal.freefull.google.global.android.common,アイモ:TheWorldofMagic,208,KR,2016-01-28
+com.gameloft.android.ANMP.GloftO2HM,オーダー&カオス2：リデンプション,209,KR,2016-01-28
+com.king.farmheroessaga,ファームヒーロー,210,KR,2016-01-28
+com.nhncorp.wooparoomountain,우파루마운틴forKakao,211,KR,2016-01-28
+com.nikeagames.OrpheusStory,오르페우스스토리,212,KR,2016-01-28
+com.gggg.ggggbigfisherman,대어부시대,213,KR,2016-01-28
+com.gameloft.android.ANMP.Gloft5DHM,DarkQuest5（ダーククエスト5）,214,KR,2016-01-28
+com.willsm.macaron,"마카롱-무료채팅,무료소개팅",215,KR,2016-01-28
+com.dreamplay.vanatorv2kakao.google,베나토르forKakao,216,KR,2016-01-28
+com.ckk.jajin,미검영웅전,217,KR,2016-01-28
+kr.co.angames.galaxyconflict.google.android,ASTRONEST-TheBeginning,218,KR,2016-01-28
+com.patigames.minimon,ミニモンマスターズ(MinimonMasters),219,KR,2016-01-28
+air.com.goodgamestudios.empirefourkingdoms,エンパイア・フォーキングダム(Empire),220,KR,2016-01-28
+com.gamedreamer.kr.hjkr,해적:심해의무법자,221,KR,2016-01-28
+com.flmobile.dr.google,대륙:웰메이드MMORPG,222,KR,2016-01-28
+com.socialquantum.acitykakao,메가폴리스forKakao,223,KR,2016-01-28
+com.koramgame.ggplay.dhkr,다크헌터,224,KR,2016-01-28
+com.koramgame.ggplay.wxwzkr,바람을가르다,225,KR,2016-01-28
+com.linyworks.AtlanStory,아틀란스토리-시간의균열forKakao,226,KR,2016-01-28
+kr.skaksdmlthtlrwl.skaksdmlthtlrwl,나만의소식지,227,KR,2016-01-28
+com.nextmv.rain.googlekr,여우비,228,KR,2016-01-28
+net.couplemaker.meeting,Couplemaker(デートチャット出会い),229,KR,2016-01-28
 com.pixonic.wwr,WalkingWarRobots,230,KR,2016-01-28
 com.kixeye.vegaconflict,VEGAConflict,231,KR,2016-01-28
 com.appstard.loveletter,러브레터-무료소개팅어플(채팅만남미팅앱),232,KR,2016-01-28
 com.nhn.android.band,BAND,233,KR,2016-01-28
-com.estgames.mm.sng.tuna,고양이다방-시즌2,234,KR,2016-01-28
-com.nhncorp.SKPOCO,포코팡forKakao,235,KR,2016-01-28
-com.nzincorp.mg,프렌즈맞고forKakao,236,KR,2016-01-28
-com.nfl.game.kr.copG,위대한항해,237,KR,2016-01-28
+com.nhncorp.SKPOCO,포코팡forKakao,234,KR,2016-01-28
+com.nzincorp.mg,프렌즈맞고forKakao,235,KR,2016-01-28
+com.nfl.game.kr.copG,위대한항해,236,KR,2016-01-28
+com.estgames.mm.sng.tuna,고양이다방시즌2-냥덕필수고양이키우기게임,237,KR,2016-01-28
 com.nubee.valkyriecrusade,神界のヴァルキリー-美少女育成RPG,238,KR,2016-01-28
-com.netmarble.wahu,와호장룡,239,KR,2016-01-28
-jp.co.ponos.battlecatskr,냥코대전쟁,240,KR,2016-01-28
-com.efun.kr.krdfh.google,모두의경영,241,KR,2016-01-28
-com.neowiz.games.newmatgoB,피망뉴맞고withBAND:대한민국1등고스톱,242,KR,2016-01-28
-com.uqsoft.skG,삼국부심,243,KR,2016-01-28
-com.tap4fun.reignofwar,インベーション,244,KR,2016-01-28
-com.perplelab.sampl4kakao,무한돌파삼국지forKakao,245,KR,2016-01-28
-com.ea.game.simpsons4_row,TheSimpsons™:TappedOut,246,KR,2016-01-28
-kr.co.lottorich.SLandroid,"로또리치-로또번호,로또당첨,로또당첨번호,로또복권,복권",247,KR,2016-01-28
-com.sopt.mafia42.client,마피아42,248,KR,2016-01-28
-com.eglsgame.dskrgame.google,격투마스터,249,KR,2016-01-28
-com.longtukorea.skjkakao,일이삼국지forKakao,250,KR,2016-01-28
-jp.pokemon.poketoru,ポケとるスマホ版,251,KR,2016-01-28
-org.HanpanGo,한판맞고(무료고스톱게임),252,KR,2016-01-28
-com.smule.singandroid,Sing!カラオケbySmule,253,KR,2016-01-28
-kr.co.psynet,ライブスコア-LIVEScore,254,KR,2016-01-28
-com.mhj2.union.korea.google,검과바람의노래forKakao,255,KR,2016-01-28
-com.locojoyint.game.kr.ht,히어로즈앤타이탄즈,256,KR,2016-01-28
-com.gamblic.game.family.kakao,히어로즈오브클랜forKakao,257,KR,2016-01-28
-com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,258,KR,2016-01-28
-kr.co.smartstudy.pinkfongtv.ko_android_googlemarket,핑크퐁TV:인기동요동화포털,259,KR,2016-01-28
-jp.naver.line.android,LINE（ライン）-無料通話・メールアプリ,260,KR,2016-01-28
-com.nhnent.driftgirls.NE,DriftGirlsドリフトガールズ,261,KR,2016-01-28
-air.com.sgn.bookoflife.gp,シュガースマッシュ:ブック・オブ・ライフ,262,KR,2016-01-28
-com.ea.gp.fifaworld,FIFA16,263,KR,2016-01-28
-air.cn.kx.ytkk.efun.google,삼국지PKforKakao,264,KR,2016-01-28
-com.owlogue.mandrakeboys.kor,재배소년,265,KR,2016-01-28
-com.nhncorp.SKLOWKAKAO,우파루사가forKakao,266,KR,2016-01-28
-com.avocado.superchefkakao,모두의레시피forKakao,267,KR,2016-01-28
-com.ftt.suhoji_gl_4kakao,수호지forKakao,268,KR,2016-01-28
-com.nordcurrent.canteenhd,クッキングフィーバー,269,KR,2016-01-28
-com.netmarble.chachacha2g,다함께차차차2,270,KR,2016-01-28
-com.gggg.ggggmine,보석캐기,271,KR,2016-01-28
-com.wowsoft.heavenG,천상천하,272,KR,2016-01-28
-com.videotel.camtalkalpha,캠톡알파-영상채팅채팅여친남친랜덤채팅,273,KR,2016-01-28
-com.ftt.hwal_kakao,활forKakao,274,KR,2016-01-28
-com.wanmei.bbzs,불패전신,275,KR,2016-01-28
-com.madfingergames.deadtrigger2,DEADTRIGGER2,276,KR,2016-01-28
-com.koramgame.ggplaykakao.tjxmkr,태극팬더forKakao,277,KR,2016-01-28
-com.smartbrz.littlesam.googleplay,삼국지:미니군단,278,KR,2016-01-28
-com.game2.atgm2games,온라인섯다드래곤,279,KR,2016-01-28
-kr.wwsoft.ftkingdom,"임덕영의점술왕국(2016신년운세,토정비결,오늘의운세)",280,KR,2016-01-28
-lifeisbetteron.com,Libon-Internationalcalls,281,KR,2016-01-28
-com.wkdgmd.roqkf,장흥개발컨설팅,282,KR,2016-01-28
-com.ziopops.ddungkakao,패션왕뚱forKakao,283,KR,2016-01-28
-com.tlsent.gosu,나는고수다,284,KR,2016-01-28
-com.gumikorea.games.puzzlebubbleforkakao,퍼즐버블forKakao,285,KR,2016-01-28
-com.koramgame.play.tjxmkr,태극팬더:액션신세계,286,KR,2016-01-28
-com.highbrow.games.dragonvillage,DragonVillage2,287,KR,2016-01-28
-com.gamevil.darknessreborn2.android.google.global.normal,ダークアベンジャー2,288,KR,2016-01-28
-com.playcorp.sqapp,"세이큐피드-채팅,대화,친구찾기",289,KR,2016-01-28
+jp.co.ponos.battlecatskr,냥코대전쟁,239,KR,2016-01-28
+com.efun.kr.krdfh.google,모두의경영,240,KR,2016-01-28
+com.neowiz.games.newmatgoB,피망뉴맞고withBAND:대한민국1등고스톱,241,KR,2016-01-28
+com.uqsoft.skG,삼국부심,242,KR,2016-01-28
+com.tap4fun.reignofwar,インベーション,243,KR,2016-01-28
+com.perplelab.sampl4kakao,무한돌파삼국지forKakao,244,KR,2016-01-28
+com.ea.game.simpsons4_row,TheSimpsons™:TappedOut,245,KR,2016-01-28
+kr.co.lottorich.SLandroid,"로또리치-로또번호,로또당첨,로또당첨번호,로또복권,복권",246,KR,2016-01-28
+com.sopt.mafia42.client,마피아42,247,KR,2016-01-28
+com.eglsgame.dskrgame.google,격투마스터,248,KR,2016-01-28
+com.longtukorea.skjkakao,일이삼국지forKakao,249,KR,2016-01-28
+jp.pokemon.poketoru,ポケとるスマホ版,250,KR,2016-01-28
+org.HanpanGo,한판맞고(무료고스톱게임),251,KR,2016-01-28
+com.smule.singandroid,Sing!カラオケbySmule,252,KR,2016-01-28
+kr.co.psynet,ライブスコア-LIVEScore,253,KR,2016-01-28
+com.mhj2.union.korea.google,검과바람의노래forKakao,254,KR,2016-01-28
+com.locojoyint.game.kr.ht,히어로즈앤타이탄즈,255,KR,2016-01-28
+com.gamblic.game.family.kakao,히어로즈오브클랜forKakao,256,KR,2016-01-28
+com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,257,KR,2016-01-28
+kr.co.smartstudy.pinkfongtv.ko_android_googlemarket,핑크퐁TV:인기동요동화포털,258,KR,2016-01-28
+jp.naver.line.android,LINE（ライン）-無料通話・メールアプリ,259,KR,2016-01-28
+com.nhnent.driftgirls.NE,DriftGirlsドリフトガールズ,260,KR,2016-01-28
+air.com.sgn.bookoflife.gp,シュガースマッシュ:ブック・オブ・ライフ,261,KR,2016-01-28
+com.ea.gp.fifaworld,FIFA16,262,KR,2016-01-28
+air.cn.kx.ytkk.efun.google,삼국지PKforKakao,263,KR,2016-01-28
+com.owlogue.mandrakeboys.kor,재배소년,264,KR,2016-01-28
+com.nhncorp.SKLOWKAKAO,우파루사가forKakao,265,KR,2016-01-28
+com.avocado.superchefkakao,모두의레시피forKakao,266,KR,2016-01-28
+com.ftt.suhoji_gl_4kakao,수호지forKakao,267,KR,2016-01-28
+com.nordcurrent.canteenhd,クッキングフィーバー,268,KR,2016-01-28
+com.gggg.ggggmine,보석캐기,269,KR,2016-01-28
+com.wowsoft.heavenG,천상천하,270,KR,2016-01-28
+com.videotel.camtalkalpha,캠톡알파-영상채팅채팅여친남친랜덤채팅,271,KR,2016-01-28
+com.netmarble.chachacha2g,다함께차차차2,272,KR,2016-01-28
+com.ftt.hwal_kakao,활forKakao,273,KR,2016-01-28
+com.wanmei.bbzs,불패전신,274,KR,2016-01-28
+com.madfingergames.deadtrigger2,DEADTRIGGER2,275,KR,2016-01-28
+com.koramgame.ggplaykakao.tjxmkr,태극팬더forKakao,276,KR,2016-01-28
+com.smartbrz.littlesam.googleplay,삼국지:미니군단,277,KR,2016-01-28
+com.game2.atgm2games,온라인섯다드래곤,278,KR,2016-01-28
+kr.wwsoft.ftkingdom,"임덕영의점술왕국(2016신년운세,토정비결,오늘의운세)",279,KR,2016-01-28
+lifeisbetteron.com,Libon-Internationalcalls,280,KR,2016-01-28
+com.wkdgmd.roqkf,장흥개발컨설팅,281,KR,2016-01-28
+com.ziopops.ddungkakao,패션왕뚱forKakao,282,KR,2016-01-28
+com.tlsent.gosu,나는고수다,283,KR,2016-01-28
+com.gumikorea.games.puzzlebubbleforkakao,퍼즐버블forKakao,284,KR,2016-01-28
+com.koramgame.play.tjxmkr,태극팬더:액션신세계,285,KR,2016-01-28
+com.highbrow.games.dragonvillage,DragonVillage2,286,KR,2016-01-28
+com.gamevil.darknessreborn2.android.google.global.normal,ダークアベンジャー2,287,KR,2016-01-28
+com.playcorp.sqapp,"세이큐피드-채팅,대화,친구찾기",288,KR,2016-01-28
+com.netmarble.wahu,와호장룡,289,KR,2016-01-28
 co.singta.ss,시드이야기,290,KR,2016-01-28
 com.dkgame.war.google,에이지오브탱크,291,KR,2016-01-28
 com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,292,KR,2016-01-28
@@ -304,17 +304,17 @@ kr.cocone.minime,포켓미니-생활의활력을더해줄감성힐링SNG앱,302,
 com.joycity.RuleTheSky,룰더스카이(RuletheSky),303,KR,2016-01-28
 com.mf.dandehg.gp,드래곤앤스피릿,304,KR,2016-01-28
 com.fgol.HungrySharkEvolutionkorea,헝그리샤크에볼루션,305,KR,2016-01-28
-com.ucool.herohd,ヒーローズチャージ(ヒロチャ)HD,306,KR,2016-01-28
-com.nexon.mt2g,Topoftanker,307,KR,2016-01-28
-com.FireproofStudios.TheRoom3,TheRoomThree,308,KR,2016-01-28
-kr.co.dalcomsoft.superstar.a,SuperStarSMTOWN,309,KR,2016-01-28
-com.netmarble.wewar,리벤져스forkakao,310,KR,2016-01-28
+com.netmarble.wewar,리벤져스forkakao,306,KR,2016-01-28
+com.ucool.herohd,ヒーローズチャージ(ヒロチャ)HD,307,KR,2016-01-28
+com.nexon.mt2g,Topoftanker,308,KR,2016-01-28
+com.FireproofStudios.TheRoom3,TheRoomThree,309,KR,2016-01-28
+kr.co.dalcomsoft.superstar.a,SuperStarSMTOWN,310,KR,2016-01-28
 com.rhkdwn.tmxmfptm,광주스트레스해소,311,KR,2016-01-28
 com.korea4399.aura.kakao,AURALegend(아우라레전드)forKakao,312,KR,2016-01-28
 com.entermate.arcane_kr_gg,아케인,313,KR,2016-01-28
-com.cjenm.ma92013.google,마구마구2015forKakao,314,KR,2016-01-28
-com.wisetoto,スコアセンターLIVE,315,KR,2016-01-28
-com.com2us.soulcollector.normal.freefull.google.global.android.common,ソウルシーカー,316,KR,2016-01-28
+com.wisetoto,スコアセンターLIVE,314,KR,2016-01-28
+com.com2us.soulcollector.normal.freefull.google.global.android.common,ソウルシーカー,315,KR,2016-01-28
+com.cjenm.ma92013.google,마구마구2015forKakao,316,KR,2016-01-28
 net.peakgames.amy,ToyBlast,317,KR,2016-01-28
 com.king.petrescuesaga,ペットレスキュー,318,KR,2016-01-28
 kr.co.quicket,번개장터-모바일1등중고마켓앱,319,KR,2016-01-28
@@ -400,10 +400,10 @@ com.toptooncomics.topviewer.google,탑툰-웹툰/만화를매일매일무료,398
 ndoors.google.sampoom_google_wifi_ver2,삼국지를품다:오호대장군Wi-Fi,399,KR,2016-01-28
 com.uq.wonderheroG,원더히어로,400,KR,2016-01-28
 com.ckk.shenmo,천투온라인,401,KR,2016-01-28
-jp.pxv.android,pixiv,402,KR,2016-01-28
-com.lk.yxzj.krkakao.gp,히어로즈소드forKakao,403,KR,2016-01-28
-com.igg.castleclash_kr,CastleClash:전설의시대,404,KR,2016-01-28
-com.ckk.actkakao,액션강호forKakao,405,KR,2016-01-28
+com.ckk.actkakao,액션강호forKakao,402,KR,2016-01-28
+jp.pxv.android,pixiv,403,KR,2016-01-28
+com.lk.yxzj.krkakao.gp,히어로즈소드forKakao,404,KR,2016-01-28
+com.igg.castleclash_kr,CastleClash:전설의시대,405,KR,2016-01-28
 com.com2us.projecteast.normal2.freefull.google.global.android.common,イーストレジェンド,406,KR,2016-01-28
 com.vng.g6.a.zombie,DEADTARGET:Zombie,407,KR,2016-01-28
 com.neocyon.googleship,배틀쉽,408,KR,2016-01-28
@@ -419,118 +419,118 @@ com.happyelements.happyfishml,ハッピーフィッシュ：ドリームアク�
 com.purplekiwii.mbkakao,몬스터버스터즈forKakao,418,KR,2016-01-28
 com.q7t.i5t,Speed1to50,419,KR,2016-01-28
 kr.co.tk.game.poker.google,"클럽포커온라인-바둑이,7포커,하이로우",420,KR,2016-01-28
-hotspotshield.android.vpn,HotspotShieldVPNWiFiセキュリティ,421,KR,2016-01-28
-com.ckk.beautykakao,미검forKakao,422,KR,2016-01-28
-com.qdazzle.shushan.kkgoogle,검의기억forKakao,423,KR,2016-01-28
-com.koramgame.ggplay.ppsgkr,진삼국대전,424,KR,2016-01-28
-com.actoz.exos,エクソスサガ,425,KR,2016-01-28
-com.lovelatte.lovelatte,모두의소개팅-소개팅에서연애까지,426,KR,2016-01-28
-com.gamevilusa.dungeonlink.android.google.global.normal,パズルRPGジャマモン,427,KR,2016-01-28
-com.cjenm.boong,다함께붕붕붕2forKakao,428,KR,2016-01-28
-com.elife.godunse,"운명보고서-2016운세,사주,궁합,토정비결,타로,신년",429,KR,2016-01-28
-handasoft.dangeori.mobile,단거리연애-채팅소개팅랜덤채팅만남미팅채팅어플,430,KR,2016-01-28
-com.KKStudio.KSJ,중2용사김수진,431,KR,2016-01-28
-com.Memorizestriangle31.Main,세모네모기억하자,432,KR,2016-01-28
-com.netmarble.chrono,크로노블레이드withNAVER,433,KR,2016-01-28
-com.flaregames.rrtournament,RoyalRevolt2,434,KR,2016-01-28
-com.koramgame.ggplay.jw2kr,레전드오브킹,435,KR,2016-01-28
-com.acrodea.elevenheroes,일레븐히어로즈,436,KR,2016-01-28
-com.com2us.tinypang.kakao.freefull2.google.global.android.common,타이니팡2forKakao,437,KR,2016-01-28
-com.linktomorrow.windsoul,윈드소울forKakao,438,KR,2016-01-28
+com.ckk.beautykakao,미검forKakao,421,KR,2016-01-28
+com.qdazzle.shushan.kkgoogle,검의기억forKakao,422,KR,2016-01-28
+com.koramgame.ggplay.ppsgkr,진삼국대전,423,KR,2016-01-28
+com.actoz.exos,エクソスサガ,424,KR,2016-01-28
+com.lovelatte.lovelatte,모두의소개팅-소개팅에서연애까지,425,KR,2016-01-28
+com.gamevilusa.dungeonlink.android.google.global.normal,パズルRPGジャマモン,426,KR,2016-01-28
+com.elife.godunse,"운명보고서-2016운세,사주,궁합,토정비결,타로,신년",427,KR,2016-01-28
+handasoft.dangeori.mobile,단거리연애-채팅소개팅랜덤채팅만남미팅채팅어플,428,KR,2016-01-28
+com.KKStudio.KSJ,중2용사김수진,429,KR,2016-01-28
+com.cjenm.boong,다함께붕붕붕2forKakao,430,KR,2016-01-28
+com.Memorizestriangle31.Main,세모네모기억하자,431,KR,2016-01-28
+com.netmarble.chrono,크로노블레이드withNAVER,432,KR,2016-01-28
+com.flaregames.rrtournament,RoyalRevolt2,433,KR,2016-01-28
+com.koramgame.ggplay.jw2kr,레전드오브킹,434,KR,2016-01-28
+com.acrodea.elevenheroes,일레븐히어로즈,435,KR,2016-01-28
+com.com2us.tinypang.kakao.freefull2.google.global.android.common,타이니팡2forKakao,436,KR,2016-01-28
+com.linktomorrow.windsoul,윈드소울forKakao,437,KR,2016-01-28
+hotspotshield.android.vpn,HotspotShieldVPNWiFiセキュリティ,438,KR,2016-01-28
 com.ea.games.r3_row,RealRacing3,439,KR,2016-01-28
 com.kabam.newcnhoc,ヒーロー・オブ・キャメロットアーサー王の騎士たち,440,KR,2016-01-28
 com.pubgame.krmfl,신의한수,441,KR,2016-01-28
 m4u.mobile.user,"미팅포유-채팅,랜덤채팅,소개팅",442,KR,2016-01-28
-com.netmarble.worldhd,하늘아래영웅,443,KR,2016-01-28
-com.uqee.lying.maingameHanguo,아이러브삼국지forKakao,444,KR,2016-01-28
-com.lk.wjjz.korea,던전앤소드forKakao,445,KR,2016-01-28
-jp.co.cybird.appli.android.oqs.kr,한밤중의신데렐라(이케맨왕궁),446,KR,2016-01-28
-com.naming.usooprj2_4,작명어플넴유베:이름짓기이름풀이개명,447,KR,2016-01-28
-com.monomob.jangki2,장기2.0forKakao,448,KR,2016-01-28
-com.sigames.fmh2016,FootballManagerMobile2016,449,KR,2016-01-28
+com.uqee.lying.maingameHanguo,아이러브삼국지forKakao,443,KR,2016-01-28
+com.lk.wjjz.korea,던전앤소드forKakao,444,KR,2016-01-28
+jp.co.cybird.appli.android.oqs.kr,한밤중의신데렐라(이케맨왕궁),445,KR,2016-01-28
+com.naming.usooprj2_4,작명어플넴유베:이름짓기이름풀이개명,446,KR,2016-01-28
+com.monomob.jangki2,장기2.0forKakao,447,KR,2016-01-28
+com.sigames.fmh2016,FootballManagerMobile2016,448,KR,2016-01-28
+com.cjenm.ma9m_google,마구매니저[No.1야구게임],449,KR,2016-01-28
 com.gamehivecorp.taptitans,TapTitans（世界中1300万人突破のタップRPG）,450,KR,2016-01-28
 kr.co.smartstudy.bodlebookiapstory_kr_android_googlemarket,핑크퐁!인기동화,451,KR,2016-01-28
-com.netmarble.nemous,PuzzlePetParty,452,KR,2016-01-28
-com.smule.magicpiano,MagicPiano(マジックピアノ)bySmule,453,KR,2016-01-28
-com.longtukorea.slg,스타레전드,454,KR,2016-01-28
-air.com.snapthinking.SamWMobile,삼국지WforCAPOGAMES,455,KR,2016-01-28
-com.koramgame.ggplaykakao.wxqzkr,문파문파forKakao,456,KR,2016-01-28
-com.firsttouchgames.story,Score!Hero,457,KR,2016-01-28
-com.app.bigta,"빅터-빅데이터분석주가흐름예측,주식투자필수앱.",458,KR,2016-01-28
-kr.co.april7.eundabang,은하수다방소개팅-돌싱싱글모두를위한어플,459,KR,2016-01-28
-com.dryadgames.villainsgg,요!빌런Yo!Villains,460,KR,2016-01-28
-com.rockstargames.gtasa,グランド・セフト・オート・サンアンドレアス,461,KR,2016-01-28
-com.igg.android.deckheroeskr,덱히어로즈:DeckHeroes,462,KR,2016-01-28
-com.stac.row.kr,에이지오브워링엠파이어2,463,KR,2016-01-28
-com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス,464,KR,2016-01-28
-com.noknok.HHBREAD,해피해피브레드forKakao,465,KR,2016-01-28
-com.andromedagames.newhanpanpoker,한판포커(무료카지노:국가대표),466,KR,2016-01-28
-com.perplelab.hod4kakao,드래곤히어로즈forKakao,467,KR,2016-01-28
-com.wemade.TouchFighter,터치파이터forKakao,468,KR,2016-01-28
-com.ipapas.unselite,2016년토정비결(운세궁합사주오늘의운세),469,KR,2016-01-28
-com.kiwiwalks.witchspring,마녀의샘,470,KR,2016-01-28
-net.wiseful.lbl2,"미국TV로배우는영어회화,미티영무료영어앱",471,KR,2016-01-28
-com.uni.mrmrs,미스터앤미세스-시크릿채팅소개팅랜덤채팅,472,KR,2016-01-28
-com.avocado.jellymaniakakao,젤리매니아forKakao,473,KR,2016-01-28
-com.spaceapegames.rivalkingdoms,ライバル・キングダム−混乱の時代−,474,KR,2016-01-28
-com.nsplay.cbkr.android,영웅어디가（시즌2）,475,KR,2016-01-28
-com.gsn.android.tripeaks,SolitaireTriPeaks,476,KR,2016-01-28
-com.n3game.sd.google.kakao,신디펜스forkakao,477,KR,2016-01-28
-kr.co.cocoabook.ver1,"코코-무료소개팅,채팅,사랑,만남,데이트",478,KR,2016-01-28
-com.magmon.PlatformDefenseF,プラットフォームディフェンス,479,KR,2016-01-28
-com.origingames.guillotine,길로틴,480,KR,2016-01-28
-com.plusmx.q2s.kr,100일간의프린세스,481,KR,2016-01-28
-com.bms.romanceg,로맨스소설Club,482,KR,2016-01-28
-talk.saek.cppa.app,"색톡-미팅,채팅,만남어플,채팅어플,조건만남,친구만들기",483,KR,2016-01-28
-com.camchat.camting,캠팅-영상채팅소개팅여친남친,484,KR,2016-01-28
-com.hbo.fcmm,FC매니저모바일-축구게임,485,KR,2016-01-28
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),486,KR,2016-01-28
-com.newday.littlecannedboy,통조림소년,487,KR,2016-01-28
-com.d3p.mpq,マーベル・パズルクエスト,488,KR,2016-01-28
-com.g5e.hiddencity.android,HiddenCity:MysteryofShadows,489,KR,2016-01-28
-com.applepie4.mylittlepet,HelloPet,490,KR,2016-01-28
-com.ghostgames.SGMS.google,삼국무신,491,KR,2016-01-28
-com.qikuai.idqkr2,레전드오브삼국(적벽대전),492,KR,2016-01-28
-com.sega.kingdomconquestii,KingdomConquestII,493,KR,2016-01-28
-com.BbulleGames.BbulleWarClicker,뿔레전쟁클리커,494,KR,2016-01-28
-com.highbrow.games.SamTactics,삼국지책략전,495,KR,2016-01-28
-com.AIGames.DSFM,DreamSquad-FootballManager,496,KR,2016-01-28
-com.korea4399.gdjl.google,더킹(TheKing):고결한기사도,497,KR,2016-01-28
-kr.dostmvhcmthtlrwl.dostmvhcmthtlrwl,앤스포츠소식지,498,KR,2016-01-28
-com.koreahnc.mysem2,쎔|SEM|-영화미드로스마트한영어공부,499,KR,2016-01-28
-com.doyeon.FpsDefence,총쏘는게임forKakao,500,KR,2016-01-28
-com.wsl.noom,ダイエットならNoomコーチ：食事や体重管理、万歩計連携,501,KR,2016-01-28
-com.com2us.actionpuzzletown.normal.freefull.google.global.android.common,ドタバタパズル街,502,KR,2016-01-28
-com.sm.rookies,SMROOKIESENTERTAINMENT,503,KR,2016-01-28
-com.bandai.sdgundam,SD건담배틀스테이션,504,KR,2016-01-28
-com.uangel.ppoyo.pororoPhone,뽀로로전화★무료통화프로모션중,505,KR,2016-01-28
-com.affinity.historia.android.google.global.normal,ギリシャ神話の神々を操る戦略的陣形バトルゲーム:ヒストリカ,506,KR,2016-01-28
-com.bs.byungstera,리그오브병스터forAfreecaTV,507,KR,2016-01-28
-com.nekki.shadowfight,シャドウファイト2,508,KR,2016-01-28
-com.walrus.tycoons,타이쿤스퀘어:아이러브도넛,509,KR,2016-01-28
-kr.christiandate.app,"크리스천데이트-기독교청년들을위한소개팅,미팅",510,KR,2016-01-28
-com.intivsoft.android.elhaz,엘하즈,511,KR,2016-01-28
-oryugen.poker.google,"로얄넷포커-온라인포커,7포커,하이로우,바둑이",512,KR,2016-01-28
-net.iustice.leviathan_payment,언리쉬드구글결제,513,KR,2016-01-28
-com.wjsoft.booqtarot,"타로,무료점,궁합,연애점,애정운,운세,펫,타로카드,사주",514,KR,2016-01-28
-kr.co.vcnc.android.couple,カップル専用アプリBetween,515,KR,2016-01-28
-air.novelengine.fortune,포춘하모니,516,KR,2016-01-28
-net.daum.game.android.c11,신데렐라일레븐,517,KR,2016-01-28
-com.incrediblestudio.bakeryhouse_gpg,농장을부탁해,518,KR,2016-01-28
-com.inapp.best2_fortune_01,힐링신년운세,519,KR,2016-01-28
-com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,520,KR,2016-01-28
-com.rose.gym,제이에스짐,521,KR,2016-01-28
-com.gameloft.android.ANMP.GloftMMHM,オーダー＆カオスオンライン,522,KR,2016-01-28
-com.linktown.demonghunter2,DemongHunter2,523,KR,2016-01-28
-com.sangsangdigital.farmgg,짜요목장이야기forKakao,524,KR,2016-01-28
-com.mgameday.DoorsandRoomsforkakao,방탈출forKakao,525,KR,2016-01-28
-com.skeinglobe.dungeoncrush.forkakao,던전크러쉬forKakao,526,KR,2016-01-28
-jp.co.cybird.appli.android.rjs.kr,로미오와비밀의줄리엣(이케맨야곡),527,KR,2016-01-28
-com.naturalmotion.csrracing,CSRRacing,528,KR,2016-01-28
-com.npluto.hancue,큐업forKakao,529,KR,2016-01-28
-com.gameloft.android.ANMP.GloftGOHM,ゴッド・オブ・ローマ,530,KR,2016-01-28
-com.appstree.helloseafood2,HelloSeafood2,531,KR,2016-01-28
-com.netmarble.golfg,NiceShotGolf,532,KR,2016-01-28
+com.netmarble.worldhd,하늘아래영웅,452,KR,2016-01-28
+com.netmarble.nemous,PuzzlePetParty,453,KR,2016-01-28
+com.smule.magicpiano,MagicPiano(マジックピアノ)bySmule,454,KR,2016-01-28
+com.longtukorea.slg,스타레전드,455,KR,2016-01-28
+air.com.snapthinking.SamWMobile,삼국지WforCAPOGAMES,456,KR,2016-01-28
+com.koramgame.ggplaykakao.wxqzkr,문파문파forKakao,457,KR,2016-01-28
+com.firsttouchgames.story,Score!Hero,458,KR,2016-01-28
+com.app.bigta,"빅터-빅데이터분석주가흐름예측,주식투자필수앱.",459,KR,2016-01-28
+kr.co.april7.eundabang,은하수다방소개팅-돌싱싱글모두를위한어플,460,KR,2016-01-28
+com.dryadgames.villainsgg,요!빌런Yo!Villains,461,KR,2016-01-28
+com.rockstargames.gtasa,グランド・セフト・オート・サンアンドレアス,462,KR,2016-01-28
+com.igg.android.deckheroeskr,덱히어로즈:DeckHeroes,463,KR,2016-01-28
+com.stac.row.kr,에이지오브워링엠파이어2,464,KR,2016-01-28
+com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス,465,KR,2016-01-28
+com.noknok.HHBREAD,해피해피브레드forKakao,466,KR,2016-01-28
+com.andromedagames.newhanpanpoker,한판포커(무료카지노:국가대표),467,KR,2016-01-28
+com.perplelab.hod4kakao,드래곤히어로즈forKakao,468,KR,2016-01-28
+com.wemade.TouchFighter,터치파이터forKakao,469,KR,2016-01-28
+com.ipapas.unselite,2016년토정비결(운세궁합사주오늘의운세),470,KR,2016-01-28
+com.kiwiwalks.witchspring,마녀의샘,471,KR,2016-01-28
+net.wiseful.lbl2,"미국TV로배우는영어회화,미티영무료영어앱",472,KR,2016-01-28
+com.uni.mrmrs,미스터앤미세스-시크릿채팅소개팅랜덤채팅,473,KR,2016-01-28
+com.avocado.jellymaniakakao,젤리매니아forKakao,474,KR,2016-01-28
+com.spaceapegames.rivalkingdoms,ライバル・キングダム−混乱の時代−,475,KR,2016-01-28
+com.nsplay.cbkr.android,영웅어디가（시즌2）,476,KR,2016-01-28
+com.gsn.android.tripeaks,SolitaireTriPeaks,477,KR,2016-01-28
+com.n3game.sd.google.kakao,신디펜스forkakao,478,KR,2016-01-28
+kr.co.cocoabook.ver1,"코코-무료소개팅,채팅,사랑,만남,데이트",479,KR,2016-01-28
+com.magmon.PlatformDefenseF,プラットフォームディフェンス,480,KR,2016-01-28
+com.origingames.guillotine,길로틴,481,KR,2016-01-28
+com.plusmx.q2s.kr,100일간의프린세스,482,KR,2016-01-28
+com.bms.romanceg,로맨스소설Club,483,KR,2016-01-28
+talk.saek.cppa.app,"색톡-미팅,채팅,만남어플,채팅어플,조건만남,친구만들기",484,KR,2016-01-28
+com.camchat.camting,캠팅-영상채팅소개팅여친남친,485,KR,2016-01-28
+com.hbo.fcmm,FC매니저모바일-축구게임,486,KR,2016-01-28
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),487,KR,2016-01-28
+com.newday.littlecannedboy,통조림소년,488,KR,2016-01-28
+com.d3p.mpq,マーベル・パズルクエスト,489,KR,2016-01-28
+com.g5e.hiddencity.android,HiddenCity:MysteryofShadows,490,KR,2016-01-28
+com.applepie4.mylittlepet,HelloPet,491,KR,2016-01-28
+com.ghostgames.SGMS.google,삼국무신,492,KR,2016-01-28
+com.koreahnc.mysem2,쎔|SEM|-영화미드로스마트한영어공부,493,KR,2016-01-28
+com.qikuai.idqkr2,레전드오브삼국(적벽대전),494,KR,2016-01-28
+com.sega.kingdomconquestii,KingdomConquestII,495,KR,2016-01-28
+com.BbulleGames.BbulleWarClicker,뿔레전쟁클리커,496,KR,2016-01-28
+com.highbrow.games.SamTactics,삼국지책략전,497,KR,2016-01-28
+com.AIGames.DSFM,DreamSquad-FootballManager,498,KR,2016-01-28
+com.korea4399.gdjl.google,더킹(TheKing):고결한기사도,499,KR,2016-01-28
+kr.dostmvhcmthtlrwl.dostmvhcmthtlrwl,앤스포츠소식지,500,KR,2016-01-28
+com.doyeon.FpsDefence,총쏘는게임forKakao,501,KR,2016-01-28
+com.wsl.noom,ダイエットならNoomコーチ：食事や体重管理、万歩計連携,502,KR,2016-01-28
+com.com2us.actionpuzzletown.normal.freefull.google.global.android.common,ドタバタパズル街,503,KR,2016-01-28
+com.sm.rookies,SMROOKIESENTERTAINMENT,504,KR,2016-01-28
+com.bandai.sdgundam,SD건담배틀스테이션,505,KR,2016-01-28
+com.uangel.ppoyo.pororoPhone,뽀로로전화★무료통화프로모션중,506,KR,2016-01-28
+com.affinity.historia.android.google.global.normal,ギリシャ神話の神々を操る戦略的陣形バトルゲーム:ヒストリカ,507,KR,2016-01-28
+com.bs.byungstera,리그오브병스터forAfreecaTV,508,KR,2016-01-28
+com.nekki.shadowfight,シャドウファイト2,509,KR,2016-01-28
+com.walrus.tycoons,타이쿤스퀘어:아이러브도넛,510,KR,2016-01-28
+kr.christiandate.app,"크리스천데이트-기독교청년들을위한소개팅,미팅",511,KR,2016-01-28
+com.intivsoft.android.elhaz,엘하즈,512,KR,2016-01-28
+oryugen.poker.google,"로얄넷포커-온라인포커,7포커,하이로우,바둑이",513,KR,2016-01-28
+net.iustice.leviathan_payment,언리쉬드구글결제,514,KR,2016-01-28
+com.wjsoft.booqtarot,"타로,무료점,궁합,연애점,애정운,운세,펫,타로카드,사주",515,KR,2016-01-28
+kr.co.vcnc.android.couple,カップル専用アプリBetween,516,KR,2016-01-28
+air.novelengine.fortune,포춘하모니,517,KR,2016-01-28
+net.daum.game.android.c11,신데렐라일레븐,518,KR,2016-01-28
+com.incrediblestudio.bakeryhouse_gpg,농장을부탁해,519,KR,2016-01-28
+com.inapp.best2_fortune_01,힐링신년운세,520,KR,2016-01-28
+com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,521,KR,2016-01-28
+com.rose.gym,제이에스짐,522,KR,2016-01-28
+com.gameloft.android.ANMP.GloftMMHM,オーダー＆カオスオンライン,523,KR,2016-01-28
+com.linktown.demonghunter2,DemongHunter2,524,KR,2016-01-28
+com.sangsangdigital.farmgg,짜요목장이야기forKakao,525,KR,2016-01-28
+com.mgameday.DoorsandRoomsforkakao,방탈출forKakao,526,KR,2016-01-28
+com.skeinglobe.dungeoncrush.forkakao,던전크러쉬forKakao,527,KR,2016-01-28
+jp.co.cybird.appli.android.rjs.kr,로미오와비밀의줄리엣(이케맨야곡),528,KR,2016-01-28
+com.naturalmotion.csrracing,CSRRacing,529,KR,2016-01-28
+com.npluto.hancue,큐업forKakao,530,KR,2016-01-28
+com.gameloft.android.ANMP.GloftGOHM,ゴッド・オブ・ローマ,531,KR,2016-01-28
+com.appstree.helloseafood2,HelloSeafood2,532,KR,2016-01-28
 com.tag.sunkookforkakaog,허니쟁forKakao,533,KR,2016-01-28
 com.vshower.wifhd.ww,ホワイトアイランド,534,KR,2016-01-28
 com.rayark.Cytus.full.kr,사이터스(Cytus),535,KR,2016-01-28
