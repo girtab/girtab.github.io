@@ -28,15 +28,15 @@ com.rockstargames.gtasa,グランド・セフト・オート・サンアンド�
 com.scottgames.fivenightsatfreddys,FiveNightsatFreddy's,27,JP,2016-04-30
 jp.heiwa.dx.googleplay.pachinko.nsm,パチンコCR熱響！乙女フェスティバルファン大感謝祭LIVE,28,JP,2016-04-30
 jp.futurescope.ps.android.eva1,CR新世紀エヴァンゲリオンSF,29,JP,2016-04-30
-com.square_enix.android_googleplay.dq7j,ドラゴンクエストVIIエデンの戦士たち,30,JP,2016-04-30
-com.sansei_rd.pachi.garofinal_g,CR牙狼FINAL,31,JP,2016-04-30
+com.sansei_rd.pachi.garofinal_g,CR牙狼FINAL,30,JP,2016-04-30
+com.square_enix.android_googleplay.dq7j,ドラゴンクエストVIIエデンの戦士たち,31,JP,2016-04-30
 com.hg.townsmen7,TownsmenPremium,32,JP,2016-04-30
 com.epsxe.ePSXe,ePSXeforAndroid,33,JP,2016-04-30
 com.square_enix.android_googleplay.FFV_GP,FINALFANTASYV,34,JP,2016-04-30
 jp.co.sundenshi.slotjigoku,パチスロ【地獄少女】,35,JP,2016-04-30
-com.scottgames.fnaf2,FiveNightsatFreddy's2,36,JP,2016-04-30
-jp.futurescope.ps.android.eva10,CRヱヴァⅩ,37,JP,2016-04-30
-com.rac7.DarkEcho,DarkEcho,38,JP,2016-04-30
+jp.futurescope.ps.android.eva10,CRヱヴァⅩ,36,JP,2016-04-30
+com.rac7.DarkEcho,DarkEcho,37,JP,2016-04-30
+com.scottgames.fnaf2,FiveNightsatFreddy's2,38,JP,2016-04-30
 com.bigfishgames.rsfsgoogfull,リアリティショー：恐怖の幻影(Full),39,JP,2016-04-30
 com.square_enix.android_googleplay.FFVI,FINALFANTASYVI,40,JP,2016-04-30
 com.ustwo.monumentvalley,モニュメントバレー,41,JP,2016-04-30
@@ -103,16 +103,16 @@ jp.funsolution.nensho,筋トレ応援ゲーム　ねんしょう！,101,JP,2016-
 jp.dorasu.apps.bl2,激JパチスロBLACKLAGOON2,102,JP,2016-04-30
 com.realdrift.sipon,RealDriftCarRacing,103,JP,2016-04-30
 net.commseed.mahjongstory3,パチスロ麻雀物語３役満乱舞の究極大戦オリンピア,104,JP,2016-04-30
-com.FireproofStudios.TheRoom3,TheRoomThree,105,JP,2016-04-30
-jp.umi_japan,海物語INJAPAN,106,JP,2016-04-30
-jp.dorasu.apps.hanahanahouoh,激Jパチスロハナハナホウオウ-30,107,JP,2016-04-30
-jp.co.prot.clannad,CLANNAD,108,JP,2016-04-30
-jp.co.net_fun.cinderella01.opt,【パチスロ】シンデレラブレイドアテナ編,109,JP,2016-04-30
-net.commseed.koumonchama_katsu,パチスロ黄門ちゃま喝オリンピア,110,JP,2016-04-30
-net.kairosoft.android.paddock_ja,開幕!!パドックGP,111,JP,2016-04-30
+jp.umi_japan,海物語INJAPAN,105,JP,2016-04-30
+com.FireproofStudios.TheRoom3,TheRoomThree,106,JP,2016-04-30
+net.kairosoft.android.paddock_ja,開幕!!パドックGP,107,JP,2016-04-30
+jp.dorasu.apps.hanahanahouoh,激Jパチスロハナハナホウオウ-30,108,JP,2016-04-30
+jp.co.prot.clannad,CLANNAD,109,JP,2016-04-30
+jp.co.net_fun.cinderella01.opt,【パチスロ】シンデレラブレイドアテナ編,110,JP,2016-04-30
+net.commseed.koumonchama_katsu,パチスロ黄門ちゃま喝オリンピア,111,JP,2016-04-30
 jp.heiwa.dx.googleplay.pachinko.lp8,パチンコCRルパン三世～I'masuperhero～,112,JP,2016-04-30
-com.coweye.musync.googleplay.pro,MUSYNC+,113,JP,2016-04-30
-com.astragon.cs2014,コンストラクションシミュレーター2014,114,JP,2016-04-30
+com.astragon.cs2014,コンストラクションシミュレーター2014,113,JP,2016-04-30
+com.coweye.musync.googleplay.pro,MUSYNC+,114,JP,2016-04-30
 net.kairosoft.android.horse_ja,G1牧場ステークス,115,JP,2016-04-30
 com.t2ksports.nba2k16android,NBA2K16,116,JP,2016-04-30
 com.terasurware.theiapro,ティアと魔法の研究室～探索錬金アドベンチャー～OFFLINE,117,JP,2016-04-30
@@ -222,8 +222,8 @@ net.kairosoft.android.daishizen_ja,大自然ものがたり,220,JP,2016-04-30
 jp.co.gmode.kysp3,空気読み。３,221,JP,2016-04-30
 net.kairosoft.android.cruise_ja,クルーズ大紀行,222,JP,2016-04-30
 jp.dorasu.apps.newkinghana,激Jパチスロニューキングハナハナ-30,223,JP,2016-04-30
-com.artifexmundi.clockwork.gp.full,時計じかけの物語(Full),224,JP,2016-04-30
-jp.co.prot.planetarian,planetarian～ちいさなほしのゆめ～,225,JP,2016-04-30
+jp.co.prot.planetarian,planetarian～ちいさなほしのゆめ～,224,JP,2016-04-30
+com.artifexmundi.clockwork.gp.full,時計じかけの物語(Full),225,JP,2016-04-30
 jp.newgin.slot_keiji3_g,戦国パチスロ花の慶次～戦極めし傾奇者の宴～,226,JP,2016-04-30
 jp.yamasa.gp.stda,パチスロスタードライバー,227,JP,2016-04-30
 age.of.civilizations.jakowski,エイジ・オブ・シヴィライゼーション,228,JP,2016-04-30
@@ -233,8 +233,8 @@ jp.senken.volleyball,バレーボール,231,JP,2016-04-30
 kemco.execreate.historiapremium,[Premium]RPG忘失のイストリア-KEMCO,232,JP,2016-04-30
 com.ironhidegames.android.kingdomrushfrontiers,KingdomRushFrontiers,233,JP,2016-04-30
 com.mozglabs.citysiedge,ZombieCityDefense,234,JP,2016-04-30
-com.giantssoftware.fs16,FarmingSimulator16,235,JP,2016-04-30
-kr.co.mediawork.helltowerJpn,地獄塔:レイダース,236,JP,2016-04-30
+kr.co.mediawork.helltowerJpn,地獄塔:レイダース,235,JP,2016-04-30
+com.giantssoftware.fs16,FarmingSimulator16,236,JP,2016-04-30
 com.explorationbase.Exploration,Exploration,237,JP,2016-04-30
 kemco.magitec.butterfly,ADV鈍色のバタフライ-KEMCO,238,JP,2016-04-30
 com.distractionware.superhexagon,SuperHexagon,239,JP,2016-04-30
@@ -242,14 +242,14 @@ apps.otsoft.everestaurant,海洋レストラン☆海猫亭,240,JP,2016-04-30
 jp.senken.games.ripPaper,札やぶり,241,JP,2016-04-30
 jp.mapp.warsa1,アルテマ成金大作戦,242,JP,2016-04-30
 com.iBON.detectiveKirari,名探偵キラリ　〜全滅系クローズドサークル（雪）〜,243,JP,2016-04-30
-jp.yamasa.gp.tk3,パチスロ鉄拳3rd,244,JP,2016-04-30
-com.snkplaymore.android012,餓狼伝説SPECIAL,245,JP,2016-04-30
+com.snkplaymore.android012,餓狼伝説SPECIAL,244,JP,2016-04-30
+jp.yamasa.gp.tk3,パチスロ鉄拳3rd,245,JP,2016-04-30
 jp.futurescope.ps.android.evangelionart,EVANGELIONART,246,JP,2016-04-30
 com.artifexmundi.grimlegends2.gp.full,グリムレジェンド2(Full),247,JP,2016-04-30
 jp.funsolution.nensho2,ランニング応援ゲーム　ねんしょう！２,248,JP,2016-04-30
 com.candyrufusgames.survivalcraft,Survivalcraft,249,JP,2016-04-30
-net.kairosoft.android.pyramid_ja,発掘ピラミッド王国,250,JP,2016-04-30
-com.dotemu.neogeo.mslugx,METALSLUGX,251,JP,2016-04-30
+com.dotemu.neogeo.mslugx,METALSLUGX,250,JP,2016-04-30
+net.kairosoft.android.pyramid_ja,発掘ピラミッド王国,251,JP,2016-04-30
 jp.co.sanyobussan.okiumi2,CRスーパー海物語IN沖縄2,252,JP,2016-04-30
 jp.kpe.slot.mh2,マジカルハロウィン２,253,JP,2016-04-30
 jp.yamasa.gp.zep,パチスロゼーガペイン,254,JP,2016-04-30
@@ -303,23 +303,23 @@ com.ggee.vividruntime.game_ticket_779,怒首領蜂大復活,301,JP,2016-04-30
 jp.pumo,CRスーパー海物語IN沖縄3,302,JP,2016-04-30
 jp.azooza.android.els3,エルスの天秤３,303,JP,2016-04-30
 com.alawar.puppetshow.losttown.premium,パペットショー：ロスト・タウン,304,JP,2016-04-30
-net.commseed.devi_surv2,パチスロデビルサバイバー2最後の7日間オリンピア,305,JP,2016-04-30
-me.dreamsky.lostjourney2,時空の旅,306,JP,2016-04-30
-jp.spikechunsoft.ssn.kama.ja,かまいたちの夜SmartSoundNovel,307,JP,2016-04-30
-jp.Acodebank.AandD,AbyssandDark#1リル・マズアの遺跡,308,JP,2016-04-30
-com.bigfishgames.motwbrgoogfull,世界伝説：ブラックローズ(Full),309,JP,2016-04-30
-jp.co.rideon,RPG不思議の国の冒険酒場,310,JP,2016-04-30
-jp.pgpt,CR海物語アクア,311,JP,2016-04-30
-com.amtgames.ewtd2,EpicWarTD2,312,JP,2016-04-30
-air.FleeingtheComplex,FleeingtheComplex,313,JP,2016-04-30
-jp.yamasa.gp.tk2,パチスロ鉄拳2nd,314,JP,2016-04-30
-net.kairosoft.android.school2_ja,名門ポケット学院2,315,JP,2016-04-30
-com.fde.predators,Predators™,316,JP,2016-04-30
-jp.co.unbalance.android.hf,ザ・花札,317,JP,2016-04-30
-apps.otsoft.harekumoa,晴れたり曇ったりforAndroid,318,JP,2016-04-30
-jp.heiwa.dx.googleplay.pachinko.tko2,パチンコCRAトキオデラックス,319,JP,2016-04-30
-spikechunsoft.android428google,428-封鎖された渋谷で-,320,JP,2016-04-30
-net.kairosoft.android.townshop_ja,夢おこし商店街,321,JP,2016-04-30
+me.dreamsky.lostjourney2,時空の旅,305,JP,2016-04-30
+jp.spikechunsoft.ssn.kama.ja,かまいたちの夜SmartSoundNovel,306,JP,2016-04-30
+jp.Acodebank.AandD,AbyssandDark#1リル・マズアの遺跡,307,JP,2016-04-30
+com.bigfishgames.motwbrgoogfull,世界伝説：ブラックローズ(Full),308,JP,2016-04-30
+jp.co.rideon,RPG不思議の国の冒険酒場,309,JP,2016-04-30
+jp.pgpt,CR海物語アクア,310,JP,2016-04-30
+com.amtgames.ewtd2,EpicWarTD2,311,JP,2016-04-30
+air.FleeingtheComplex,FleeingtheComplex,312,JP,2016-04-30
+jp.yamasa.gp.tk2,パチスロ鉄拳2nd,313,JP,2016-04-30
+net.kairosoft.android.school2_ja,名門ポケット学院2,314,JP,2016-04-30
+com.fde.predators,Predators™,315,JP,2016-04-30
+jp.co.unbalance.android.hf,ザ・花札,316,JP,2016-04-30
+apps.otsoft.harekumoa,晴れたり曇ったりforAndroid,317,JP,2016-04-30
+jp.heiwa.dx.googleplay.pachinko.tko2,パチンコCRAトキオデラックス,318,JP,2016-04-30
+spikechunsoft.android428google,428-封鎖された渋谷で-,319,JP,2016-04-30
+net.kairosoft.android.townshop_ja,夢おこし商店街,320,JP,2016-04-30
+net.commseed.devi_surv2,パチスロデビルサバイバー2最後の7日間オリンピア,321,JP,2016-04-30
 air.com.puffballsunited.stealingthediamond,StealingtheDiamond,322,JP,2016-04-30
 jp.mapp.yusha8,ガイラルディア8,323,JP,2016-04-30
 sundenshi.vampireA,SeventhBloodVampire前編,324,JP,2016-04-30
@@ -340,9 +340,9 @@ jp.heiwa.dx.googleplay.pachinko.lp7,パチンコCRルパン三世～消された
 jp.co.indexweb.android.megaten2,真・女神転生Ⅱ,339,JP,2016-04-30
 com.candysoft.HAHWVIP,わき毛戦士:VIP,340,JP,2016-04-30
 com.vectorunit.blue,RiptideGP,341,JP,2016-04-30
-com.dtechno.slotguilty,パチスロギルティギア【D-light（ディ・ライト）】,342,JP,2016-04-30
-jp.senken.games.drapon,どらポン,343,JP,2016-04-30
-com.Jeminie.Hmmsim2,Hmmsim2-TrainSimulator,344,JP,2016-04-30
+jp.senken.games.drapon,どらポン,342,JP,2016-04-30
+com.Jeminie.Hmmsim2,Hmmsim2-TrainSimulator,343,JP,2016-04-30
+com.dtechno.slotguilty,パチスロギルティギア【D-light（ディ・ライト）】,344,JP,2016-04-30
 jp.co.sega.psc,パワースマッシュチャレンジ,345,JP,2016-04-30
 com.endspacevr,EndSpaceVRforCardboard,346,JP,2016-04-30
 com.yox_project.bad_end,BADEND【プレイした者は死ぬ】,347,JP,2016-04-30
@@ -409,10 +409,10 @@ kemco.execreate.asdivinecrosspremium,[Premium]RPGアスディバインクロス-
 com.KickBack.LostEchoAdventure,LostEcho,408,JP,2016-04-30
 com.JohnWright.ThriveIsland,ThriveIsland-Survival,409,JP,2016-04-30
 jp.Marvelous.brs,幕末Rock極魂-ULTIMATESOUL-,410,JP,2016-04-30
-jp.putp,CRまわるんパチンコ大海物語3,411,JP,2016-04-30
-com.universal777.midoridon,緑ドン花火の起源探求之巻,412,JP,2016-04-30
-jp.futurescope.ps.android.crring2,CRリング　呪いの7日間,413,JP,2016-04-30
-net.commseed.sgb,パチスロ戦国BASARA3,414,JP,2016-04-30
+com.universal777.midoridon,緑ドン花火の起源探求之巻,411,JP,2016-04-30
+jp.futurescope.ps.android.crring2,CRリング　呪いの7日間,412,JP,2016-04-30
+net.commseed.sgb,パチスロ戦国BASARA3,413,JP,2016-04-30
+jp.putp,CRまわるんパチンコ大海物語3,414,JP,2016-04-30
 com.capybaragames.sworcery,スキタイのムスメ：音響的冒剣劇,415,JP,2016-04-30
 com.ssj.igoclassroom1,囲碁教室（入門編）,416,JP,2016-04-30
 com.snkplaymore.android005,餓狼伝説PREMIUM,417,JP,2016-04-30
@@ -538,4 +538,4 @@ com.square_enix.chaosrings2gp,CHAOSRINGSII,536,JP,2016-04-30
 com.Isotope244LLC.MachinesatWar3,戦闘３のマシン,537,JP,2016-04-30
 jp.mapp.yusha4,ガイラルディア4,538,JP,2016-04-30
 com.wwsft.mj4,四人打ち麻雀-KEMCO,539,JP,2016-04-30
-net.commseed.ps_otome,パチスロ戦国乙女～剣戟に舞う白き剣聖～オリンピア,540,JP,2016-04-30
+com.bigfishgames.enigmatisgooglefull,EnigmatisHiddenObject(Full),540,JP,2016-04-30
