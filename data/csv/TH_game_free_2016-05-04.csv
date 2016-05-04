@@ -1,9 +1,9 @@
 app_id,app_name,rank,country_code,date
 com.linecorp.LGGRTHN,LINELet'sGetRich,1,TH,2016-05-04
 com.netmarble.momag,DisneyMagicalDice,2,TH,2016-05-04
-air.com.hypah.io.slither,slither.io,3,TH,2016-05-04
-com.kiloo.subwaysurf,SubwaySurfers,4,TH,2016-05-04
-com.linecorp.LGCOOKIE,LINEクッキーラン,5,TH,2016-05-04
+com.linecorp.LGCOOKIE,LINEクッキーラン,3,TH,2016-05-04
+air.com.hypah.io.slither,slither.io,4,TH,2016-05-04
+com.kiloo.subwaysurf,SubwaySurfers,5,TH,2016-05-04
 com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),6,TH,2016-05-04
 com.workpoint.dist2.lquiz,ปริศนาฟ้าแลบ,7,TH,2016-05-04
 com.netmarble.ravgl,EvilBane:RiseofRavens,8,TH,2016-05-04
@@ -13,12 +13,12 @@ com.linecorp.LGTMTMG,LINE:DisneyTsumTsum,11,TH,2016-05-04
 com.king.candycrushsaga,キャンディークラッシュ,12,TH,2016-05-04
 com.firsttouchgames.dls3,DreamLeagueSoccer2016,13,TH,2016-05-04
 com.linecorp.LGRGS,LINEレンジャー,14,TH,2016-05-04
-com.garena.game.ak47th,HEADSHOTสงครามปืนเดือด,15,TH,2016-05-04
-com.workpoint.veteethong,เวทีทอง,16,TH,2016-05-04
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,17,TH,2016-05-04
-com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,18,TH,2016-05-04
-com.sidheinteractive.sif.DR,イントゥ・ザ・デッド[IntotheDead],19,TH,2016-05-04
-com.duckprog.makhos,หมากฮอส,20,TH,2016-05-04
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,15,TH,2016-05-04
+com.garena.game.ak47th,HEADSHOTสงครามปืนเดือด,16,TH,2016-05-04
+com.duckprog.makhos,หมากฮอส,17,TH,2016-05-04
+com.workpoint.veteethong,เวทีทอง,18,TH,2016-05-04
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,19,TH,2016-05-04
+com.sidheinteractive.sif.DR,イントゥ・ザ・デッド[IntotheDead],20,TH,2016-05-04
 com.imangi.templerun2,TempleRun2,21,TH,2016-05-04
 com.fgol.HungrySharkEvolution,HungrySharkEvolution,22,TH,2016-05-04
 com.boomegg.nineke,เก้าเกไทย,23,TH,2016-05-04
@@ -33,15 +33,15 @@ com.imangi.templerun,TempleRun,31,TH,2016-05-04
 com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,32,TH,2016-05-04
 com.supercell.hayday,ヘイ・デイ(HayDay),33,TH,2016-05-04
 com.candyrufusgames.survivalcrafttrial,SurvivalcraftDemo,34,TH,2016-05-04
-com.netmarble.mherosgb,MARVELFutureFight,35,TH,2016-05-04
-com.skgames.trafficrider,TrafficRider,36,TH,2016-05-04
-com.sbkgames.rallyracerdirt,RallyRacerDirt,37,TH,2016-05-04
-com.garena.game.fomthgp,FIFAOnline3MbyEASPORTS™,38,TH,2016-05-04
-com.akpublish.tankon2,TankON2-JeepHunter,39,TH,2016-05-04
-com.king.farmheroessaga,ファームヒーロー,40,TH,2016-05-04
-com.dummy.poker,Dummyดัมมี่เกมไพ่สุดฮิต,41,TH,2016-05-04
-at.ner.lepsWorld2,Lep'sWorld2🍀🍀,42,TH,2016-05-04
-com.mobirix.fishinghook,フィッシングフック,43,TH,2016-05-04
+com.akpublish.tankon2,TankON2-JeepHunter,35,TH,2016-05-04
+com.netmarble.mherosgb,MARVELFutureFight,36,TH,2016-05-04
+com.skgames.trafficrider,TrafficRider,37,TH,2016-05-04
+com.sbkgames.rallyracerdirt,RallyRacerDirt,38,TH,2016-05-04
+com.garena.game.fomthgp,FIFAOnline3MbyEASPORTS™,39,TH,2016-05-04
+com.mobirix.fishinghook,フィッシングフック,40,TH,2016-05-04
+com.king.farmheroessaga,ファームヒーロー,41,TH,2016-05-04
+com.dummy.poker,Dummyดัมมี่เกมไพ่สุดฮิต,42,TH,2016-05-04
+at.ner.lepsWorld2,Lep'sWorld2🍀🍀,43,TH,2016-05-04
 com.miniclip.eightballpool,8BallPool,44,TH,2016-05-04
 com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),45,TH,2016-05-04
 com.nekki.shadowfight,シャドウファイト2,46,TH,2016-05-04
@@ -49,16 +49,16 @@ com.mxzg.gp.th,AdventureIslands,47,TH,2016-05-04
 com.supersolid.honestfood,フードストリート(FoodStreet),48,TH,2016-05-04
 com.appon.resorttycoon,ResortTycoon,49,TH,2016-05-04
 com.king.candycrushsodasaga,キャンディークラッシュソーダ,50,TH,2016-05-04
-com.kabam.marvelbattle,MARVELオールスターバトル,51,TH,2016-05-04
-com.gameloft.android.ANMP.Gloft5DHM,DarkQuest5（ダーククエスト5）,52,TH,2016-05-04
-com.boyaa.pokdeng,ไพ่ป๊อกเด้ง,53,TH,2016-05-04
-com.mobicle.sf2.th,SPECIALFORCENET,54,TH,2016-05-04
-com.gameloft.android.ANMP.GloftDMHM,怪盗グルーのミニオンラッシュ,55,TH,2016-05-04
-com.outfit7.tomsbubbles,トーキング・トム―バブルシューター,56,TH,2016-05-04
-com.king.candycrushjellysaga,キャンディークラッシュゼリー,57,TH,2016-05-04
-com.sinozegames.thapster.android,Thapster,58,TH,2016-05-04
-com.miniclip.agar.io,Agar.io,59,TH,2016-05-04
-com.gameloft.android.ANMP.GloftFWHM,スナイパーフューリー,60,TH,2016-05-04
+com.dm.ssc.wrestling,真実な角力3D-RealWrestling,51,TH,2016-05-04
+com.kabam.marvelbattle,MARVELオールスターバトル,52,TH,2016-05-04
+com.gameloft.android.ANMP.Gloft5DHM,DarkQuest5（ダーククエスト5）,53,TH,2016-05-04
+com.boyaa.pokdeng,ไพ่ป๊อกเด้ง,54,TH,2016-05-04
+com.outfit7.tomsbubbles,トーキング・トム―バブルシューター,55,TH,2016-05-04
+com.mobicle.sf2.th,SPECIALFORCENET,56,TH,2016-05-04
+com.gameloft.android.ANMP.GloftDMHM,怪盗グルーのミニオンラッシュ,57,TH,2016-05-04
+com.king.candycrushjellysaga,キャンディークラッシュゼリー,58,TH,2016-05-04
+com.sinozegames.thapster.android,Thapster,59,TH,2016-05-04
+com.miniclip.agar.io,Agar.io,60,TH,2016-05-04
 com.gameloft.android.ANMP.GloftFWHM,スナイパーフューリー,61,TH,2016-05-04
 com.ffgames.racingincar,RacinginCar,62,TH,2016-05-04
 com.dobsoftstudios.gunfustickman2,GunFu:Stickman2,63,TH,2016-05-04
@@ -198,8 +198,8 @@ us.can0p.shootdinosaureggs,卵を撃つ-バブルシューターを,196,TH,2016-
 com.tov.google.ben10Xenodromeplus,ベン10・ゼノドローム・プラス,197,TH,2016-05-04
 br.com.rodrigokolb.realdrum,RealDrum-ドラムセット,198,TH,2016-05-04
 com.gameloft.android.ANMP.GloftCAHM,カーズ～走れ！マックィーン～,199,TH,2016-05-04
-com.tap4fun.reignofwar,インベーション,200,TH,2016-05-04
-com.sega.sonicdash,SonicDash,201,TH,2016-05-04
+com.sega.sonicdash,SonicDash,200,TH,2016-05-04
+com.tap4fun.reignofwar,インベーション,201,TH,2016-05-04
 com.ea.game.nfs14_row,NeedforSpeed™NoLimits,202,TH,2016-05-04
 com.doraemon.doraemonRepairShop,ドラえもん　なんでも修理大作戦,203,TH,2016-05-04
 com.boyaa.hallgame,ไฮโลไทย-เกมยอดฮิต-เจ๋งรอบโลก,204,TH,2016-05-04
@@ -351,9 +351,9 @@ dk.tactile.cookiecats,CookieCats,349,TH,2016-05-04
 com.ezjoy.feelingtouch.zombiediary,ZombieDiary,350,TH,2016-05-04
 com.baviux.voicechanger,エフェクト付きボイスチェンジャー,351,TH,2016-05-04
 com.bravocterogames.DirtbikeSurvival,モトクロスサバイバルオートバイレースゲームマインクラフト,352,TH,2016-05-04
-com.pennypop.monsters.live,BattleCampバトルキャンプ,353,TH,2016-05-04
-com.ratrodstudio.mikevskatepartylite,MikeV:SkateboardPartyLite,354,TH,2016-05-04
-com.outfit7.movingeye.swampattack,スワンプアタック(SwampAttack),355,TH,2016-05-04
+com.ratrodstudio.mikevskatepartylite,MikeV:SkateboardPartyLite,353,TH,2016-05-04
+com.outfit7.movingeye.swampattack,スワンプアタック(SwampAttack),354,TH,2016-05-04
+com.pennypop.monsters.live,BattleCampバトルキャンプ,355,TH,2016-05-04
 com.huseyindekin.fastmoto,速いバイクのドライバー3D,356,TH,2016-05-04
 com.glu.flcn_new,フロントラインコマンド：ノルマンディー,357,TH,2016-05-04
 com.innovativegames.knockdown,KnockDown,358,TH,2016-05-04
@@ -453,9 +453,9 @@ com.orca.monster.global,モンスターレイド,451,TH,2016-05-04
 com.salmonplus.puzzlefindword,ปริศนาหาคำศัพท์,452,TH,2016-05-04
 air.air.cookingstory,CookingStandRestaurantGame,453,TH,2016-05-04
 com.gameloft.android.ANMP.GloftSXHM,シックス・ガンズ,454,TH,2016-05-04
-com.gamecircus.prizeclaw2,PrizeClaw2,455,TH,2016-05-04
-com.ea.game.easportsufc_row,EASPORTS™UFC®,456,TH,2016-05-04
-com.miniclip.basketballstars,BasketballStars,457,TH,2016-05-04
+com.ea.game.easportsufc_row,EASPORTS™UFC®,455,TH,2016-05-04
+com.miniclip.basketballstars,BasketballStars,456,TH,2016-05-04
+com.gamecircus.prizeclaw2,PrizeClaw2,457,TH,2016-05-04
 com.foranj.farmtown,農場FarmTown™:HappyDay,458,TH,2016-05-04
 com.comekeGame.Jailbreaknew,脱獄（最新）,459,TH,2016-05-04
 com.fastsoft.bubbleshooter,BubbleShooter,460,TH,2016-05-04
@@ -468,9 +468,9 @@ com.vg.californiastraight2compton,カリフォルニアストレート2コンプ
 com.lezhi.PromSalon,PromSpaSalon-GirlsGames,467,TH,2016-05-04
 com.firsttouchgames.story,Score!Hero,468,TH,2016-05-04
 com.bubadu.bubbu,仮想ペット「Bubbu,469,TH,2016-05-04
-com.madfingergames.deadtrigger2,DEADTRIGGER2,470,TH,2016-05-04
-com.naritasoft.guessthepicturepuzzle,เกมทายภาพปริศนา+เพิ่มภาพใหม่,471,TH,2016-05-04
-com.mbx.busterblitzsea,BusterBlitz,472,TH,2016-05-04
+com.mbx.busterblitzsea,BusterBlitz,470,TH,2016-05-04
+com.madfingergames.deadtrigger2,DEADTRIGGER2,471,TH,2016-05-04
+com.naritasoft.guessthepicturepuzzle,เกมทายภาพปริศนา+เพิ่มภาพใหม่,472,TH,2016-05-04
 com.nekki.vector,Vector,473,TH,2016-05-04
 com.appsomniacs.da2,DoodleArmy2:MiniMilitia,474,TH,2016-05-04
 com.pinka.classicbubbles,バブルシューター,475,TH,2016-05-04
@@ -485,8 +485,8 @@ com.rovio.baba,アングリーバード2(AngryBirds2),483,TH,2016-05-04
 com.cmta.cyberlineracing,CyberlineRacing,484,TH,2016-05-04
 com.gamesanook.food25082015,เกมส์ทำอาหารฟรี,485,TH,2016-05-04
 com.ovilex.farmersim2015,FarmerSim2015,486,TH,2016-05-04
-com.ramsayamarin.popcornchef,PopcornChef,487,TH,2016-05-04
-air.com.igg.hotbraidhairdresserhd,ホット編組美容師HD,488,TH,2016-05-04
+air.com.igg.hotbraidhairdresserhd,ホット編組美容師HD,487,TH,2016-05-04
+com.ramsayamarin.popcornchef,PopcornChef,488,TH,2016-05-04
 com.killerbeanstudios.enemystrike2,EnemyStrike2,489,TH,2016-05-04
 com.player.farm.lamvuon.farming.nongtrai.farmer.hayfarm.game.bigfarmer,DairyFarm,490,TH,2016-05-04
 air.com.landsharkgames.zenkoi.android,ZenKoi禅の鯉,491,TH,2016-05-04
@@ -505,8 +505,8 @@ com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),503,TH,2016-05-04
 com.friendlymonster.snookerdemo,TotalSnookerFree,504,TH,2016-05-04
 com.webprancer.google.garfieldpethospital,Garfieldのペット病院,505,TH,2016-05-04
 com.forthblue.pool,ビリヤード-PoolBilliardsPro,506,TH,2016-05-04
-com.glu.contractkiller3,コントラクトキラー：スナイパー,507,TH,2016-05-04
-com.Vince.Gymkhana,ジムカーナラリーレーシング-ドリフト!,508,TH,2016-05-04
+com.Vince.Gymkhana,ジムカーナラリーレーシング-ドリフト!,507,TH,2016-05-04
+com.glu.contractkiller3,コントラクトキラー：スナイパー,508,TH,2016-05-04
 com.CarXTech.CarXDriftRacingFull,CarXDriftRacing,509,TH,2016-05-04
 com.frenzoo.FashionEmpireBoutiqueGirlGame,FashionEmpire-BoutiqueSim,510,TH,2016-05-04
 com.fernandovillalba.EnergyMinecraft,EnergyIdeasMinecraft,511,TH,2016-05-04
