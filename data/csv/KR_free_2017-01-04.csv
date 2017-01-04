@@ -20,10 +20,10 @@ com.ahnlab.v3mobileplus,V3MobilePlus2.0,18,KR,2017-01-04
 com.kakaogames.friendsKing,프렌즈팝콘forKakao,19,KR,2017-01-04
 com.robtopx.geometrydashworld,GeometryDashWorld,20,KR,2017-01-04
 com.nexon.nsc.maplem,메이플스토리M,21,KR,2017-01-04
-com.kakao.cheez,カカオトークチーズ,22,KR,2017-01-04
-com.leader.dark2,DarkestDungeon,23,KR,2017-01-04
-com.powerd.cleaner,FastCleaner-SpeedBooster,24,KR,2017-01-04
-com.kakao.taxi,카카오택시KakaoTaxi,25,KR,2017-01-04
+com.leader.dark2,DarkestDungeon,22,KR,2017-01-04
+com.powerd.cleaner,FastCleaner-SpeedBooster,23,KR,2017-01-04
+com.kakao.taxi,카카오택시KakaoTaxi,24,KR,2017-01-04
+com.kakao.cheez,カカオトークチーズ,25,KR,2017-01-04
 com.turbochilli.rollingsky,ローリング・スカイ,26,KR,2017-01-04
 com.facebook.katana,Facebook,27,KR,2017-01-04
 kr.goodchoice.abouthere,여기어때-1등숙박어플&5박하면1박무료,28,KR,2017-01-04
@@ -107,11 +107,11 @@ com.lguplus.smartotp,"U+인증-본인확인,간편본인확인",105,KR,2017-01-0
 com.nhn.android.navercafe,네이버카페-NaverCafe,106,KR,2017-01-04
 com.linecorp.foodcam.android,Foodie（フーディ）,107,KR,2017-01-04
 viva.republica.toss,토스-Toss,108,KR,2017-01-04
-uplus.membership,U+멤버십,109,KR,2017-01-04
-com.yodo1.rodeo.safari,RodeoStampede:SkyZooSafari,110,KR,2017-01-04
-com.ktmusic.geniemusic,지니뮤직-genie,111,KR,2017-01-04
-com.ktcs.whowho,whowho-CallerID&Block,112,KR,2017-01-04
-com.naver.vapp,V-リアルタイム放送APP,113,KR,2017-01-04
+com.dencreak.spbook,Clev家計簿,109,KR,2017-01-04
+uplus.membership,U+멤버십,110,KR,2017-01-04
+com.yodo1.rodeo.safari,RodeoStampede:SkyZooSafari,111,KR,2017-01-04
+com.ktmusic.geniemusic,지니뮤직-genie,112,KR,2017-01-04
+com.ktcs.whowho,whowho-CallerID&Block,113,KR,2017-01-04
 com.raongames.bouneball,バウンシボール,114,KR,2017-01-04
 com.fineapp.yogiyo,배달요기요,115,KR,2017-01-04
 com.cgv.android.movieapp,CGV,116,KR,2017-01-04
@@ -119,423 +119,423 @@ com.azarlive.android,Azar-ビデオチャット、友達検索,117,KR,2017-01-04
 com.Monthly23.SwipeBrickBreaker,スワイプブロック崩し,118,KR,2017-01-04
 kr.co.ivlog.mobile.app.cjonecard,CJONE,119,KR,2017-01-04
 com.hmallapp,"현대Hmall-홈쇼핑,백화점",120,KR,2017-01-04
-com.dencreak.spbook,Clev家計簿,121,KR,2017-01-04
-com.df.creatures_g,크리처스,122,KR,2017-01-04
-com.jasonmg.morningletter,"아침편지-좋은글,좋은시,명언,감동글모음",123,KR,2017-01-04
-com.ubikey,휴대폰인증서서비스(유비키_UBIKey),124,KR,2017-01-04
-com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),125,KR,2017-01-04
-com.julymonster.macaron,MacaronCam,126,KR,2017-01-04
-com.lemongame.klondike.solitaire,ソリティア,127,KR,2017-01-04
-com.buzzni.android.subapp.shoppingmoa,"홈쇼핑모아-TV홈쇼핑편성표,생방송알림,검색,가격비교",128,KR,2017-01-04
-com.estsoft.alyac,ALYacAndroid,129,KR,2017-01-04
-tw.mobileapp.qrcode.banner,QRコードリーダー,130,KR,2017-01-04
-com.fromest.bcommander.google,배틀커맨더forkakao,131,KR,2017-01-04
-com.skt.prod.cloud,클라우드베리,132,KR,2017-01-04
-com.google.android.apps.photos,Googleフォト,133,KR,2017-01-04
-com.kbstar.kbbank,KB국민은행스타뱅킹,134,KR,2017-01-04
-com.briniclemobile.wibeetalk,WiBeeTalk,135,KR,2017-01-04
-com.ipapas.newyear,2017년토정비결-신년운세명리학신년운세,136,KR,2017-01-04
-kr.co.station3.dabang,"다방-원룸,투룸,오피스텔,부동산전월세찾기",137,KR,2017-01-04
-com.parksmt.jejuair.android16,チェジュ航空,138,KR,2017-01-04
-kr.ne.soon.addpop,애드팝-알바해서최고의수익을가져가세요.,139,KR,2017-01-04
-com.mwos2.mcdelivery,(공식)맥도날드맥딜리버리배달,140,KR,2017-01-04
-com.ebay.kr.auction,모바일쇼핑은옥션,141,KR,2017-01-04
-com.wellgames.ss,스페셜솔져-모바일FPS,142,KR,2017-01-04
-com.sundaytoz.kakao.anipang3.service,애니팡3forKakao,143,KR,2017-01-04
-com.cjoshppingphone,CJmall,144,KR,2017-01-04
-com.supersolid.penguin,SuperPenguins,145,KR,2017-01-04
-com.ssg.serviceapp.android.egiftcertificate,SSGPAY-혜택위의혜택,146,KR,2017-01-04
-com.dencreak.dlcalculator,万能計算機：多機能電卓,147,KR,2017-01-04
-com.cjenm.ModooMarbleKakao,모두의마블forKakao,148,KR,2017-01-04
-com.groundhog.mcpemaster,マインクラフトPEランチャーのマスター,149,KR,2017-01-04
-com.nhn.android.music,네이버뮤직-NaverMusic,150,KR,2017-01-04
-net.daum.android.map,카카오맵(다음지도4.0),151,KR,2017-01-04
-com.wemakeprice,위메프-싸다,152,KR,2017-01-04
-com.newfo.mobile.google.denma.service,덴마withNAVERWEBTOON,153,KR,2017-01-04
-kr.co.hanamembers.hmscustomer,하나멤버스,154,KR,2017-01-04
-com.seilcre.aloha,알로하,155,KR,2017-01-04
-kr.yplayer.app,유튜브무료다운로드플레이어,156,KR,2017-01-04
-com.tf.thinkdroid.viewer,한컴오피스viewer,157,KR,2017-01-04
-com.redhoodsoft.newdon,돈키우기:무한돈벌기의시작,158,KR,2017-01-04
-com.sktelecom.hidden,히든hidden,159,KR,2017-01-04
-com.cultsotry.yanolja.nativeapp,야놀자,160,KR,2017-01-04
-com.skt.skaf.OA00026910,SyrupWallet-내게필요한혜택을한번에!,161,KR,2017-01-04
-com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),162,KR,2017-01-04
-com.digidust.elokence.akinator.freemium,AkinatortheGenieFREE,163,KR,2017-01-04
-kr.co.nowcom.mobile.afreeca,아프리카TV-AfreecaTV(Korean),164,KR,2017-01-04
-com.epicwaronline.ms,モバイルストライク【MobileStrike】,165,KR,2017-01-04
-com.google.android.apps.translate,Google翻訳,166,KR,2017-01-04
-com.sktechx.xviewer,"Xviewer(X뷰어)-Tlife,만화,이북",167,KR,2017-01-04
-com.sundaytoz.kakao.anipangtouch,애니팡터치forKakao,168,KR,2017-01-04
-com.kiloo.subwaysurf,SubwaySurfers,169,KR,2017-01-04
-com.kbstar.starpush,KB스타알림,170,KR,2017-01-04
-net.nshc.droidx3web,Droid-XIIIWeb백신(기업용),171,KR,2017-01-04
-com.sopt.mafia42.client,마피아42,172,KR,2017-01-04
-com.daniel.muhantv,무한티비-티비다시보기,173,KR,2017-01-04
+com.df.creatures_g,크리처스,121,KR,2017-01-04
+com.jasonmg.morningletter,"아침편지-좋은글,좋은시,명언,감동글모음",122,KR,2017-01-04
+com.ubikey,휴대폰인증서서비스(유비키_UBIKey),123,KR,2017-01-04
+com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),124,KR,2017-01-04
+com.julymonster.macaron,MacaronCam,125,KR,2017-01-04
+com.lemongame.klondike.solitaire,ソリティア,126,KR,2017-01-04
+com.buzzni.android.subapp.shoppingmoa,"홈쇼핑모아-TV홈쇼핑편성표,생방송알림,검색,가격비교",127,KR,2017-01-04
+com.estsoft.alyac,ALYacAndroid,128,KR,2017-01-04
+tw.mobileapp.qrcode.banner,QRコードリーダー,129,KR,2017-01-04
+com.fromest.bcommander.google,배틀커맨더forkakao,130,KR,2017-01-04
+com.skt.prod.cloud,클라우드베리,131,KR,2017-01-04
+com.google.android.apps.photos,Googleフォト,132,KR,2017-01-04
+com.kbstar.kbbank,KB국민은행스타뱅킹,133,KR,2017-01-04
+com.briniclemobile.wibeetalk,WiBeeTalk,134,KR,2017-01-04
+com.ipapas.newyear,2017년토정비결-신년운세명리학신년운세,135,KR,2017-01-04
+kr.co.station3.dabang,"다방-원룸,투룸,오피스텔,부동산전월세찾기",136,KR,2017-01-04
+com.parksmt.jejuair.android16,チェジュ航空,137,KR,2017-01-04
+kr.ne.soon.addpop,애드팝-알바해서최고의수익을가져가세요.,138,KR,2017-01-04
+com.mwos2.mcdelivery,(공식)맥도날드맥딜리버리배달,139,KR,2017-01-04
+com.ebay.kr.auction,모바일쇼핑은옥션,140,KR,2017-01-04
+com.wellgames.ss,스페셜솔져-모바일FPS,141,KR,2017-01-04
+com.sundaytoz.kakao.anipang3.service,애니팡3forKakao,142,KR,2017-01-04
+com.cjoshppingphone,CJmall,143,KR,2017-01-04
+com.supersolid.penguin,SuperPenguins,144,KR,2017-01-04
+com.ssg.serviceapp.android.egiftcertificate,SSGPAY-혜택위의혜택,145,KR,2017-01-04
+com.dencreak.dlcalculator,万能計算機：多機能電卓,146,KR,2017-01-04
+com.cjenm.ModooMarbleKakao,모두의마블forKakao,147,KR,2017-01-04
+com.groundhog.mcpemaster,マインクラフトPEランチャーのマスター,148,KR,2017-01-04
+com.nhn.android.music,네이버뮤직-NaverMusic,149,KR,2017-01-04
+net.daum.android.map,카카오맵(다음지도4.0),150,KR,2017-01-04
+com.wemakeprice,위메프-싸다,151,KR,2017-01-04
+com.newfo.mobile.google.denma.service,덴마withNAVERWEBTOON,152,KR,2017-01-04
+kr.co.hanamembers.hmscustomer,하나멤버스,153,KR,2017-01-04
+com.seilcre.aloha,알로하,154,KR,2017-01-04
+kr.yplayer.app,유튜브무료다운로드플레이어,155,KR,2017-01-04
+com.tf.thinkdroid.viewer,한컴오피스viewer,156,KR,2017-01-04
+com.redhoodsoft.newdon,돈키우기:무한돈벌기의시작,157,KR,2017-01-04
+com.sktelecom.hidden,히든hidden,158,KR,2017-01-04
+com.cultsotry.yanolja.nativeapp,야놀자,159,KR,2017-01-04
+com.skt.skaf.OA00026910,SyrupWallet-내게필요한혜택을한번에!,160,KR,2017-01-04
+com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),161,KR,2017-01-04
+com.digidust.elokence.akinator.freemium,AkinatortheGenieFREE,162,KR,2017-01-04
+kr.co.nowcom.mobile.afreeca,아프리카TV-AfreecaTV(Korean),163,KR,2017-01-04
+com.epicwaronline.ms,モバイルストライク【MobileStrike】,164,KR,2017-01-04
+com.google.android.apps.translate,Google翻訳,165,KR,2017-01-04
+com.sktechx.xviewer,"Xviewer(X뷰어)-Tlife,만화,이북",166,KR,2017-01-04
+com.sundaytoz.kakao.anipangtouch,애니팡터치forKakao,167,KR,2017-01-04
+com.kiloo.subwaysurf,SubwaySurfers,168,KR,2017-01-04
+com.kbstar.starpush,KB스타알림,169,KR,2017-01-04
+net.nshc.droidx3web,Droid-XIIIWeb백신(기업용),170,KR,2017-01-04
+com.sopt.mafia42.client,마피아42,171,KR,2017-01-04
+com.daniel.muhantv,무한티비-티비다시보기,172,KR,2017-01-04
+com.nhnent.payapp,PAYCO-페이코,173,KR,2017-01-04
 com.ssg.bang,방치타임-폰을끄세요!행복포인트(캐시)가켜집니다,174,KR,2017-01-04
-com.croquis.zigzag,"지그재그-여성쇼핑몰모음,쇼핑몰순위",175,KR,2017-01-04
-com.nhnent.payapp,PAYCO-페이코,176,KR,2017-01-04
+com.naver.vapp,V-リアルタイム放送APP,175,KR,2017-01-04
+com.croquis.zigzag,"지그재그-여성쇼핑몰모음,쇼핑몰순위",176,KR,2017-01-04
 com.fgol.HungrySharkEvolutionkorea,헝그리샤크에볼루션,177,KR,2017-01-04
 com.popreach.dumbways,DumbWaystoDieOriginal,178,KR,2017-01-04
 com.kakaogames.kungfupanda,쿵푸팬더3forKakao,179,KR,2017-01-04
 nh.smart.nhallonepay,NH모바일카드:앱카드,180,KR,2017-01-04
 com.gamepub.te.g,손오공디펜스,181,KR,2017-01-04
 com.ea.gp.nbamobile,NBALIVEMobileBasketball,182,KR,2017-01-04
-com.quvideo.xiaoying,VivaVideo-無料ビデオエディタ＆動画編集アプリ,183,KR,2017-01-04
-com.nsmobilehub,NS홈쇼핑,184,KR,2017-01-04
-com.gamecircus.prizeclaw2,PrizeClaw2,185,KR,2017-01-04
-com.nhn.android.blog,네이버블로그-NaverBlog,186,KR,2017-01-04
-com.interpark.app.stay,인터파크체크인나우-호텔/리조트/펜션최대85%할인,187,KR,2017-01-04
-com.devsisters.CookieRunForKakao,쿠키런forKakao,188,KR,2017-01-04
-com.cleanmaster.mguard,CleanMaster[タスクキラー/ファイル削除],189,KR,2017-01-04
-kr.co.lottecinema.lcm,롯데시네마모바일앱,190,KR,2017-01-04
-com.wordmobile.waterslide,3Dウォータースライド,191,KR,2017-01-04
-batterysaver.cleaner.speedbooster.taskkiller.phonecooler,エネルギーセーバー,192,KR,2017-01-04
-com.studio7775.BeatMP3WU,BEATMP3forYouTube,193,KR,2017-01-04
-com.nhn.android.naverdic,Naver 辞書＆翻訳機,194,KR,2017-01-04
-com.cafe24.minecraftapp,마인크래프트무료게임1.0.0마크설치,195,KR,2017-01-04
-com.kt.android.showtouch,"CLiP-알아서챙겨주는신용카드,멤버십,포인트,쿠폰",196,KR,2017-01-04
-com.lab6k.app.ssum,"CONG-메신저,그이상의혜택(콩톡)",197,KR,2017-01-04
-com.amolang.musico,"Musico-무료음악,최신가요,최신음악",198,KR,2017-01-04
-com.nhn.android.addressbookbackup,Naverアドレス帳,199,KR,2017-01-04
-app.melon.icompass,コンパス,200,KR,2017-01-04
-com.skmc.okcashbag.home_google,OK캐쉬백[즐거움이포인트다],201,KR,2017-01-04
-com.estmob.android.sendanywhere,SendAnywhere(ファイル転送・受信),202,KR,2017-01-04
-com.bandainamcoent.narutoblazingna,UltimateNinjaBlazing,203,KR,2017-01-04
-kr.co.captv.pooqV2,푹(pooq),204,KR,2017-01-04
-stonykids.baedaltong.season2,"배달통-배달의힘,배달통",205,KR,2017-01-04
-com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,206,KR,2017-01-04
-com.twitter.android,Twitter,207,KR,2017-01-04
-com.whosthat.callerid,DUCaller-CallerIDと拒否,208,KR,2017-01-04
-com.maf.moneyhero,중년기사김봉식:무한성장게임,209,KR,2017-01-04
-com.kscc.scxb.mbl,[공식]고속버스모바일,210,KR,2017-01-04
-com.shinhan.sbanking,신한S뱅크-신한은행스마트폰뱅킹,211,KR,2017-01-04
-gsshop.mobile.v2,GSSHOP,212,KR,2017-01-04
-com.iconnect.app.pts.a,カカオトーク/壁紙/ランチャー/ロック-フォンテーマショップ,213,KR,2017-01-04
-com.NextFloor.DestinyChild,데스티니차일드forKakao,214,KR,2017-01-04
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),215,KR,2017-01-04
-com.newidea.mcpestore,MCPESTORE,216,KR,2017-01-04
-com.wooribank.pib.smart,우리은행원터치개인뱅킹,217,KR,2017-01-04
-net.kernys.aooni,좀비고등학교,218,KR,2017-01-04
-kr.co.go.travel.app,"고코-호텔,펜션,콘도,리조트,숙박80%최저가할인당일예약",219,KR,2017-01-04
-com.jb.zcamera,Zカメラ,220,KR,2017-01-04
-com.tumblr,Tumblr,221,KR,2017-01-04
-com.applepie4.mylittlepet,헬로펫,222,KR,2017-01-04
-com.rsupport.mvagent,Mobizen-無料画面録画アプリ(モビゼン),223,KR,2017-01-04
-com.ea.gp.fifamobile,FIFAMobileサッカー,224,KR,2017-01-04
-com.mxtech.videoplayer.ad,MXPlayer,225,KR,2017-01-04
-com.tuck.hellomarket,헬로마켓,226,KR,2017-01-04
-com.joeware.android.gpulumera,キャンディカメラ　―　自撮り、サイレント、フィルターカメラ,227,KR,2017-01-04
-com.initplay.calendar2017ko,탁상달력2017:심플(위젯),228,KR,2017-01-04
-air.com.sgn.cookiejam.gp,クッキージャム,229,KR,2017-01-04
-kr.co.kbs.kplayer,myK,230,KR,2017-01-04
-com.mobirix.playmaze,迷路の王,231,KR,2017-01-04
-com.twoheart.dailyhotel,데일리호텔-No1.호텔&레스토랑예약앱,232,KR,2017-01-04
-com.kt.ollehusimmanager,KT금융유심관리,233,KR,2017-01-04
-com.iherb,iHerb,234,KR,2017-01-04
-com.kbstar.liivbank,리브,235,KR,2017-01-04
-com.cjenm.sknights,세븐나이츠forKakao,236,KR,2017-01-04
-com.cyworld.camera,Cymera-写真＆ビューティーエディタ,237,KR,2017-01-04
-com.onetongames.realbattlesimulator,RealBattleSimulator,238,KR,2017-01-04
-kr.backpackr.me.idus,아이디어스(idus),239,KR,2017-01-04
-com.kbcard.kat.liivmate,리브메이트,240,KR,2017-01-04
-teamDoppelGanger.SmarterSubway,지하철종결자:SmarterSubway,241,KR,2017-01-04
-com.toomics.zzamtoon.google,투믹스-웹툰(무료웹툰/인기만화),242,KR,2017-01-04
-air.com.syobe.hr,화랑더비기닝,243,KR,2017-01-04
-com.linekong.sszj.krgp,촉산forKakao,244,KR,2017-01-04
-com.qihoo.security,360セキュリティ-アンチウイルス&ブースト,245,KR,2017-01-04
-handasoft.mobile.divination,"2017점신:무료오늘의운세,사주의완전판",246,KR,2017-01-04
-com.tidyweb.filecast,파일캐스트-최신영화드라마애니TV다시보기무료앱,247,KR,2017-01-04
-mobi.MultiCraft,►MultiCraft―FreeMiner!👍,248,KR,2017-01-04
-com.tencent.mm,WeChat,249,KR,2017-01-04
-com.lotteworld.android.lottemagicpass,LOTTEWORLDMagicpass,250,KR,2017-01-04
-com.neowiz.games.newmatgo,피망뉴맞고:대한민국1등고스톱,251,KR,2017-01-04
-kt.navi,KT내비,252,KR,2017-01-04
-com.twocats.vampireidol,뱀파이어돌,253,KR,2017-01-04
-kr.co.shiftworks.vguardweb,VG기업용WebSDK,254,KR,2017-01-04
-com.munets.android.bell365season2,bell365,255,KR,2017-01-04
-ieugene.sketchquiz2,스케치퀴즈,256,KR,2017-01-04
-com.sta1.front,스타일닷컴,257,KR,2017-01-04
-com.lumensoft.touchenappfree,"앱프리-전자서명,앱프리",258,KR,2017-01-04
-com.jellybus.Moldiv,MOLDIVモルディブbyJellyBus,259,KR,2017-01-04
-software.simplicial.nebulous,Nebulous,260,KR,2017-01-04
-com.ton.tarotofoz,"오즈의타로-타로,타로카드,무료타로점,무료운세",261,KR,2017-01-04
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,262,KR,2017-01-04
-com.magiclab.insatiaio,insatiableiosnakes,263,KR,2017-01-04
-com.funplus.kingofavalon,キング・オブ・アバロン:ドラゴン戦争(KoA),264,KR,2017-01-04
-vStudio.Android.Camera360,カメラ360-個性的なファニーステッカー&美肌フィルター,265,KR,2017-01-04
-com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,266,KR,2017-01-04
-com.starbucks.co,스타벅스,267,KR,2017-01-04
-com.kakaogames.nikki,아이러브니키forKakao,268,KR,2017-01-04
-jp.co.ponos.battlecatskr,냥코대전쟁,269,KR,2017-01-04
-com.sm1.EverySing,無料カラオケeverysing！-録音/録画機能充実アプリ,270,KR,2017-01-04
-com.daebak3th.icecreamname,아이스크림퀴즈,271,KR,2017-01-04
-com.imangi.templerun2,TempleRun2,272,KR,2017-01-04
-com.interpark.shop,인터파크쇼핑,273,KR,2017-01-04
-com.megabox.mop,메가박스(MEGABOX),274,KR,2017-01-04
-com.kbcard.cxh.appcard,KB국민앱카드,275,KR,2017-01-04
-com.shinhancard.smartshinhan,신한카드,276,KR,2017-01-04
-me.pou.app,プーチッチPou,277,KR,2017-01-04
-com.instagram.layout,LayoutfromInstagram,278,KR,2017-01-04
-cn.jingling.motu.photowonder,PhotoWonder,279,KR,2017-01-04
-com.pixonic.wwr,WarRobots,280,KR,2017-01-04
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),281,KR,2017-01-04
-com.yantech.orient.tojung,"2017대박운세-무료운세,신년운세,사주,궁합,토정비결",282,KR,2017-01-04
-com.hanabank.ebk.channel.android.hananbank,KEB하나은행–스마트폰뱅킹(Hana1Qbank),283,KR,2017-01-04
-com.kscc.xzz.mbl,[공식]시외버스모바일,284,KR,2017-01-04
-kr.co.nchat.app,낯선사람랜덤채팅,285,KR,2017-01-04
-com.happyday.nametest2,신기방기이름테스트,286,KR,2017-01-04
-com.ismaker.android.simsimi,シムシミ(SimSimi),287,KR,2017-01-04
-com.m2c.studio.transparent.screen,透明なスクリーン,288,KR,2017-01-04
-gogolook.callgogolook2,Whoscall（だれ電）迷惑電話、勧誘電話を自動で着信拒否,289,KR,2017-01-04
-com.hanatour.dotcom,"하나투어-해외여행,국내여행,항공,호텔하나면돼!",290,KR,2017-01-04
-mbinc12.mb32b,無料音楽聴き放題アプリ(音楽ダウンロード無料MP3検索なし,291,KR,2017-01-04
-com.ediya.coupon,이디야멤버스,292,KR,2017-01-04
-air.com.gaetanoconsiglio.EscapePrison,刑務所からの脱出,293,KR,2017-01-04
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),294,KR,2017-01-04
-com.nas.tog.kr,신의탑withNAVERWEBTOON,295,KR,2017-01-04
-com.dhmobile.aos,AoS레전드-펜타킬,296,KR,2017-01-04
-com.playrix.township,タウンシップ(Township),297,KR,2017-01-04
-com.lotte.lottedutyfree,롯데면세점,298,KR,2017-01-04
-com.cmcm.arrowio,Arrow.io(beta),299,KR,2017-01-04
-kr.nacommunity.anyman,"애니맨고객용-해주세요,심부름,헬프서비스",300,KR,2017-01-04
-kr.co.emart.emartmall,이마트몰–emartmall,301,KR,2017-01-04
-com.omnitel.android.lottewebview,롯데홈쇼핑LOTTEHomeshopping,302,KR,2017-01-04
-com.soundcloud.android,SoundCloud-音楽＆オーディオ,303,KR,2017-01-04
-com.kakao.talk.theme.winterstory,カカオフレンズのウィンターストーリー：カカオトークテーマ,304,KR,2017-01-04
-net.cj.cjhv.gs.tving,"티빙(tving)-실시간TV,방송VOD,영화VOD",305,KR,2017-01-04
-com.cyberlink.photodirector,PhotoDirectorレタッチソフト,306,KR,2017-01-04
-teamdoppelganger.smarterbus,전국스마트버스,307,KR,2017-01-04
-tv.twitch.android.app,Twitch,308,KR,2017-01-04
-com.hyundaicard.appcard,현대카드(+앱카드),309,KR,2017-01-04
-com.stormeye.stickmanwarriors,StickmanWarriorsHeroes,310,KR,2017-01-04
-com.sktelecom.tsmartpay,"T페이(티페이,Tpay,SKTpay,T멤버십할인)",311,KR,2017-01-04
-com.groundhog.multiplayermaster,MCPEのためのマルチマスター,312,KR,2017-01-04
-com.buzzpia.aqua.launcher,[バズランチャー]65万以上の無料テーマGETしよう！,313,KR,2017-01-04
-com.kbstar.smartotp,KB스마트원통합인증,314,KR,2017-01-04
-com.wr.alrim,우리은행원터치알림,315,KR,2017-01-04
-com.kakao.style,"카카오스타일KakaoStyle-패션,스타일,여성,쇼핑몰",316,KR,2017-01-04
-kr.co.ssg,SSG.COM,317,KR,2017-01-04
-com.lotte,"롯데닷컴-Lotte.com롯데,백화점,홈쇼핑,쇼핑",318,KR,2017-01-04
-com.estsoft.alsong,알송모바일-mp3뮤직플레이어가사지원1위,319,KR,2017-01-04
-com.ibk.onebankA,i-ONE뱅크byIBK기업은행,320,KR,2017-01-04
-kr.co.company.hwahae,화해-화장품을해석하다(1등화장품어플),321,KR,2017-01-04
-com.ton.baekjum,"백점-토정비결,신년운세,무료운세,무료사주,운세",322,KR,2017-01-04
-com.ansangha.drparking4,駐車の達人4,323,KR,2017-01-04
-com.skplanet.tmaplink,Tmaplink,324,KR,2017-01-04
-com.bandainamcoent.onepiecetresurecruisekr,원피스트레저크루즈,325,KR,2017-01-04
-com.dho.mobilefax,모바일팩스,326,KR,2017-01-04
-com.aboutjsp.thedaybefore,TheDayBefore(D-Daywidget),327,KR,2017-01-04
-com.happyday.twicequiz,트와이스퀴즈,328,KR,2017-01-04
-com.elz.secondhandstore,중고나라공식어플리케이션,329,KR,2017-01-04
-com.helloinc.playlistcreator,地元のオーディオファイルのオーガナイザー,330,KR,2017-01-04
-kr.co.samsungcard.mpocket,삼성앱카드결제,331,KR,2017-01-04
-com.skype.raider,Skype,332,KR,2017-01-04
-com.skp.seio,SEIOAgent,333,KR,2017-01-04
-com.handroid.cameragunfight,CameraGunFight,334,KR,2017-01-04
-tc.wo.mbseo.minecraftskin,スキン作成-マインクラフト自分だけのスキンの作り方,335,KR,2017-01-04
-kr.co.sbs.videoplayer,SBS,336,KR,2017-01-04
-joo.com.reverse_mirror,남이보는내얼굴(거울App),337,KR,2017-01-04
-com.picsart.studio,PicsArtPhotoStudio,338,KR,2017-01-04
-com.ubisoft.hungrysharkworld,HungrySharkWorld,339,KR,2017-01-04
-kr.co.quicket,번개장터-모바일1등중고마켓앱,340,KR,2017-01-04
-com.foxygames.flyingcarrobotsim,FlyingCarRobotSimulator,341,KR,2017-01-04
-com.acuvue.ace,마이아큐브,342,KR,2017-01-04
-com.ea.games.simsfreeplay_row,TheSimsFreePlay,343,KR,2017-01-04
-com.bigair.FBENG,FindingBlueFree(KOR),344,KR,2017-01-04
-com.raongames.growcastle,グローキャッスル,345,KR,2017-01-04
-mobi.supo.cleaner,SUPOCleaner(SuperPower),346,KR,2017-01-04
-com.differencetenderwhite.skirt,ブロックパズルジュエル,347,KR,2017-01-04
-com.skmnc.gifticon,기프티콘,348,KR,2017-01-04
-com.tms,T멤버십,349,KR,2017-01-04
-net.nrise.moci,MOCI:모씨-익명의소통공간,350,KR,2017-01-04
-com.neowiz.android.bugs,"벅스-Bugs,음악도니나노",351,KR,2017-01-04
-web2.yesfile.com,"예스파일-영화,드라마,예능,만화,도서,웹툰바로보기",352,KR,2017-01-04
-com.gamecircus.PrizeClaw,PrizeClaw,353,KR,2017-01-04
-com.yes24.commerce,예스24도서서점,354,KR,2017-01-04
-com.ipapas.sajulite,정통사주–평생운세명리학대운사주팔자사주풀이,355,KR,2017-01-04
-net.dayword.jpkr,"켜자마자일본어(강제로일어단어공부-JLPT,JPT)",356,KR,2017-01-04
-com.anfy.dmadkr,무료음악다운,357,KR,2017-01-04
-nh.smart.signone,NH스마트인증-안심보안/스마트OTP,358,KR,2017-01-04
-com.cg.clawmachineprizecircus,ClawMachinePrizeCircus,359,KR,2017-01-04
-com.ansangha.drgomoku,五目並べの達人,360,KR,2017-01-04
-com.AllinGames.Politics,MasterofPolitics,361,KR,2017-01-04
-com.piano.music_tiles,ピアノタイル2：音ゲー,362,KR,2017-01-04
-com.sumi.explo3,CraftExplorationSurvival,363,KR,2017-01-04
-net.orizinal.subway,KakaoMetro-SubwayNavigation,364,KR,2017-01-04
-com.uplus.onphone,"비디오포털–실시간TV,TV다시보기,영화",365,KR,2017-01-04
-com.halfbrick.fruitninjafree,FruitNinjaFree,366,KR,2017-01-04
-com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-ビデオエディター,367,KR,2017-01-04
-com.hanaskcard.paycla,하나1Q페이(구.모비페이),368,KR,2017-01-04
-com.shinhan.smartcaremgr,신한은행-S알리미,369,KR,2017-01-04
-com.igenesoft.maze,迷路オンライン,370,KR,2017-01-04
-com.imangi.templerun,TempleRun,371,KR,2017-01-04
-com.herman.ringtone,着メロメーカー,372,KR,2017-01-04
-com.emart.today,이마트,373,KR,2017-01-04
-com.gion.android.GnMemoG,"메모G_사진메모,비밀노트,할일정리",374,KR,2017-01-04
-com.nexon.durango.lb300,DurangoLimitedBeta,375,KR,2017-01-04
-kr.co.d2.dominos,도미노피자-DominoPizzaofKorea,376,KR,2017-01-04
-com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,377,KR,2017-01-04
-com.xvideostudio.videoeditor,Videoshow-無料動画編集,378,KR,2017-01-04
-com.ViperGames.StickmanWarriors,StickmanWarriors,379,KR,2017-01-04
-com.cjenm.android.diatv.live,DIATV,380,KR,2017-01-04
-com.nexon.returners,리터너즈,381,KR,2017-01-04
-gang.beasts.america.game,IdeasforGangBeasts,382,KR,2017-01-04
-com.gau.go.launcherex.gowidget.weatherwidget,GO天気予報＆ウィジェット,383,KR,2017-01-04
-com.shinsegae.mobile.froyo,신세계몰-Shinsegaemall,384,KR,2017-01-04
-com.krqqh.efun.google,나인,385,KR,2017-01-04
-kr.or.giro.android,인터넷지로모바일,386,KR,2017-01-04
-com.dovido.android,dovido-Video&Moviemaker,387,KR,2017-01-04
-com.tube.tubedownapp,튜브다운-tubedown,388,KR,2017-01-04
-com.airbnb.android,Airbnb(エアビーアンドビー)世界の空部屋シェアサイト,389,KR,2017-01-04
-kr.co.vcnc.android.couple,カップル専用アプリBetween,390,KR,2017-01-04
-com.microsoft.office.excel,MicrosoftExcel,391,KR,2017-01-04
-jp.naver.linecamera.android,LINECamera-写真編集、アニメーションスタンプ,392,KR,2017-01-04
-com.infraware.office.link,PolarisOffice+PDF編集,393,KR,2017-01-04
-com.omnitel.android.dmb,스마트DMB-실시간TV시청,394,KR,2017-01-04
-com.kftc.bankpay.android,은행공동계좌이체PG서비스,395,KR,2017-01-04
-com.pms.pixelmonshooter,PixelmonShooting-オンライン版,396,KR,2017-01-04
-com.coolermaster.cpucooler.cooldown.free,CoolerMaster–CPUCooler,397,KR,2017-01-04
-com.iseeyourface.quizmugbang,먹방퀴즈,398,KR,2017-01-04
-com.manababa.BeggarKing,거지키우기,399,KR,2017-01-04
-com.lotteimall.tv.android.app,롯데홈쇼핑바로TV,400,KR,2017-01-04
-com.etoos.smartnetsync,ETOOSPlayerHD(이투스플레이어HD),401,KR,2017-01-04
-kr.co.citibank.citimobile,씨티모바일,402,KR,2017-01-04
-kr.caramel.flash_plus,フラッシュ+無料(Flash+Free),403,KR,2017-01-04
-org.joa.zipperplus7,ファイルマネージャ(7Zipper),404,KR,2017-01-04
-com.explorationbase.ExplorationLite,ExplorationLite,405,KR,2017-01-04
-com.atsolution.android.uotp2,U-OTP+,406,KR,2017-01-04
-com.bbros.sayup,똑닥-전국민병원찾기앱,407,KR,2017-01-04
-com.astroframe.seoulbus,KakaoBus(SeoulBus4.0),408,KR,2017-01-04
-com.candysoft.HAHW,わき毛戦士:魔界の英雄,409,KR,2017-01-04
-com.samsungpop.android.mpop,삼성증권NewmPOP(계좌개설겸용),410,KR,2017-01-04
-com.dianxinos.optimizer.duplay,DUSpeedBooster(Cleaner),411,KR,2017-01-04
-com.thinkware.inaviair,"아이나비에어:네비게이션,길찾기,교통",412,KR,2017-01-04
-com.kt.otv,올레tv모바일,413,KR,2017-01-04
-com.xmobile.wowradio,韓国のラジオ-KPOPRadio,414,KR,2017-01-04
-com.aim.racing,ExtremeCarDrivingSimulator,415,KR,2017-01-04
-com.kt.ollehfamilybox,KT패밀리박스,416,KR,2017-01-04
-com.adobe.reader,AdobeAcrobatReader,417,KR,2017-01-04
-com.naver.synap.office,네이버오피스-NaverOffice,418,KR,2017-01-04
-com.smule.singandroid,Sing!カラオケbySmule,419,KR,2017-01-04
-com.cleanmaster.security,CMSecurity-無料セキュリティ，アプリロック,420,KR,2017-01-04
-kt.co.ktmmobile,ktM모바일고객센터,421,KR,2017-01-04
-live.free.tv,"無料テレビ視聴アプリ：ドラマ,ニュースと天気予報番組表見放題",422,KR,2017-01-04
-kr.go.wetax.android,스마트위택스,423,KR,2017-01-04
-com.lbe.parallel.intl,ParallelSpace－マルチアカウント,424,KR,2017-01-04
-jp.ne.ibis.ibispaintx.app,アイビスペイントX,425,KR,2017-01-04
-com.fingersoft.hcr2,HillClimbRacing2,426,KR,2017-01-04
-com.agoda.mobile.consumer,Agoda-国内・海外ホテル宿泊予約はアゴダ®でハッピー,427,KR,2017-01-04
-com.smule.magicpiano,MagicPiano(マジックピアノ)bySmule,428,KR,2017-01-04
-com.lguplus.blocksmishing,U+스팸차단,429,KR,2017-01-04
-com.studio7775.BeatMP3,BEATMP3-リズムゲーム,430,KR,2017-01-04
-com.neowiz.games.poker,"피망포커:카지노로얄(7포커,로우바둑이,하이로우)",431,KR,2017-01-04
-com.newday.safetygohome,안심귀가서비스,432,KR,2017-01-04
-com.wonderabbit.lovedays,カップル専用アプリLovedays,433,KR,2017-01-04
-com.devuni.flashlight,フラッシュライト-TinyFlashlight®,434,KR,2017-01-04
-com.ansangha.drdriving,走行の達人,435,KR,2017-01-04
-com.campmobile.launcher,無料きせかえ★LINEランチャー★スマホがかわいく大変身,436,KR,2017-01-04
-com.diet.calorie160105,"다이어트신-다이어트식단,운동,다이어리어플",437,KR,2017-01-04
-com.bearbit.smashyroadarena,SmashyRoad:Arena,438,KR,2017-01-04
-sam.myanycar.samsungFire,삼성화재다이렉트,439,KR,2017-01-04
-com.gamevil.crush.android.google.global.normal,ナイトスリンガー,440,KR,2017-01-04
-air.jp.ne.hap.toast,トースト少女,441,KR,2017-01-04
-com.sktelecom.cookizwatch,쿠키즈워치준(COOKIZWATCHJOON),442,KR,2017-01-04
-kr.encom.gostop_p,고스톱PLUS(무료맞고게임),443,KR,2017-01-04
-socar.Socar,쏘카-대한민국1등카셰어링,444,KR,2017-01-04
-com.app.com.freetvapp,무료티비-다시보기,445,KR,2017-01-04
-com.oliveyoung,올리브영,446,KR,2017-01-04
-com.dorsia.amanda,아만다:아무나만나지않는당신을위한소개팅,447,KR,2017-01-04
-com.yodo1.crossyroad,クロッシーロード,448,KR,2017-01-04
-com.tendom.addcampus,애드캠퍼스-선배들이들려주는대학이야기,449,KR,2017-01-04
-com.wzdworks.themekeyboard,테마키보드-1만종테마/이모티콘/폰테마샵키보드2,450,KR,2017-01-04
-com.kakao.group,KakaoGroup,451,KR,2017-01-04
-com.sundaytoz.kakao.matgo.service,애니팡맞고forKakao,452,KR,2017-01-04
-com.kfmes.subway,지하철노선도,453,KR,2017-01-04
-com.ezhld.recipe,요리백과만개의레시피,454,KR,2017-01-04
-com.gismart.realpianofree,リアル・ピアノ無料,455,KR,2017-01-04
-com.NextFloor.DragonFlightKakao,DragonFlightforKakao,456,KR,2017-01-04
-com.nhnpixelcube.friendspop,프렌즈팝forKakao,457,KR,2017-01-04
-kr.co.memebox.meme,미미박스-내삶을아름답게,458,KR,2017-01-04
-com.ftt.msleague_gl,モンスタースーパーリーグ,459,KR,2017-01-04
-me.nextdoors.spacecorgi,SpaceCorgi(宇宙旅行の子犬),460,KR,2017-01-04
-kr.co.dreamshopping.mcapp,신세계TV쇼핑-신규회원10%5천원쿠폰즉시지급,461,KR,2017-01-04
-com.realbyteapps.moneymanagerfree,らくな家計簿,462,KR,2017-01-04
-com.gretech.gomplayerko,GOMPlayer,463,KR,2017-01-04
-kr.co.smartstudy.jellyking.googlemarket,JellyKing:世界を征服する,464,KR,2017-01-04
-com.th.chemi,逃げろ友よ,465,KR,2017-01-04
-com.hanbit.rundayfree,런데이,466,KR,2017-01-04
-sixclk.newpiki,피키캐스트-Pikicast,467,KR,2017-01-04
-com.nhnent.gamebox,"GAMEBOX(겜박스)-게임쿠폰,사전예약,사전등록",468,KR,2017-01-04
-com.ea.game.starwarscapital_row,スター・ウォーズ／銀河の英雄,469,KR,2017-01-04
-com.innotree.meetwo,"미투소개팅–무료채팅미팅어플(친구만남,애인만들기)",470,KR,2017-01-04
-com.gramgames.tenten,1010!,471,KR,2017-01-04
-com.cjkoreaexpress,CJ대한통운택배,472,KR,2017-01-04
-com.thefaceshop,더페이스샵,473,KR,2017-01-04
-com.seerslab.lollicam,ローリーカム–ラクガキで作る顔認識カメラ,474,KR,2017-01-04
-com.com072.app072dotcom,"땡처리닷컴-땡처리항공,호텔,당일숙박,제주여행,땡처리여행",475,KR,2017-01-04
-net.ib.android.smcard,삼성카드,476,KR,2017-01-04
-com.coolertech.fastcooler,FastCooler–PhoneCooler,477,KR,2017-01-04
-com.ea.game.fom.nexon_kr,FIFAONLINE3MbyEASPORTS™,478,KR,2017-01-04
-com.lotte.lottesmartpay,모바일결제,479,KR,2017-01-04
-kr.mappers.AtlanSmart,3D지도아틀란:내비게이션,480,KR,2017-01-04
-com.roadplus.android,고속도로교통정보,481,KR,2017-01-04
-com.nhn.android.calendar,Naverカレンダー,482,KR,2017-01-04
-com.quiz.deretestnew,데레테스트,483,KR,2017-01-04
-com.prettysimple.criminalcaseandroid,クリミナルケース,484,KR,2017-01-04
-com.pptems.ppt_clashroyal,클래시로얄무료보석충전-팡팡템,485,KR,2017-01-04
-com.hanaskcard.rocomo.potal,하나카드App,486,KR,2017-01-04
-air.jp.ne.hap.nyadle,ニャードル,487,KR,2017-01-04
-com.estsoft.alzip,圧縮はALZip！圧縮可能なファイル管理者!,488,KR,2017-01-04
-com.projectm.ezbrother.ssm,씀:일상적글쓰기,489,KR,2017-01-04
-com.bytedance.android.everfilter,Everfilter,490,KR,2017-01-04
-com.commsource.beautyplus,BeautyPlus-美カメラでナチュラル自撮り！,491,KR,2017-01-04
-net.daum.android.webtoon,다음웹툰-DaumWebtoon,492,KR,2017-01-04
-com.lguplus.paynow,페이나우(간편결제)-쇼핑할때할인,493,KR,2017-01-04
-com.machinezone.gow.kr,게임오브워(GameofWar),494,KR,2017-01-04
-com.dokebi.dokebi,도깨비전화,495,KR,2017-01-04
-video.player.audio.player.music,Android用ビデオプレーヤー,496,KR,2017-01-04
-com.sec.android.app.shealth,SHealth,497,KR,2017-01-04
-com.igg.android.lordsmobile,ロードモバイル,498,KR,2017-01-04
-com.imvu.mobilecordova,IMVUMobile,499,KR,2017-01-04
-kr.co.envn.tlxpass,"TLXPASS-1등운동,다이어트앱",500,KR,2017-01-04
-com.bulb.alchemy,Alchemy-나만의실험실,501,KR,2017-01-04
-com.northghost.touchvpn,VPNProxyUnlimited-TouchVPN,502,KR,2017-01-04
-com.yantech.orientfree,"2017황제운세(무료운세,신년운세,정통사주,토정비결)",503,KR,2017-01-04
-com.fridaynoons.playwings,플레이윙즈-항공권특가정보,504,KR,2017-01-04
-com.elena.leaf.anilink,"애니링크-인기애니,어린이영상링크를한번에!!",505,KR,2017-01-04
-com.ebay.kr.g9,쇼핑에상식을채우다.G9,506,KR,2017-01-04
-com.mnet.app,엠넷(Mnet),507,KR,2017-01-04
-com.androbaby.game2048,2048,508,KR,2017-01-04
-com.fungames.blockcraft,BlockCraft3D:無料建設ゲーム,509,KR,2017-01-04
-com.pixelmongo.pocket,PocketPixelmonGo!2Offline,510,KR,2017-01-04
-kr.co.burgerkinghybrid,(공식)버거킹BURGERKING®KOREA,511,KR,2017-01-04
-hyundai.hi.smart.android.activity,현대해상,512,KR,2017-01-04
-com.hotelscombined.mobile,ホテルズコンバインド-お得なプラン,513,KR,2017-01-04
-kr.co.aladin.third_shop,알라딘인터넷서점,514,KR,2017-01-04
-com.nh.mobilenoti,NH스마트알림,515,KR,2017-01-04
-org.telegram.messenger,Telegram,516,KR,2017-01-04
-com.gameloft.android.ANMP.GloftDMHM,怪盗グルーのミニオンラッシュ,517,KR,2017-01-04
-com.norion.p007,モンスターブレーカのヒーロー,518,KR,2017-01-04
-com.skt.prod.phonebook,"T연락처-주소록백업/동기화,114검색",519,KR,2017-01-04
-com.cyberlink.powerdirector.DRA140225_01,PowerDirector-ビデオ編集,520,KR,2017-01-04
-air.jp.ne.hap.fk,こんなフリーキックはイヤだ,521,KR,2017-01-04
-com.comprehensivefortune,운세비결-무료운세토정비결신년운세사주궁합운세,522,KR,2017-01-04
-com.pang.jianyu.google,오빠모바일,523,KR,2017-01-04
-com.imbc.mini,MBCmini(MBC미니),524,KR,2017-01-04
-com.hanafn.push.agent,하나금융그룹알리미서비스(PushAgent),525,KR,2017-01-04
-com.kmplayer,KM動画プレーヤー（無料動画再生アプリ）,526,KR,2017-01-04
-com.samsungfire.insurance,삼성화재,527,KR,2017-01-04
-com.skgames.trafficrider,TrafficRider,528,KR,2017-01-04
-com.kbcard.kbkookmincard,KB국민카드모바일홈,529,KR,2017-01-04
-air.com.eni.ChefJudy065,シェフジュディ：クリスマスケーキ作り料理ゲーム,530,KR,2017-01-04
-com.mediocre.smashhit,SmashHit,531,KR,2017-01-04
-batterysaver.cleaner.speedbooster.taskmanager.phonecooler,PowerManager–TaskManager,532,KR,2017-01-04
-kr.co.saramin.brandapp,취업사람인-채용취업공채입사지원,533,KR,2017-01-04
-com.lezhin.comics,レジンコミックス-毎日無料でWebマンガを！,534,KR,2017-01-04
-com.lguplus.tsmproxy,USIMAgent,535,KR,2017-01-04
-com.joycity.oceansandempires,オーシャン＆エンパイア:Oceans&Empires,536,KR,2017-01-04
-com.lcacApp,롯데앱카드(간편결제),537,KR,2017-01-04
-com.adsk.sketchbook,AutodeskSketchBook,538,KR,2017-01-04
-com.turner.cardwars2,CardWarsKingdom,539,KR,2017-01-04
-com.wooricard.smartapp,우리카드,540,KR,2017-01-04
+com.nsmobilehub,NS홈쇼핑,183,KR,2017-01-04
+com.gamecircus.prizeclaw2,PrizeClaw2,184,KR,2017-01-04
+com.nhn.android.blog,네이버블로그-NaverBlog,185,KR,2017-01-04
+com.interpark.app.stay,인터파크체크인나우-호텔/리조트/펜션최대85%할인,186,KR,2017-01-04
+com.devsisters.CookieRunForKakao,쿠키런forKakao,187,KR,2017-01-04
+kr.co.lottecinema.lcm,롯데시네마모바일앱,188,KR,2017-01-04
+com.wordmobile.waterslide,3Dウォータースライド,189,KR,2017-01-04
+batterysaver.cleaner.speedbooster.taskkiller.phonecooler,エネルギーセーバー,190,KR,2017-01-04
+com.studio7775.BeatMP3WU,BEATMP3forYouTube,191,KR,2017-01-04
+com.nhn.android.naverdic,Naver 辞書＆翻訳機,192,KR,2017-01-04
+com.kt.android.showtouch,"CLiP-알아서챙겨주는신용카드,멤버십,포인트,쿠폰",193,KR,2017-01-04
+com.amolang.musico,"Musico-무료음악,최신가요,최신음악",194,KR,2017-01-04
+com.cleanmaster.mguard,CleanMaster[タスクキラー/ファイル削除],195,KR,2017-01-04
+com.nhn.android.addressbookbackup,Naverアドレス帳,196,KR,2017-01-04
+app.melon.icompass,コンパス,197,KR,2017-01-04
+com.skmc.okcashbag.home_google,OK캐쉬백[즐거움이포인트다],198,KR,2017-01-04
+com.bandainamcoent.narutoblazingna,UltimateNinjaBlazing,199,KR,2017-01-04
+kr.co.captv.pooqV2,푹(pooq),200,KR,2017-01-04
+stonykids.baedaltong.season2,"배달통-배달의힘,배달통",201,KR,2017-01-04
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,202,KR,2017-01-04
+com.quvideo.xiaoying,VivaVideo-無料ビデオエディタ＆動画編集アプリ,203,KR,2017-01-04
+com.estmob.android.sendanywhere,SendAnywhere(ファイル転送・受信),204,KR,2017-01-04
+com.twitter.android,Twitter,205,KR,2017-01-04
+com.whosthat.callerid,DUCaller-CallerIDと拒否,206,KR,2017-01-04
+com.maf.moneyhero,중년기사김봉식:무한성장게임,207,KR,2017-01-04
+com.kscc.scxb.mbl,[공식]고속버스모바일,208,KR,2017-01-04
+com.shinhan.sbanking,신한S뱅크-신한은행스마트폰뱅킹,209,KR,2017-01-04
+gsshop.mobile.v2,GSSHOP,210,KR,2017-01-04
+com.iconnect.app.pts.a,カカオトーク/壁紙/ランチャー/ロック-フォンテーマショップ,211,KR,2017-01-04
+com.NextFloor.DestinyChild,데스티니차일드forKakao,212,KR,2017-01-04
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),213,KR,2017-01-04
+com.newidea.mcpestore,MCPESTORE,214,KR,2017-01-04
+com.wooribank.pib.smart,우리은행원터치개인뱅킹,215,KR,2017-01-04
+net.kernys.aooni,좀비고등학교,216,KR,2017-01-04
+kr.co.go.travel.app,"고코-호텔,펜션,콘도,리조트,숙박80%최저가할인당일예약",217,KR,2017-01-04
+com.jb.zcamera,Zカメラ,218,KR,2017-01-04
+com.tumblr,Tumblr,219,KR,2017-01-04
+com.applepie4.mylittlepet,헬로펫,220,KR,2017-01-04
+com.rsupport.mvagent,Mobizen-無料画面録画アプリ(モビゼン),221,KR,2017-01-04
+com.ea.gp.fifamobile,FIFAMobileサッカー,222,KR,2017-01-04
+com.mxtech.videoplayer.ad,MXPlayer,223,KR,2017-01-04
+com.tuck.hellomarket,헬로마켓,224,KR,2017-01-04
+com.joeware.android.gpulumera,キャンディカメラ　―　自撮り、サイレント、フィルターカメラ,225,KR,2017-01-04
+com.initplay.calendar2017ko,탁상달력2017:심플(위젯),226,KR,2017-01-04
+air.com.sgn.cookiejam.gp,クッキージャム,227,KR,2017-01-04
+kr.co.kbs.kplayer,myK,228,KR,2017-01-04
+com.mobirix.playmaze,迷路の王,229,KR,2017-01-04
+com.twoheart.dailyhotel,데일리호텔-No1.호텔&레스토랑예약앱,230,KR,2017-01-04
+com.kt.ollehusimmanager,KT금융유심관리,231,KR,2017-01-04
+com.iherb,iHerb,232,KR,2017-01-04
+com.kbstar.liivbank,리브,233,KR,2017-01-04
+com.cjenm.sknights,세븐나이츠forKakao,234,KR,2017-01-04
+com.cyworld.camera,Cymera-写真＆ビューティーエディタ,235,KR,2017-01-04
+com.onetongames.realbattlesimulator,RealBattleSimulator,236,KR,2017-01-04
+kr.backpackr.me.idus,아이디어스(idus),237,KR,2017-01-04
+com.kbcard.kat.liivmate,리브메이트,238,KR,2017-01-04
+teamDoppelGanger.SmarterSubway,지하철종결자:SmarterSubway,239,KR,2017-01-04
+com.toomics.zzamtoon.google,투믹스-웹툰(무료웹툰/인기만화),240,KR,2017-01-04
+air.com.syobe.hr,화랑더비기닝,241,KR,2017-01-04
+com.qihoo.security,360セキュリティ-アンチウイルス&ブースト,242,KR,2017-01-04
+com.linekong.sszj.krgp,촉산forKakao,243,KR,2017-01-04
+handasoft.mobile.divination,"2017점신:무료오늘의운세,사주의완전판",244,KR,2017-01-04
+com.tidyweb.filecast,파일캐스트-최신영화드라마애니TV다시보기무료앱,245,KR,2017-01-04
+mobi.MultiCraft,►MultiCraft―FreeMiner!👍,246,KR,2017-01-04
+com.tencent.mm,WeChat,247,KR,2017-01-04
+com.lotteworld.android.lottemagicpass,LOTTEWORLDMagicpass,248,KR,2017-01-04
+com.neowiz.games.newmatgo,피망뉴맞고:대한민국1등고스톱,249,KR,2017-01-04
+kt.navi,KT내비,250,KR,2017-01-04
+com.twocats.vampireidol,뱀파이어돌,251,KR,2017-01-04
+kr.co.shiftworks.vguardweb,VG기업용WebSDK,252,KR,2017-01-04
+com.munets.android.bell365season2,bell365,253,KR,2017-01-04
+ieugene.sketchquiz2,스케치퀴즈,254,KR,2017-01-04
+com.sta1.front,스타일닷컴,255,KR,2017-01-04
+com.lumensoft.touchenappfree,"앱프리-전자서명,앱프리",256,KR,2017-01-04
+com.jellybus.Moldiv,MOLDIVモルディブbyJellyBus,257,KR,2017-01-04
+software.simplicial.nebulous,Nebulous,258,KR,2017-01-04
+com.ton.tarotofoz,"오즈의타로-타로,타로카드,무료타로점,무료운세",259,KR,2017-01-04
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,260,KR,2017-01-04
+com.magiclab.insatiaio,insatiableiosnakes,261,KR,2017-01-04
+com.funplus.kingofavalon,キング・オブ・アバロン:ドラゴン戦争(KoA),262,KR,2017-01-04
+vStudio.Android.Camera360,カメラ360-個性的なファニーステッカー&美肌フィルター,263,KR,2017-01-04
+com.wr.alrim,우리은행원터치알림,264,KR,2017-01-04
+com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,265,KR,2017-01-04
+com.starbucks.co,스타벅스,266,KR,2017-01-04
+com.kakaogames.nikki,아이러브니키forKakao,267,KR,2017-01-04
+jp.co.ponos.battlecatskr,냥코대전쟁,268,KR,2017-01-04
+com.sm1.EverySing,無料カラオケeverysing！-録音/録画機能充実アプリ,269,KR,2017-01-04
+com.daebak3th.icecreamname,아이스크림퀴즈,270,KR,2017-01-04
+com.imangi.templerun2,TempleRun2,271,KR,2017-01-04
+com.interpark.shop,인터파크쇼핑,272,KR,2017-01-04
+com.megabox.mop,메가박스(MEGABOX),273,KR,2017-01-04
+com.kbcard.cxh.appcard,KB국민앱카드,274,KR,2017-01-04
+com.shinhancard.smartshinhan,신한카드,275,KR,2017-01-04
+me.pou.app,プーチッチPou,276,KR,2017-01-04
+com.instagram.layout,LayoutfromInstagram,277,KR,2017-01-04
+cn.jingling.motu.photowonder,PhotoWonder,278,KR,2017-01-04
+com.pixonic.wwr,WarRobots,279,KR,2017-01-04
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),280,KR,2017-01-04
+com.yantech.orient.tojung,"2017대박운세-무료운세,신년운세,사주,궁합,토정비결",281,KR,2017-01-04
+com.hanabank.ebk.channel.android.hananbank,KEB하나은행–스마트폰뱅킹(Hana1Qbank),282,KR,2017-01-04
+com.kscc.xzz.mbl,[공식]시외버스모바일,283,KR,2017-01-04
+kr.co.nchat.app,낯선사람랜덤채팅,284,KR,2017-01-04
+com.happyday.nametest2,신기방기이름테스트,285,KR,2017-01-04
+com.ismaker.android.simsimi,シムシミ(SimSimi),286,KR,2017-01-04
+com.m2c.studio.transparent.screen,透明なスクリーン,287,KR,2017-01-04
+gogolook.callgogolook2,Whoscall（だれ電）迷惑電話、勧誘電話を自動で着信拒否,288,KR,2017-01-04
+com.hanatour.dotcom,"하나투어-해외여행,국내여행,항공,호텔하나면돼!",289,KR,2017-01-04
+com.ediya.coupon,이디야멤버스,290,KR,2017-01-04
+air.com.gaetanoconsiglio.EscapePrison,刑務所からの脱出,291,KR,2017-01-04
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),292,KR,2017-01-04
+com.nas.tog.kr,신의탑withNAVERWEBTOON,293,KR,2017-01-04
+com.dhmobile.aos,AoS레전드-펜타킬,294,KR,2017-01-04
+com.playrix.township,タウンシップ(Township),295,KR,2017-01-04
+com.lotte.lottedutyfree,롯데면세점,296,KR,2017-01-04
+com.cmcm.arrowio,Arrow.io(beta),297,KR,2017-01-04
+kr.nacommunity.anyman,"애니맨고객용-해주세요,심부름,헬프서비스",298,KR,2017-01-04
+kr.co.emart.emartmall,이마트몰–emartmall,299,KR,2017-01-04
+com.omnitel.android.lottewebview,롯데홈쇼핑LOTTEHomeshopping,300,KR,2017-01-04
+com.soundcloud.android,SoundCloud-音楽＆オーディオ,301,KR,2017-01-04
+com.kakao.talk.theme.winterstory,カカオフレンズのウィンターストーリー：カカオトークテーマ,302,KR,2017-01-04
+net.cj.cjhv.gs.tving,"티빙(tving)-실시간TV,방송VOD,영화VOD",303,KR,2017-01-04
+com.cyberlink.photodirector,PhotoDirectorレタッチソフト,304,KR,2017-01-04
+teamdoppelganger.smarterbus,전국스마트버스,305,KR,2017-01-04
+tv.twitch.android.app,Twitch,306,KR,2017-01-04
+com.hyundaicard.appcard,현대카드(+앱카드),307,KR,2017-01-04
+com.stormeye.stickmanwarriors,StickmanWarriorsHeroes,308,KR,2017-01-04
+com.sktelecom.tsmartpay,"T페이(티페이,Tpay,SKTpay,T멤버십할인)",309,KR,2017-01-04
+com.groundhog.multiplayermaster,MCPEのためのマルチマスター,310,KR,2017-01-04
+mbinc12.mb32b,無料音楽聴き放題アプリ(音楽ダウンロード無料MP3検索なし,311,KR,2017-01-04
+com.buzzpia.aqua.launcher,[バズランチャー]65万以上の無料テーマGETしよう！,312,KR,2017-01-04
+com.kbstar.smartotp,KB스마트원통합인증,313,KR,2017-01-04
+com.kakao.style,"카카오스타일KakaoStyle-패션,스타일,여성,쇼핑몰",314,KR,2017-01-04
+kr.co.ssg,SSG.COM,315,KR,2017-01-04
+com.lotte,"롯데닷컴-Lotte.com롯데,백화점,홈쇼핑,쇼핑",316,KR,2017-01-04
+com.estsoft.alsong,알송모바일-mp3뮤직플레이어가사지원1위,317,KR,2017-01-04
+com.ibk.onebankA,i-ONE뱅크byIBK기업은행,318,KR,2017-01-04
+kr.co.company.hwahae,화해-화장품을해석하다(1등화장품어플),319,KR,2017-01-04
+com.ton.baekjum,"백점-토정비결,신년운세,무료운세,무료사주,운세",320,KR,2017-01-04
+com.ansangha.drparking4,駐車の達人4,321,KR,2017-01-04
+com.skplanet.tmaplink,Tmaplink,322,KR,2017-01-04
+com.bandainamcoent.onepiecetresurecruisekr,원피스트레저크루즈,323,KR,2017-01-04
+com.dho.mobilefax,모바일팩스,324,KR,2017-01-04
+com.aboutjsp.thedaybefore,TheDayBefore(D-Daywidget),325,KR,2017-01-04
+com.happyday.twicequiz,트와이스퀴즈,326,KR,2017-01-04
+com.elz.secondhandstore,중고나라공식어플리케이션,327,KR,2017-01-04
+com.helloinc.playlistcreator,地元のオーディオファイルのオーガナイザー,328,KR,2017-01-04
+kr.co.samsungcard.mpocket,삼성앱카드결제,329,KR,2017-01-04
+com.skype.raider,Skype,330,KR,2017-01-04
+com.skp.seio,SEIOAgent,331,KR,2017-01-04
+com.handroid.cameragunfight,CameraGunFight,332,KR,2017-01-04
+tc.wo.mbseo.minecraftskin,スキン作成-マインクラフト自分だけのスキンの作り方,333,KR,2017-01-04
+kr.co.sbs.videoplayer,SBS,334,KR,2017-01-04
+joo.com.reverse_mirror,남이보는내얼굴(거울App),335,KR,2017-01-04
+com.picsart.studio,PicsArtPhotoStudio,336,KR,2017-01-04
+com.ubisoft.hungrysharkworld,HungrySharkWorld,337,KR,2017-01-04
+kr.co.quicket,번개장터-모바일1등중고마켓앱,338,KR,2017-01-04
+com.foxygames.flyingcarrobotsim,FlyingCarRobotSimulator,339,KR,2017-01-04
+com.acuvue.ace,마이아큐브,340,KR,2017-01-04
+com.ea.games.simsfreeplay_row,TheSimsFreePlay,341,KR,2017-01-04
+com.bigair.FBENG,FindingBlueFree(KOR),342,KR,2017-01-04
+com.raongames.growcastle,グローキャッスル,343,KR,2017-01-04
+mobi.supo.cleaner,SUPOCleaner(SuperPower),344,KR,2017-01-04
+com.differencetenderwhite.skirt,ブロックパズルジュエル,345,KR,2017-01-04
+com.skmnc.gifticon,기프티콘,346,KR,2017-01-04
+com.tms,T멤버십,347,KR,2017-01-04
+net.nrise.moci,MOCI:모씨-익명의소통공간,348,KR,2017-01-04
+com.neowiz.android.bugs,"벅스-Bugs,음악도니나노",349,KR,2017-01-04
+com.airbnb.android,Airbnb(エアビーアンドビー)世界の空部屋シェアサイト,350,KR,2017-01-04
+web2.yesfile.com,"예스파일-영화,드라마,예능,만화,도서,웹툰바로보기",351,KR,2017-01-04
+com.gamecircus.PrizeClaw,PrizeClaw,352,KR,2017-01-04
+com.yes24.commerce,예스24도서서점,353,KR,2017-01-04
+com.ipapas.sajulite,정통사주–평생운세명리학대운사주팔자사주풀이,354,KR,2017-01-04
+net.dayword.jpkr,"켜자마자일본어(강제로일어단어공부-JLPT,JPT)",355,KR,2017-01-04
+com.anfy.dmadkr,무료음악다운,356,KR,2017-01-04
+nh.smart.signone,NH스마트인증-안심보안/스마트OTP,357,KR,2017-01-04
+com.cg.clawmachineprizecircus,ClawMachinePrizeCircus,358,KR,2017-01-04
+com.ansangha.drgomoku,五目並べの達人,359,KR,2017-01-04
+com.AllinGames.Politics,MasterofPolitics,360,KR,2017-01-04
+com.piano.music_tiles,ピアノタイル2：音ゲー,361,KR,2017-01-04
+com.sumi.explo3,CraftExplorationSurvival,362,KR,2017-01-04
+net.orizinal.subway,KakaoMetro-SubwayNavigation,363,KR,2017-01-04
+com.uplus.onphone,"비디오포털–실시간TV,TV다시보기,영화",364,KR,2017-01-04
+com.halfbrick.fruitninjafree,FruitNinjaFree,365,KR,2017-01-04
+com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-ビデオエディター,366,KR,2017-01-04
+com.hanaskcard.paycla,하나1Q페이(구.모비페이),367,KR,2017-01-04
+com.shinhan.smartcaremgr,신한은행-S알리미,368,KR,2017-01-04
+com.igenesoft.maze,迷路オンライン,369,KR,2017-01-04
+com.imangi.templerun,TempleRun,370,KR,2017-01-04
+com.herman.ringtone,着メロメーカー,371,KR,2017-01-04
+com.emart.today,이마트,372,KR,2017-01-04
+com.gion.android.GnMemoG,"메모G_사진메모,비밀노트,할일정리",373,KR,2017-01-04
+com.nexon.durango.lb300,DurangoLimitedBeta,374,KR,2017-01-04
+kr.co.d2.dominos,도미노피자-DominoPizzaofKorea,375,KR,2017-01-04
+com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,376,KR,2017-01-04
+com.xvideostudio.videoeditor,Videoshow-無料動画編集,377,KR,2017-01-04
+com.ViperGames.StickmanWarriors,StickmanWarriors,378,KR,2017-01-04
+com.cjenm.android.diatv.live,DIATV,379,KR,2017-01-04
+com.nexon.returners,리터너즈,380,KR,2017-01-04
+gang.beasts.america.game,IdeasforGangBeasts,381,KR,2017-01-04
+com.gau.go.launcherex.gowidget.weatherwidget,GO天気予報＆ウィジェット,382,KR,2017-01-04
+com.shinsegae.mobile.froyo,신세계몰-Shinsegaemall,383,KR,2017-01-04
+com.krqqh.efun.google,나인,384,KR,2017-01-04
+kr.or.giro.android,인터넷지로모바일,385,KR,2017-01-04
+com.dovido.android,dovido-Video&Moviemaker,386,KR,2017-01-04
+com.tube.tubedownapp,튜브다운-tubedown,387,KR,2017-01-04
+kr.co.vcnc.android.couple,カップル専用アプリBetween,388,KR,2017-01-04
+com.microsoft.office.excel,MicrosoftExcel,389,KR,2017-01-04
+jp.naver.linecamera.android,LINECamera-写真編集、アニメーションスタンプ,390,KR,2017-01-04
+com.infraware.office.link,PolarisOffice+PDF編集,391,KR,2017-01-04
+com.omnitel.android.dmb,스마트DMB-실시간TV시청,392,KR,2017-01-04
+com.kftc.bankpay.android,은행공동계좌이체PG서비스,393,KR,2017-01-04
+com.pms.pixelmonshooter,PixelmonShooting-オンライン版,394,KR,2017-01-04
+com.coolermaster.cpucooler.cooldown.free,CoolerMaster–CPUCooler,395,KR,2017-01-04
+com.iseeyourface.quizmugbang,먹방퀴즈,396,KR,2017-01-04
+com.manababa.BeggarKing,거지키우기,397,KR,2017-01-04
+com.lotteimall.tv.android.app,롯데홈쇼핑바로TV,398,KR,2017-01-04
+com.etoos.smartnetsync,ETOOSPlayerHD(이투스플레이어HD),399,KR,2017-01-04
+kr.co.citibank.citimobile,씨티모바일,400,KR,2017-01-04
+kr.caramel.flash_plus,フラッシュ+無料(Flash+Free),401,KR,2017-01-04
+org.joa.zipperplus7,ファイルマネージャ(7Zipper),402,KR,2017-01-04
+com.explorationbase.ExplorationLite,ExplorationLite,403,KR,2017-01-04
+com.atsolution.android.uotp2,U-OTP+,404,KR,2017-01-04
+com.bbros.sayup,똑닥-전국민병원찾기앱,405,KR,2017-01-04
+com.astroframe.seoulbus,KakaoBus(SeoulBus4.0),406,KR,2017-01-04
+com.candysoft.HAHW,わき毛戦士:魔界の英雄,407,KR,2017-01-04
+com.samsungpop.android.mpop,삼성증권NewmPOP(계좌개설겸용),408,KR,2017-01-04
+com.dianxinos.optimizer.duplay,DUSpeedBooster(Cleaner),409,KR,2017-01-04
+com.thinkware.inaviair,"아이나비에어:네비게이션,길찾기,교통",410,KR,2017-01-04
+com.kt.otv,올레tv모바일,411,KR,2017-01-04
+com.xmobile.wowradio,韓国のラジオ-KPOPRadio,412,KR,2017-01-04
+com.aim.racing,ExtremeCarDrivingSimulator,413,KR,2017-01-04
+com.kt.ollehfamilybox,KT패밀리박스,414,KR,2017-01-04
+com.adobe.reader,AdobeAcrobatReader,415,KR,2017-01-04
+com.naver.synap.office,네이버오피스-NaverOffice,416,KR,2017-01-04
+com.smule.singandroid,Sing!カラオケbySmule,417,KR,2017-01-04
+com.cleanmaster.security,CMSecurity-無料セキュリティ，アプリロック,418,KR,2017-01-04
+kt.co.ktmmobile,ktM모바일고객센터,419,KR,2017-01-04
+live.free.tv,"無料テレビ視聴アプリ：ドラマ,ニュースと天気予報番組表見放題",420,KR,2017-01-04
+kr.go.wetax.android,스마트위택스,421,KR,2017-01-04
+com.lbe.parallel.intl,ParallelSpace－マルチアカウント,422,KR,2017-01-04
+jp.ne.ibis.ibispaintx.app,アイビスペイントX,423,KR,2017-01-04
+com.fingersoft.hcr2,HillClimbRacing2,424,KR,2017-01-04
+com.agoda.mobile.consumer,Agoda-国内・海外ホテル宿泊予約はアゴダ®でハッピー,425,KR,2017-01-04
+com.smule.magicpiano,MagicPiano(マジックピアノ)bySmule,426,KR,2017-01-04
+com.lguplus.blocksmishing,U+스팸차단,427,KR,2017-01-04
+com.studio7775.BeatMP3,BEATMP3-リズムゲーム,428,KR,2017-01-04
+com.neowiz.games.poker,"피망포커:카지노로얄(7포커,로우바둑이,하이로우)",429,KR,2017-01-04
+com.newday.safetygohome,안심귀가서비스,430,KR,2017-01-04
+com.wonderabbit.lovedays,カップル専用アプリLovedays,431,KR,2017-01-04
+com.devuni.flashlight,フラッシュライト-TinyFlashlight®,432,KR,2017-01-04
+com.ansangha.drdriving,走行の達人,433,KR,2017-01-04
+com.campmobile.launcher,無料きせかえ★LINEランチャー★スマホがかわいく大変身,434,KR,2017-01-04
+com.diet.calorie160105,"다이어트신-다이어트식단,운동,다이어리어플",435,KR,2017-01-04
+com.bearbit.smashyroadarena,SmashyRoad:Arena,436,KR,2017-01-04
+sam.myanycar.samsungFire,삼성화재다이렉트,437,KR,2017-01-04
+com.gamevil.crush.android.google.global.normal,ナイトスリンガー,438,KR,2017-01-04
+air.jp.ne.hap.toast,トースト少女,439,KR,2017-01-04
+com.sktelecom.cookizwatch,쿠키즈워치준(COOKIZWATCHJOON),440,KR,2017-01-04
+kr.encom.gostop_p,고스톱PLUS(무료맞고게임),441,KR,2017-01-04
+socar.Socar,쏘카-대한민국1등카셰어링,442,KR,2017-01-04
+com.app.com.freetvapp,무료티비-다시보기,443,KR,2017-01-04
+com.oliveyoung,올리브영,444,KR,2017-01-04
+com.dorsia.amanda,아만다:아무나만나지않는당신을위한소개팅,445,KR,2017-01-04
+com.yodo1.crossyroad,クロッシーロード,446,KR,2017-01-04
+com.tendom.addcampus,애드캠퍼스-선배들이들려주는대학이야기,447,KR,2017-01-04
+com.wzdworks.themekeyboard,테마키보드-1만종테마/이모티콘/폰테마샵키보드2,448,KR,2017-01-04
+com.kakao.group,KakaoGroup,449,KR,2017-01-04
+com.sundaytoz.kakao.matgo.service,애니팡맞고forKakao,450,KR,2017-01-04
+com.kfmes.subway,지하철노선도,451,KR,2017-01-04
+com.ezhld.recipe,요리백과만개의레시피,452,KR,2017-01-04
+com.gismart.realpianofree,リアル・ピアノ無料,453,KR,2017-01-04
+com.NextFloor.DragonFlightKakao,DragonFlightforKakao,454,KR,2017-01-04
+com.nhnpixelcube.friendspop,프렌즈팝forKakao,455,KR,2017-01-04
+kr.co.memebox.meme,미미박스-내삶을아름답게,456,KR,2017-01-04
+com.ftt.msleague_gl,モンスタースーパーリーグ,457,KR,2017-01-04
+me.nextdoors.spacecorgi,SpaceCorgi(宇宙旅行の子犬),458,KR,2017-01-04
+kr.co.dreamshopping.mcapp,신세계TV쇼핑-신규회원10%5천원쿠폰즉시지급,459,KR,2017-01-04
+com.realbyteapps.moneymanagerfree,らくな家計簿,460,KR,2017-01-04
+com.gretech.gomplayerko,GOMPlayer,461,KR,2017-01-04
+kr.co.smartstudy.jellyking.googlemarket,JellyKing:世界を征服する,462,KR,2017-01-04
+com.th.chemi,逃げろ友よ,463,KR,2017-01-04
+com.hanbit.rundayfree,런데이,464,KR,2017-01-04
+sixclk.newpiki,피키캐스트-Pikicast,465,KR,2017-01-04
+com.nhnent.gamebox,"GAMEBOX(겜박스)-게임쿠폰,사전예약,사전등록",466,KR,2017-01-04
+com.ea.game.starwarscapital_row,スター・ウォーズ／銀河の英雄,467,KR,2017-01-04
+com.gramgames.tenten,1010!,468,KR,2017-01-04
+com.cjkoreaexpress,CJ대한통운택배,469,KR,2017-01-04
+com.thefaceshop,더페이스샵,470,KR,2017-01-04
+com.seerslab.lollicam,ローリーカム–ラクガキで作る顔認識カメラ,471,KR,2017-01-04
+com.com072.app072dotcom,"땡처리닷컴-땡처리항공,호텔,당일숙박,제주여행,땡처리여행",472,KR,2017-01-04
+net.ib.android.smcard,삼성카드,473,KR,2017-01-04
+com.coolertech.fastcooler,FastCooler–PhoneCooler,474,KR,2017-01-04
+com.ea.game.fom.nexon_kr,FIFAONLINE3MbyEASPORTS™,475,KR,2017-01-04
+com.lotte.lottesmartpay,모바일결제,476,KR,2017-01-04
+kr.mappers.AtlanSmart,3D지도아틀란:내비게이션,477,KR,2017-01-04
+com.roadplus.android,고속도로교통정보,478,KR,2017-01-04
+com.nhn.android.calendar,Naverカレンダー,479,KR,2017-01-04
+com.quiz.deretestnew,데레테스트,480,KR,2017-01-04
+com.prettysimple.criminalcaseandroid,クリミナルケース,481,KR,2017-01-04
+com.pptems.ppt_clashroyal,클래시로얄무료보석충전-팡팡템,482,KR,2017-01-04
+com.hanaskcard.rocomo.potal,하나카드App,483,KR,2017-01-04
+air.jp.ne.hap.nyadle,ニャードル,484,KR,2017-01-04
+com.estsoft.alzip,圧縮はALZip！圧縮可能なファイル管理者!,485,KR,2017-01-04
+com.projectm.ezbrother.ssm,씀:일상적글쓰기,486,KR,2017-01-04
+com.bytedance.android.everfilter,Everfilter,487,KR,2017-01-04
+com.commsource.beautyplus,BeautyPlus-美カメラでナチュラル自撮り！,488,KR,2017-01-04
+net.daum.android.webtoon,다음웹툰-DaumWebtoon,489,KR,2017-01-04
+com.lguplus.paynow,페이나우(간편결제)-쇼핑할때할인,490,KR,2017-01-04
+com.machinezone.gow.kr,게임오브워(GameofWar),491,KR,2017-01-04
+com.dokebi.dokebi,도깨비전화,492,KR,2017-01-04
+video.player.audio.player.music,Android用ビデオプレーヤー,493,KR,2017-01-04
+com.sec.android.app.shealth,SHealth,494,KR,2017-01-04
+com.igg.android.lordsmobile,ロードモバイル,495,KR,2017-01-04
+com.imvu.mobilecordova,IMVUMobile,496,KR,2017-01-04
+kr.co.envn.tlxpass,"TLXPASS-1등운동,다이어트앱",497,KR,2017-01-04
+com.bulb.alchemy,Alchemy-나만의실험실,498,KR,2017-01-04
+com.northghost.touchvpn,VPNProxyUnlimited-TouchVPN,499,KR,2017-01-04
+com.yantech.orientfree,"2017황제운세(무료운세,신년운세,정통사주,토정비결)",500,KR,2017-01-04
+com.fridaynoons.playwings,플레이윙즈-항공권특가정보,501,KR,2017-01-04
+com.elena.leaf.anilink,"애니링크-인기애니,어린이영상링크를한번에!!",502,KR,2017-01-04
+com.ebay.kr.g9,쇼핑에상식을채우다.G9,503,KR,2017-01-04
+com.mnet.app,엠넷(Mnet),504,KR,2017-01-04
+com.androbaby.game2048,2048,505,KR,2017-01-04
+com.fungames.blockcraft,BlockCraft3D:無料建設ゲーム,506,KR,2017-01-04
+com.pixelmongo.pocket,PocketPixelmonGo!2Offline,507,KR,2017-01-04
+kr.co.burgerkinghybrid,(공식)버거킹BURGERKING®KOREA,508,KR,2017-01-04
+hyundai.hi.smart.android.activity,현대해상,509,KR,2017-01-04
+com.hotelscombined.mobile,ホテルズコンバインド-お得なプラン,510,KR,2017-01-04
+kr.co.aladin.third_shop,알라딘인터넷서점,511,KR,2017-01-04
+com.nh.mobilenoti,NH스마트알림,512,KR,2017-01-04
+org.telegram.messenger,Telegram,513,KR,2017-01-04
+com.gameloft.android.ANMP.GloftDMHM,怪盗グルーのミニオンラッシュ,514,KR,2017-01-04
+com.norion.p007,モンスターブレーカのヒーロー,515,KR,2017-01-04
+com.skt.prod.phonebook,"T연락처-주소록백업/동기화,114검색",516,KR,2017-01-04
+com.cyberlink.powerdirector.DRA140225_01,PowerDirector-ビデオ編集,517,KR,2017-01-04
+air.jp.ne.hap.fk,こんなフリーキックはイヤだ,518,KR,2017-01-04
+com.comprehensivefortune,운세비결-무료운세토정비결신년운세사주궁합운세,519,KR,2017-01-04
+com.pang.jianyu.google,오빠모바일,520,KR,2017-01-04
+com.imbc.mini,MBCmini(MBC미니),521,KR,2017-01-04
+com.hanafn.push.agent,하나금융그룹알리미서비스(PushAgent),522,KR,2017-01-04
+com.kmplayer,KM動画プレーヤー（無料動画再生アプリ）,523,KR,2017-01-04
+com.samsungfire.insurance,삼성화재,524,KR,2017-01-04
+com.skgames.trafficrider,TrafficRider,525,KR,2017-01-04
+com.kbcard.kbkookmincard,KB국민카드모바일홈,526,KR,2017-01-04
+air.com.eni.ChefJudy065,シェフジュディ：クリスマスケーキ作り料理ゲーム,527,KR,2017-01-04
+com.mediocre.smashhit,SmashHit,528,KR,2017-01-04
+batterysaver.cleaner.speedbooster.taskmanager.phonecooler,PowerManager–TaskManager,529,KR,2017-01-04
+kr.co.saramin.brandapp,취업사람인-채용취업공채입사지원,530,KR,2017-01-04
+com.lezhin.comics,レジンコミックス-毎日無料でWebマンガを！,531,KR,2017-01-04
+com.lguplus.tsmproxy,USIMAgent,532,KR,2017-01-04
+com.joycity.oceansandempires,オーシャン＆エンパイア:Oceans&Empires,533,KR,2017-01-04
+com.lcacApp,롯데앱카드(간편결제),534,KR,2017-01-04
+com.adsk.sketchbook,AutodeskSketchBook,535,KR,2017-01-04
+com.turner.cardwars2,CardWarsKingdom,536,KR,2017-01-04
+com.wooricard.smartapp,우리카드,537,KR,2017-01-04
+com.pub.fm,아임쇼핑–국민의공영홈쇼핑,538,KR,2017-01-04
+com.kakao.home,"KakaoHome-launcher,theme",539,KR,2017-01-04
+kr.ebs.primary.player,EBS초등,540,KR,2017-01-04
