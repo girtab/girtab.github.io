@@ -1,0 +1,541 @@
+app_id,app_name,rank,country_code,date
+com.kakaogames.shift,원티드킬러forKakao,1,KR,2017-04-26
+jp.konami.duellinks,遊戯王デュエルリンクス,2,KR,2017-04-26
+com.stove.cfm.google,탄:끝없는전장onStove,3,KR,2017-04-26
+com.ENP.therings.kr.googleplay,반지,4,KR,2017-04-26
+com.gravity.ror.kr,라그나로크R,5,KR,2017-04-26
+com.kakaogames.lmzgplay,여명forKakao,6,KR,2017-04-26
+com.xlegend.ff.kr,아우라킹덤,7,KR,2017-04-26
+com.ncsoft.finalbladekr,파이널블레이드,8,KR,2017-04-26
+com.vespainteractive.KingsRaid,King'sRaid,9,KR,2017-04-26
+com.mouse_duck.ShurikenGame,표창키우기,10,KR,2017-04-26
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),11,KR,2017-04-26
+com.gameparadiso.milkchoco,ミルクチョコ-オンラインFPS,12,KR,2017-04-26
+com.gamevil.psrforkakao,별이되어라!forKakao,13,KR,2017-04-26
+com.snailgamekr.jiuyang_gp,건곤：무협의신,14,KR,2017-04-26
+com.kakaogames.friendsScpuzzle,프렌즈사천성forKakao,15,KR,2017-04-26
+com.netmarble.ghost,요괴,16,KR,2017-04-26
+kr.caramel.quiz_stickman,OX퀴즈서바이벌,17,KR,2017-04-26
+com.digiternomad.archer,궁수키우기(TheShadowArcher),18,KR,2017-04-26
+com.nintendo.zara,SuperMarioRun,19,KR,2017-04-26
+com.netmarble.lineageII,리니지2레볼루션,20,KR,2017-04-26
+com.ecapyc.cbp,ブロック+カラーリングパズル,21,KR,2017-04-26
+com.ftt.specialforce.kr.gl,스페셜포스forKakao,22,KR,2017-04-26
+com.cmplay.dancingline,ダンシングライン（DancingLine）,23,KR,2017-04-26
+com.pythonera.topgunkrgg,라이징포스:강철의날개,24,KR,2017-04-26
+com.nflystudio.InfiniteTrain,InfiniteTrain,25,KR,2017-04-26
+com.turbochilli.rollingsky,ローリング・スカイ,26,KR,2017-04-26
+com.nianticlabs.pokemongo,PokémonGO,27,KR,2017-04-26
+com.ckk.kamihora,그랑블루오디세이,28,KR,2017-04-26
+com.studio629.angrysaga,アングリーバード・アイランド,29,KR,2017-04-26
+com.ekkorr.endlessfrontier,오늘도환생차원의기사단:방치형RPG게임,30,KR,2017-04-26
+com.rappidstudios.simulatorbattlephysics,EpicBattleSimulator2,31,KR,2017-04-26
+com.ThreeCatGames.ThisCell,세포와나의49일,32,KR,2017-04-26
+com.devsisters.gb,クッキーラン:オーブンブレイク,33,KR,2017-04-26
+com.cmplay.tiles2,ピアノタイル2™,34,KR,2017-04-26
+com.mobirix.bowling,ワールドボウリングチャンピオンシップ,35,KR,2017-04-26
+com.nflystudio.InfiniteStaircase,無限の階段,36,KR,2017-04-26
+com.kakaogames.friendsKing,프렌즈팝콘forKakao,37,KR,2017-04-26
+net.kernys.aooni,좀비고등학교,38,KR,2017-04-26
+com.igenesoft.hide,隠れん坊オンライン,39,KR,2017-04-26
+com.secondarm.taptapdash,TapTapDash,40,KR,2017-04-26
+air.com.hypah.io.slither,slither.io,41,KR,2017-04-26
+com.cmcm.arrowio,アーチャー大作戦,42,KR,2017-04-26
+com.rationalwonders.sandboxrun,샌드박스런,43,KR,2017-04-26
+com.digitalsky.sgz.kr,난세삼국,44,KR,2017-04-26
+com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),45,KR,2017-04-26
+com.sundaytoz.kakao.anipang3.service,애니팡3forKakao,46,KR,2017-04-26
+com.wellgames.ss,스페셜솔져-모바일FPS,47,KR,2017-04-26
+com.supersolid.penguin,SuperPenguins,48,KR,2017-04-26
+kr.wonderplanet.CrashFever,크래시피버,49,KR,2017-04-26
+com.tory.island,IslandSurvival,50,KR,2017-04-26
+com.ncsoft.h2,프로야구H2,51,KR,2017-04-26
+com.roblox.client,ROBLOX,52,KR,2017-04-26
+com.mobile.legends,MobileLegends:Bangbang,53,KR,2017-04-26
+com.nexon.dynastywarriors,DynastyWarriors:Unleashed,54,KR,2017-04-26
+com.idleif.abyssrium,アビスリウム-タップで育つ水族館,55,KR,2017-04-26
+com.igenesoft.maze,迷路オンライン,56,KR,2017-04-26
+com.nflygame,선생님몰래춤추기:장난치지말아요,57,KR,2017-04-26
+com.neowiz.games.newmatgo,PmangGostop:NO.1MatgoGame,58,KR,2017-04-26
+com.msg.blast,장풍키우기,59,KR,2017-04-26
+com.applemint.deregirl,츤데레아가씨,60,KR,2017-04-26
+com.litqoo.azquiz,아재능력고사:아재개그와넌센스퀴즈,61,KR,2017-04-26
+com.kixeye.wcm,ウォーコマンダー,62,KR,2017-04-26
+com.netmarble.full2016,이사만루2017,63,KR,2017-04-26
+com.Monthly23.SwipeBrickBreaker,スワイプブロック崩し,64,KR,2017-04-26
+com.cjenm.ModooMarbleKakao,모두의마블forKakao,65,KR,2017-04-26
+com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,66,KR,2017-04-26
+com.manababa.BeggarKing2,거지키우기2한푼마을,67,KR,2017-04-26
+com.quarterborrowresult.customer,PuzzleGame,68,KR,2017-04-26
+com.raongames.bouneball,バウンシボール,69,KR,2017-04-26
+com.com2us.probaseball3d.normal.freefull.google.global.android.common,컴투스프로야구2017,70,KR,2017-04-26
+air.jp.ne.hap.mom2,ママにゲーム隠された2-脱出ゲーム,71,KR,2017-04-26
+com.kgsapp.escape,旦那にへそくり隠された!,72,KR,2017-04-26
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,73,KR,2017-04-26
+jp.co.ponos.battlecatskr,냥코대전쟁,74,KR,2017-04-26
+com.NextFloor.DragonFlightKakao,DragonFlightforKakao,75,KR,2017-04-26
+com.epicwaronline.ms,モバイルストライク【MobileStrike】,76,KR,2017-04-26
+com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),77,KR,2017-04-26
+com.firestar.builder,건물주키우기,78,KR,2017-04-26
+com.notdoppler.crashofcars,クラシューオブカーズ(CrashofCars),79,KR,2017-04-26
+com.raongames.growcastle,グローキャッスル,80,KR,2017-04-26
+com.msoundfactory.dollmachine,PushGetDolls,81,KR,2017-04-26
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),82,KR,2017-04-26
+com.intragames.WorldTree_AOS,유루드라실,83,KR,2017-04-26
+com.hanbitsoft.clubaudition,클럽오디션,84,KR,2017-04-26
+com.netmarble.penta,펜타스톰forKakao,85,KR,2017-04-26
+com.yodo1.rodeo.safari,RodeoStampede:SkyZooSafari,86,KR,2017-04-26
+com.gismart.realpianofree,ピアノ無料-鍵盤をタップするだけで曲を演奏するこ。,87,KR,2017-04-26
+com.differencetenderwhite.skirt,ブロックパズルジュエル,88,KR,2017-04-26
+com.morlia.hzsgz.kr2,무한스토리,89,KR,2017-04-26
+com.daebak3th.icecreamname,아이스크림퀴즈,90,KR,2017-04-26
+com.devsisters.CookieRunForKakao,쿠키런forKakao,91,KR,2017-04-26
+com.ilzumsa.mecardgo,터닝메카드GO,92,KR,2017-04-26
+com.banda.drinkjuice,DrinkJuiceSimulator,93,KR,2017-04-26
+com.Borame.rainroom,비내리는단칸방,94,KR,2017-04-26
+com.gamehivecorp.kicktheboss2r,BeattheBoss2(17+),95,KR,2017-04-26
+com.percent.tikitaka,TiKiTaKa!,96,KR,2017-04-26
+com.kiloo.subwaysurf,SubwaySurfers,97,KR,2017-04-26
+com.CrazyDiamond.LoveBeatAnyTime,러브비트:애니타임,98,KR,2017-04-26
+kr.co.alterna.google,얼터너티브걸즈forKakao,99,KR,2017-04-26
+com.hcg.cok.gp,クラッシュオブキングス-「城育成シミュレーションRPG」,100,KR,2017-04-26
+com.sncompany.stc,문명에서다forKakao,101,KR,2017-04-26
+com.BPGS.HSDBS,퀴즈퀴즈도봉순,102,KR,2017-04-26
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,103,KR,2017-04-26
+com.hts.ams,ArmyMenStrike,104,KR,2017-04-26
+com.gameloft.android.ANMP.GloftFWHM,スナイパーフューリー：本格シューティングゲーム,105,KR,2017-04-26
+com.koramgame.ggplay.hockr,가디스,106,KR,2017-04-26
+com.stove.supertank.google,スーパータンクランブル(SuperTankRumble),107,KR,2017-04-26
+com.sopt.mafia42.client,마피아42,108,KR,2017-04-26
+com.dreamed.physicsdrop,PhysicsDrop,109,KR,2017-04-26
+com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),110,KR,2017-04-26
+com.explorationbase.proversion1,探査プロ,111,KR,2017-04-26
+me.pou.app,プーチッチPou,112,KR,2017-04-26
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),113,KR,2017-04-26
+com.joymax.gostop,맞고의신forKakao,114,KR,2017-04-26
+com.buildingcraftinggames.theme.park.games.girls.craft.roller.coaster.tycoon.block.crafting.and.building.minecraft.sims.roblox,データパーク工作：ローラーコースター建築家,115,KR,2017-04-26
+com.ea.gp.fifamobile,FIFAMobileサッカー,116,KR,2017-04-26
+net.appliss.whitetrip,ホワイトトリップ-WhiteTrip-,117,KR,2017-04-26
+com.Meromsoft.SchoolGirlsSimulator,スクールガールズシミュレーター,118,KR,2017-04-26
+com.Mouse_Duck.DoveGame,비둘기키우기,119,KR,2017-04-26
+com.AnionSoftware.Dash,Dash,120,KR,2017-04-26
+mobi.MultiCraft,►MultiCraft―FreeMiner!👍,121,KR,2017-04-26
+com.neowiz.games.poker,"피망포커:카지노로얄(7포커,로우바둑이,하이로우)",122,KR,2017-04-26
+com.sdinfo.catchdoll.hli,캐치돌플러스:인형뽑기왕,123,KR,2017-04-26
+ieugene.sketchquiz2,스케치퀴즈,124,KR,2017-04-26
+com.maxgames.aow2,AgeofWar2,125,KR,2017-04-26
+com.batblocks.coubtower,RoyaleClans–ClashofWars,126,KR,2017-04-26
+com.cjenm.sknights,세븐나이츠forKakao,127,KR,2017-04-26
+com.mgame.catchmon,캐치몬,128,KR,2017-04-26
+com.bigair.FBENG,FindingBlueFree(KOR),129,KR,2017-04-26
+com.sumi.explo3,CraftExplorationSurvival,130,KR,2017-04-26
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,131,KR,2017-04-26
+net.basedog.deadtale,DeadtaleOnlineforUndertale,132,KR,2017-04-26
+kr.encom.gostop_p,고스톱PLUS(무료맞고게임),133,KR,2017-04-26
+com.sundaytoz.kakao.poker.service,애니팡포커forKakao,134,KR,2017-04-26
+air.jp.ne.hap.mom,ママにゲーム隠された-脱出ゲーム,135,KR,2017-04-26
+com.fgol.HungrySharkEvolutionkorea,헝그리샤크에볼루션,136,KR,2017-04-26
+com.edup.gostop_2017,무료맞고2017-새로운무료고스톱게임,137,KR,2017-04-26
+com.entermate.bob,밥위드라바(BOB),138,KR,2017-04-26
+com.itsgames.aden,아덴:환생,139,KR,2017-04-26
+com.rovio.baba,アングリーバード2(AngryBirds2),140,KR,2017-04-26
+com.th.chemi,逃げろ友よ,141,KR,2017-04-26
+com.silversnow.cdfs,CityDroneFlightSimulator,142,KR,2017-04-26
+com.zzam.HackerG,소녀키우기:해커ver,143,KR,2017-04-26
+com.goh.daya.ydonline,ゴッドオブハイスクール,144,KR,2017-04-26
+com.mpmaker.GoldMountain,GoldMountain,145,KR,2017-04-26
+software.simplicial.nebulous,Nebulous,146,KR,2017-04-26
+com.newday.highschool,체육고등학교,147,KR,2017-04-26
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),148,KR,2017-04-26
+com.sundaytoz.kakao.matgo.service,애니팡맞고forKakao,149,KR,2017-04-26
+com.amebaplatform.gangster,건달키우기:꿀잼방치형게임,150,KR,2017-04-26
+com.robtopx.geometrydashworld,GeometryDashWorld,151,KR,2017-04-26
+com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),152,KR,2017-04-26
+com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),153,KR,2017-04-26
+com.studio7775.BeatMP3WU,BEATMP3forYouTube,154,KR,2017-04-26
+net.ekgames.lod,로드오브던전,155,KR,2017-04-26
+com.ea.gp.nbamobile,NBALIVEMobileBasketball,156,KR,2017-04-26
+com.ChillyRoom.DungeonShooter,SoulKnight,157,KR,2017-04-26
+com.gamepub.te.g,손오공디펜스,158,KR,2017-04-26
+com.nhnpixelcube.friendspop,프렌즈팝forKakao,159,KR,2017-04-26
+com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,160,KR,2017-04-26
+com.ha.mobi,"모비-사전예약,사전등록,게임쿠폰",161,KR,2017-04-26
+com.bulb.alchemy,Alchemy-나만의실험실,162,KR,2017-04-26
+com.ansangha.drjb,走行の達人2,163,KR,2017-04-26
+com.mobirix.towerking,タワーディフェンス王,164,KR,2017-04-26
+com.gamevilusa.mlbpilive.android.google.global.normal,MLBPerfectInningLive,165,KR,2017-04-26
+com.enjoygame.ttzjhg,앨리맨털판타지:파이널워,166,KR,2017-04-26
+com.sundaytoz.kakao.sutda.service,애니팡섯다forKakao,167,KR,2017-04-26
+com.andromedagames.billiardsgod,당구의신,168,KR,2017-04-26
+com.glu.deerhunt16,DEERHUNTER2017,169,KR,2017-04-26
+com.rekookorea.red.google.kr,아수라,170,KR,2017-04-26
+com.neowiz.games.sudda,피망섯다,171,KR,2017-04-26
+com.ansangha.drparking4,駐車の達人4,172,KR,2017-04-26
+com.bandainamcogames.dbzdokkanww,DRAGONBALLZDOKKANBATTLE,173,KR,2017-04-26
+com.yodo1.crossyroad,クロッシーロード,174,KR,2017-04-26
+com.soulgit.age2048,Ageof2048,175,KR,2017-04-26
+com.baplay.yjkr,검그리고사랑:720도자유비행,176,KR,2017-04-26
+com.igg.android.lordsmobile,ロードモバイル【本格リアルタイムストラテジーMMORPG】,177,KR,2017-04-26
+com.ansangha.drgomoku,五目並べの達人,178,KR,2017-04-26
+com.netmarble.wefire,백발백중forKakao,179,KR,2017-04-26
+com.sundaytoz.mobile.anipang2.google.kakao.service,애니팡2forKakao,180,KR,2017-04-26
+com.hutchgames.hotwheels,HotWheels:RaceOff,181,KR,2017-04-26
+com.xincraft.games.worldcraft,ExplorationLite:WorldCraft2,182,KR,2017-04-26
+com.buzzpowder.gostop_basic,고스톱!-무료맞고,183,KR,2017-04-26
+com.imangi.templerun2,TempleRun2,184,KR,2017-04-26
+com.joymax.fr,エアロストライク,185,KR,2017-04-26
+com.pang.jianyu.google,오빠모바일,186,KR,2017-04-26
+com.bitmango.go.blockhexapuzzle,ブロック！ヘキサパズル,187,KR,2017-04-26
+com.pixonic.wwr,WarRobots,188,KR,2017-04-26
+air.com.eni.FashionJudy081,ファッションジュディ：トワイススタイルの衣装ゲーム2,189,KR,2017-04-26
+com.rappidstudios.simulatorbattle,EpicBattleSimulator,190,KR,2017-04-26
+com.camelgames.superking,WarandOrder,191,KR,2017-04-26
+com0.Company.ProductName1,3D운전교실(운전면허시험-실기)필기x,192,KR,2017-04-26
+com.androbaby.game2048,2048,193,KR,2017-04-26
+com.mangosoft.game.typing,스마트타자연습,194,KR,2017-04-26
+com.becausefruitmultiply.cloth,BlockPuzzle,195,KR,2017-04-26
+com.groundhog.multiplayermaster,マインクラフトのマルチプレーヤ,196,KR,2017-04-26
+com.redmins.muug,Muug(뮤그),197,KR,2017-04-26
+com.gameloft.android.ANMP.GloftDMHM,怪盗グルーのミニオンラッシュ,198,KR,2017-04-26
+com.aim.racing,ExtremeCarDrivingSimulator,199,KR,2017-04-26
+com.sinyee.babybus.homesafe.global,危険防止-BabyBus　幼児・子どもの安全教育アプリ,200,KR,2017-04-26
+com.sundaytoz.mobile.anisachun.google.service,애니팡사천성forKakao,201,KR,2017-04-26
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,202,KR,2017-04-26
+com.piano.music_tiles,ピアノタイル2：音ゲー,203,KR,2017-04-26
+com.imangi.templerun,TempleRun,204,KR,2017-04-26
+com.gameloft.android.ANMP.GloftNOHM,N.O.V.A.Legacy,205,KR,2017-04-26
+com.mediocre.smashhit,SmashHit,206,KR,2017-04-26
+com.monomob.omok,오목forKakao,207,KR,2017-04-26
+com.firsttouchgames.dls3,DreamLeagueSoccer2017,208,KR,2017-04-26
+jp.co.atm.vcon.ww,VALKYRIECONNECT,209,KR,2017-04-26
+com.natenai.glowhockey,GlowHockey,210,KR,2017-04-26
+com.king.bubblewitch3,バブルウィッチ3,211,KR,2017-04-26
+com.kakaogames.nikki,아이러브니키forKakao,212,KR,2017-04-26
+com.NHNEnt.NDuelgo,한게임신맞고:국가대표무료고스톱,213,KR,2017-04-26
+com.rewuio.doona,ドゥナ,214,KR,2017-04-26
+jp.oridio.cubicMaze,CUBICMAZES,215,KR,2017-04-26
+com.hyeongpil.overscouter,실력측정기:오버워치,216,KR,2017-04-26
+com.sdinfo.catchdoll,캐치돌인형뽑기,217,KR,2017-04-26
+com.gameloft.android.ANMP.GloftDOHM,ドラゴンマニア・レジェンド,218,KR,2017-04-26
+com.sundaytoz.kakao.anipangtouch,애니팡터치forKakao,219,KR,2017-04-26
+com.sundaytoz.mobile.anipang.google.service,애니팡forKakao,220,KR,2017-04-26
+com.ViperGames.StickmanWarriors,StickmanWarriors,221,KR,2017-04-26
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,222,KR,2017-04-26
+com.neowizgames.baseballslugger,진짜야구슬러거forKakao:KBO공식라이선스,223,KR,2017-04-26
+com.twotop.dobongsoonquiz,도봉순퀴즈,224,KR,2017-04-26
+com.halfbrick.fruitninjafree,FruitNinja®,225,KR,2017-04-26
+com.lezhingames.revarun,레바런,226,KR,2017-04-26
+com.gamecircus.PrizeClaw,PrizeClaw,227,KR,2017-04-26
+com.outfit7.mytalkinghank,マイ・トーキング・ハンク,228,KR,2017-04-26
+smellymoo.sand,砂:絵,229,KR,2017-04-26
+com.banda.weaponsbuilder,武器ビルダー3Dシミュレーター,230,KR,2017-04-26
+com.gangs.battle.beasts,幫派戰鬥,231,KR,2017-04-26
+com.grrr.summonermaker,만렙영웅키우기-소환사편,232,KR,2017-04-26
+com.kjysoft.ittower,InfiniteTapTower,233,KR,2017-04-26
+com.ChanWu.chanyong,검쾅화:검강화하기,234,KR,2017-04-26
+com.ketchapp.stack,Stack,235,KR,2017-04-26
+com.gramgames.tenten,1010!,236,KR,2017-04-26
+com.gamecircus.prizeclaw2,PrizeClaw2,237,KR,2017-04-26
+com.mcu.game.word.end.me.free,끝말잇기내가먼저,238,KR,2017-04-26
+com.wasd.slug,Overslug(Overwatchrungame),239,KR,2017-04-26
+air.PTjadoogoogleplaynormal130611,자두야목욕탕가자,240,KR,2017-04-26
+com.mgc.stickman.rope.hero,StickmanRopeHero,241,KR,2017-04-26
+com.fingerprinta.unlock.screen.prank,指紋ロックPrank,242,KR,2017-04-26
+com.ssicosm.slime_great_war,15슬라임:영웅키우기드래곤헌터자동사냥방치형,243,KR,2017-04-26
+com.sega.sonicdash,SonicDash,244,KR,2017-04-26
+com.king.candycrushsaga,キャンディークラッシュ,245,KR,2017-04-26
+com.sundaytoz.kakao.shanghai.service,상하이애니팡forKakao,246,KR,2017-04-26
+com.percent.madosa,MADOSA,247,KR,2017-04-26
+kr.neogames.realfarm,레알팜(RealFarm),248,KR,2017-04-26
+jp.co.ofcr.cm00,クッキングママおりょうりしましょ！,249,KR,2017-04-26
+com.com2us.kbomanager.normal2.freefull.google.global.android.common,컴투스프로야구for매니저LIVE2017,250,KR,2017-04-26
+com.monomob.jangki,장기forKAKAO,251,KR,2017-04-26
+com.day.dayhollowman,하루만투명인간,252,KR,2017-04-26
+com.newday.girlssecret,소녀의1급비밀~덕후중의덕후~,253,KR,2017-04-26
+ru.appocalypses.animefacephotoeditor,アニメ顔写​​真エディタ,254,KR,2017-04-26
+com.balysv.loop,∞InfinityLoop,255,KR,2017-04-26
+com.cyberpony.stickman.warriors.epic,StickmanWarriors2Epic,256,KR,2017-04-26
+kr.ngelgames.lod,로드오브다이스forKakao,257,KR,2017-04-26
+com.xingjoys.zgirls.gp,Zgirls,258,KR,2017-04-26
+air.com.RustyLake.CubeEscapeTheCave,CubeEscape:TheCave,259,KR,2017-04-26
+com.playrix.township,タウンシップ(Township),260,KR,2017-04-26
+com.bitmango.go.rolltheballslidepuzzle2,RolltheBall™:slidepuzzle2,261,KR,2017-04-26
+com.spilgames.UphillRush,UphillRushウォータースライダーゲーム,262,KR,2017-04-26
+com.ubisoft.hungrysharkworld,HungrySharkWorld,263,KR,2017-04-26
+com.uom.swords,SwordsModforMCPE,264,KR,2017-04-26
+com.nhnent.SKGOHN,2017갓오브하이스쿨withNAVERWEBTOON,265,KR,2017-04-26
+com.nhnent.gamebox,"GAMEBOX(겜박스)-게임쿠폰,사전예약,사전등록",266,KR,2017-04-26
+com.popreach.dumbways,DumbWaystoDieOriginal,267,KR,2017-04-26
+com.zappy.bicycle.racing.quad.stunts.simulator,自転車クワッドスタントレーサー,268,KR,2017-04-26
+cynthiaJGrenier.craftingtable.minecraftguide,CraftingGuideforMinecraft,269,KR,2017-04-26
+com.nexon.nsc.maplem,메이플스토리M,270,KR,2017-04-26
+com.aabbcc.pokequiz,"포켓몬스터(1세대)그림자퀴즈-퀴즈퀴즈,퀴즈,게임",271,KR,2017-04-26
+com.buildingcraftinggames.top.gun.minecraft.free.plane.build.craft.exploration.game.lite.pocket.mcpe.roblox.sky.world.war.jet,スクエアエア：飛行機シミュレーター,272,KR,2017-04-26
+com.highbrow.game,DragonVillage,273,KR,2017-04-26
+com.sgn.pandapop.gp,パンダポップ,274,KR,2017-04-26
+com.nfly.bpgame,벽피하기:엄마에게서튀어라,275,KR,2017-04-26
+com.kiwigo.animegirldressup.free,AnimeGirlDressUp,276,KR,2017-04-26
+com.gamefox.crosswordclassic,가로세로클래식-낱말퀴즈,277,KR,2017-04-26
+com.water.slide.adventure.vr,ウォータースライドアドベンチャーVR,278,KR,2017-04-26
+com.fungames.blockcraft,BlockCraft3D:無料建設ゲーム,279,KR,2017-04-26
+com.nas.ms.kr,마음의소리with NAVERWEBTOON,280,KR,2017-04-26
+com.rabbitmountain.rollercoaster,VRThrills:RollerCoaster360,281,KR,2017-04-26
+com.linekong.sszj.krgp,촉산forKakao,282,KR,2017-04-26
+com.swayteam.svol,スーパー・ヴィラン・ウォーSuperVillainWar,283,KR,2017-04-26
+com.kjysoft.dts,ShiningStar,284,KR,2017-04-26
+com.ReferyGames.AC,AnimalsCraftGO,285,KR,2017-04-26
+com.efun.kr.ahlm.google,다이브,286,KR,2017-04-26
+com.ea.game.fom.nexon_kr,FIFAONLINE3MbyEASPORTS™,287,KR,2017-04-26
+com.gameloft.android.ANMP.GloftUOHM,UNO™&Friends,288,KR,2017-04-26
+com.kumagames.girla,HighSchoolSimulatorGirlA,289,KR,2017-04-26
+kr.co.smartstudy.jellyking.googlemarket,JellyKing:世界を征服する,290,KR,2017-04-26
+com.rovio.angrybirds,AngryBirds,291,KR,2017-04-26
+com.TeamBolt.Ramen,라면키우기(라면크래프트),292,KR,2017-04-26
+com.daebak3th.whatisnamethedrink,음료수퀴즈,293,KR,2017-04-26
+com.fireshrike.cw,シティウォッチ～ランブルマスターズ,294,KR,2017-04-26
+com.babeltimeus.legendstd,RealmDefense:FunTowerGame,295,KR,2017-04-26
+com.unha.nojamgame,재미없는게임[노잼게임],296,KR,2017-04-26
+com.orangefish.app.pokemoniv,IVGo（Pokemon個體值の計算）,297,KR,2017-04-26
+com.cg.clawmachineprizecircus,クロー機械賞サーカス,298,KR,2017-04-26
+com.magiclab.insatiaio,insatiableiosnakes,299,KR,2017-04-26
+tag.oneday.client,원데이,300,KR,2017-04-26
+com.choirockcf.carbot,헬로카봇슈퍼대시,301,KR,2017-04-26
+com.lunosoft.disneyhiddencatch,디즈니틀린그림찾기forKakao,302,KR,2017-04-26
+com.kakarod.bighunter,ビックハンター(BigHunter),303,KR,2017-04-26
+com.zplay.beatracer,ビットレーサー,304,KR,2017-04-26
+com.Company.Z,대건물주:건물주키우기,305,KR,2017-04-26
+com.Workingbulls.YouTuberLife,게임BJ키우기-방치형클리커게임,306,KR,2017-04-26
+com.daebak3th.whatcandychocojellygum,캔디젤리퀴즈,307,KR,2017-04-26
+com.Monthly23.BounceBrickBreaker,BounceBrickBreaker,308,KR,2017-04-26
+com.gta.five.greatmod,GreatTheAuto5,309,KR,2017-04-26
+com.NextFloor.phdiver,Protocol:hyperspaceDiver,310,KR,2017-04-26
+com.dnddream.headsoccer.android,HeadSoccer,311,KR,2017-04-26
+com.longtech.lastwars.gp,LastEmpire-WarZゾンビサバイバルRPG,312,KR,2017-04-26
+com.netmarble.magu2,마구마구2017forKakao,313,KR,2017-04-26
+com.threed.bowling,ボウリング3DBowling,314,KR,2017-04-26
+air.com.edufuncreative.garosero,가로세로낱말퀴즈(상식의달인),315,KR,2017-04-26
+com.ftt.cubie.aos,キュービーアドベンチャー:キューブランドの夢見る冒険者たち,316,KR,2017-04-26
+com.Onions.hanjo,OverTraining-Hanzo,317,KR,2017-04-26
+com.nekki.shadowfight,シャドウファイト2,318,KR,2017-04-26
+com.miniclip.eightballpool,8BallPool,319,KR,2017-04-26
+com.iseeyourface.quizschool,막장학교퀴즈,320,KR,2017-04-26
+com.pz17games.pinkcraftroomforgirls,PinkCraft-RoomforGirls,321,KR,2017-04-26
+com.Level5.YWPKR,요괴워치뿌니뿌니,322,KR,2017-04-26
+com.NextFloor.FriendsRunForKakao,프렌즈런forKakao,323,KR,2017-04-26
+com.studio7775.BeatMP3,BEATMP3-リズムゲーム,324,KR,2017-04-26
+com.gaegem.thearmyofsun,군대키우기,325,KR,2017-04-26
+com.tabtale.datenightmare,ひどいニキビ-悪夢のデート,326,KR,2017-04-26
+kr.co.sincetimes.seawargp,태양,327,KR,2017-04-26
+com.CCF.Mecard,메카드레이싱,328,KR,2017-04-26
+com.blackpanther.ninjaarashi,忍者アラシ,329,KR,2017-04-26
+com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,330,KR,2017-04-26
+com.teamreally.sorrymom,ママごめんなさい(SorryMom),331,KR,2017-04-26
+com.reludo.shootingrangechallenge,RangeMaster:SniperAcademy,332,KR,2017-04-26
+com.superplanet.mm.google,메모라이즈:기억의조각,333,KR,2017-04-26
+com.kimjisub.launchpad,UniPad-launchpad,334,KR,2017-04-26
+com.WNYume.StickmanSlayer,StickmanSlayer,335,KR,2017-04-26
+com.manababa.BeggarKing,거지키우기,336,KR,2017-04-26
+com.pjmasks.moonlightheroes,PJMasks:MoonlightHeroes,337,KR,2017-04-26
+com.funplus.kingofavalon,キング・オブ・アバロン:ドラゴン戦争(KoA),338,KR,2017-04-26
+biz.mtoy.blockpuzzle.revolution,頭の体操,339,KR,2017-04-26
+com.ftt.samblade.kr.aos,삼국블레이드,340,KR,2017-04-26
+com.iseeyourface.quizmugbang,먹방퀴즈,341,KR,2017-04-26
+com.ea.game.tetris2011_row,TETRIS,342,KR,2017-04-26
+exize.tapas.girlAdrift,표류소녀,343,KR,2017-04-26
+com.ucool.heroesarena,ヒーローズ・アリーナ,344,KR,2017-04-26
+com.jimneu.orbitorbeat,Orbitor-Beat,345,KR,2017-04-26
+com.outfit7.tomsjetski,トーキング・トムのジェットスキー,346,KR,2017-04-26
+com.rayark.pluto,Deemo,347,KR,2017-04-26
+com.rkgames.smashywanted,SmashyRoad:Wanted,348,KR,2017-04-26
+ee.Javelin.SpotlightRoomEscape,Spotlight:ルームエスケープ,349,KR,2017-04-26
+com.maf.moneyhero,중년기사김봉식:대격변,350,KR,2017-04-26
+com.joycity.oceansandempires,オーシャン＆エンパイア:Oceans&Empires,351,KR,2017-04-26
+block.battle,テトリス-武闘,352,KR,2017-04-26
+com.bitmango.go.bunnypopbubble,バニーポップ,353,KR,2017-04-26
+com.bandainamcoent.onepiecetresurecruisekr,원피스트레저크루즈,354,KR,2017-04-26
+com.netmarble.rav,레이븐:각성[AWAKEN],355,KR,2017-04-26
+com.hortensiasaga.ydonline,오르텐시아사가,356,KR,2017-04-26
+com.mobirix.Alkaki,ストーン・シューター,357,KR,2017-04-26
+com.highbrow.games.dragonvillage,DragonVillage2,358,KR,2017-04-26
+com.disney.moanaislandlife_goo,MoanaIslandLife,359,KR,2017-04-26
+com.usgame.classictetris.brickclassic,BrickClassic-テトリス,360,KR,2017-04-26
+com.gameloft.android.ANMP.GloftDYHM,DisneyMagicKingdoms,361,KR,2017-04-26
+pro.guid.exploi.liters.game,GuideforExplorationLite,362,KR,2017-04-26
+com.netmarble.chachacha2g,다함께차차차2,363,KR,2017-04-26
+com.ouwi.deeeep,Deeeep.io,364,KR,2017-04-26
+com.criticalforceentertainment.criticalops,CriticalOps,365,KR,2017-04-26
+com.BlueArk.SBGS,スポンジ・ボブゲームステーション,366,KR,2017-04-26
+com.kongregate.mobile.run.google,Run,367,KR,2017-04-26
+com.neowiz.playstudio.slot.casino,피망슬롯:카지노로얄,368,KR,2017-04-26
+kr.co.ytop10,"예약TOP10-사전예약,게임쿠폰,사전등록No.1",369,KR,2017-04-26
+applemint.com.yandere,얀데레아가씨,370,KR,2017-04-26
+com.nhnent.Qpoker,한게임포커,371,KR,2017-04-26
+com.skgames.trafficrider,TrafficRider,372,KR,2017-04-26
+com.appercode.portalfingersimulator,ポータル指シミュレータ,373,KR,2017-04-26
+com.mobirix.poolpgs,ビリヤード3球4球,374,KR,2017-04-26
+com.bellapps.drinkcocktail,飲むカクテルリアルSim,375,KR,2017-04-26
+com.groundhog.mcpemaster4map,MapMasterforMinecraftPE,376,KR,2017-04-26
+com.noahgames.rockfarm2,돌멩이키우기2,377,KR,2017-04-26
+com.IdolGame,아이돌키우기,378,KR,2017-04-26
+com.miniclip.diep.io,diep.io,379,KR,2017-04-26
+com.zg.bikestunts.moto.quad,自転車レース＆クワッドスタント,380,KR,2017-04-26
+bubble.shooter.shooting.shoot.game,バブルシューター,381,KR,2017-04-26
+com.wordmobile.waterslide,3Dウォータースライド,382,KR,2017-04-26
+com.disney.disneycrossyroad_goo,Disneyクロッシーロード,383,KR,2017-04-26
+com.singlecellsoftware.sand,Sand!,384,KR,2017-04-26
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),385,KR,2017-04-26
+com.Goormsoft.PresidentMaker2,대통령키우기2:방치게임,386,KR,2017-04-26
+com.duet.pocketworld,포켓월드:탐험의섬,387,KR,2017-04-26
+com.crossfield.gomoku,五目並べ-定番ボードゲーム,388,KR,2017-04-26
+com.gameloft.android.ANMP.GloftOLHM,ギャングスターニューオーリンズ【オープンワールドゲーム】,389,KR,2017-04-26
+air.theflash.f2game.DinoRobot55,합체!다이노로봇-파라사우랩터공룡게임,390,KR,2017-04-26
+com.machinezone.gow.kr,게임오브워(GameofWar),391,KR,2017-04-26
+com.selvas.fr,FatalRaid-FPSゲーム,392,KR,2017-04-26
+com.pixelapestudios.bluk,BLUK-PhysicsAdventure,393,KR,2017-04-26
+com.ea.game.easportsufc_row,EASPORTS™UFC®,394,KR,2017-04-26
+com.turner.cardwars2,CardWarsKingdom,395,KR,2017-04-26
+jp.ne.sk_mine.android.game.emono_hofuru,獲物を屠るゲーム,396,KR,2017-04-26
+com.kakaogames.myhome,놀러와마이홈forKakao,397,KR,2017-04-26
+com.nhncorp.wooparoomountain,우파루마운틴forKakao,398,KR,2017-04-26
+com.nc.dragon.robot,DragonRobot,399,KR,2017-04-26
+com.newday.ilzzin,일진에게찍혔을때,400,KR,2017-04-26
+com.newday.changeschoolnew,전학생,401,KR,2017-04-26
+com.kumagames.highschoolsimulator,ハイスクールシミュレーター2017,402,KR,2017-04-26
+com.sinyee.babybus.amusement,知育ゲームランド-BabyBus　幼児・子供向け,403,KR,2017-04-26
+pr.lifestyle.FormerLife,전생테스트,404,KR,2017-04-26
+com.tigereyegames.wc3c,WorldChampionshipBilliards,405,KR,2017-04-26
+com.gggg.bebornbeauty,미녀의탄생,406,KR,2017-04-26
+com.cybergate.turningskirt,【やめて！】スカートめくり～無料暇つぶしゲーム～,407,KR,2017-04-26
+com.firsttouchgames.story,Score!Hero,408,KR,2017-04-26
+com.AndoridLove.jhdream,땅파기-지구를뚫어라,409,KR,2017-04-26
+com.tinylabproductions.automatrons,Automatrons:ShootandDrive,410,KR,2017-04-26
+com.gamevil.cartoonwars3.android.google.global.normal,カートゥーンウォーズ3,411,KR,2017-04-26
+com.rawple.stellarfox,STELLARFOX,412,KR,2017-04-26
+com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),413,KR,2017-04-26
+air.au.com.metro.DumbWaysToDie2,DumbWaystoDie2:TheGames,414,KR,2017-04-26
+air.jp.ne.hap.fk,こんなフリーキックはイヤだ,415,KR,2017-04-26
+com.percent.aporia,APORIA,416,KR,2017-04-26
+air.com.eni.ChefJudy030,シェフジュディ：ピクニックお弁当作り料理ゲーム,417,KR,2017-04-26
+jp.co.gu3.orange01,クリスタルオブリユニオン,418,KR,2017-04-26
+com.Figuromo.FiguromoSM,ColorMinisキッズ,419,KR,2017-04-26
+com.mobirix.differencegame,まちがい探しの王,420,KR,2017-04-26
+com.mobirix.differencegame,まちがい探しの王,421,KR,2017-04-26
+com.sgn.geniesandgems.gp,マジックジュエル,422,KR,2017-04-26
+com.cygames.Shadowverse,ShadowverseCCG,423,KR,2017-04-26
+com.fingersoft.hcr2,HillClimbRacing2,424,KR,2017-04-26
+com.webzen.muorigin.google,뮤오리진,425,KR,2017-04-26
+com.funcell.wf.korea.google,WING전장의날개,426,KR,2017-04-26
+com.gameloft.android.ANMP.Gloft5DHM,DarkQuest5（ダーククエスト5）ハクスラRPG,427,KR,2017-04-26
+com.clowngames.shootersio,Shooters.ioSpaceArena,428,KR,2017-04-26
+com.norion.p007,MonsterBreakerHero,429,KR,2017-04-26
+com.neowiz.games.newmatgoB,피망뉴맞고withBAND:대한민국1등고스톱,430,KR,2017-04-26
+com.RockyHong.BeatStomperAndroid,BeatStomper,431,KR,2017-04-26
+com.dbSoftware.sievolve,SurvivalIsland:Evolve,432,KR,2017-04-26
+com.stormx.gob,フードピア(FoodpiaTycoon),433,KR,2017-04-26
+com.iplay.assistant.toolbox.terra,LauncherforTerraria(Mods),434,KR,2017-04-26
+com.ticklestudio.ultimate.epic.battle.simulator,民間叙事詩戦闘シミュレータ,435,KR,2017-04-26
+com.droidhen.defender3,DefenderIII,436,KR,2017-04-26
+com.abluewind.garosero,가로세로낱말맞추기,437,KR,2017-04-26
+com.crack.screen.prank.bfun,ブロークン画面Prank,438,KR,2017-04-26
+com.superevilmegacorp.game,Vainglory,439,KR,2017-04-26
+com.MadBeat.WorldTree,세계수키우기,440,KR,2017-04-26
+air.com.duripuzzle.blockstory,BlockStory(BlockPuzzle),441,KR,2017-04-26
+com.wordsearch.world,シークワーズ-WordSearch-,442,KR,2017-04-26
+com.blayzegames.iosfps,BulletForce,443,KR,2017-04-26
+jp.ne.freem.YASUHATI,休むな！８分音符ちゃん/声で遊ぶ新感覚アクションゲーム,444,KR,2017-04-26
+com.robtopx.geometrydashmeltdown,GeometryDashMeltdown,445,KR,2017-04-26
+com.supercell.boombeach,ブーム・ビーチ(BoomBeach),446,KR,2017-04-26
+com.ptwl.losernerd,폐인키우기,447,KR,2017-04-26
+com.nhnent.HanBaduk,한게임바둑:방문자수No.1무료바둑앱,448,KR,2017-04-26
+com.bandainamcoent.narutoblazingna,UltimateNinjaBlazing,449,KR,2017-04-26
+com.baok.blacksmith,웨폰마스터-강화게임,450,KR,2017-04-26
+com.nexon.hit,히트,451,KR,2017-04-26
+com.ha.looting,"루팅-사전예약,사전등록,게임쿠폰",452,KR,2017-04-26
+stickmanfigh.stickmanlegends.stickmangame,StickmanFight,453,KR,2017-04-26
+com.cool4app.scream,ScreamGo,454,KR,2017-04-26
+foxduck.game.icu,eyebeams,455,KR,2017-04-26
+com.denachina.g30000008,건담얼티밋컴뱃,456,KR,2017-04-26
+com.com2us.ninepb3d.normal.freefull.google.global.android.common,MLB：9イニングス17,457,KR,2017-04-26
+com.buildingcraftinggames.drive.subway.train.simulator.games.girls.craft.minecraft.mini.metro.crafting.building.thomas.friends,地下鉄ビルダー：電車に乗ろう！,458,KR,2017-04-26
+com.eateat.snackquiz,"과자퀴즈-우리나라과자들을맞춰보자!,퀴즈퀴즈,퀴즈",459,KR,2017-04-26
+com.tapinator.crazy.goat.reloaded,CrazyGoatReloaded2016,460,KR,2017-04-26
+com.ea.games.r3_row,RealRacing3,461,KR,2017-04-26
+comup.co.kr.cashper,"캐시퍼-땅파서돈버는리워드앱(땅파기,광부)",462,KR,2017-04-26
+com.retrobox.TowerGuard,CannonMaster,463,KR,2017-04-26
+com.kabam.bigrobot,トランスフォーマー：鋼鉄の戦士たち,464,KR,2017-04-26
+com.gamehivecorp.beattheboss4,BeattheBoss4,465,KR,2017-04-26
+com.twotop.girlfriendquiz,여자친구퀴즈,466,KR,2017-04-26
+com.sinyee.babybus.brushteeth.global,ハミガキ大好き-BabyBus子ども・幼児教育アプリ,467,KR,2017-04-26
+com.firestar.prettygirl,걸그룹키우기,468,KR,2017-04-26
+com.caibaokr.gp.xdjt,바보어벤져스,469,KR,2017-04-26
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,470,KR,2017-04-26
+com.ilzumsa.carbotsd,헬로카봇틀린그림찾기,471,KR,2017-04-26
+com.studio7775.BeatMP3v2,BEATMP32.0-リズムゲーム,472,KR,2017-04-26
+com.ansangha.drdriving,走行の達人,473,KR,2017-04-26
+com.tg.blockyhelicoptercityheroes,BlockyHelicopterCityHeroes,474,KR,2017-04-26
+com.inapp.cross.stitch,CrossStitch,475,KR,2017-04-26
+net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,476,KR,2017-04-26
+jp.coffeebreakin.app.mokken,格闘ゲーム「木拳」　〜暇つぶしに人気の面白いゲーム！ハマるよ,477,KR,2017-04-26
+com.twotop.funnycho,재미있는초성퀴즈,478,KR,2017-04-26
+io.kkutu.kkutu,끄투리오,479,KR,2017-04-26
+com.ketchapp.pineapplepen,パイナッポーペン,480,KR,2017-04-26
+com.ftt.msleague_gl,モンスタースーパーリーグ,481,KR,2017-04-26
+com.water.slide.adventure,ウォータースライドアドベンチャー3D,482,KR,2017-04-26
+air.com.stateofplaygames.kamifree,KAMI,483,KR,2017-04-26
+com.buzzpowder.gostop_military,이등병맞고-무료고스톱게임,484,KR,2017-04-26
+com.mogloogames.zb,좀비버스터즈:도시의마지막밤,485,KR,2017-04-26
+com.vrts.pocketcatchpixmon,PocketPixelCraft,486,KR,2017-04-26
+com.sinyee.babybus.care,赤ちゃんの世話をする-BabyBus子ども・幼児教育アプリ,487,KR,2017-04-26
+com.naturalmotion.customstreetracer2,CSRRacing2,488,KR,2017-04-26
+com.gamestar.perfectpiano,パーフェクトピアノ(PerfectPiano),489,KR,2017-04-26
+com.scottgames.fnaf2demo,FiveNightsatFreddy's2Demo,490,KR,2017-04-26
+com.redzaam.thedark,더다크RPG:최후의순정용사,491,KR,2017-04-26
+com.jcl.lmulti,멀티의신,492,KR,2017-04-26
+com.krqqh.efun.google,나인,493,KR,2017-04-26
+com.freecraft.pocket.edition,FreeCraftPocketEdition,494,KR,2017-04-26
+air.com.RustyLake.CubeEscapeSeasons,CubeEscape:Seasons,495,KR,2017-04-26
+com.topfreegames.bikeracefreeworld,BikeRaceFree-レースゲーム,496,KR,2017-04-26
+com.juniegames.blitzcrankbattle,BlitzcrankBattle,497,KR,2017-04-26
+com.musicheroesrevenge.pianochallenge2,ピアノチャレンジ2リズムゲーム(PianoBattle),498,KR,2017-04-26
+com.frag.vrrollercoaster,VRRollerCoaster,499,KR,2017-04-26
+com.ha.zzi,"게임을낚다-ZZI(사전예약,게임쿠폰,추천게임)",500,KR,2017-04-26
+com.ketchapp.screamhero,ScreamGoHero:EighthNote,501,KR,2017-04-26
+com.joysoft.wizard,WizardDefense-Dr.Struggle,502,KR,2017-04-26
+gang.beasts.america.game,IdeasforGangBeasts,503,KR,2017-04-26
+com.candygrill.aquapolisgame.kakao,Aquapolis,504,KR,2017-04-26
+com.einpictures.CoasterVR,RollerCoasterVRDarkCity,505,KR,2017-04-26
+com.cooyostudio.penguin.run,PenguinRun,506,KR,2017-04-26
+com.codejuggler.numberknot,NumberKnot,507,KR,2017-04-26
+co.kor.gr15kko.emoticon,게임하고카톡이모티콘선물받기무료카톡이모티콘뽑기,508,KR,2017-04-26
+com.lego.ninjago.skybound,LEGO®Ninjago™:Skybound,509,KR,2017-04-26
+com.freeon.janggiG,모두의장기(혼자하기),510,KR,2017-04-26
+com.sinyee.babybus.restaurant,パンダのレストラン,511,KR,2017-04-26
+com.aiaracorp.joker,현대카드JOKER,512,KR,2017-04-26
+com.mgc.stickman.rope.hero.two,StickmanRopeHero2,513,KR,2017-04-26
+com.nexon.caocao,삼국지조조전Online,514,KR,2017-04-26
+net.peakgames.amy,ToyBlast,515,KR,2017-04-26
+com.brinicle.ourhomefairy,우리집요정-요정키우기,516,KR,2017-04-26
+com.cg.surpriseeggsclawmachine,SurpriseEggsClawMachine,517,KR,2017-04-26
+com.magiccubegames.rpsknights,ジャンケン騎士団,518,KR,2017-04-26
+com.mobirix.playmaze,迷路の王,519,KR,2017-04-26
+com.personal.dear.diary.with.lock.secret.journal,パドロックとキー付き私の日記,520,KR,2017-04-26
+com.PuryCompany.virusadventure,바이러스이후삶:60-Day:생존게임,521,KR,2017-04-26
+com.ea.game.pvz2_row,Plantsvs.Zombies2,522,KR,2017-04-26
+com.DaonCreative.UndeadKing,언데드킹forKakao,523,KR,2017-04-26
+jpark.AOS5,Angerofstick5アクションゲームrpg,524,KR,2017-04-26
+com.mg.therussianblockypolice,ロシアの塊状の警察,525,KR,2017-04-26
+com.ansangha.drjanggi,チャンギの達人,526,KR,2017-04-26
+air.com.gaetanoconsiglio.EscapePrison,刑務所からの脱出,527,KR,2017-04-26
+kr.co.sincetimes.bsg,해전1942:구구단과함께,528,KR,2017-04-26
+com.gss.grand.city.rescue.flyingrobot,飛行ロボットグランドシティレスキュー,529,KR,2017-04-26
+jp.uuum.blueman,青鬼2,530,KR,2017-04-26
+com.KnightK,여신의탑:방치형도트액션RPG,531,KR,2017-04-26
+com.bearbit.smashyroadarena,SmashyRoad:Arena,532,KR,2017-04-26
+com.cjenm.monster,몬스터길들이기forKakao,533,KR,2017-04-26
+com.wepie.snakeoff,SnakeOff-スネークオフ,534,KR,2017-04-26
+com.tradegame.shiptycoon,ShipTycoon,535,KR,2017-04-26
+com.achrogames.necromancerstory,NecromancerStory,536,KR,2017-04-26
+com.turner.freefurall,FreeFurAll–WeBareBears,537,KR,2017-04-26
+com.netmaru.digisoul,디지몬소울체이서,538,KR,2017-04-26
+com.freegamesstudio.copsvsrobbersjailbreak,強盗対警官：刑務所ブレイク,539,KR,2017-04-26
+com.Catch.pixel.monster.Pixelmon,PocketCatchPixelmon,540,KR,2017-04-26
