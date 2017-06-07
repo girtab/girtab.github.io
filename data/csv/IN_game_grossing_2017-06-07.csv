@@ -35,7 +35,7 @@ com.elex.coq.gp,クラッシュオブクイーンズ-「城・ドラゴン育成
 com.nexonm.dominations.adk,DomiNations,34,IN,2017-06-07
 com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),35,IN,2017-06-07
 com.tap4fun.reignofwar,インベーション,36,IN,2017-06-07
-com.fungames.sniper3d,スナイパー3Dアサシン-FreeGames,37,IN,2017-06-07
+com.fungames.sniper3d,Sniper3DAssassin:無料射撃ゲーム,37,IN,2017-06-07
 com.hcg.ctw.gp,ClashofKings:TheWest,38,IN,2017-06-07
 com.mobile.legends,モバイル·レジェンド:Bangbang【国別5V5バトル】,39,IN,2017-06-07
 com.supercell.boombeach,ブーム・ビーチ(BoomBeach),40,IN,2017-06-07
@@ -66,7 +66,7 @@ com.appsomniacs.da2,DoodleArmy2:MiniMilitia,64,IN,2017-06-07
 eu.nordeus.topeleven.android,TopElevenファンタジーサッカーマネージャー,65,IN,2017-06-07
 com.hotheadgames.google.free.ks2,KillShotBravo,66,IN,2017-06-07
 net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,67,IN,2017-06-07
-com.fungames.battletanksbeta,WarMachines:戦車ゲーム,68,IN,2017-06-07
+com.fungames.battletanksbeta,WarMachines-無料マルチプレイヤー戦車ゲーム,68,IN,2017-06-07
 com.rafotech.piggyboom,PiggyBoom,69,IN,2017-06-07
 com.paradisegames.blackbeardcasino,TheBlackBeard'sCasino,70,IN,2017-06-07
 com.playdemic.golf.android,ゴルフクラッシュ,71,IN,2017-06-07
@@ -323,7 +323,7 @@ net.okitoo.hackers,Hackers-Hackingsimulator,321,IN,2017-06-07
 com.frenzoo.FashionEmpireBoutiqueGirlGame,FashionEmpire-BoutiqueSim,322,IN,2017-06-07
 com.naturalmotion.csrracing,CSRRacing,323,IN,2017-06-07
 com.king.blossomblast,ブロッサム・ブラスト,324,IN,2017-06-07
-com.topfreegames.bikeracefreeworld,BikeRaceFree-レースゲーム,325,IN,2017-06-07
+com.topfreegames.bikeracefreeworld,バイクレース無料レースゲーム(BikeRace),325,IN,2017-06-07
 com.gameloft.android.ANMP.GloftHFHM,IronBladeアイアンブレイド—メディーバルRPG,326,IN,2017-06-07
 com.gamevil.kritikamobile.android.google.global.normal,クリティカ～天上の騎士団～,327,IN,2017-06-07
 air.com.sgn.cookiejam.gp,クッキージャム,328,IN,2017-06-07
@@ -419,120 +419,120 @@ com.asobimo.aurcusonline.ww,RPGAurcusOnline,417,IN,2017-06-07
 com.ea.game.maddenmobile15_row,MaddenNFLMobile,418,IN,2017-06-07
 com.sigames.fmm2017,『FootballManagerMobile2017』,419,IN,2017-06-07
 com.darksummoner,DarkSummoner,420,IN,2017-06-07
-air.com.pixelfederation.diggy,Diggy'sAdventure,421,IN,2017-06-07
-com.uken.BingoPop,BingoPop,422,IN,2017-06-07
-com.cherrypickgames.myhospital,MyHospital,423,IN,2017-06-07
-com.mobirix.shotingking,射撃の王,424,IN,2017-06-07
-com.nexters.herowars,HeroWars,425,IN,2017-06-07
-chessfriends.online.chess,チェス,426,IN,2017-06-07
-com.fivestargames.slots,SlotsFree-BigWinCasino™,427,IN,2017-06-07
-com.spaceapegames.rivalkingdoms,ライバル・キングダムー破壊の目ー,428,IN,2017-06-07
-us.kr.baseball,野球スター,429,IN,2017-06-07
-com.sticksports.stickcricket2,StickCricket2,430,IN,2017-06-07
-com.forwardchess,ForwardChess,431,IN,2017-06-07
-com.actgames.bbrr.sgp,BlazBlueRR-RealActionGame,432,IN,2017-06-07
-net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),433,IN,2017-06-07
+com.darksummoner,DarkSummoner,421,IN,2017-06-07
+air.com.pixelfederation.diggy,Diggy'sAdventure,422,IN,2017-06-07
+com.uken.BingoPop,BingoPop,423,IN,2017-06-07
+com.cherrypickgames.myhospital,MyHospital,424,IN,2017-06-07
+it.rortos.extremelandings,エクストリームランディング,425,IN,2017-06-07
+com.mobirix.shotingking,射撃の王,426,IN,2017-06-07
+com.nexters.herowars,HeroWars,427,IN,2017-06-07
+chessfriends.online.chess,チェス,428,IN,2017-06-07
+com.fivestargames.slots,SlotsFree-BigWinCasino™,429,IN,2017-06-07
+com.spaceapegames.rivalkingdoms,ライバル・キングダムー破壊の目ー,430,IN,2017-06-07
+us.kr.baseball,野球スター,431,IN,2017-06-07
+com.forwardchess,ForwardChess,432,IN,2017-06-07
+com.actgames.bbrr.sgp,BlazBlueRR-RealActionGame,433,IN,2017-06-07
 com.criticalforceentertainment.criticalops,CriticalOps,434,IN,2017-06-07
 com.nazara.tinylabproductions.chhotabheem,ChhotaBheemSpeedRacing,435,IN,2017-06-07
-com.leosfortune,レオズ・フォーチュン,436,IN,2017-06-07
-com.tap4fun.royalempire_android,栄誉帝国:王国の戦争,437,IN,2017-06-07
-com.gameloft.android.ANMP.GloftIVHM,アイス・エイジ：アドベンチャー,438,IN,2017-06-07
-com.us.ragnarok,Ragnarok:PathofHeroes,439,IN,2017-06-07
-com.superluckycasino.epicjackpot.slots.vegas.android.free,エピックジャックポットスロットマシン,440,IN,2017-06-07
-com.backflipstudios.njdash,NinJumpDash:MultiplayerRace,441,IN,2017-06-07
-com.eamobile.monopoly_row_wf,MONOPOLYGame,442,IN,2017-06-07
-com.mozat.invader,WarTime,443,IN,2017-06-07
-com.gameloft.android.ANMP.GloftRAHM,GTレーシング2：TheRealCarExp,444,IN,2017-06-07
-it.rortos.airfighters,AirFighters,445,IN,2017-06-07
-com.outfit7.mytalkinghank,マイ・トーキング・ハンク,446,IN,2017-06-07
-com.bw.fallensouls,FallenSouls-DragonBattle,447,IN,2017-06-07
-com.bigvikinggames.YoMo,YoWorldMobileCompanionApp,448,IN,2017-06-07
-com.kixeye.vegaconflict,VEGAConflict,449,IN,2017-06-07
-com.finalclash.poppace,FinalClash:3DFANTASYMMORPG,450,IN,2017-06-07
-de.shplay.missionchief.v2,MissionChief,451,IN,2017-06-07
-bubbleshooter.android,BubbleShooter,452,IN,2017-06-07
-com.igames.bottleshooterexpert,Bottle3DShootingExpert,453,IN,2017-06-07
-com.ludia.tmnt,NinjaTurtles:Legends,454,IN,2017-06-07
-com.wordsmobile.RealBikeRacing,リアルなバイクレーシング3D,455,IN,2017-06-07
-com.HomeNetGames.Pirates,ThePirate:CaribbeanHunt,456,IN,2017-06-07
-com.volvapps.ef3.x.admob,ModernAirCombat:TeamMatch,457,IN,2017-06-07
-it.rortos.extremelandings,エクストリームランディング,458,IN,2017-06-07
-com.ftt.sevenguardians.gl.global,セブンガーディアンズ　終わりなき戦争,459,IN,2017-06-07
-com.xs.pooltd,3Dビリヤード,460,IN,2017-06-07
-com.ea.game.pvz2_row,Plantsvs.Zombies2,461,IN,2017-06-07
-com.gtarcade.loa.ph,LeagueofAngels-FireRaiders,462,IN,2017-06-07
-com.makingfun.mageandminions,Eternium:MageAndMinions,463,IN,2017-06-07
-gl.fx.galaxycontrol,GalaxyControl:3D戦略,464,IN,2017-06-07
-com.kobojo.mutants,MutantsGeneticGladiators,465,IN,2017-06-07
-com.voltage.joshige.tenka.en,SamuraiLoveBallad:PARTY,466,IN,2017-06-07
-com.hotheadgames.google.free.zombie,KillShotVirus,467,IN,2017-06-07
-cookie.crush.pop,CookieCrushMatch3,468,IN,2017-06-07
-com.jumpgames.RealSteel,RealSteel,469,IN,2017-06-07
-com.wgt.android.golf,WGTGolfGamebyTopgolf,470,IN,2017-06-07
-com.glu.contractkiller2,CONTRACTKILLER2,471,IN,2017-06-07
-org.nanobit.hollywood,HollywoodStory,472,IN,2017-06-07
-com.williamsinteractive.jackpotparty,JackpotPartyカジノスロットゲーム,473,IN,2017-06-07
-com.glu.stardomkim,KIMKARDASHIAN:HOLLYWOOD,474,IN,2017-06-07
-com.flaregames.projectmacro,DawnofSteel,475,IN,2017-06-07
-com.bigduckgames.flow,FlowFree,476,IN,2017-06-07
-com.imangi.templerun,TempleRun,477,IN,2017-06-07
-jp.gree.modernwar,ModernWarbyGREE,478,IN,2017-06-07
-com.rockstar.maxpayne,マックス・ペインモバイル,479,IN,2017-06-07
-air.com.playforia.iq.bubbles.android,BubblesIQ,480,IN,2017-06-07
-com.linkdesks.jewellegend,JewelsLegend,481,IN,2017-06-07
-com.thegame.rollercoastersimulator2016,RollerCoasterSimulator2016,482,IN,2017-06-07
-com.gamevil.darknessreborn2.android.google.global.normal,ダークアベンジャー2,483,IN,2017-06-07
-air.com.bitrhymes.bingo,タイトル:BingoBash–無料のビンゴカジノ,484,IN,2017-06-07
-ca.lbcstudios.hempire,Hempire-WeedGrowingGame,485,IN,2017-06-07
-com.disruptorbeam.StarTrekTimelines,StarTrekTimelines,486,IN,2017-06-07
-com.uken.android.crimeinc,CrimeInc.,487,IN,2017-06-07
-com.ministone.game.RisingStarChef,トップシェフ,488,IN,2017-06-07
-com.bigfishgames.dungeonbossf2pgoogle,DungeonBoss,489,IN,2017-06-07
-com.teamlava.bubble,バブルマニア™,490,IN,2017-06-07
-com.superluckycasino.viponly.slots.vegas.android.free,VIPデラックス：無料スロットマシーン,491,IN,2017-06-07
-com.disney.frozensaga_goo,アナと雪の女王：FreeFall,492,IN,2017-06-07
-com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,493,IN,2017-06-07
-com.nextgames.android.twd,TheWalkingDeadNoMan'sLand,494,IN,2017-06-07
-com.eamobile.sims3_row_qwf,TheSims™3,495,IN,2017-06-07
-com.naturalmotion.csrclassics,CSRClassics,496,IN,2017-06-07
-org.ppsspp.ppssppgold,PPSSPPGOLD-PSPemulator,497,IN,2017-06-07
-air.com.FDGEntertainment.Lonewolf.gp,LONEWOLF(17+),498,IN,2017-06-07
-com.bigblueparrot.pokerfriends,PokerHeat:テキサスホールデムポーカー,499,IN,2017-06-07
+net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),436,IN,2017-06-07
+com.sticksports.stickcricket2,StickCricket2,437,IN,2017-06-07
+com.leosfortune,レオズ・フォーチュン,438,IN,2017-06-07
+com.tap4fun.royalempire_android,栄誉帝国:王国の戦争,439,IN,2017-06-07
+com.gameloft.android.ANMP.GloftIVHM,アイス・エイジ：アドベンチャー,440,IN,2017-06-07
+com.us.ragnarok,Ragnarok:PathofHeroes,441,IN,2017-06-07
+com.superluckycasino.epicjackpot.slots.vegas.android.free,エピックジャックポットスロットマシン,442,IN,2017-06-07
+com.backflipstudios.njdash,NinJumpDash:MultiplayerRace,443,IN,2017-06-07
+com.eamobile.monopoly_row_wf,MONOPOLYGame,444,IN,2017-06-07
+com.mozat.invader,WarTime,445,IN,2017-06-07
+com.gameloft.android.ANMP.GloftRAHM,GTレーシング2：TheRealCarExp,446,IN,2017-06-07
+it.rortos.airfighters,AirFighters,447,IN,2017-06-07
+com.outfit7.mytalkinghank,マイ・トーキング・ハンク,448,IN,2017-06-07
+com.bigduckgames.flow,FlowFree,449,IN,2017-06-07
+com.bw.fallensouls,FallenSouls-DragonBattle,450,IN,2017-06-07
+com.bigvikinggames.YoMo,YoWorldMobileCompanionApp,451,IN,2017-06-07
+com.kixeye.vegaconflict,VEGAConflict,452,IN,2017-06-07
+com.finalclash.poppace,FinalClash:3DFANTASYMMORPG,453,IN,2017-06-07
+de.shplay.missionchief.v2,MissionChief,454,IN,2017-06-07
+bubbleshooter.android,BubbleShooter,455,IN,2017-06-07
+com.igames.bottleshooterexpert,Bottle3DShootingExpert,456,IN,2017-06-07
+com.ludia.tmnt,NinjaTurtles:Legends,457,IN,2017-06-07
+com.wordsmobile.RealBikeRacing,リアルなバイクレーシング3D,458,IN,2017-06-07
+com.HomeNetGames.Pirates,ThePirate:CaribbeanHunt,459,IN,2017-06-07
+com.ftt.sevenguardians.gl.global,セブンガーディアンズ　終わりなき戦争,460,IN,2017-06-07
+com.xs.pooltd,3Dビリヤード,461,IN,2017-06-07
+com.ea.game.pvz2_row,Plantsvs.Zombies2,462,IN,2017-06-07
+com.gtarcade.loa.ph,LeagueofAngels-FireRaiders,463,IN,2017-06-07
+com.makingfun.mageandminions,Eternium:MageAndMinions,464,IN,2017-06-07
+gl.fx.galaxycontrol,GalaxyControl:3D戦略,465,IN,2017-06-07
+com.kobojo.mutants,MutantsGeneticGladiators,466,IN,2017-06-07
+com.voltage.joshige.tenka.en,SamuraiLoveBallad:PARTY,467,IN,2017-06-07
+com.hotheadgames.google.free.zombie,KillShotVirus,468,IN,2017-06-07
+cookie.crush.pop,CookieCrushMatch3,469,IN,2017-06-07
+com.jumpgames.RealSteel,RealSteel,470,IN,2017-06-07
+com.gameloft.android.ANMP.GloftDMHM,怪盗グルーのミニオンラッシュ,471,IN,2017-06-07
+com.wgt.android.golf,WGTGolfGamebyTopgolf,472,IN,2017-06-07
+com.glu.contractkiller2,CONTRACTKILLER2,473,IN,2017-06-07
+org.nanobit.hollywood,HollywoodStory,474,IN,2017-06-07
+com.williamsinteractive.jackpotparty,JackpotPartyカジノスロットゲーム,475,IN,2017-06-07
+com.glu.stardomkim,KIMKARDASHIAN:HOLLYWOOD,476,IN,2017-06-07
+com.flaregames.projectmacro,DawnofSteel,477,IN,2017-06-07
+com.imangi.templerun,TempleRun,478,IN,2017-06-07
+jp.gree.modernwar,ModernWarbyGREE,479,IN,2017-06-07
+com.rockstar.maxpayne,マックス・ペインモバイル,480,IN,2017-06-07
+air.com.playforia.iq.bubbles.android,BubblesIQ,481,IN,2017-06-07
+com.linkdesks.jewellegend,JewelsLegend,482,IN,2017-06-07
+com.thegame.rollercoastersimulator2016,RollerCoasterSimulator2016,483,IN,2017-06-07
+com.gamevil.darknessreborn2.android.google.global.normal,ダークアベンジャー2,484,IN,2017-06-07
+air.com.bitrhymes.bingo,タイトル:BingoBash–無料のビンゴカジノ,485,IN,2017-06-07
+ca.lbcstudios.hempire,Hempire-WeedGrowingGame,486,IN,2017-06-07
+com.disruptorbeam.StarTrekTimelines,StarTrekTimelines,487,IN,2017-06-07
+com.uken.android.crimeinc,CrimeInc.,488,IN,2017-06-07
+com.ministone.game.RisingStarChef,トップシェフ,489,IN,2017-06-07
+com.bigfishgames.dungeonbossf2pgoogle,DungeonBoss,490,IN,2017-06-07
+com.teamlava.bubble,バブルマニア™,491,IN,2017-06-07
+com.superluckycasino.viponly.slots.vegas.android.free,VIPデラックス：無料スロットマシーン,492,IN,2017-06-07
+com.disney.frozensaga_goo,アナと雪の女王：FreeFall,493,IN,2017-06-07
+com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,494,IN,2017-06-07
+com.nextgames.android.twd,TheWalkingDeadNoMan'sLand,495,IN,2017-06-07
+com.eamobile.sims3_row_qwf,TheSims™3,496,IN,2017-06-07
+com.naturalmotion.csrclassics,CSRClassics,497,IN,2017-06-07
+org.ppsspp.ppssppgold,PPSSPPGOLD-PSPemulator,498,IN,2017-06-07
+air.com.FDGEntertainment.Lonewolf.gp,LONEWOLF(17+),499,IN,2017-06-07
 com.tbegames.and.best_moto_race,MotoRiderGO:HighwayTraffic,500,IN,2017-06-07
 com.igg.pokerdeluxepro,TexasHoldEmPokerDeluxePro,501,IN,2017-06-07
 com.superbox.aos.bingo,ビンゴベイ-FreeBingoGames,502,IN,2017-06-07
 com.belkatechnologies.clockmaker,クロックメーカーマッチ3,503,IN,2017-06-07
-com.my.hawk.air.shooter,HAWK:FreedomSquadron,504,IN,2017-06-07
-com.blitwise.ptankshd,PocketTanks,505,IN,2017-06-07
-com.ninjakiwi.sasza4,SAS:ZombieAssault4,506,IN,2017-06-07
-com.rockstargames.bully,Bully:AnniversaryEdition,507,IN,2017-06-07
-com.rocket.supercommander,MetalShooter:RunandGun,508,IN,2017-06-07
-com.gamemiracle.iHorseRacing2,iHorseRacing2-horsemanager,509,IN,2017-06-07
-com.camexgame.heroes,魔法の紋章(HeroesTactics)：戦略PvP,510,IN,2017-06-07
-com.boombitgames.TinyGladiators,TinyGladiators,511,IN,2017-06-07
-com.glu.contractkiller3,コントラクトキラー：スナイパー,512,IN,2017-06-07
-com.progrestar.bft,ThroneRush,513,IN,2017-06-07
-com.milliongames.impossibletracks,不可能なトラック3D,514,IN,2017-06-07
-com.ovilex.realdriving3d,RealDriving3D,515,IN,2017-06-07
-com.aladinfun.clashofsky_th_pig,PiggyBoom-Piggylover,516,IN,2017-06-07
-com.apprope.wordsearch,WordWhizzleSearch,517,IN,2017-06-07
-com.ovilex.drivingschool2016,DrivingSchool2016,518,IN,2017-06-07
-com.stargame.bjbb.sea,BraveBlade,519,IN,2017-06-07
-com.tradegame.shiptycoon,ShipTycoon,520,IN,2017-06-07
-com.idriscelik.f787anadolu,Flight787-Advanced,521,IN,2017-06-07
-com.boyaa.fben,BoyaaTexasPoker,522,IN,2017-06-07
+com.blitwise.ptankshd,PocketTanks,504,IN,2017-06-07
+com.ninjakiwi.sasza4,SAS:ZombieAssault4,505,IN,2017-06-07
+com.rockstargames.bully,Bully:AnniversaryEdition,506,IN,2017-06-07
+com.rocket.supercommander,MetalShooter:RunandGun,507,IN,2017-06-07
+com.gamemiracle.iHorseRacing2,iHorseRacing2-horsemanager,508,IN,2017-06-07
+com.camexgame.heroes,魔法の紋章(HeroesTactics)：戦略PvP,509,IN,2017-06-07
+com.boombitgames.TinyGladiators,TinyGladiators,510,IN,2017-06-07
+com.glu.contractkiller3,コントラクトキラー：スナイパー,511,IN,2017-06-07
+com.progrestar.bft,ThroneRush,512,IN,2017-06-07
+com.milliongames.impossibletracks,不可能なトラック3D,513,IN,2017-06-07
+com.ovilex.realdriving3d,RealDriving3D,514,IN,2017-06-07
+com.aladinfun.clashofsky_th_pig,PiggyBoom-Piggylover,515,IN,2017-06-07
+com.apprope.wordsearch,WordWhizzleSearch,516,IN,2017-06-07
+com.ovilex.drivingschool2016,DrivingSchool2016,517,IN,2017-06-07
+com.stargame.bjbb.sea,BraveBlade,518,IN,2017-06-07
+com.tradegame.shiptycoon,ShipTycoon,519,IN,2017-06-07
+com.idriscelik.f787anadolu,Flight787-Advanced,520,IN,2017-06-07
+com.boyaa.fben,BoyaaTexasPoker,521,IN,2017-06-07
+com.volvapps.ef3.x.admob,ModernAirCombat:TeamMatch,522,IN,2017-06-07
 com.igames.bottleshootergame,ゲームのエキスパートを撮影ボトル,523,IN,2017-06-07
 com.game.motorsportmanager,MotorsportManagerMobile,524,IN,2017-06-07
 com.eyougame.wdh,Witchers,525,IN,2017-06-07
-com.ea.tetrisblitz_row,TETRISBlitz,526,IN,2017-06-07
-com.ftt.msleague_gl,モンスタースーパーリーグ,527,IN,2017-06-07
-com.zynga.ozmatch,WizardofOz:MagicMatch,528,IN,2017-06-07
-com.kongregate.mobile.burritobison3.google,BurritoBison:LaunchaLibre,529,IN,2017-06-07
-com.dkc.gfpp,GirlfriendPlus,530,IN,2017-06-07
-jp.co.sega.vtc,VirtuaTennis™Challenge,531,IN,2017-06-07
-com.glu.samuzombie2,サムライvsゾンビ2,532,IN,2017-06-07
-com.awem.cradleofempires.andr,CradleofEmpires,533,IN,2017-06-07
-com.rockbite.deeptown,DeepTown:MiningFactory,534,IN,2017-06-07
+com.rockstargames.gtalcs,GTA:LibertyCityStories,526,IN,2017-06-07
+com.ea.tetrisblitz_row,TETRISBlitz,527,IN,2017-06-07
+com.ftt.msleague_gl,モンスタースーパーリーグ,528,IN,2017-06-07
+com.zynga.ozmatch,WizardofOz:MagicMatch,529,IN,2017-06-07
+com.kongregate.mobile.burritobison3.google,BurritoBison:LaunchaLibre,530,IN,2017-06-07
+com.dkc.gfpp,GirlfriendPlus,531,IN,2017-06-07
+jp.co.sega.vtc,VirtuaTennis™Challenge,532,IN,2017-06-07
+com.glu.samuzombie2,サムライvsゾンビ2,533,IN,2017-06-07
+com.awem.cradleofempires.andr,CradleofEmpires,534,IN,2017-06-07
 com.glu.deerhunt2,DEERHUNTERCLASSIC,535,IN,2017-06-07
 com.gotogames.funbridge,FunBridge-yourbridgeclub,536,IN,2017-06-07
 net.isitlove.cartercorp.gabriel,Otome:Is-itLove?Gabriel💌,537,IN,2017-06-07
