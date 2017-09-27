@@ -1,13 +1,13 @@
 app_id,app_name,rank,country_code,date
 com.coc.kr.bomb.google,붐버스타forkakao,1,KR,2017-09-27
 com.ketchapp.rider,Rider,2,KR,2017-09-27
-com.nexon.axe,액스(AxE),3,KR,2017-09-27
-g.com.noxgames.ma,막타,4,KR,2017-09-27
-com.funigloo.latalem,라테일W,5,KR,2017-09-27
+g.com.noxgames.ma,막타,3,KR,2017-09-27
+com.funigloo.latalem,라테일W,4,KR,2017-09-27
+com.nexon.axe,액스(AxE),5,KR,2017-09-27
 com.is.som,もめん育て,6,KR,2017-09-27
-com.cmplay.dancingline,ダンシングライン（DancingLine）,7,KR,2017-09-27
-com.chaplin.gunlim.google,PK온라인:나쁜녀석들T,8,KR,2017-09-27
-com.pang.onesword.google,친구모바일-우정과사랑으로키우는무협MMORPG,9,KR,2017-09-27
+com.chaplin.gunlim.google,PK온라인:나쁜녀석들T,7,KR,2017-09-27
+com.pang.onesword.google,친구모바일-우정과사랑으로키우는무협MMORPG,8,KR,2017-09-27
+com.cmplay.dancingline,ダンシングライン（DancingLine）,9,KR,2017-09-27
 com.playrix.homescapes,ホームスケイプ(Homescapes),10,KR,2017-09-27
 com.braveorange.muscleking,근육키우기,11,KR,2017-09-27
 kr.caramel.quiz_stickman,OX퀴즈서바이벌100,12,KR,2017-09-27
@@ -22,520 +22,520 @@ com.devsisters.gb,クッキーラン:オーブンブレイク,20,KR,2017-09-27
 com.manababa.RunningBeggar,거지키우기-누워서달리기,21,KR,2017-09-27
 com.endking.hidephone,엄마는스마트폰을숨겼다-탈출게임,22,KR,2017-09-27
 com.tgyx.ssjj,特攻英雄-FPS+MOBA全民競技槍戰手遊,23,KR,2017-09-27
-com.tfgco.games.strategy.free.castlecrush,キャッスルクラッシュ(CastleCrush)-オンライン戦略ゲーム,24,KR,2017-09-27
-com.pang.obba2.google,형님모바일-대규모업데이트,25,KR,2017-09-27
-kr.txwy.and.snqx,소녀전선Girls'Frontline,26,KR,2017-09-27
-com.fungames.sniper3d,Sniper3DAssassin®:無料射撃ゲーム,27,KR,2017-09-27
-com.stove.themusician.google,더뮤지션,28,KR,2017-09-27
-com.turbochilli.rollingsky,ローリング・スカイ,29,KR,2017-09-27
-com.ENP.therings.kr.googleplay,반지,30,KR,2017-09-27
-com.perplelab.dragonvillagem.kr,드래곤빌리지M:마스터의길,31,KR,2017-09-27
-com.igg.android.lordsmobile,ロードモバイル【本格リアルタイムストラテジーMMORPG】,32,KR,2017-09-27
-com.cmplay.tiles2,ピアノタイル2™,33,KR,2017-09-27
-com.monawa.sy2revo_google,삼국지레볼루션,34,KR,2017-09-27
-game.amoney.growgun,총키우기,35,KR,2017-09-27
-com.wellgames.ss,스페셜솔져-모바일FPS,36,KR,2017-09-27
-com.igenesoft.hide,隠れん坊オンライン,37,KR,2017-09-27
-air.com.hypah.io.slither,slither.io,38,KR,2017-09-27
-com.gameloft.android.ANMP.GloftOLHM,ギャングスターニューオーリンズ【オープンワールドゲーム】,39,KR,2017-09-27
-com.youmusic.magictiles,MagicTiles3,40,KR,2017-09-27
-extremely.rabbit,パズル！すこぶる動くウサギ　-世界のなかま集め♪-,41,KR,2017-09-27
-com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),42,KR,2017-09-27
-com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),43,KR,2017-09-27
-com.cmcm.arrowio,アーチャー大作戦,44,KR,2017-09-27
-net.kernys.aooni,좀비고등학교,45,KR,2017-09-27
-com.roblox.client,ROBLOX,46,KR,2017-09-27
-com.differencetenderwhite.skirt,ブロックパズルジュエル,47,KR,2017-09-27
-com.os.brickclassic.tetris.fun,テトリス,48,KR,2017-09-27
-com0.Company.ProductName1,3D운전교실(운전면허시험-실기)필기x,49,KR,2017-09-27
-com.supersolid.penguin,SuperPenguins,50,KR,2017-09-27
+com.pang.obba2.google,형님모바일-대규모업데이트,24,KR,2017-09-27
+kr.txwy.and.snqx,소녀전선Girls'Frontline,25,KR,2017-09-27
+com.fungames.sniper3d,Sniper3DAssassin®:無料射撃ゲーム,26,KR,2017-09-27
+com.stove.themusician.google,더뮤지션,27,KR,2017-09-27
+com.turbochilli.rollingsky,ローリング・スカイ,28,KR,2017-09-27
+com.ENP.therings.kr.googleplay,반지,29,KR,2017-09-27
+com.perplelab.dragonvillagem.kr,드래곤빌리지M:마스터의길,30,KR,2017-09-27
+com.igg.android.lordsmobile,ロードモバイル【本格リアルタイムストラテジーMMORPG】,31,KR,2017-09-27
+com.cmplay.tiles2,ピアノタイル2™,32,KR,2017-09-27
+com.monawa.sy2revo_google,삼국지레볼루션,33,KR,2017-09-27
+com.wellgames.ss,스페셜솔져-모바일FPS,34,KR,2017-09-27
+com.igenesoft.hide,隠れん坊オンライン,35,KR,2017-09-27
+air.com.hypah.io.slither,slither.io,36,KR,2017-09-27
+com.tfgco.games.strategy.free.castlecrush,キャッスルクラッシュ(CastleCrush)-オンライン戦略ゲーム,37,KR,2017-09-27
+com.gameloft.android.ANMP.GloftOLHM,ギャングスターニューオーリンズ【オープンワールドゲーム】,38,KR,2017-09-27
+extremely.rabbit,パズル！すこぶる動くウサギ　-世界のなかま集め♪-,39,KR,2017-09-27
+com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),40,KR,2017-09-27
+com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),41,KR,2017-09-27
+com.cmcm.arrowio,アーチャー大作戦,42,KR,2017-09-27
+net.kernys.aooni,좀비고등학교,43,KR,2017-09-27
+com.roblox.client,ROBLOX,44,KR,2017-09-27
+com.differencetenderwhite.skirt,ブロックパズルジュエル,45,KR,2017-09-27
+game.amoney.growgun,총키우기,46,KR,2017-09-27
+com.os.brickclassic.tetris.fun,テトリス,47,KR,2017-09-27
+com0.Company.ProductName1,3D운전교실(운전면허시험-실기)필기x,48,KR,2017-09-27
+com.supersolid.penguin,SuperPenguins,49,KR,2017-09-27
+com.youmusic.magictiles,MagicTiles3,50,KR,2017-09-27
 com.superbox.aos.maze,迷路脱出：ルーキー,51,KR,2017-09-27
 com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),52,KR,2017-09-27
 air.jp.ne.hap.purin,冷蔵庫のプリン食べられた-脱出ゲーム,53,KR,2017-09-27
 com.ketchapp.spacefrontier,SpaceFrontier,54,KR,2017-09-27
-com.special.warship,戦艦ファイナル-最後の戦い,55,KR,2017-09-27
-com.kakaogames.myhome,놀러와마이홈forKakao,56,KR,2017-09-27
-com.gravity.mrp,MR!P:미라클뽀로로,57,KR,2017-09-27
-com.Monthly23.SwipeBrickBreaker,スワイプブロック崩し,58,KR,2017-09-27
-kr.neogames.realfarm,레알팜,59,KR,2017-09-27
-com.efunkr.ql.google,권력:THERULERS,60,KR,2017-09-27
-com.sinyee.babybus.born,赤ちゃんはどこから？-BabyBus幼児向け知育ゲーム,61,KR,2017-09-27
-com.kakaogames.onmyouji,음양사forkakao,62,KR,2017-09-27
-com.nexon.da3,다크어벤저3,63,KR,2017-09-27
-com.motionlab.looper,50Loops,64,KR,2017-09-27
-com.driftwood.galaxybowl.free,ボーリングGalaxyBowling,65,KR,2017-09-27
-com.raongames.bouneball,バウンシボール,66,KR,2017-09-27
-com.nflygame,선생님몰래춤추기:장난치지말아요,67,KR,2017-09-27
-com.mobirix.shotingking,射撃の王,68,KR,2017-09-27
-com.devsisters.CookieRunForKakao,쿠키런forKakao,69,KR,2017-09-27
-com.spcomes.mayo.hexa,HexaBlockQuest,70,KR,2017-09-27
-com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,71,KR,2017-09-27
-zombie.survival.craft.z,LastDayonEarth:Survival,72,KR,2017-09-27
-com.joyteagames.asura.kakao.google.kr,아수라forkakao,73,KR,2017-09-27
-com.rappidstudios.simulatorbattlearmy,ArmyBattleSimulator,74,KR,2017-09-27
-com.litqoo.azquiz,아재능력고사:아재개그와넌센스퀴즈,75,KR,2017-09-27
-com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,76,KR,2017-09-27
-com.sundaytoz.kakao.anipang3.service,애니팡3forKakao,77,KR,2017-09-27
-com.nintendo.zara,SuperMarioRun,78,KR,2017-09-27
-com.cjenm.ModooMarbleKakao,모두의마블forKakao,79,KR,2017-09-27
-com.secondarm.taptapdash,TapTapDash,80,KR,2017-09-27
-com.yodo1.rodeo.safari,RodeoStampede:SkyZooSafari,81,KR,2017-09-27
-com.nianticlabs.pokemongo,PokémonGO,82,KR,2017-09-27
-com.ketchapp.stack,Stack,83,KR,2017-09-27
-com.daebak3th.icecreamname,아이스크림퀴즈,84,KR,2017-09-27
-com.redhoodsoft.Dragon,용키우기:드래곤으로환생하기,85,KR,2017-09-27
-com.raongames.growcastle,グローキャッスル,86,KR,2017-09-27
-com.kiloo.subwaysurf,SubwaySurfers,87,KR,2017-09-27
-mobi.MultiCraft,►MultiCraft―FreeMiner!👍,88,KR,2017-09-27
-com.DoomsdayStudio.LabEscape,LABEscape!,89,KR,2017-09-27
-com.Trollers.WallBreaker,壁割れる,90,KR,2017-09-27
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,91,KR,2017-09-27
-com.gameparadiso.milkchoco,ミルクチョコ-オンラインFPS,92,KR,2017-09-27
-com.ansangha.drparking4,駐車の達人4,93,KR,2017-09-27
-com.ncsoft.lineagem19,리니지M,94,KR,2017-09-27
-software.simplicial.nebulous,Nebulous,95,KR,2017-09-27
-com.puropuro.drill,드릴키우기,96,KR,2017-09-27
-com.neowiz.games.newmatgo,PmangGostop:NO.1MatgoGame,97,KR,2017-09-27
-com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,98,KR,2017-09-27
-com.avex.hesokuri.kra,오소마츠6쌍둥이비상금워즈~백수의공방~,99,KR,2017-09-27
-air.com.globalgear.kr.kaihi,위기탈출신의회피-탈출게임-,100,KR,2017-09-27
-air.com.abc.atown,私の動物の町,101,KR,2017-09-27
-com.foursakenmedia.noblemen,Noblemen:1896,102,KR,2017-09-27
-com.fgol.HungrySharkEvolutionkorea,헝그리샤크에볼루션,103,KR,2017-09-27
-me.pou.app,プーチッチPou,104,KR,2017-09-27
-com.NHNEnt.MSudda,한게임섯다,105,KR,2017-09-27
-com.kr37.mx,묵향-정식버전,106,KR,2017-09-27
-com.newday.thevoice,더보이스,107,KR,2017-09-27
-com.nexon.am,ArenaMasters,108,KR,2017-09-27
-com.sopt.mafia42.client,마피아42,109,KR,2017-09-27
+com.kakaogames.myhome,놀러와마이홈forKakao,55,KR,2017-09-27
+com.gravity.mrp,MR!P:미라클뽀로로,56,KR,2017-09-27
+com.Monthly23.SwipeBrickBreaker,スワイプブロック崩し,57,KR,2017-09-27
+com.efunkr.ql.google,권력:THERULERS,58,KR,2017-09-27
+com.sinyee.babybus.born,赤ちゃんはどこから？-BabyBus幼児向け知育ゲーム,59,KR,2017-09-27
+com.kakaogames.onmyouji,음양사forkakao,60,KR,2017-09-27
+com.joyteagames.asura.kakao.google.kr,아수라forkakao,61,KR,2017-09-27
+com.efunkr.ql.google,권력:THERULERS,62,KR,2017-09-27
+com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),63,KR,2017-09-27
+air.jp.ne.hap.purin,冷蔵庫のプリン食べられた-脱出ゲーム,64,KR,2017-09-27
+com.raongames.growcastle,グローキャッスル,65,KR,2017-09-27
+com.mobirix.shotingking,射撃の王,66,KR,2017-09-27
+com.motionlab.looper,50Loops,67,KR,2017-09-27
+zombie.survival.craft.z,LastDayonEarth:Survival,68,KR,2017-09-27
+com.raongames.bouneball,バウンシボール,69,KR,2017-09-27
+com.gravity.mrp,MR!P:미라클뽀로로,70,KR,2017-09-27
+com.sinyee.babybus.born,赤ちゃんはどこから？-BabyBus幼児向け知育ゲーム,71,KR,2017-09-27
+com.redhoodsoft.Dragon,용키우기:드래곤으로환생하기,72,KR,2017-09-27
+com.mobirix.swipebrick,レンガのブレーカーのパズル,73,KR,2017-09-27
+com.ketchapp.stack,Stack,74,KR,2017-09-27
+com.spcomes.mayo.hexa,HexaBlockQuest,75,KR,2017-09-27
+com.nflygame,선생님몰래춤추기:장난치지말아요,76,KR,2017-09-27
+com.devsisters.CookieRunForKakao,쿠키런forKakao,77,KR,2017-09-27
+com.cjenm.ModooMarbleKakao,모두의마블forKakao,78,KR,2017-09-27
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,79,KR,2017-09-27
+com.litqoo.azquiz,아재능력고사:아재개그와넌센스퀴즈,80,KR,2017-09-27
+com.nintendo.zara,SuperMarioRun,81,KR,2017-09-27
+com.driftwood.galaxybowl.free,ボーリングGalaxyBowling,82,KR,2017-09-27
+com.secondarm.taptapdash,TapTapDash,83,KR,2017-09-27
+com.neowiz.games.newmatgo,PmangGostop:NO.1MatgoGame,84,KR,2017-09-27
+com.newday.thevoice,더보이스,85,KR,2017-09-27
+com.daebak3th.icecreamname,아이스크림퀴즈,86,KR,2017-09-27
+com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,87,KR,2017-09-27
+com.NHNEnt.MSudda,한게임섯다,88,KR,2017-09-27
+com.ncsoft.lineagem19,리니지M,89,KR,2017-09-27
+com.superbox.aos.maze,迷路脱出：ルーキー,90,KR,2017-09-27
+com.rappidstudios.simulatorbattlearmy,ArmyBattleSimulator,91,KR,2017-09-27
+com.kiloo.subwaysurf,SubwaySurfers,92,KR,2017-09-27
+com.yodo1.rodeo.safari,RodeoStampede:SkyZooSafari,93,KR,2017-09-27
+com.DoomsdayStudio.LabEscape,LABEscape!,94,KR,2017-09-27
+com.nianticlabs.pokemongo,PokémonGO,95,KR,2017-09-27
+com.ansangha.drparking4,駐車の達人4,96,KR,2017-09-27
+com.Trollers.WallBreaker,壁割れる,97,KR,2017-09-27
+com.gameparadiso.milkchoco,ミルクチョコ-オンラインFPS,98,KR,2017-09-27
+mobi.MultiCraft,►MultiCraft―FreeMiner!👍,99,KR,2017-09-27
+good.beyblade.burst.devplay,GOODBEYBLADEBURSTTIPS,100,KR,2017-09-27
+com.kakaogames.friendsKing,프렌즈팝콘forkakao,101,KR,2017-09-27
+com.puropuro.drill,드릴키우기,102,KR,2017-09-27
+com.sopt.mafia42.client,마피아42,103,KR,2017-09-27
+air.com.abc.atown,私の動物の町,104,KR,2017-09-27
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,105,KR,2017-09-27
+com.netmarble.penta,펜타스톰forkakao(5v5),106,KR,2017-09-27
+com.nflystudio.InfiniteTrain,InfiniteTrain,107,KR,2017-09-27
+software.simplicial.nebulous,Nebulous,108,KR,2017-09-27
+com.neowiz.games.gostop2018,GoStop2018:TheBestKoreafreeCard-playinggame,109,KR,2017-09-27
 com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,110,KR,2017-09-27
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),111,KR,2017-09-27
-com.nflystudio.InfiniteTrain,InfiniteTrain,112,KR,2017-09-27
-com.netmarble.penta,펜타스톰forKakao(5v5),113,KR,2017-09-27
-air.com.globalgear.kr.kura,톱니바퀴마을-방치치유계무료게임-,114,KR,2017-09-27
-com.purplize.omd,방구석에서게임하기-(게이머키우기),115,KR,2017-09-27
-com.kakaogames.friendsKing,프렌즈팝콘forkakao,116,KR,2017-09-27
+com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,111,KR,2017-09-27
+com.fgol.HungrySharkEvolutionkorea,헝그리샤크에볼루션,112,KR,2017-09-27
+air.com.globalgear.kr.kura,톱니바퀴마을-방치치유계무료게임-,113,KR,2017-09-27
+com.buzzpowder.quiz_FindDifferences,틀린그림찾기IQ테스트,114,KR,2017-09-27
+com.nhnpixelcube.friendspop,프렌즈팝forKakao,115,KR,2017-09-27
+com.bigfishgames.cookingcrazegooglef2p,クッキングクレイズ-ハイテンポな楽しいレストランゲーム,116,KR,2017-09-27
 com.miniclip.bowmasters,Bowmasters,117,KR,2017-09-27
-com.igenesoft.maze,迷路オンライン,118,KR,2017-09-27
-good.beyblade.burst.devplay,GOODBEYBLADEBURSTTIPS,119,KR,2017-09-27
-com.fungames.blockcraft,BlockCraft3D:無料建設ゲーム,120,KR,2017-09-27
-com.mgc.stickman.rope.hero,StickmanRopeHero,121,KR,2017-09-27
-com.sumi.explo3,CraftExplorationSurvival,122,KR,2017-09-27
-com.rationalwonders.sandboxrun,샌드박스런,123,KR,2017-09-27
-com.mobirix.swipebrick,レンガのブレーカーのパズル,124,KR,2017-09-27
-jp.co.ponos.battlecatskr,냥코대전쟁,125,KR,2017-09-27
-com.aim.racing,ExtremeCarDrivingSimulator,126,KR,2017-09-27
-com.bigfishgames.cookingcrazegooglef2p,クッキングクレイズ-ハイテンポな楽しいレストランゲーム,127,KR,2017-09-27
-com.denachina.g33002001.android,누구를위한알케미스트,128,KR,2017-09-27
-com.ansangha.drgomoku,五目並べの達人,129,KR,2017-09-27
-com.gramgames.mergedragons,MergeDragons!,130,KR,2017-09-27
-com.mediocre.smashhit,SmashHit,131,KR,2017-09-27
-com.onetongames.kingofthehill,GrandBattleRoyale,132,KR,2017-09-27
-com.th.chemi,逃げろ友よ,133,KR,2017-09-27
-cynthiaJGrenier.craftingtable.minecraftguide,CraftingGuideforMinecraft,134,KR,2017-09-27
-com.twoplayergamesfree.twoplayergames,みんなでミニゲーム-無料,135,KR,2017-09-27
-com.mouse_duck.ShurikenGame,표창키우기,136,KR,2017-09-27
-com.ekkorr.endlessfrontier,오늘도환생차원의기사단:방치형RPG게임,137,KR,2017-09-27
-com.tgame.real,바람필게요3-초리얼리티연애체험게임-,138,KR,2017-09-27
-com.buzzpowder.quiz_FindDifferences,틀린그림찾기IQ테스트,139,KR,2017-09-27
-com.cookapps106.mg021,FidgetSpinnerBattle,140,KR,2017-09-27
-ieugene.sketchquiz2,스케치퀴즈,141,KR,2017-09-27
-air.jp.ne.hap.mom,ママにゲーム隠された-脱出ゲーム,142,KR,2017-09-27
-com.bulb.alchemy,Alchemy-나만의실험실,143,KR,2017-09-27
-air.jp.ne.hap.mom2,ママにゲーム隠された2-脱出ゲーム,144,KR,2017-09-27
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),145,KR,2017-09-27
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,146,KR,2017-09-27
-com.somuchfun.escape2,家内にへそくり隠された！,147,KR,2017-09-27
-com.maf.moneyhero,중년기사김봉식:방치형RPG게임,148,KR,2017-09-27
-com.nexon.trrevolt,테일즈런너R,149,KR,2017-09-27
-com.manababa.BeggarKing2,거지키우기2한푼마을,150,KR,2017-09-27
-com.alien.shooter.galaxy.attack,GalaxyAttack:AlienShooter,151,KR,2017-09-27
-com.androbaby.game2048,2048,152,KR,2017-09-27
-com.bigair.FBENG,FindingBlueFree(KOR),153,KR,2017-09-27
-com.dreamed.physicsdrop,PhysicsDrop,154,KR,2017-09-27
-com.neowiz.games.gostop2018,GoStop2018:TheBestKoreafreeCard-playinggame,155,KR,2017-09-27
-com.neowizgames.game.browndust.srpg.gamfs,턴제RPG–브라운더스트,156,KR,2017-09-27
-kr.co.everyfun.ddd,ほっとけ戦士,157,KR,2017-09-27
-com.bandainamcoent.onepiecetresurecruisekr,원피스트레저크루즈,158,KR,2017-09-27
-com.CraftingMax.Explore,MaxCraft:PocketEdition,159,KR,2017-09-27
-com.nbt.lockcast.qiz,퀴즈포텐for캐시슬라이드,160,KR,2017-09-27
-com.netmarble.full2016,이사만루2017,161,KR,2017-09-27
-com.monomob.omok,오목forKakao,162,KR,2017-09-27
-com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,163,KR,2017-09-27
-com.coolw.kr1warrior,사이어아레나,164,KR,2017-09-27
-com.Gameplete.CardFantasy,카드크래프트,165,KR,2017-09-27
-com.neowiz.games.newmatgoKakao,PmangGostopforkakao,166,KR,2017-09-27
-com.gismart.realpianofree,"ピアノ-ぴあの鍵盤リアル曲げーむ,音楽タイルのリズムゲーム無料",167,KR,2017-09-27
-com.pixonic.wwr,WarRobots,168,KR,2017-09-27
-com.yodo1.crossyroad,クロッシーロード,169,KR,2017-09-27
-com.ddd.eee.www.qqq.pixelmons,PerfectPixelmonworldforcraft&build:3DPE,170,KR,2017-09-27
-air.com.globalgear.kr.fam,방치팜~농장방치게임~,171,KR,2017-09-27
-com.enterfly.AirPenguin2,エアペンギン2,172,KR,2017-09-27
-com.idleif.abyssrium,アビスリウム-タップで育つ水族館,173,KR,2017-09-27
-com.mobile.legends,モバイル·レジェンド:Bangbang,174,KR,2017-09-27
-com.nkm.kp.hh,ハイパーヒーローズ(HyperHeroes:Marble-LikeRPG),175,KR,2017-09-27
-com.Rassco.ParkourGo,ParkourGO,176,KR,2017-09-27
-com.ChillyRoom.DungeonShooter,SoulKnight,177,KR,2017-09-27
-com.groundhog.multiplayermaster,マインクラフトのマルチプレーヤ,178,KR,2017-09-27
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),179,KR,2017-09-27
-kr.encom.gostop_p,고스톱PLUS(무료맞고게임),180,KR,2017-09-27
-com.newday.btfriend,오빠친구,181,KR,2017-09-27
-com.droidhang.ad,IdleHeroes-無料放置育成RPG,182,KR,2017-09-27
+com.nexon.am,ArenaMasters,118,KR,2017-09-27
+com.foursakenmedia.noblemen,Noblemen:1896,119,KR,2017-09-27
+com.avex.hesokuri.kra,오소마츠6쌍둥이비상금워즈~백수의공방~,120,KR,2017-09-27
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),121,KR,2017-09-27
+me.pou.app,プーチッチPou,122,KR,2017-09-27
+com.CONTINUE.TapTapDino,TapTapDino:Defender,123,KR,2017-09-27
+com.purplize.omd,방구석에서게임하기-(게이머키우기),124,KR,2017-09-27
+com.ekkorr.endlessfrontier,오늘도환생차원의기사단:방치형RPG게임,125,KR,2017-09-27
+com.ansangha.drgomoku,五目並べの達人,126,KR,2017-09-27
+com.neowizgames.game.browndust.srpg.gamfs,턴제RPG–브라운더스트,127,KR,2017-09-27
+com.androbaby.game2048,2048,128,KR,2017-09-27
+com.igenesoft.maze,迷路オンライン,129,KR,2017-09-27
+com.fungames.blockcraft,BlockCraft3D:無料建設ゲーム,130,KR,2017-09-27
+com.tgame.real,바람필게요3-초리얼리티연애체험게임-,131,KR,2017-09-27
+com.neowiz.games.newmatgoKakao,PmangGostopforkakao,132,KR,2017-09-27
+com.bandainamcoent.onepiecetresurecruisekr,원피스트레저크루즈,133,KR,2017-09-27
+com.monomob.omok,오목forKakao,134,KR,2017-09-27
+com.alien.shooter.galaxy.attack,GalaxyAttack:AlienShooter,135,KR,2017-09-27
+com.mediocre.smashhit,SmashHit,136,KR,2017-09-27
+ieugene.sketchquiz2,스케치퀴즈,137,KR,2017-09-27
+com.nbt.lockcast.qiz,퀴즈포텐for캐시슬라이드,138,KR,2017-09-27
+com.rationalwonders.sandboxrun,샌드박스런,139,KR,2017-09-27
+jp.co.ponos.battlecatskr,냥코대전쟁,140,KR,2017-09-27
+com.sumi.explo3,CraftExplorationSurvival,141,KR,2017-09-27
+com.twoplayergamesfree.twoplayergames,みんなでミニゲーム-無料,142,KR,2017-09-27
+com.onetongames.kingofthehill,GrandBattleRoyale,143,KR,2017-09-27
+com.mgc.stickman.rope.hero,StickmanRopeHero,144,KR,2017-09-27
+com.neowiz.games.poker,PmangPoker:CasinoRoyal,145,KR,2017-09-27
+com.coolw.kr1warrior,사이어아레나,146,KR,2017-09-27
+com.bulb.alchemy,Alchemy-나만의실험실,147,KR,2017-09-27
+com.cookapps106.mg021,FidgetSpinnerBattle,148,KR,2017-09-27
+com.maf.moneyhero,중년기사김봉식:방치형RPG게임,149,KR,2017-09-27
+com.aim.racing,ExtremeCarDrivingSimulator,150,KR,2017-09-27
+com.Gameplete.CardFantasy,카드크래프트,151,KR,2017-09-27
+com.mouse_duck.ShurikenGame,표창키우기,152,KR,2017-09-27
+com.dreamed.physicsdrop,PhysicsDrop,153,KR,2017-09-27
+com.ddd.eee.www.qqq.pixelmons,PerfectPixelmonworldforcraft&build:3DPE,154,KR,2017-09-27
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),155,KR,2017-09-27
+com.gramgames.mergedragons,MergeDragons!,156,KR,2017-09-27
+com.th.chemi,逃げろ友よ,157,KR,2017-09-27
+cynthiaJGrenier.craftingtable.minecraftguide,CraftingGuideforMinecraft,158,KR,2017-09-27
+com.Rassco.ParkourGo,ParkourGO,159,KR,2017-09-27
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,160,KR,2017-09-27
+com.NextFloor.DragonFlightKakao,DragonFlightforKakao,161,KR,2017-09-27
+com.manababa.BeggarKing2,거지키우기2한푼마을,162,KR,2017-09-27
+com.nexon.trrevolt,테일즈런너R,163,KR,2017-09-27
+com.gismart.realpianofree,"ピアノ-ぴあの鍵盤リアル曲げーむ,音楽タイルのリズムゲーム無料",164,KR,2017-09-27
+air.jp.ne.hap.mom2,ママにゲーム隠された2-脱出ゲーム,165,KR,2017-09-27
+kr.co.everyfun.ddd,ほっとけ戦士,166,KR,2017-09-27
+kr.encom.gostop_p,고스톱PLUS(무료맞고게임),167,KR,2017-09-27
+com.kr37.mx,묵향-정식버전,168,KR,2017-09-27
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),169,KR,2017-09-27
+com.btgames.soccerStarClicker,축구스타키우기,170,KR,2017-09-27
+com.oolblue.hunters,HuntersLeague:Thestoryofweaponmasters,171,KR,2017-09-27
+com.netmarble.full2016,이사만루2017,172,KR,2017-09-27
+air.jp.ne.hap.mom,ママにゲーム隠された-脱出ゲーム,173,KR,2017-09-27
+com.idleif.abyssrium,アビスリウム-タップで育つ水族館,174,KR,2017-09-27
+air.com.globalgear.kr.fam,방치팜~농장방치게임~,175,KR,2017-09-27
+com.pixonic.wwr,WarRobots,176,KR,2017-09-27
+com.MonsterPlanet.WordTower,ワードタワー　―　脳トレーニング!単語を見つけよう!,177,KR,2017-09-27
+com.dingogames.tastyblue,TastyBlue,178,KR,2017-09-27
+com.bigair.FBENG,FindingBlueFree(KOR),179,KR,2017-09-27
+com.somuchfun.escape2,家内にへそくり隠された！,180,KR,2017-09-27
+com.ea.game.fom.nexon_kr,FIFAONLINE3MbyEASPORTS™,181,KR,2017-09-27
+com.neowiz.games.suddaKakao,피망섯다forkakao,182,KR,2017-09-27
 com.nexon.nsc.maplem,메이플스토리M,183,KR,2017-09-27
-com.ea.game.fom.nexon_kr,FIFAONLINE3MbyEASPORTS™,184,KR,2017-09-27
-com.ubisoft.hungrysharkworld,HungrySharkWorld,185,KR,2017-09-27
-com.turborocketgames.catsim,猫シムオンライン,186,KR,2017-09-27
-com.singlecellsoftware.sand,Sand!,187,KR,2017-09-27
-com.MonsterPlanet.WordTower,ワードタワー　―　脳トレーニング!単語を見つけよう!,188,KR,2017-09-27
-com.neowiz.games.poker,PmangPoker:CasinoRoyal,189,KR,2017-09-27
-smellymoo.sand,砂:絵,190,KR,2017-09-27
-com.inapp.cross.stitch,クロスステッチ,191,KR,2017-09-27
-com.apxsoft.s1945ww,ストライカーズ1945ワールドウォー,192,KR,2017-09-27
-com.btgames.soccerStarClicker,축구스타키우기,193,KR,2017-09-27
-com.mobirix.differencegame,まちがい探しの王,194,KR,2017-09-27
-com.bitmango.go.blockhexapuzzle,ブロック！ヘキサパズル,195,KR,2017-09-27
-com.og.poki,실시간리얼인형뽑기-포키(Poki),196,KR,2017-09-27
-com.WildSoda.MineSurvival,MineSurvival,197,KR,2017-09-27
-kr.co.smartstudy.jellyking.googlemarket,JellyKing:世界を征服する,198,KR,2017-09-27
-com.day.dayhollowman,하루만투명인간,199,KR,2017-09-27
-com.oolblue.hunters,HuntersLeague:Thestoryofweaponmasters,200,KR,2017-09-27
-com.motionvolt.flipbounce,FlipMaster,201,KR,2017-09-27
-com.halfbrick.fruitninjafree,FruitNinja®,202,KR,2017-09-27
-com.ea.gp.fifamobile,FIFAMobileサッカー,203,KR,2017-09-27
-com.imangi.templerun,TempleRun,204,KR,2017-09-27
-com.naturalmotion.customstreetracer2,CSRRacing2,205,KR,2017-09-27
-com.ansangha.drjb,走行の達人2,206,KR,2017-09-27
-com.netmarble.lineageII,리니지2레볼루션,207,KR,2017-09-27
-com.ketchapp.gravityswitch,GravitySwitch,208,KR,2017-09-27
-com.robtopx.geometrydashworld,GeometryDashWorld,209,KR,2017-09-27
-air.com.coworkdream.PicrossLUNA2,お絵かきロジックルナ(Luna)2世-涙の6つの部分,210,KR,2017-09-27
-com.kingsoftgame.ggplay.jxqykr,클랜즈:달의그림자,211,KR,2017-09-27
-com.NHNEnt.NDuelgo,한게임신맞고:국가대표무료고스톱,212,KR,2017-09-27
-air.com.abc.ctown,私の料理村,213,KR,2017-09-27
-com.king.candycrushsaga,キャンディークラッシュ,214,KR,2017-09-27
-com.imangi.templerun2,TempleRun2,215,KR,2017-09-27
-com.Bangsfactory.ProductName,생존.IO-PVP온라인,216,KR,2017-09-27
-com.ViperGames.StickmanWarriors,StickmanWarriors,217,KR,2017-09-27
-com.jmiro.korea.korean.relayi,しりとり(韓国語),218,KR,2017-09-27
-com.neowiz.games.suddaKakao,피망섯다forkakao,219,KR,2017-09-27
-com.highbrow.game,DragonVillage,220,KR,2017-09-27
-com.com2us.probaseball3d.normal.freefull.google.global.android.common,컴투스프로야구2017,221,KR,2017-09-27
-com.sinyee.babybus.food,中華レストラン-BabyBus　子ども・幼児向けお料理ゲーム,222,KR,2017-09-27
-com.cjenm.sknights,세븐나이츠forKakao,223,KR,2017-09-27
-com.buffstudio.myoasis,MyOasis-GrowingHeavenlyIsland,224,KR,2017-09-27
-com.koramgame.ggplay.xwkr,씰:뉴월드,225,KR,2017-09-27
-com.nhnpixelcube.kingsman,キングスマン:ゴールデン･サークル,226,KR,2017-09-27
-com.ea.game.easportsufc_row,EASPORTS™UFC®,227,KR,2017-09-27
-com.sinyee.babybus.hospital,赤ちゃんの病院-BabyBus子ども向け知育アプリ,228,KR,2017-09-27
-com.rovio.baba,アングリーバード2(AngryBirds2),229,KR,2017-09-27
-com.brainlatency.onesunsimulator,원썬키우기,230,KR,2017-09-27
-com.manababa.BeggarKing,거지키우기,231,KR,2017-09-27
-jp.co.ofcr.cm00,クッキングママおりょうりしましょ！,232,KR,2017-09-27
-com.bandainamcoent.narutoblazingna,UltimateNinjaBlazing,233,KR,2017-09-27
-com.CaimVell.EggToSlime,알부터시작하는슬라임키우기,234,KR,2017-09-27
-com.redduckm.android.avamrs,아바:건즈온파이어(아바모바일),235,KR,2017-09-27
-com.traindepo.rollercoaster,ローラーコースター列車のシミュレータ,236,KR,2017-09-27
-com.sigono.heaven01,OPUS:魂の架け橋,237,KR,2017-09-27
-com.bellapps.drinkcocktail,飲むカクテルリアルSim,238,KR,2017-09-27
-com.fruitheroes.legend,FruitHeroesLegend,239,KR,2017-09-27
-jp.coffeebreakin.app.mokken,格闘ゲーム「木拳」　〜暇つぶしに人気の面白いゲーム！ハマるよ,240,KR,2017-09-27
-com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),241,KR,2017-09-27
-com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),242,KR,2017-09-27
-com.camelgames.superking,WarandOrder,243,KR,2017-09-27
-com.edup.gostop_2017,무료맞고2017-새로운무료고스톱게임,244,KR,2017-09-27
-air.com.dressupone.mangawardrobe,ドレスアップ・マンガワードローブ,245,KR,2017-09-27
-com.sinyee.babybus.care,赤ちゃんの世話をする-BabyBus子ども・幼児教育アプリ,246,KR,2017-09-27
-com.msg.blast,장풍키우기,247,KR,2017-09-27
-com.vespainteractive.KingsRaid,King'sRaid,248,KR,2017-09-27
-com.nas.ms.kr,마음의소리with NAVERWEBTOON,249,KR,2017-09-27
-com.iwatanatto.ssapp00200,グリッドガイズ,250,KR,2017-09-27
-com.kakaogames.nikki,아이러브니키forkakao,251,KR,2017-09-27
-air.jp.ne.hap.fk,こんなフリーキックはイヤだ,252,KR,2017-09-27
-com.neowiz.games.sudda,PmangSutda:RealCardGame,253,KR,2017-09-27
-com.mgc.stickman.rope.hero.two,StickmanRopeHero2,254,KR,2017-09-27
-com.groundhog.mcpemaster4map,MapMasterforMinecraftPE,255,KR,2017-09-27
-com.Goormsoft.Skyscraper,건물키우기,256,KR,2017-09-27
-com.popreach.dumbways,DumbWaystoDieOriginal,257,KR,2017-09-27
-jp.konami.pesam,WinningEleven2017,258,KR,2017-09-27
-com.rkgames.smashywanted,SmashyRoad:Wanted,259,KR,2017-09-27
-com.dreamplay.godofblock.google,GodofBlock:BrickBreaker,260,KR,2017-09-27
-com.Bullinzadu.MasterOfGrab,MASTEROFGRAB,261,KR,2017-09-27
-com.ultimaa.overduel,OVERDUELNekoHeroesArena2PlayerVersusBattle,262,KR,2017-09-27
-jp.pokemon.koiking,はねろ！コイキング,263,KR,2017-09-27
-com.funplus.familyfarm,にじいろ牧場,264,KR,2017-09-27
-com.percent.charles2,Charles2,265,KR,2017-09-27
-com.rabbitmountain.rollercoaster,VRThrills:RollerCoaster360,266,KR,2017-09-27
-com.wordsearch.world,シークワーズ-WordSearch-,267,KR,2017-09-27
-net.basedog.deadtale,DeadtaleOnlineforUndertale,268,KR,2017-09-27
-com.pomelogames.TowerGame,OnceUponaTower,269,KR,2017-09-27
-ru.prodigydev.minemaze3d,鉱山迷路3D,270,KR,2017-09-27
-com.ea.gp.nbamobile,NBALIVEMobileBasketball,271,KR,2017-09-27
-com.rus.piskar.exploration.divers.two,ExplorationDIVERSII,272,KR,2017-09-27
-com.ansangha.drdriving,走行の達人,273,KR,2017-09-27
-com.firsttouchgames.dls3,DreamLeagueSoccer,274,KR,2017-09-27
-com.dnddream.headsoccer.android,HeadSoccer,275,KR,2017-09-27
-com.joymax.gostop,맞고의신forKakao,276,KR,2017-09-27
-com.whitebeard.skeletonking,해골왕키우기[전자동PVP],277,KR,2017-09-27
-com.andromedagames.billiardsgod,당구의신,278,KR,2017-09-27
-com.enjoygame.jwshg,극무쌍,279,KR,2017-09-27
-air.theflash.f2game.PrettyGirl3,해변에서프리티걸,280,KR,2017-09-27
-air.theflash.f2game.PrettyGirl2,학교에서프리티걸,281,KR,2017-09-27
-com.BeresnevGames.Knife,FlippyKnife,282,KR,2017-09-27
-com.choirockcf.carbot,헬로카봇슈퍼대시,283,KR,2017-09-27
-com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),284,KR,2017-09-27
-com.kgsapp.escape,旦那にへそくり隠された!,285,KR,2017-09-27
-com.JMstudio.Sleepwalker,スリープワーカー-脱出パズルゲーム,286,KR,2017-09-27
-com.gramgames.tenten,1010!,287,KR,2017-09-27
-com.kumagames.highschoolsimulator2018,HighSchoolSimulator2018,288,KR,2017-09-27
-air.com.globalgear.kr.pico,만들자!액션게임!!피코피코메이커,289,KR,2017-09-27
-com.mobirix.bounceballking1,ジャンプ玉クエスト,290,KR,2017-09-27
-com.spilgames.UphillRush,UphillRushウォータースライダーゲーム,291,KR,2017-09-27
-com.magiclab.insatiaio,insatiableiosnakes,292,KR,2017-09-27
-com.buildingcraftinggames.fashion.girls.craft.princess.minecraft.barbie.creative.exploration.lite.build.top.model.design.fun,ファッション＆デザイン-女の子のためのゲーム,293,KR,2017-09-27
-air.theflash.f2game.PrettyGirl23,공주프리티걸옷입히기게임,294,KR,2017-09-27
-com.zindagigames.ccs,CrazyCakeSwap,295,KR,2017-09-27
-com.batblocks.coubtower,RoyaleClans–ClashofWars,296,KR,2017-09-27
-com.freecraft.my.buildings,FreeCraftMyBuilding,297,KR,2017-09-27
-com.ncsoft.lineagem,리니지M(12),298,KR,2017-09-27
-com.outfit7.tomsjetski,トーキング・トムのジェットスキー,299,KR,2017-09-27
-com.sixtycelsius.Sakura,Sakura,300,KR,2017-09-27
-com.mohitdev.minebuild,BlockBuild,301,KR,2017-09-27
-com.natenai.glowhockey,GlowHockey,302,KR,2017-09-27
-com.NextFloor.DragonFlightKakao,DragonFlightforKakao,303,KR,2017-09-27
-com.sleepyj.survivalisland1,BATTLEROYAL:SurvivalIsland,304,KR,2017-09-27
-com.hlee1159.android.firstquiz,초성게임,305,KR,2017-09-27
-com.rappidstudios.simulatorbattlephysics,EpicBattleSimulator2,306,KR,2017-09-27
-com.nhnent.gamebox,"GAMEBOX(겜박스)-게임쿠폰,사전예약,사전등록",307,KR,2017-09-27
-com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),308,KR,2017-09-27
-com.nekki.shadowfight,シャドウファイト2,309,KR,2017-09-27
-com.rlg.mentalrope,놓지마사천성withNAVERWEBTOON,310,KR,2017-09-27
-com.sundaytoz.mobile.anipang.google.service,애니팡forKakao,311,KR,2017-09-27
-com.studio7775.BeatMP3v2,BEATMP32.0-リズムゲーム,312,KR,2017-09-27
-com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,313,KR,2017-09-27
-com.dnp.game.jambo.match,매치팡forkakao,314,KR,2017-09-27
-com.nhnpixelcube.friendspop,프렌즈팝forKakao,315,KR,2017-09-27
-com.bentostudio.ballsvsblocks,SnakeVSBlock,316,KR,2017-09-27
-com.quarterborrowresult.customer,PuzzleGame,317,KR,2017-09-27
-com.royalfamily.todayet,하루동안연예인,318,KR,2017-09-27
-com.kunpo.loner,Loner,319,KR,2017-09-27
-com.bandainamcoent.saomdas,刀劍神域一記憶重組,320,KR,2017-09-27
-com.gamehivecorp.kicktheboss2r,BeattheBoss2(17+),321,KR,2017-09-27
-com.kongregate.mobile.run.google,Run,322,KR,2017-09-27
-com.CCF.Mecard,메카드레이싱,323,KR,2017-09-27
-com.criticalforceentertainment.criticalops,CriticalOps,324,KR,2017-09-27
-com.sinyee.babybus.amusement,知育ゲームランド-BabyBus　幼児・子供向け,325,KR,2017-09-27
-com.SundayJelly.YouAreTooSlow,遅く,326,KR,2017-09-27
-kr.gameway.makeup,MakeupGirl,327,KR,2017-09-27
-com.selvas.fr,GUNFIRE(ガンファイア）-爽快フル３Ｄガンシューティング,328,KR,2017-09-27
-com.blacktile.piano.tiles.two,ピアノタイル2,329,KR,2017-09-27
-com.sevenpirates.infinitywar,アーク・オブ・ウォー「ArkofWar」,330,KR,2017-09-27
-com.nhnent.SKQUEST,クルセイダークエスト,331,KR,2017-09-27
-com.ilzumsa.mecardgo,터닝메카드GO,332,KR,2017-09-27
-com.outfit7.mytalkinghank,マイ・トーキング・ハンク,333,KR,2017-09-27
-comup.co.kr.cashper,"캐시퍼-땅파서돈버는리워드앱(땅파기,광부)",334,KR,2017-09-27
-com.cyou.jielan.krgp,프리스타일2:플라잉덩크,335,KR,2017-09-27
-air.com.globalgear.kr.iiwake,이별회피-막장연애시뮬레이션게임!-,336,KR,2017-09-27
-com.dreamytyper.kingOfSoccer,KingOfSoccer:Footballrun,337,KR,2017-09-27
-com.joylol.taptube,タップチューブ-ミュージックビデオリズムゲーム,338,KR,2017-09-27
-com.sundaytoz.kakao.matgo.service,애니팡맞고forKakao,339,KR,2017-09-27
-com.notdoppler.crashofcars,クラッシュオブカーズ(CrashofCars),340,KR,2017-09-27
-com.monomob.jangki,장기forKAKAO,341,KR,2017-09-27
-air.com.edufuncreative.garosero,가로세로낱말퀴즈(상식의달인),342,KR,2017-09-27
-com.PlayCastle.Crane,パンパンガチャ-ClawGameMaster,343,KR,2017-09-27
-com.colorjoy.Learn.to.draw.glow.cartoon,LearntoDrawGlowCartoon,344,KR,2017-09-27
-com.buildingcraftinggames.theme.park.games.girls.craft.roller.coaster.tycoon.block.crafting.and.building.minecraft.sims.roblox,データパーク工作：ローラーコースター建築家,345,KR,2017-09-27
-com.sinyee.babybus.earthquake,じしんだ！どうする？-BabyBus子ども向け防災アプリ,346,KR,2017-09-27
-jp.konami.duellinks,遊戯王デュエルリンクス,347,KR,2017-09-27
-com.blayzegames.iosfps,BulletForce,348,KR,2017-09-27
-air.theflash.f2game.PrettyGirl15,잠옷프리티걸,349,KR,2017-09-27
-air.theflash.f2game.PrettyGirl11,인어공주프리티걸,350,KR,2017-09-27
-com.topgamestudio.thesurvivalhungrygames2,サバイバルハングリーゲーム2,351,KR,2017-09-27
-com.netmarble.stoneage,StoneAgeBegins,352,KR,2017-09-27
-com.daebak3th.whatisnamethedrink,음료수퀴즈,353,KR,2017-09-27
-com.skgames.trafficrider,TrafficRider,354,KR,2017-09-27
-com.firsttouchgames.story,Score!Hero,355,KR,2017-09-27
-com.selvas.ttale,小鎮奇緣-可愛的3D農場,356,KR,2017-09-27
-com.nthink.ramen2,ママに秘密にしてラーメン作って食べる2,357,KR,2017-09-27
-com.dhmobile.gad,검볼앤던전-밤새지말란말이야,358,KR,2017-09-27
-com.Mouse_Duck.DoveGame,비둘기키우기,359,KR,2017-09-27
-com.linkdesks.iBubble,パワーバブルシューター,360,KR,2017-09-27
-com.nthink.ramen,ママに秘密にしてラーメン作って食べる,361,KR,2017-09-27
-com.hyunmoo.hatchimon.farm,MergeHatchimon,362,KR,2017-09-27
-ru.arappsandgames.handdiyslimesimulator,ハンドDIYスライムシミュレータ,363,KR,2017-09-27
-jp.ne.freem.YASUHATI,休むな！８分音符ちゃん/声で遊ぶ新感覚アクションゲーム,364,KR,2017-09-27
-com.jimneu.orbitorbeat,Orbitor-Beat,365,KR,2017-09-27
-com.sega.sonicdash,SonicDash,366,KR,2017-09-27
-com.archbears.bs,ブラサバ,367,KR,2017-09-27
-com.ha.mobi,"모비-사전예약,사전등록,게임쿠폰",368,KR,2017-09-27
-com.gameone.colorhockey.free,カラーホッケー,369,KR,2017-09-27
-com.pjmasks.moonlightheroes,PJMasks:MoonlightHeroes,370,KR,2017-09-27
-com.BeautifulWorld.FidgetSpinner,피젯스피너키우기,371,KR,2017-09-27
-com.robtopx.geometrydashmeltdown,GeometryDashMeltdown,372,KR,2017-09-27
-com.jetstartgames.chess,チェス,373,KR,2017-09-27
-com.sinyee.babybus.magichouse,ベビー調色屋-BabyBus　子ども・幼児教育アプリ,374,KR,2017-09-27
-com.hutchgames.hotwheels,HotWheels:RaceOff,375,KR,2017-09-27
-com.adventure.princesssofia.run.free,AdventurePrincessSofiaRun-FirstGame,376,KR,2017-09-27
-com.gameloft.android.ANMP.GloftUOHM,UNO™&Friends,377,KR,2017-09-27
-air.theflash.f2game.PrettyGirl38,벚꽃놀이프리티걸,378,KR,2017-09-27
-air.theflash.f2game.DinoDeluxe,합체!다이노로봇-디럭스,379,KR,2017-09-27
-com.sinyee.babybus.princess,おひめさま着せ替え-BabyBus　女の子向け知育アプリ,380,KR,2017-09-27
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,381,KR,2017-09-27
-com.stickman.dismount.heroes,StickmanDismount3Heroes🏁,382,KR,2017-09-27
-com.stove.chaosmasters.google,카오스마스터즈,383,KR,2017-09-27
-net.supercat.stone,ストーンストライクオンライン-放置型MMORPGゲーム,384,KR,2017-09-27
-com.babeltimeus.legendstd,レルム・ディフェンス(RealmDefense),385,KR,2017-09-27
-com.sgn.pandapop.gp,パンダポップ,386,KR,2017-09-27
-com.CrazyDiamond.LoveBeatAnyTime,러브비트:애니타임,387,KR,2017-09-27
-com.locusgames.bootopang,부끄부토팡forKakao,388,KR,2017-09-27
-com.gggg.bebornbeauty,미녀의탄생,389,KR,2017-09-27
-com.tinydragonadventuregames.sea.crafting.building.wild.exploration.lite.minecraft.sport.fishing.paradise.island.bass.hook.bay,EdenIslandCraft:釣りとビルディングゲーム,390,KR,2017-09-27
-com.ziopops.school,스쿨:레전드히어로즈,391,KR,2017-09-27
-com.RevolutionCraft.MineExploration,MineRevolutioncraft,392,KR,2017-09-27
-air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,393,KR,2017-09-27
-com.MayGreenStudio.dressup,Momo'sDressup,394,KR,2017-09-27
-com.nhnent.Qpoker,한게임포커,395,KR,2017-09-27
-com.xflag.fightleagueGL,ファイトリーグ-FightLeague,396,KR,2017-09-27
-com.idol.manager,아이돌키우기시즌2,397,KR,2017-09-27
-com.freegamesstudio.copsvsrobbersjailbreak,強盗対警官：刑務所ブレイク,398,KR,2017-09-27
-com.sundaytoz.mobile.anipang2.google.kakao.service,애니팡2forKakao,399,KR,2017-09-27
-com.piano.music_tiles,ピアノタイル2：音ゲー,400,KR,2017-09-27
-com.memoryinc.IGTITAN,にゃんこレンジャー,401,KR,2017-09-27
-com.com2us.acefishing.normal.freefull.google.global.android.common,釣りオン！,402,KR,2017-09-27
-com.appdamkam.luckyblockmodforminecraft2016,LuckyBlockModforMinecraft,403,KR,2017-09-27
-air.theflash.f2game.PrettyGirl37,걸그룹프리티걸,404,KR,2017-09-27
-com.rps.mompregnentsurgerysimulator,ママ妊娠している手術シミュレータゲーム,405,KR,2017-09-27
-com.sponge.stayalive,無人島で生き残れ！,406,KR,2017-09-27
-com.miniclip.eightballpool,8BallPool,407,KR,2017-09-27
-com.tntn.stickman.simulator.zombie.battle,スティックマンシミュレータ：ゾンビバトル,408,KR,2017-09-27
-com.shinchan.moto.bike,ShinBikeRider,409,KR,2017-09-27
-com.cg.surpriseeggsclawmachine,SurpriseEggsClawMachine,410,KR,2017-09-27
-com.mobirix.towerking,タワーディフェンス王,411,KR,2017-09-27
-com.rioo.runnersubway,地下鉄プリンセスランナー,412,KR,2017-09-27
-air.theflash.f2game.PrettyGirl22,마법소녀프리티걸,413,KR,2017-09-27
-com.hts.ams,ArmyMenStrike,414,KR,2017-09-27
-com.Tudadak.SkullMagician,スケルトン魔法使い育てる：異世界の前生気,415,KR,2017-09-27
-com.ecapycsw.onetouchdrawing,一筆書き,416,KR,2017-09-27
-com.rexetstudio.blockstrike,BlockStrike,417,KR,2017-09-27
-com.ea.game.pvz2_row,Plantsvs.Zombies2,418,KR,2017-09-27
-com.ketchapp.catchup,CatchUp,419,KR,2017-09-27
-com.sinyee.babybus.icecream,アイスキャンディー屋さんごっこ-BabyBus　子ども向け,420,KR,2017-09-27
-com.prettysimple.criminalcaseandroid,クリミナルケース,421,KR,2017-09-27
-com.hanaabiru.scarletK,여전히넌아름다운지～바람둥이내여친은못말려,422,KR,2017-09-27
-com.gta.real.gangster.crime,RealGangsterCrime,423,KR,2017-09-27
-net.YeaStudio.YouTuber,유튜브스타키우기,424,KR,2017-09-27
-com.racing.in.bar.c,RacingInCar3D,425,KR,2017-09-27
-com.sinyee.babybus.kitchens,パンダのロボットキッチン-BabyBus子供向け知育アプリ,426,KR,2017-09-27
-com.buildingcraftinggames.my.virtual.boyfriend.maker.princess.girls.craft.minecraft.pocket.edition.first.love.simulator.games,私のボーイフレンド：シミュレータ,427,KR,2017-09-27
-jp.ne.sk_mine.android.game.emono_hofuru,獲物を屠るゲーム,428,KR,2017-09-27
-com.highbrow.games.dragonvillage,DragonVillage2,429,KR,2017-09-27
-com.com2us.smon.normal.freefull.google.kr.android.common,サマナーズウォー:SkyArena,430,KR,2017-09-27
-com.rappidstudios.simulatorbattle,EpicBattleSimulator,431,KR,2017-09-27
-com.loadcomplete.bacteria,HelloYogurt,432,KR,2017-09-27
-com.gameloft.android.ANMP.GloftDOHM,ドラゴンマニア・レジェンド,433,KR,2017-09-27
-com.lego.ninjago.wucru,LEGO®Ninjago™WU-CRU,434,KR,2017-09-27
-com.scottgames.fnaf2demo,FiveNightsatFreddy's2Demo,435,KR,2017-09-27
-com.kumagames.highschoolsimulator,ハイスクールシミュレーター2017,436,KR,2017-09-27
-com.funactionapps.CWMP,犯罪戦争:マフィア追跡,437,KR,2017-09-27
-com.netmarble.mherosgb,MARVELFutureFight,438,KR,2017-09-27
-com.mobirix.Alkaki,ストーン・シューター,439,KR,2017-09-27
-air.theflash.f2game.PrettyGirl36,새학기프리티걸,440,KR,2017-09-27
-com.torus.imai.game,I'MAI[Real-TimeActionGames],441,KR,2017-09-27
-com.miniclip.diep.io,diep.io,442,KR,2017-09-27
-air.au.com.metro.DumbWaysToDie2,DumbWaystoDie2:TheGames,443,KR,2017-09-27
-com.playrix.township,タウンシップ(Township),444,KR,2017-09-27
-com.galasports.football,FootballMaster,445,KR,2017-09-27
-com.sundaytoz.mobile.anisachun.google.service,애니팡사천성forKakao,446,KR,2017-09-27
-com.sinyee.babybus.shopping,かいものだいすき-子ども向けお買物ごっこ遊び,447,KR,2017-09-27
-com.welikegames.BecameDog,IBecameaDog,448,KR,2017-09-27
-jp.co.freep.untreu.idol.kr,바람필게요[아이돌편]◆메시지형연애게임◆,449,KR,2017-09-27
-com.ideabox.iamzombie,Zombinizer-I'mfirstzombie,450,KR,2017-09-27
-com.ketchapp.pineapplepen,パイナッポーペン,451,KR,2017-09-27
-com.sundaytoz.kakao.poker.service,애니팡포커forKakao,452,KR,2017-09-27
-com.mp.waterslideuphillrushracing,ウォータースライドダウンヒルラッシュ,453,KR,2017-09-27
-air.jp.ne.hap.toast,トースト少女,454,KR,2017-09-27
-air.theflash.f2game.PrettyGirl14,요정프리티걸,455,KR,2017-09-27
-com.stove.cfm.google,탄:전장의진화onStove,456,KR,2017-09-27
-com.droid.developer.crack.screen.prank,ひび割れたスクリーンのいたずら,457,KR,2017-09-27
-com.twoblockgames.boyawayschool,탈출게임-학교탈출온라인,458,KR,2017-09-27
-kr.com.xiaohua,여신학교,459,KR,2017-09-27
-com.newday.officeromance,사내연애,460,KR,2017-09-27
-air.theflash.f2game.PrettyGirl7,웨딩프리티걸옷입히기게임,461,KR,2017-09-27
-com.encom.gostop_2017,고스톱2017:무료맞고게임,462,KR,2017-09-27
-com.cookapps.GrowTower,GrowTower:CastleDefenderTD,463,KR,2017-09-27
-net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,464,KR,2017-09-27
-com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,465,KR,2017-09-27
-com.netmarble.magu2,마구마구2017forKakao,466,KR,2017-09-27
-com.fluffyfairygames.idleminertycoon,ざくざくキング：採掘王国,467,KR,2017-09-27
-air.jp.ne.hap.ushiro,うしろ！うしろ！,468,KR,2017-09-27
-air.com.coworkdream.PicrossLUNA,お絵かきロジックルナ(Luna),469,KR,2017-09-27
-com.percent.towar,TO:WAR,470,KR,2017-09-27
-com.telltalegames.minecraft100,Minecraft:StoryMode,471,KR,2017-09-27
-com.pang.badboy.google,리젠-지금부터RE:젠,472,KR,2017-09-27
-air.jp.ne.hap.nyadle,ニャードル,473,KR,2017-09-27
-jp.co.freep.uwaki.kr,바람필게요-메시지형연애게임,474,KR,2017-09-27
-com.sinyee.babybus.drinks,かき氷アイスクリーム屋さん,475,KR,2017-09-27
-com.mcu.game.word.end.me.free,끝말잇기내가먼저,476,KR,2017-09-27
-air.com.globalgear.kr.jan,대전!가위바위보장기,477,KR,2017-09-27
-com.CONTINUE.TapTapDino,TapTapDino:Defender,478,KR,2017-09-27
-com.diffcat.facedance2,FaceDanceChallenge!,479,KR,2017-09-27
-com.creaforkids.surpriseeggsgumballmachinekids,SurpriseEggsGumBallMachine,480,KR,2017-09-27
-com.zynga.FarmVilleTropicEscape,FarmVille:TropicEscape,481,KR,2017-09-27
-music.guitar.pianotap.piano.tiles,PianoTiles2017,482,KR,2017-09-27
-com.gameloft.android.ANMP.GloftNOHM,N.O.V.A.Legacy,483,KR,2017-09-27
-com.tencent.warwings2,ウォー・ウィングス(WarWings),484,KR,2017-09-27
-io.kkutu.kkutu,끄투리오,485,KR,2017-09-27
-com.nexon.legoquestandcollect,LEGO®クエスト&コレクト,486,KR,2017-09-27
-com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,487,KR,2017-09-27
-air.theflash.f2game.PrettyGirl35,코스프레프리티걸,488,KR,2017-09-27
-air.com.globalgear.kr.city,방치시티~나만의마을을만들어보자!~,489,KR,2017-09-27
-com.grampus.cookingadventureforkakao,마이리틀셰프forkakao,490,KR,2017-09-27
-com.studio7775.BeatMP3,BEATMP3-リズムゲーム,491,KR,2017-09-27
-com.shft.knight,KnightIO,492,KR,2017-09-27
-com.Figuromo.FiguromoSM,ColorMinisキッズ,493,KR,2017-09-27
-com.survivalcrafting.build.house.building.simulator.crafting.home.design.games.like.minecraft.mcpe.ideas.builder.creative.free,ハウスビルディング：デザインゲーム,494,KR,2017-09-27
-air.theflash.f2game.HandsomeBoy2,학교에서핸섬보이,495,KR,2017-09-27
-com.gaegem.thearmyofsun,군대키우기,496,KR,2017-09-27
-map.mcpe.wall,ParadiseParkourmapforMCPE,497,KR,2017-09-27
-com.soulgit.age2048,エイジオブ2048：都市文明建設パズルゲーム,498,KR,2017-09-27
-com.mobirix.newbaduk_goo,銀星囲碁,499,KR,2017-09-27
-com.com2us.actionpuzzletown.normal.freefull.google.global.android.common,ドタバタパズル街,500,KR,2017-09-27
-com.sonat.topfreegame.blockpuzzlejewel.blockpuzzle,テトリスブロックパズルヘキサパズル-ブロックランチャー古典的なテトリスレンガ古典,501,KR,2017-09-27
-com.twopm.ninja,ジャンプ忍者二プレーヤー,502,KR,2017-09-27
-com.gamevil.cartoonwars3.android.google.global.normal,カートゥーンウォーズ3,503,KR,2017-09-27
-com.teamreally.sorrymom,ママごめんなさい(SorryMom),504,KR,2017-09-27
-com.nhnent.hanslot,한게임슬롯:베가스카지노슬롯머신,505,KR,2017-09-27
-com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,506,KR,2017-09-27
-com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,507,KR,2017-09-27
-com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス～シューティング・マフィアゲーム～,508,KR,2017-09-27
-com.sinyee.babybus.familytree.global,うちの家族には誰がいる-BabyBus幼児向け知育ゲーム,509,KR,2017-09-27
-com.mansourente.mansourgame,만수르키우기,510,KR,2017-09-27
-com.namcobandaigames.pacmantournaments,PAC-MAN,511,KR,2017-09-27
-com.ironhidegames.android.kingdomrush,KingdomRush,512,KR,2017-09-27
-com.rovio.angrybirds,AngryBirds,513,KR,2017-09-27
-com.indiside.kimjaewon,김재원싸인구하러가는게임,514,KR,2017-09-27
-com.ea.games.r3_row,RealRacing3,515,KR,2017-09-27
-com.sinyee.babybus.dentist.global,歯医者さんごっこーBabyBus　子ども・幼児教育アプリ,516,KR,2017-09-27
-com.game.space.shooter2,SpaceShooter:GalaxyShooting,517,KR,2017-09-27
-com.tulip.crazy.rollercoaster.simulator,狂気のジェットコースターのシミュレータ,518,KR,2017-09-27
-com.juniegames.blitzcrankbattle,BlitzcrankBattle,519,KR,2017-09-27
-com.cybergate.turningskirt,【やめて！】スカートめくり～無料暇つぶしゲーム～,520,KR,2017-09-27
-com.royalfamily.prisonescape,감옥탈출,521,KR,2017-09-27
-com.sundaytoz.kakao.sutda.service,애니팡섯다forKakao,522,KR,2017-09-27
-com.twotop.funnycho,재미있는초성퀴즈,523,KR,2017-09-27
-com.entermate.bob,밥위드라바(BOB),524,KR,2017-09-27
-com.hcg.cok.gp,クラッシュオブキングス-「城育成シミュレーションRPG」,525,KR,2017-09-27
-com.newday.ilzzin2,일진에게반했을때,526,KR,2017-09-27
-com.cookingchef.kitchen.free,クッキングワールド,527,KR,2017-09-27
-com.funplus.kingofavalon,キング・オブ・アバロン:ドラゴン戦争(KoA),528,KR,2017-09-27
-com.gameboy8986.youknowafter2sec,2초뒤이해,529,KR,2017-09-27
-com.Jespertheend.splix,splix.io,530,KR,2017-09-27
-com.lego.city.my_city2,LEGO®CityMyCity2,531,KR,2017-09-27
-com.topapp.solitaire,ソリティアクラシックカードゲーム,532,KR,2017-09-27
-com.tigereyegames.wc3c,WorldChampionshipBilliards,533,KR,2017-09-27
-com.skylinematrix.ggplay.blhdx,군왕,534,KR,2017-09-27
-com.sinyee.babybus.restaurant,パンダのレストラン,535,KR,2017-09-27
-com.ThreeCatGames.ThisCell,細胞と私49日、,536,KR,2017-09-27
-com.btgames.newagainbeauty,また綺麗になれるかな,537,KR,2017-09-27
-com.dingogames.tastyblue,TastyBlue,538,KR,2017-09-27
-jpark.AOS5,Angerofstick5アクションゲーム,539,KR,2017-09-27
-air.com.Yoypo.SkillFinger,巧みな指,540,KR,2017-09-27
+com.droidhang.ad,IdleHeroes-無料放置育成RPG,184,KR,2017-09-27
+com.mobile.legends,モバイル·レジェンド:Bangbang,185,KR,2017-09-27
+com.ChillyRoom.DungeonShooter,SoulKnight,186,KR,2017-09-27
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,187,KR,2017-09-27
+com.CraftingMax.Explore,MaxCraft:PocketEdition,188,KR,2017-09-27
+com.enterfly.AirPenguin2,エアペンギン2,189,KR,2017-09-27
+com.inapp.cross.stitch,クロスステッチ,190,KR,2017-09-27
+com.mobirix.differencegame,まちがい探しの王,191,KR,2017-09-27
+air.com.coworkdream.PicrossLUNA2,お絵かきロジックルナ(Luna)2世-涙の6つの部分,192,KR,2017-09-27
+com.apxsoft.s1945ww,ストライカーズ1945ワールドウォー,193,KR,2017-09-27
+com.yodo1.crossyroad,クロッシーロード,194,KR,2017-09-27
+com.NHNEnt.NDuelgo,한게임신맞고:국가대표무료고스톱,195,KR,2017-09-27
+com.redduckm.android.avamrs,아바:건즈온파이어(아바모바일),196,KR,2017-09-27
+com.jmiro.korea.korean.relayi,しりとり(韓国語),197,KR,2017-09-27
+com.newday.btfriend,오빠친구,198,KR,2017-09-27
+com.nkm.kp.hh,ハイパーヒーローズ(HyperHeroes:Marble-LikeRPG),199,KR,2017-09-27
+com.iwatanatto.ssapp00200,グリッドガイズ,200,KR,2017-09-27
+com.turborocketgames.catsim,猫シムオンライン,201,KR,2017-09-27
+com.day.dayhollowman,하루만투명인간,202,KR,2017-09-27
+com.CaimVell.EggToSlime,알부터시작하는슬라임키우기,203,KR,2017-09-27
+com.naturalmotion.customstreetracer2,CSRRacing2,204,KR,2017-09-27
+com.og.poki,실시간리얼인형뽑기-포키(Poki),205,KR,2017-09-27
+com.ea.gp.fifamobile,FIFAMobileサッカー,206,KR,2017-09-27
+com.camelgames.superking,WarandOrder,207,KR,2017-09-27
+com.king.candycrushsaga,キャンディークラッシュ,208,KR,2017-09-27
+com.koramgame.ggplay.xwkr,씰:뉴월드,209,KR,2017-09-27
+com.ubisoft.hungrysharkworld,HungrySharkWorld,210,KR,2017-09-27
+com.Goormsoft.Skyscraper,건물키우기,211,KR,2017-09-27
+com.groundhog.multiplayermaster,マインクラフトのマルチプレーヤ,212,KR,2017-09-27
+com.locusgames.bootopang,부끄부토팡forKakao,213,KR,2017-09-27
+com.singlecellsoftware.sand,Sand!,214,KR,2017-09-27
+com.bitmango.go.blockhexapuzzle,ブロック！ヘキサパズル,215,KR,2017-09-27
+com.bandainamcoent.narutoblazingna,UltimateNinjaBlazing,216,KR,2017-09-27
+com.neowiz.games.sudda,PmangSutda:RealCardGame,217,KR,2017-09-27
+com.buffstudio.myoasis,MyOasis-GrowingHeavenlyIsland,218,KR,2017-09-27
+com.kingsoftgame.ggplay.jxqykr,클랜즈:달의그림자,219,KR,2017-09-27
+com.edup.gostop_2017,무료맞고2017-새로운무료고스톱게임,220,KR,2017-09-27
+com.ketchapp.gravityswitch,GravitySwitch,221,KR,2017-09-27
+com.netmarble.lineageII,리니지2레볼루션,222,KR,2017-09-27
+com.traindepo.rollercoaster,ローラーコースター列車のシミュレータ,223,KR,2017-09-27
+com.WildSoda.MineSurvival,MineSurvival,224,KR,2017-09-27
+air.com.abc.ctown,私の料理村,225,KR,2017-09-27
+com.ansangha.drjb,走行の達人2,226,KR,2017-09-27
+com.halfbrick.fruitninjafree,FruitNinja®,227,KR,2017-09-27
+smellymoo.sand,砂:絵,228,KR,2017-09-27
+com.imangi.templerun,TempleRun,229,KR,2017-09-27
+com.ea.game.easportsufc_row,EASPORTS™UFC®,230,KR,2017-09-27
+com.com2us.probaseball3d.normal.freefull.google.global.android.common,컴투스프로야구2017,231,KR,2017-09-27
+com.dreamytyper.kingOfSoccer,KingOfSoccer:Footballrun,232,KR,2017-09-27
+com.imangi.templerun2,TempleRun2,233,KR,2017-09-27
+com.joymax.gostop,맞고의신forKakao,234,KR,2017-09-27
+com.ViperGames.StickmanWarriors,StickmanWarriors,235,KR,2017-09-27
+comup.co.kr.cashper,"캐시퍼-땅파서돈버는리워드앱(땅파기,광부)",236,KR,2017-09-27
+com.cjenm.sknights,세븐나이츠forKakao,237,KR,2017-09-27
+com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),238,KR,2017-09-27
+com.highbrow.game,DragonVillage,239,KR,2017-09-27
+com.Bullinzadu.MasterOfGrab,MASTEROFGRAB,240,KR,2017-09-27
+com.percent.charles2,Charles2,241,KR,2017-09-27
+air.com.edufuncreative.garosero,가로세로낱말퀴즈(상식의달인),242,KR,2017-09-27
+kr.co.smartstudy.jellyking.googlemarket,JellyKing:世界を征服する,243,KR,2017-09-27
+com.kunpo.loner,Loner,244,KR,2017-09-27
+ru.prodigydev.minemaze3d,鉱山迷路3D,245,KR,2017-09-27
+com.enjoygame.jwshg,극무쌍,246,KR,2017-09-27
+com.robtopx.geometrydashworld,GeometryDashWorld,247,KR,2017-09-27
+com.motionvolt.flipbounce,FlipMaster,248,KR,2017-09-27
+com.andromedagames.billiardsgod,당구의신,249,KR,2017-09-27
+jp.konami.pesam,WinningEleven2017,250,KR,2017-09-27
+com.bellapps.drinkcocktail,飲むカクテルリアルSim,251,KR,2017-09-27
+com.sinyee.babybus.food,中華レストラン-BabyBus　子ども・幼児向けお料理ゲーム,252,KR,2017-09-27
+com.brainlatency.onesunsimulator,원썬키우기,253,KR,2017-09-27
+com.wordsearch.world,シークワーズ-WordSearch-,254,KR,2017-09-27
+com.rovio.baba,アングリーバード2(AngryBirds2),255,KR,2017-09-27
+com.Bangsfactory.ProductName,생존.IO-PVP온라인,256,KR,2017-09-27
+air.jp.ne.hap.fk,こんなフリーキックはイヤだ,257,KR,2017-09-27
+com.sleepyj.survivalisland1,BATTLEROYAL:SurvivalIsland,258,KR,2017-09-27
+com.sinyee.babybus.hospital,赤ちゃんの病院-BabyBus子ども向け知育アプリ,259,KR,2017-09-27
+jp.co.ofcr.cm00,クッキングママおりょうりしましょ！,260,KR,2017-09-27
+com.zindagigames.ccs,CrazyCakeSwap,261,KR,2017-09-27
+com.gramgames.tenten,1010!,262,KR,2017-09-27
+com.ultimaa.overduel,OVERDUELNekoHeroesArena2PlayerVersusBattle,263,KR,2017-09-27
+com.manababa.BeggarKing,거지키우기,264,KR,2017-09-27
+com.sixtycelsius.Sakura,Sakura,265,KR,2017-09-27
+com.nhnent.gamebox,"GAMEBOX(겜박스)-게임쿠폰,사전예약,사전등록",266,KR,2017-09-27
+com.kakaogames.nikki,아이러브니키forkakao,267,KR,2017-09-27
+com.whitebeard.skeletonking,해골왕키우기[전자동PVP],268,KR,2017-09-27
+com.fruitheroes.legend,FruitHeroesLegend,269,KR,2017-09-27
+air.theflash.f2game.PrettyGirl3,해변에서프리티걸,270,KR,2017-09-27
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),271,KR,2017-09-27
+air.theflash.f2game.PrettyGirl2,학교에서프리티걸,272,KR,2017-09-27
+com.rabbitmountain.rollercoaster,VRThrills:RollerCoaster360,273,KR,2017-09-27
+com.popreach.dumbways,DumbWaystoDieOriginal,274,KR,2017-09-27
+com.msg.blast,장풍키우기,275,KR,2017-09-27
+com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),276,KR,2017-09-27
+com.percent.karl2,Karl2,277,KR,2017-09-27
+com.BeresnevGames.Knife,FlippyKnife,278,KR,2017-09-27
+com.linkdesks.iBubble,パワーバブルシューター,279,KR,2017-09-27
+com.firsttouchgames.dls3,DreamLeagueSoccer,280,KR,2017-09-27
+com.rkgames.smashywanted,SmashyRoad:Wanted,281,KR,2017-09-27
+com.ncsoft.lineagem,리니지M(12),282,KR,2017-09-27
+com.sinyee.babybus.care,赤ちゃんの世話をする-BabyBus子ども・幼児教育アプリ,283,KR,2017-09-27
+com.ea.gp.nbamobile,NBALIVEMobileBasketball,284,KR,2017-09-27
+com.funplus.familyfarm,にじいろ牧場,285,KR,2017-09-27
+com.pomelogames.TowerGame,OnceUponaTower,286,KR,2017-09-27
+com.mgc.stickman.rope.hero.two,StickmanRopeHero2,287,KR,2017-09-27
+com.sundaytoz.mobile.anipang.google.service,애니팡forKakao,288,KR,2017-09-27
+com.ha.mobi,"모비-사전예약,사전등록,게임쿠폰",289,KR,2017-09-27
+com.ansangha.drdriving,走行の達人,290,KR,2017-09-27
+com.nas.ms.kr,마음의소리with NAVERWEBTOON,291,KR,2017-09-27
+net.basedog.deadtale,DeadtaleOnlineforUndertale,292,KR,2017-09-27
+com.bandainamcoent.saomdas,刀劍神域一記憶重組,293,KR,2017-09-27
+com.monomob.jangki,장기forKAKAO,294,KR,2017-09-27
+com.sigono.heaven01,OPUS:魂の架け橋,295,KR,2017-09-27
+com.stickman.dismount.heroes,StickmanDismount3Heroes🏁,296,KR,2017-09-27
+com.babeltimeus.legendstd,レルム・ディフェンス(RealmDefense),297,KR,2017-09-27
+com.groundhog.mcpemaster4map,MapMasterforMinecraftPE,298,KR,2017-09-27
+com.sundaytoz.kakao.matgo.service,애니팡맞고forKakao,299,KR,2017-09-27
+com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),300,KR,2017-09-27
+com.royalfamily.todayet,하루동안연예인,301,KR,2017-09-27
+com.quarterborrowresult.customer,PuzzleGame,302,KR,2017-09-27
+jp.pokemon.koiking,はねろ！コイキング,303,KR,2017-09-27
+air.theflash.f2game.PrettyGirl23,공주프리티걸옷입히기게임,304,KR,2017-09-27
+air.com.dressupone.mangawardrobe,ドレスアップ・マンガワードローブ,305,KR,2017-09-27
+com.ilzumsa.mecardgo,터닝메카드GO,306,KR,2017-09-27
+jp.coffeebreakin.app.mokken,格闘ゲーム「木拳」　〜暇つぶしに人気の面白いゲーム！ハマるよ,307,KR,2017-09-27
+com.buildingcraftinggames.fashion.girls.craft.princess.minecraft.barbie.creative.exploration.lite.build.top.model.design.fun,ファッション＆デザイン-女の子のためのゲーム,308,KR,2017-09-27
+com.nhnent.SKQUEST,クルセイダークエスト,309,KR,2017-09-27
+com.spilgames.UphillRush,UphillRushウォータースライダーゲーム,310,KR,2017-09-27
+com.nhnent.Qpoker,한게임포커,311,KR,2017-09-27
+com.dreamplay.godofblock.google,GodofBlock:BrickBreaker,312,KR,2017-09-27
+com.choirockcf.carbot,헬로카봇슈퍼대시,313,KR,2017-09-27
+com.kumagames.highschoolsimulator2018,HighSchoolSimulator2018,314,KR,2017-09-27
+com.hlee1159.android.firstquiz,초성게임,315,KR,2017-09-27
+com.dnddream.headsoccer.android,HeadSoccer,316,KR,2017-09-27
+com.vespainteractive.KingsRaid,King'sRaid,317,KR,2017-09-27
+com.noknok.heroesinnKR,용사여관,318,KR,2017-09-27
+air.com.globalgear.kr.pico,만들자!액션게임!!피코피코메이커,319,KR,2017-09-27
+com.rus.piskar.exploration.divers.two,ExplorationDIVERSII,320,KR,2017-09-27
+com.magiclab.insatiaio,insatiableiosnakes,321,KR,2017-09-27
+com.kgsapp.escape,旦那にへそくり隠された!,322,KR,2017-09-27
+com.bentostudio.ballsvsblocks,SnakeVSBlock,323,KR,2017-09-27
+com.selvas.fr,GUNFIRE(ガンファイア）-爽快フル３Ｄガンシューティング,324,KR,2017-09-27
+com.studio7775.BeatMP3v2,BEATMP32.0-リズムゲーム,325,KR,2017-09-27
+com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,326,KR,2017-09-27
+com.rlg.mentalrope,놓지마사천성withNAVERWEBTOON,327,KR,2017-09-27
+com.firsttouchgames.story,Score!Hero,328,KR,2017-09-27
+air.com.globalgear.kr.iiwake,이별회피-막장연애시뮬레이션게임!-,329,KR,2017-09-27
+com.nhnpixelcube.kingsman,キングスマン:ゴールデン･サークル,330,KR,2017-09-27
+com.cyou.jielan.krgp,프리스타일2:플라잉덩크,331,KR,2017-09-27
+com.soulgit.age2048,エイジオブ2048：都市文明建設パズルゲーム,332,KR,2017-09-27
+com.natenai.glowhockey,GlowHockey,333,KR,2017-09-27
+com.nekki.shadowfight,シャドウファイト2,334,KR,2017-09-27
+com.CCF.Mecard,메카드레이싱,335,KR,2017-09-27
+com.batblocks.coubtower,RoyaleClans–ClashofWars,336,KR,2017-09-27
+com.outfit7.tomsjetski,トーキング・トムのジェットスキー,337,KR,2017-09-27
+com.stove.chaosmasters.google,카오스마스터즈,338,KR,2017-09-27
+air.theflash.f2game.PrettyGirl15,잠옷프리티걸,339,KR,2017-09-27
+com.mohitdev.minebuild,BlockBuild,340,KR,2017-09-27
+com.rappidstudios.simulatorbattlephysics,EpicBattleSimulator2,341,KR,2017-09-27
+air.theflash.f2game.PrettyGirl11,인어공주프리티걸,342,KR,2017-09-27
+com.sevenpirates.infinitywar,アーク・オブ・ウォー「ArkofWar」,343,KR,2017-09-27
+com.jimneu.orbitorbeat,Orbitor-Beat,344,KR,2017-09-27
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,345,KR,2017-09-27
+com.xflag.fightleagueGL,ファイトリーグ-FightLeague,346,KR,2017-09-27
+com.JMstudio.Sleepwalker,スリープワーカー-脱出パズルゲーム,347,KR,2017-09-27
+com.topgamestudio.thesurvivalhungrygames2,サバイバルハングリーゲーム2,348,KR,2017-09-27
+com.archbears.bs,ブラサバ,349,KR,2017-09-27
+com.dnp.game.jambo.match,매치팡forkakao,350,KR,2017-09-27
+com.joylol.taptube,タップチューブ-ミュージックビデオリズムゲーム,351,KR,2017-09-27
+com.stove.cfm.google,탄:전장의진화onStove,352,KR,2017-09-27
+com.freecraft.my.buildings,FreeCraftMyBuilding,353,KR,2017-09-27
+com.jetstartgames.chess,チェス,354,KR,2017-09-27
+com.sinyee.babybus.amusement,知育ゲームランド-BabyBus　幼児・子供向け,355,KR,2017-09-27
+com.dhmobile.gad,검볼앤던전-밤새지말란말이야,356,KR,2017-09-27
+com.ecapycsw.onetouchdrawing,一筆書き,357,KR,2017-09-27
+com.miniclip.eightballpool,8BallPool,358,KR,2017-09-27
+com.kongregate.mobile.run.google,Run,359,KR,2017-09-27
+com.gamehivecorp.kicktheboss2r,BeattheBoss2(17+),360,KR,2017-09-27
+com.skgames.trafficrider,TrafficRider,361,KR,2017-09-27
+com.criticalforceentertainment.criticalops,CriticalOps,362,KR,2017-09-27
+com.sundaytoz.kakao.poker.service,애니팡포커forKakao,363,KR,2017-09-27
+com.blayzegames.iosfps,BulletForce,364,KR,2017-09-27
+com.PlayCastle.Crane,パンパンガチャ-ClawGameMaster,365,KR,2017-09-27
+jp.konami.duellinks,遊戯王デュエルリンクス,366,KR,2017-09-27
+com.SundayJelly.YouAreTooSlow,遅く,367,KR,2017-09-27
+com.blacktile.piano.tiles.two,ピアノタイル2,368,KR,2017-09-27
+com.netmarble.stoneage,StoneAgeBegins,369,KR,2017-09-27
+com.notdoppler.crashofcars,クラッシュオブカーズ(CrashofCars),370,KR,2017-09-27
+com.gameone.colorhockey.free,カラーホッケー,371,KR,2017-09-27
+com.selvas.ttale,小鎮奇緣-可愛的3D農場,372,KR,2017-09-27
+com.sgn.pandapop.gp,パンダポップ,373,KR,2017-09-27
+com.sundaytoz.mobile.anipang2.google.kakao.service,애니팡2forKakao,374,KR,2017-09-27
+jp.ne.freem.YASUHATI,休むな！８分音符ちゃん/声で遊ぶ新感覚アクションゲーム,375,KR,2017-09-27
+ru.arappsandgames.handdiyslimesimulator,ハンドDIYスライムシミュレータ,376,KR,2017-09-27
+com.sinyee.babybus.earthquake,じしんだ！どうする？-BabyBus子ども向け防災アプリ,377,KR,2017-09-27
+com.CrazyDiamond.LoveBeatAnyTime,러브비트:애니타임,378,KR,2017-09-27
+com.Mouse_Duck.DoveGame,비둘기키우기,379,KR,2017-09-27
+com.outfit7.mytalkinghank,マイ・トーキング・ハンク,380,KR,2017-09-27
+com.shft.knight,KnightIO,381,KR,2017-09-27
+com.encom.gostop_2017,고스톱2017:무료맞고게임,382,KR,2017-09-27
+com.ketchapp.catchup,CatchUp,383,KR,2017-09-27
+teamjj.games.sudoku,시간때우기스도쿠,384,KR,2017-09-27
+net.supercat.stone,ストーンストライクオンライン-放置型MMORPGゲーム,385,KR,2017-09-27
+com.rioo.runnersubway,地下鉄プリンセスランナー,386,KR,2017-09-27
+com.fluffyfairygames.idleminertycoon,ざくざくキング：採掘王国,387,KR,2017-09-27
+air.theflash.f2game.PrettyGirl38,벚꽃놀이프리티걸,388,KR,2017-09-27
+com.netmarble.mherosgb,MARVELFutureFight,389,KR,2017-09-27
+com.colorjoy.Learn.to.draw.glow.cartoon,LearntoDrawGlowCartoon,390,KR,2017-09-27
+com.loadcomplete.bacteria,HelloYogurt,391,KR,2017-09-27
+com.BeautifulWorld.FidgetSpinner,피젯스피너키우기,392,KR,2017-09-27
+com.mcu.game.word.end.me.free,끝말잇기내가먼저,393,KR,2017-09-27
+com.nthink.ramen,ママに秘密にしてラーメン作って食べる,394,KR,2017-09-27
+com.daebak3th.whatisnamethedrink,음료수퀴즈,395,KR,2017-09-27
+com.sundaytoz.mobile.anisachun.google.service,애니팡사천성forKakao,396,KR,2017-09-27
+com.racing.in.bar.c,RacingInCar3D,397,KR,2017-09-27
+com.nthink.ramen2,ママに秘密にしてラーメン作って食べる2,398,KR,2017-09-27
+com.gggg.bebornbeauty,미녀의탄생,399,KR,2017-09-27
+com.buildingcraftinggames.theme.park.games.girls.craft.roller.coaster.tycoon.block.crafting.and.building.minecraft.sims.roblox,データパーク工作：ローラーコースター建築家,400,KR,2017-09-27
+com.prettysimple.criminalcaseandroid,クリミナルケース,401,KR,2017-09-27
+com.playrix.township,タウンシップ(Township),402,KR,2017-09-27
+com.mobirix.bounceballking1,ジャンプ玉クエスト,403,KR,2017-09-27
+com.gameloft.android.ANMP.GloftUOHM,UNO™&Friends,404,KR,2017-09-27
+com.mobirix.towerking,タワーディフェンス王,405,KR,2017-09-27
+air.theflash.f2game.PrettyGirl37,걸그룹프리티걸,406,KR,2017-09-27
+com.galasports.football,FootballMaster,407,KR,2017-09-27
+air.com.coworkdream.PicrossLUNA,お絵かきロジックルナ(Luna),408,KR,2017-09-27
+com.robtopx.geometrydashmeltdown,GeometryDashMeltdown,409,KR,2017-09-27
+com.tinydragonadventuregames.sea.crafting.building.wild.exploration.lite.minecraft.sport.fishing.paradise.island.bass.hook.bay,EdenIslandCraft:釣りとビルディングゲーム,410,KR,2017-09-27
+com.piano.music_tiles,ピアノタイル2：音ゲー,411,KR,2017-09-27
+kr.gameway.makeup,MakeupGirl,412,KR,2017-09-27
+com.sega.sonicdash,SonicDash,413,KR,2017-09-27
+com.nhnent.hanslot,한게임슬롯:베가스카지노슬롯머신,414,KR,2017-09-27
+com.hyunmoo.hatchimon.farm,MergeHatchimon,415,KR,2017-09-27
+com.ideabox.iamzombie,Zombinizer-I'mfirstzombie,416,KR,2017-09-27
+com.ENR_GAMEDAY.ESCAPEGAME_THEROOMS,Detentionintheroom:Escapegame,417,KR,2017-09-27
+com.idol.manager,아이돌키우기시즌2,418,KR,2017-09-27
+com.sponge.stayalive,無人島で生き残れ！,419,KR,2017-09-27
+air.theflash.f2game.PrettyGirl36,새학기프리티걸,420,KR,2017-09-27
+com.hts.ams,ArmyMenStrike,421,KR,2017-09-27
+com.sundaytoz.kakao.sutda.service,애니팡섯다forKakao,422,KR,2017-09-27
+com.MayGreenStudio.dressup,Momo'sDressup,423,KR,2017-09-27
+com.torus.imai.game,I'MAI[Real-TimeActionGames],424,KR,2017-09-27
+com.newday.officeromance,사내연애,425,KR,2017-09-27
+com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,426,KR,2017-09-27
+com.hutchgames.hotwheels,HotWheels:RaceOff,427,KR,2017-09-27
+net.YeaStudio.YouTuber,유튜브스타키우기,428,KR,2017-09-27
+com.sinyee.babybus.princess,おひめさま着せ替え-BabyBus　女の子向け知育アプリ,429,KR,2017-09-27
+com.com2us.actionpuzzletown.normal.freefull.google.global.android.common,ドタバタパズル街,430,KR,2017-09-27
+com.adventure.princesssofia.run.free,AdventurePrincessSofiaRun-FirstGame,431,KR,2017-09-27
+com.freegamesstudio.copsvsrobbersjailbreak,強盗対警官：刑務所ブレイク,432,KR,2017-09-27
+com.hanaabiru.scarletK,여전히넌아름다운지～바람둥이내여친은못말려,433,KR,2017-09-27
+air.theflash.f2game.PrettyGirl22,마법소녀프리티걸,434,KR,2017-09-27
+com.mobirix.Alkaki,ストーン・シューター,435,KR,2017-09-27
+com.sinyee.babybus.kitchens,パンダのロボットキッチン-BabyBus子供向け知育アプリ,436,KR,2017-09-27
+com.ea.game.pvz2_row,Plantsvs.Zombies2,437,KR,2017-09-27
+com.rps.mompregnentsurgerysimulator,ママ妊娠している手術シミュレータゲーム,438,KR,2017-09-27
+com.ziopops.school,스쿨:레전드히어로즈,439,KR,2017-09-27
+com.cg.surpriseeggsclawmachine,SurpriseEggsClawMachine,440,KR,2017-09-27
+air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,441,KR,2017-09-27
+com.com2us.acefishing.normal.freefull.google.global.android.common,釣りオン！,442,KR,2017-09-27
+jp.co.freep.untreu.idol.kr,바람필게요[아이돌편]◆메시지형연애게임◆,443,KR,2017-09-27
+com.MonsterPlanet.QuizPlanetProduce,퀴즈플래닛-프로듀스101시즌2퀴즈,444,KR,2017-09-27
+com.appdamkam.luckyblockmodforminecraft2016,LuckyBlockModforMinecraft,445,KR,2017-09-27
+com.pjmasks.moonlightheroes,PJMasks:MoonlightHeroes,446,KR,2017-09-27
+com.sinyee.babybus.magichouse,ベビー調色屋-BabyBus　子ども・幼児教育アプリ,447,KR,2017-09-27
+com.weplaydots.twodotsandroid,TwoDots,448,KR,2017-09-27
+com.tntn.stickman.simulator.zombie.battle,スティックマンシミュレータ：ゾンビバトル,449,KR,2017-09-27
+com.kumagames.highschoolsimulator,ハイスクールシミュレーター2017,450,KR,2017-09-27
+com.gameloft.android.ANMP.GloftDOHM,ドラゴンマニア・レジェンド,451,KR,2017-09-27
+com.rexetstudio.blockstrike,BlockStrike,452,KR,2017-09-27
+com.sonat.topfreegame.blockpuzzlejewel.blockpuzzle,テトリスブロックパズルヘキサパズル-ブロックランチャー古典的なテトリスレンガ古典,453,KR,2017-09-27
+air.theflash.f2game.DinoDeluxe,합체!다이노로봇-디럭스,454,KR,2017-09-27
+com.Tudadak.SkullMagician,スケルトン魔法使い育てる：異世界の前生気,455,KR,2017-09-27
+com.highbrow.games.dragonvillage,DragonVillage2,456,KR,2017-09-27
+air.theflash.f2game.PrettyGirl14,요정프리티걸,457,KR,2017-09-27
+air.com.globalgear.kr.city,방치시티~나만의마을을만들어보자!~,458,KR,2017-09-27
+io.kkutu.kkutu,끄투리오,459,KR,2017-09-27
+com.RevolutionCraft.MineExploration,MineRevolutioncraft,460,KR,2017-09-27
+com.miniclip.diep.io,diep.io,461,KR,2017-09-27
+air.theflash.f2game.PrettyGirl7,웨딩프리티걸옷입히기게임,462,KR,2017-09-27
+com.gta.real.gangster.crime,RealGangsterCrime,463,KR,2017-09-27
+com.sinyee.babybus.icecream,アイスキャンディー屋さんごっこ-BabyBus　子ども向け,464,KR,2017-09-27
+com.memoryinc.IGTITAN,にゃんこレンジャー,465,KR,2017-09-27
+jp.ne.sk_mine.android.game.emono_hofuru,獲物を屠るゲーム,466,KR,2017-09-27
+air.theflash.f2game.PrettyGirl35,코스프레프리티걸,467,KR,2017-09-27
+com.shinchan.moto.bike,ShinBikeRider,468,KR,2017-09-27
+com.lego.ninjago.wucru,LEGO®Ninjago™WU-CRU,469,KR,2017-09-27
+net.peakgames.amy,ToyBlast,470,KR,2017-09-27
+com.com2us.smon.normal.freefull.google.kr.android.common,サマナーズウォー:SkyArena,471,KR,2017-09-27
+bubble.shooter.shooting.shoot.game,バブルシューター,472,KR,2017-09-27
+net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,473,KR,2017-09-27
+com.buildingcraftinggames.my.virtual.boyfriend.maker.princess.girls.craft.minecraft.pocket.edition.first.love.simulator.games,私のボーイフレンド：シミュレータ,474,KR,2017-09-27
+com.netmarble.magu2,마구마구2017forKakao,475,KR,2017-09-27
+air.au.com.metro.DumbWaysToDie2,DumbWaystoDie2:TheGames,476,KR,2017-09-27
+com.rappidstudios.simulatorbattle,EpicBattleSimulator,477,KR,2017-09-27
+com.g5e.hiddencity.android,HiddenCity®:ミステリー・オブ・シャドウズ,478,KR,2017-09-27
+com.tigereyegames.wc3c,WorldChampionshipBilliards,479,KR,2017-09-27
+air.theflash.f2game.HandsomeBoy2,학교에서핸섬보이,480,KR,2017-09-27
+com.juniegames.blitzcrankbattle,BlitzcrankBattle,481,KR,2017-09-27
+com.sinyee.babybus.shopping,かいものだいすき-子ども向けお買物ごっこ遊び,482,KR,2017-09-27
+com.mobirix.newbaduk_goo,銀星囲碁,483,KR,2017-09-27
+com.mp.waterslideuphillrushracing,ウォータースライドダウンヒルラッシュ,484,KR,2017-09-27
+com.sundaytoz.kakao.anipangtouch,애니팡터치forKakao,485,KR,2017-09-27
+air.jp.ne.hap.toast,トースト少女,486,KR,2017-09-27
+com.ketchapp.pineapplepen,パイナッポーペン,487,KR,2017-09-27
+com.tencent.warwings2,ウォー・ウィングス(WarWings),488,KR,2017-09-27
+com.grampus.cookingadventureforkakao,마이리틀셰프forkakao,489,KR,2017-09-27
+com.game.space.shooter2,SpaceShooter:GalaxyShooting,490,KR,2017-09-27
+com.balysv.loop,∞InfinityLoop,491,KR,2017-09-27
+jp.co.freep.uwaki.kr,바람필게요-메시지형연애게임,492,KR,2017-09-27
+com.funactionapps.CWMP,犯罪戦争:マフィア追跡,493,KR,2017-09-27
+com.leebbing.herofight,투명드래곤,494,KR,2017-09-27
+com.kakaogames.lmzgplay,여명forKakao,495,KR,2017-09-27
+com.hcg.cok.gp,クラッシュオブキングス-「城育成シミュレーションRPG」,496,KR,2017-09-27
+com.day.appetite,입맛테스트,497,KR,2017-09-27
+com.zynga.FarmVilleTropicEscape,FarmVille:TropicEscape,498,KR,2017-09-27
+com.tulip.crazy.rollercoaster.simulator,狂気のジェットコースターのシミュレータ,499,KR,2017-09-27
+com.nhnent.HanBaduk,한게임바둑:방문자수No.1무료바둑앱,500,KR,2017-09-27
+com.welikegames.BecameDog,IBecameaDog,501,KR,2017-09-27
+air.com.globalgear.kr.jan,대전!가위바위보장기,502,KR,2017-09-27
+Draziw.Button.Mines,マインスイーパ,503,KR,2017-09-27
+com.sinyee.babybus.drinks,かき氷アイスクリーム屋さん,504,KR,2017-09-27
+tanker.noSound.fla,탱커키우기,505,KR,2017-09-27
+com.cookingchef.kitchen.free,クッキングワールド,506,KR,2017-09-27
+com.droid.developer.crack.screen.prank,ひび割れたスクリーンのいたずら,507,KR,2017-09-27
+com.scottgames.fnaf2demo,FiveNightsatFreddy's2Demo,508,KR,2017-09-27
+com.brainium.sudoku.free,数独,509,KR,2017-09-27
+com.bandainamcoent.optsK,원피스사우전드스톰,510,KR,2017-09-27
+air.jp.ne.hap.nyadle,ニャードル,511,KR,2017-09-27
+air.com.Yoypo.SkillFinger,巧みな指,512,KR,2017-09-27
+com.studio7775.BeatMP3,BEATMP3-リズムゲーム,513,KR,2017-09-27
+com.twoblockgames.boyawayschool,탈출게임-학교탈출온라인,514,KR,2017-09-27
+com.telltalegames.minecraft100,Minecraft:StoryMode,515,KR,2017-09-27
+com.ha.looting,"루팅-사전예약,사전등록,게임쿠폰",516,KR,2017-09-27
+com.survivalcrafting.build.house.building.simulator.crafting.home.design.games.like.minecraft.mcpe.ideas.builder.creative.free,ハウスビルディング：デザインゲーム,517,KR,2017-09-27
+com.gameloft.android.ANMP.GloftNOHM,N.O.V.A.Legacy,518,KR,2017-09-27
+com.achrogames.necromancerstory,ネクロマンサーストーリー,519,KR,2017-09-27
+com.skylinematrix.ggplay.blhdx,군왕,520,KR,2017-09-27
+com.gamevil.cartoonwars3.android.google.global.normal,カートゥーンウォーズ3,521,KR,2017-09-27
+com.manki.kata,카타리나키우기,522,KR,2017-09-27
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,523,KR,2017-09-27
+com.mobirix.poolpgs,ビリヤード3球4球,524,KR,2017-09-27
+com.avocado.ttftckakao,냥이매니아forkakao,525,KR,2017-09-27
+biz.mtoy.blockpuzzle.revolution,頭の体操–ブロックパズル–タングラム,526,KR,2017-09-27
+com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,527,KR,2017-09-27
+com.OwlGamesStudio.QuizRoyale,QuizRoyaleOnline,528,KR,2017-09-27
+com.namcobandaigames.pacmantournaments,PAC-MAN,529,KR,2017-09-27
+com.topgamestudio.survivalhungrygames,サバイバルハングリーゲーム,530,KR,2017-09-27
+com.cookapps.GrowTower,GrowTower:CastleDefenderTD,531,KR,2017-09-27
+com.rovio.angrybirds,AngryBirds,532,KR,2017-09-27
+com.mansourente.mansourgame,만수르키우기,533,KR,2017-09-27
+com.iseeyourface.prisonescape2,감옥탈출2,534,KR,2017-09-27
+com.andoku.three.gp,ナンプレ:Andoku3無料版,535,KR,2017-09-27
+com.keywe.goldspoon,금수저(모바일게임인생의VVIP),536,KR,2017-09-27
+com.patistudio.milc4kakao,아이러브커피forKakao,537,KR,2017-09-27
+music.guitar.pianotap.piano.tiles,PianoTiles2017,538,KR,2017-09-27
+com.sinyee.babybus.familytree.global,うちの家族には誰がいる-BabyBus幼児向け知育ゲーム,539,KR,2017-09-27
+com.mangosoft.game.typing,스마트타자연습,540,KR,2017-09-27
