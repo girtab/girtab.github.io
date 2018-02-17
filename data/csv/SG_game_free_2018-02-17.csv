@@ -29,7 +29,7 @@ com.king.candycrushsaga,キャンディークラッシュ,27,SG,2018-02-17
 com.criticalforceentertainment.criticalops,CriticalOps,28,SG,2018-02-17
 com.nianticlabs.pokemongo,PokémonGO,29,SG,2018-02-17
 com.hotheadgames.google.free.survivors,ヒーロー・ハンター,30,SG,2018-02-17
-com.scopely.wheeloffortune,WheelofFortuneFreePlay,31,SG,2018-02-17
+com.scopely.wheeloffortune,WheelofFortuneFreePlay:GameShowWordPuzzles,31,SG,2018-02-17
 com.alien.shooter.galaxy.attack,GalaxyAttack:AlienShooter,32,SG,2018-02-17
 com.fillword.cross.wordmind.en,WordCrossy-Acrosswordgame,33,SG,2018-02-17
 com.fincon.hh2,HelloHero:EpicBattle,34,SG,2018-02-17
@@ -161,9 +161,9 @@ com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,1
 com.zynga.ozmatch,TheWizardofOzMagicMatch3,160,SG,2018-02-17
 com.gamestar.perfectpiano,パーフェクトピアノ(PerfectPiano),161,SG,2018-02-17
 com.wb.goog.ellen.psych,Psych!OutwitYourFriends,162,SG,2018-02-17
-com.igs.mjstar31,明星3缺1－2018憲哥新春賀歲版,163,SG,2018-02-17
-com.raftsurvival.raft,RaftSurvival：筏での生存,164,SG,2018-02-17
-com.rtsoft.growtopia,Growtopia,165,SG,2018-02-17
+com.rtsoft.growtopia,Growtopia,163,SG,2018-02-17
+com.igs.mjstar31,明星3缺1－2018憲哥新春賀歲版,164,SG,2018-02-17
+com.raftsurvival.raft,RaftSurvival：筏での生存,165,SG,2018-02-17
 com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,166,SG,2018-02-17
 com.ChillyRoom.DungeonShooter,SoulKnight,167,SG,2018-02-17
 com.droidhang.ad,IdleHeroes-無料放置育成RPG,168,SG,2018-02-17
@@ -198,13 +198,13 @@ com.karimoosteam.colorsinfinity,SwitchColor2,196,SG,2018-02-17
 com.halfbrick.jetpackjoyride,JetpackJoyride,197,SG,2018-02-17
 com.racing.in.bar.c,RacingInCar3D,198,SG,2018-02-17
 bubble.shoot.bubbles.game.saga.world,バブルシューター,199,SG,2018-02-17
-ru.crazybit.experiment,IslandExperiment,200,SG,2018-02-17
-com.linekong.dbm.na.google,DaybreakLegends:Origin,201,SG,2018-02-17
-com.pokergame.domino99,DominoQiuQiu99(kiukiu)-onlinefreeDice,202,SG,2018-02-17
-com.goplayplay.css.android,Lucky13:13CardPokerPuzzle,203,SG,2018-02-17
-com.gtarcade.lod,LegacyofDiscord-FuriousWings,204,SG,2018-02-17
-goldtusks.doron.nirvana,Nirvana-GameofLife🤟,205,SG,2018-02-17
-com.ea.gp.nbamobile,NBALIVEMobileBasketball,206,SG,2018-02-17
+com.ea.gp.nbamobile,NBALIVEMobileBasketball,200,SG,2018-02-17
+ru.crazybit.experiment,IslandExperiment,201,SG,2018-02-17
+com.linekong.dbm.na.google,DaybreakLegends:Origin,202,SG,2018-02-17
+com.pokergame.domino99,DominoQiuQiu99(kiukiu)-onlinefreeDice,203,SG,2018-02-17
+com.goplayplay.css.android,Lucky13:13CardPokerPuzzle,204,SG,2018-02-17
+com.gtarcade.lod,LegacyofDiscord-FuriousWings,205,SG,2018-02-17
+goldtusks.doron.nirvana,Nirvana-GameofLife🤟,206,SG,2018-02-17
 com.netmarble.revolutionthm,Lineage2Revolution,207,SG,2018-02-17
 com.skgames.trafficrider,TrafficRider,208,SG,2018-02-17
 com.StefMorojna.SpaceflightSimulator,SpaceflightSimulator,209,SG,2018-02-17
@@ -218,7 +218,7 @@ com.scopely.whiplash,WWEChampions,216,SG,2018-02-17
 jp.co.ponos.battlecatsen,TheBattleCats,217,SG,2018-02-17
 com.itchmedia.tc4,CarMerger,218,SG,2018-02-17
 zombie.survival.craft.z,LastDayonEarth:Survival,219,SG,2018-02-17
-org.cocos2dx.wordsoup,WordSauce,220,SG,2018-02-17
+org.cocos2dx.wordsoup,WordSauce:FreeWordConnectPuzzle,220,SG,2018-02-17
 sg.gumi.alchemistww,THEALCHEMISTCODE,221,SG,2018-02-17
 com.longyou.changwutuan.tw,唱舞全明星,222,SG,2018-02-17
 com.gamedevltd.modernstrike,モダンストライクオンライン:3DＦＰＳシューティング銃撃ゲーム,223,SG,2018-02-17
@@ -304,11 +304,11 @@ com.edujoy.Word_Search,WordSearchGamesinenglish,302,SG,2018-02-17
 com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,303,SG,2018-02-17
 com.nexelon.realmonsterfishing2018,MonsterFishing2018,304,SG,2018-02-17
 com.mobile.battleground,MobileBattleground-Blitz,305,SG,2018-02-17
-com.bingo.tour.party.crazy.free,ビンゴ　パーティー,306,SG,2018-02-17
-com.g5e.hiddencity.android,HiddenCity®:アイテム探しアドベンチャー,307,SG,2018-02-17
-com.threed.bowling,ボウリング3DBowling,308,SG,2018-02-17
-com.motoracing.gp.freeracing,FreeMotoRacingGP,309,SG,2018-02-17
-com.murka.slotsera,SlotsEra–ベガスのカジノスロットマシン,310,SG,2018-02-17
+com.murka.slotsera,SlotsEra–ベガスのカジノスロットマシン,306,SG,2018-02-17
+com.bingo.tour.party.crazy.free,ビンゴ　パーティー,307,SG,2018-02-17
+com.g5e.hiddencity.android,HiddenCity®:アイテム探しアドベンチャー,308,SG,2018-02-17
+com.threed.bowling,ボウリング3DBowling,309,SG,2018-02-17
+com.motoracing.gp.freeracing,FreeMotoRacingGP,310,SG,2018-02-17
 com.CraftingMax.Explore,MaxCraft:PocketEdition,311,SG,2018-02-17
 com.pnixgames.bowlingking,BowlingKing,312,SG,2018-02-17
 com.cmcm.arrowio,アーチャー大作戦,313,SG,2018-02-17
