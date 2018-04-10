@@ -1,11 +1,11 @@
 app_id,app_name,rank,country_code,date
 com.netease.ko,荒野行動-スマホ版バトロワ,1,JP,2018-04-10
-com.bandainamcoent.godeater_resonantops,GODEATERRESONANTOPS,2,JP,2018-04-10
-com.linecorp.LGTRK,LINEトロッコウォーズ,3,JP,2018-04-10
-com.linecorp.LGYDS,ジャンプチヒーローズ,4,JP,2018-04-10
+com.linecorp.LGTRK,LINEトロッコウォーズ,2,JP,2018-04-10
+com.linecorp.LGYDS,ジャンプチヒーローズ,3,JP,2018-04-10
+com.bandainamcoent.godeater_resonantops,GODEATERRESONANTOPS,4,JP,2018-04-10
 jp.shionhonda.Kumitaisou,組体操タワー崩し,5,JP,2018-04-10
-com.linecorp.LGKD,LINEリトルナイツ,6,JP,2018-04-10
-com.bentostudio.ballsvsblocks,SnakeVSBlock,7,JP,2018-04-10
+com.bentostudio.ballsvsblocks,SnakeVSBlock,6,JP,2018-04-10
+com.linecorp.LGKD,LINEリトルナイツ,7,JP,2018-04-10
 com.gamestart.fill,頭が良くなる一筆書きパズルゲームFill,8,JP,2018-04-10
 com.square_enix.android_googleplay.TojinomikoTomoshibi,刀使ノ巫女刻みし一閃の燈火,9,JP,2018-04-10
 net.jp.sorairo.jrvs,人狼ジャッジメント,10,JP,2018-04-10
@@ -18,524 +18,524 @@ com.europosit.pixelcoloring,PixelArt-数字で塗り絵スケッチブック,16,
 com.linecorp.LGLP2,LINEPOP2,17,JP,2018-04-10
 jp.co.mixi.monsterstrike,モンスターストライク,18,JP,2018-04-10
 jp.pokemon.pokemoncomaster,ポケモンコマスター,19,JP,2018-04-10
-jp.oliviaashley.Twins,Twins,20,JP,2018-04-10
-com.nianticlabs.pokemongo,PokémonGO,21,JP,2018-04-10
-com.nintendo.zara,SuperMarioRun,22,JP,2018-04-10
+com.nianticlabs.pokemongo,PokémonGO,20,JP,2018-04-10
+jp.dgeg.dragonegg2,ドラゴンエッグ仲間との出会い×友達対戦RPG,21,JP,2018-04-10
+jp.oliviaashley.Twins,Twins,22,JP,2018-04-10
 jp.co.unbalance.android.othello_minna,みんなのオセロ無料の公式アプリ,23,JP,2018-04-10
-jp.dgeg.dragonegg2,ドラゴンエッグ仲間との出会い×友達対戦RPG,24,JP,2018-04-10
+com.nintendo.zara,SuperMarioRun,24,JP,2018-04-10
 jp.glee.girl,放置少女〜百花繚乱の萌姫たち,25,JP,2018-04-10
 com.h8games.helixjump,HelixJump,26,JP,2018-04-10
 com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,27,JP,2018-04-10
 com.tiles.piano.animemusic,ピアノタイル2：音ゲー（ポップ＆アニメの曲）最新曲Lemon,28,JP,2018-04-10
 com.nintendo.zaca,どうぶつの森ポケットキャンプ,29,JP,2018-04-10
-jp.colopl.dpuzzle,ディズニーツムツムランド,30,JP,2018-04-10
-air.com.hypah.io.slither,slither.io,31,JP,2018-04-10
+com.vespainteractive.KingsRaid,キングスレイド,30,JP,2018-04-10
+jp.colopl.dpuzzle,ディズニーツムツムランド,31,JP,2018-04-10
 air.jp.funkyland.EscapeNailSalon,脱出ゲームネイルサロンからの脱出,32,JP,2018-04-10
-jp.junsaotome.Carz,CARZ-頭が良くなる納車ゲーム,33,JP,2018-04-10
+air.com.hypah.io.slither,slither.io,33,JP,2018-04-10
 jp.co.ponos.battlecats,にゃんこ大戦争,34,JP,2018-04-10
-com.vespainteractive.KingsRaid,キングスレイド,35,JP,2018-04-10
+jp.junsaotome.Carz,CARZ-頭が良くなる納車ゲーム,35,JP,2018-04-10
 com.asobimo.toramonline,トーラムオンライン自由を謳歌する正統派MMORPG,36,JP,2018-04-10
 jp.gungho.pad,パズル＆ドラゴンズ,37,JP,2018-04-10
 jp.co.imagineer.sumikkogurashi.sumisumi,すみすみ～まったりパズル～,38,JP,2018-04-10
-com.selvas.townkins,ポケットタウン～不思議な住民やどうぶつ達と楽しむスローライフ町づくりシミュレーションゲーム～,39,JP,2018-04-10
-jp.gree.newsnikoi,NEWSに恋して,40,JP,2018-04-10
-com.gamestart.oneline,頭が良くなる一筆書きパズルゲーム1LINE,41,JP,2018-04-10
-com.igenesoft.hide,隠れん坊オンライン,42,JP,2018-04-10
-net.peakgames.toonblast,ToonBlast,43,JP,2018-04-10
-com.gameparadiso.milkchoco,ミルクチョコ-オンラインFPS,44,JP,2018-04-10
-com.crossfield.mahjong,麻雀闘龍-初心者から楽しめる無料麻雀ゲーム,45,JP,2018-04-10
-com.netease.chiji,RulesofSurvival,46,JP,2018-04-10
-com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,47,JP,2018-04-10
-air.jp.globalgear.kaihi2,ドッキリ神回避2　-脱出ゲーム,48,JP,2018-04-10
-com.linecorp.LGPKV,LINEポコパンタウン,49,JP,2018-04-10
-com.bandainamcoent.taikogp,太鼓の達人プラス★新曲取り放題！,50,JP,2018-04-10
-jp.keitachibana.Pinball,フリッパー,51,JP,2018-04-10
-jp.co.cybird.android.conancrosschain,名探偵コナンパズル盤上の連鎖（クロスチェイン）,52,JP,2018-04-10
-com.spacegame.basic3,ソリティア,53,JP,2018-04-10
-com.neko.katte,猫を飼ってはいけない理由-ネコの可愛いあるあるクイズ-,54,JP,2018-04-10
-com.fundoshiparade.bokukoro3jp,君の目的はボクを殺すこと３,55,JP,2018-04-10
-jp.co.craftegg.band,バンドリ！ガールズバンドパーティ！,56,JP,2018-04-10
-jp.co.studioking.bokudora_and,ぼくとドラゴン【仲間とギルドバトルで協力プレイできるリアルタイムバトルオンラインRPG】,57,JP,2018-04-10
-com.linefriends.lfbt21,パズルスターBT21,58,JP,2018-04-10
-jp.co.capcom.snlifejp,スヌーピーライフ,59,JP,2018-04-10
-com.paleblue.tetris2,テトリス,60,JP,2018-04-10
-air.jp.globalgear.kaihi,ドッキリ神回避　-脱出ゲーム,61,JP,2018-04-10
+jp.keitachibana.Pinball,フリッパー,39,JP,2018-04-10
+com.selvas.townkins,ポケットタウン～不思議な住民やどうぶつ達と楽しむスローライフ町づくりシミュレーションゲーム～,40,JP,2018-04-10
+jp.gree.newsnikoi,NEWSに恋して,41,JP,2018-04-10
+jp.co.cybird.android.conancrosschain,名探偵コナンパズル盤上の連鎖（クロスチェイン）,42,JP,2018-04-10
+com.gamestart.oneline,頭が良くなる一筆書きパズルゲーム1LINE,43,JP,2018-04-10
+net.peakgames.toonblast,ToonBlast,44,JP,2018-04-10
+com.igenesoft.hide,隠れん坊オンライン,45,JP,2018-04-10
+com.crossfield.mahjong,麻雀闘龍-初心者から楽しめる無料麻雀ゲーム,46,JP,2018-04-10
+com.gameparadiso.milkchoco,ミルクチョコ-オンラインFPS,47,JP,2018-04-10
+com.spacegame.basic3,ソリティア,48,JP,2018-04-10
+com.netease.chiji,RulesofSurvival,49,JP,2018-04-10
+com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,50,JP,2018-04-10
+com.bandainamcoent.taikogp,太鼓の達人プラス★新曲取り放題！,51,JP,2018-04-10
+jp.co.craftegg.band,バンドリ！ガールズバンドパーティ！,52,JP,2018-04-10
+com.paleblue.tetris2,テトリス,53,JP,2018-04-10
+air.jp.globalgear.kaihi2,ドッキリ神回避2　-脱出ゲーム,54,JP,2018-04-10
+com.neko.katte,猫を飼ってはいけない理由-ネコの可愛いあるあるクイズ-,55,JP,2018-04-10
+jp.co.studioking.bokudora_and,ぼくとドラゴン【仲間とギルドバトルで協力プレイできるリアルタイムバトルオンラインRPG】,56,JP,2018-04-10
+com.fundoshiparade.bokukoro3jp,君の目的はボクを殺すこと３,57,JP,2018-04-10
+jp.co.capcom.snlifejp,スヌーピーライフ,58,JP,2018-04-10
+com.linecorp.LGPKV,LINEポコパンタウン,59,JP,2018-04-10
+jp.actkey.sakurafestival,脱出ゲームさくらまつり,60,JP,2018-04-10
+com.fort.battle.ss,フォートバトル,61,JP,2018-04-10
 com.linecorp.LGRGS,LINEレンジャー,62,JP,2018-04-10
-com.linecorp.LGPKPK,LINEポコポコ,63,JP,2018-04-10
-com.Level5.YWP,妖怪ウォッチぷにぷに,64,JP,2018-04-10
-com.fort.battle.ss,フォートバトル,65,JP,2018-04-10
-jp.actkey.sakurafestival,脱出ゲームさくらまつり,66,JP,2018-04-10
-jp.konami.pawapuroapp,実況パワフルプロ野球,67,JP,2018-04-10
+com.linefriends.lfbt21,パズルスターBT21,63,JP,2018-04-10
+air.jp.globalgear.kaihi,ドッキリ神回避　-脱出ゲーム,64,JP,2018-04-10
+com.Level5.YWP,妖怪ウォッチぷにぷに,65,JP,2018-04-10
+jp.konami.pawapuroapp,実況パワフルプロ野球,66,JP,2018-04-10
+com.morningtec.shinnazuki,神無月,67,JP,2018-04-10
 com.bandainamcogames.dbzdokkan,ドラゴンボールZドッカンバトル,68,JP,2018-04-10
-air.jp.ne.hap.mom,ママにゲーム隠された-脱出ゲーム,69,JP,2018-04-10
-com.wasabi.okami,脱出ゲーム狼ゲーム,70,JP,2018-04-10
-com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),71,JP,2018-04-10
-com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),72,JP,2018-04-10
-com.g5e.hiddencity.android,HiddenCity:アイテム探しアドベンチャー,73,JP,2018-04-10
-com.studioHU.BeatCraft,BeatCraft,74,JP,2018-04-10
+com.sixwaves.sangokuhaouden,三国覇王戦記～乱世の系譜～,69,JP,2018-04-10
+com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),70,JP,2018-04-10
+air.jp.ne.hap.mom,ママにゲーム隠された-脱出ゲーム,71,JP,2018-04-10
+com.g5e.hiddencity.android,HiddenCity:アイテム探しアドベンチャー,72,JP,2018-04-10
+com.wasabi.okami,脱出ゲーム狼ゲーム,73,JP,2018-04-10
+com.takasimapon.Sakura,脱出ゲーム春桜,74,JP,2018-04-10
 com.addswhilessuffers.binds,木ブロックパズル,75,JP,2018-04-10
-com.takasimapon.Sakura,脱出ゲーム春桜,76,JP,2018-04-10
-com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,77,JP,2018-04-10
-com.sixwaves.sangokuhaouden,三国覇王戦記～乱世の系譜～,78,JP,2018-04-10
-com.dts.freefireth,FreeFire,79,JP,2018-04-10
-mobi.MultiCraft,►MultiCraft―FreeMiner!👍,80,JP,2018-04-10
-jp.uuum.blueman3,青鬼3,81,JP,2018-04-10
-jp.planet12.AnimalTowerBattle,どうぶつタワーバトル-のんびり対戦ゲーム,82,JP,2018-04-10
-air.jp.ne.hap.mom2,ママにゲーム隠された2-脱出ゲーム,83,JP,2018-04-10
-net.otouch.cake,パンケーキタワー®子供向け無料ゲーム,84,JP,2018-04-10
-air.jp.ne.hap.purin,冷蔵庫のプリン食べられた-脱出ゲーム,85,JP,2018-04-10
-jp.grenge.pocolondungeons,ポコロンダンジョンズ,86,JP,2018-04-10
-com.dena.a12020519,逆転オセロニア,87,JP,2018-04-10
-jp.konami.prospia,プロ野球スピリッツA,88,JP,2018-04-10
-com.crossfield.shogi,将棋アプリ百鍛将棋-初心者でも楽しく遊べる本格将棋ゲーム-,89,JP,2018-04-10
-com.usami.runaway,逃走中-容疑者を確保せよ!!,90,JP,2018-04-10
-jp.co.arttec.satbox.droperaser,大反響！消しゴム落とし【暇つぶし無料人気ゲーム】,91,JP,2018-04-10
-top.minnows.jiong3,最高におバカなゲーム3,92,JP,2018-04-10
-com.cybergate.eatgame4,食べないと死ぬ4,93,JP,2018-04-10
-com.forwardworks.mingol,みんゴル,94,JP,2018-04-10
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),76,JP,2018-04-10
+com.studioHU.BeatCraft,BeatCraft,77,JP,2018-04-10
+com.linecorp.LGPKPK,LINEポコポコ,78,JP,2018-04-10
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,79,JP,2018-04-10
+com.dts.freefireth,FreeFire,80,JP,2018-04-10
+mobi.MultiCraft,►MultiCraft―FreeMiner!👍,81,JP,2018-04-10
+jp.konami.prospia,プロ野球スピリッツA,82,JP,2018-04-10
+jp.planet12.AnimalTowerBattle,どうぶつタワーバトル-のんびり対戦ゲーム,83,JP,2018-04-10
+com.dena.a12020519,逆転オセロニア,84,JP,2018-04-10
+jp.grenge.pocolondungeons,ポコロンダンジョンズ,85,JP,2018-04-10
+com.usami.runaway,逃走中-容疑者を確保せよ!!,86,JP,2018-04-10
+air.jp.ne.hap.mom2,ママにゲーム隠された2-脱出ゲーム,87,JP,2018-04-10
+jp.uuum.blueman3,青鬼3,88,JP,2018-04-10
+com.forwardworks.mingol,みんゴル,89,JP,2018-04-10
+com.crossfield.shogi,将棋アプリ百鍛将棋-初心者でも楽しく遊べる本格将棋ゲーム-,90,JP,2018-04-10
+net.otouch.cake,パンケーキタワー®子供向け無料ゲーム,91,JP,2018-04-10
+com.PoxelStudios.DudeTheftAuto,DudeTheftAuto:OpenWorldSandboxSimulatorBETA,92,JP,2018-04-10
+air.jp.ne.hap.purin,冷蔵庫のプリン食べられた-脱出ゲーム,93,JP,2018-04-10
+com.bandainamcoent.hiroacast,僕のヒーローアカデミアスマッシュタップ,94,JP,2018-04-10
 com.gamestart.roll,頭が良くなるスライドパズルRoute,95,JP,2018-04-10
-jp.colopl.tennis,白猫テニス,96,JP,2018-04-10
-com.bandainamcoent.hiroacast,僕のヒーローアカデミアスマッシュタップ,97,JP,2018-04-10
-jp.co.ofcr.cm00,クッキングママお料理しましょ！,98,JP,2018-04-10
-com.bandainamcoent.opbrjp,ONEPIECEバウンティラッシュ,99,JP,2018-04-10
-com.Level5.YSG2,妖怪三国志国盗りウォーズ,100,JP,2018-04-10
-com.herogame.gplay.hopelessland,HopelessLand:FightforSurvival,101,JP,2018-04-10
-com.turbochilli.rollingsky,ローリング・スカイ,102,JP,2018-04-10
-catobyte.superbunnyman,SuperBunnyMan-Classic,103,JP,2018-04-10
-jp.co.cygames.Shadowverse,シャドウバース(Shadowverse),104,JP,2018-04-10
-com.sega.PuyoQuest,ぷよぷよ!!クエスト,105,JP,2018-04-10
-com.escape.neat.no55friendroom,脱出ゲーム　友達の部屋からの脱出,106,JP,2018-04-10
-com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,107,JP,2018-04-10
-com.PoxelStudios.DudeTheftAuto,DudeTheftAuto:OpenWorldSandboxSimulatorBETA,108,JP,2018-04-10
-com.idleif.abyssrium,アビスリウム-タップで育つ水族館,109,JP,2018-04-10
-com.appadvisory.booooing,Splashy!,110,JP,2018-04-10
-com.cmplay.dancingline,ダンシングライン（DancingLine）,111,JP,2018-04-10
-com.sonat.topfreegame.blockpuzzlejewel.blockpuzzle,木ブロックパズルブロックパズルヘキサパズルチャー古典的なレンガ古典2018,112,JP,2018-04-10
-jp.co.hit_point.tabikaeru,旅かえる,113,JP,2018-04-10
-com.aniplex.fategrandorder,Fate/GrandOrder,114,JP,2018-04-10
-jp.co.arttec.satbox.bowlingondesk,机でボウリング,115,JP,2018-04-10
-com.king.candycrushsaga,キャンディークラッシュ,116,JP,2018-04-10
-com.spicysoft.charisodx,新チャリ走DX,117,JP,2018-04-10
-jp.mbga.a12016007.lite,グランブルーファンタジー,118,JP,2018-04-10
-jp.shionhonda.CarEscape,大人の納車ゲーム-四角いアタマを丸くする脳トレパズル,119,JP,2018-04-10
-com.worksinc.bakkure,会社バックれる!　-脱出ゲーム,120,JP,2018-04-10
-jp.co.ponos.yasumimasu,今日は休みます。,121,JP,2018-04-10
-com.gameloft.android.ANMP.GloftUOHM,UNO™&Friends,122,JP,2018-04-10
+com.cybergate.eatgame4,食べないと死ぬ4,96,JP,2018-04-10
+com.linecorp.LGSDG,LINE:ガンダムウォーズ,97,JP,2018-04-10
+jp.mbga.a12016007.lite,グランブルーファンタジー,98,JP,2018-04-10
+jp.colopl.tennis,白猫テニス,99,JP,2018-04-10
+catobyte.superbunnyman,SuperBunnyMan-Classic,100,JP,2018-04-10
+jp.co.arttec.satbox.droperaser,大反響！消しゴム落とし【暇つぶし無料人気ゲーム】,101,JP,2018-04-10
+com.bandainamcoent.opbrjp,ONEPIECEバウンティラッシュ,102,JP,2018-04-10
+top.minnows.jiong3,最高におバカなゲーム3,103,JP,2018-04-10
+com.herogame.gplay.hopelessland,HopelessLand:FightforSurvival,104,JP,2018-04-10
+com.appadvisory.booooing,Splashy!,105,JP,2018-04-10
+jp.co.ofcr.cm00,クッキングママお料理しましょ！,106,JP,2018-04-10
+com.nankaiigame.niwa,脱出ゲーム　開かずの庭からの脱出,107,JP,2018-04-10
+com.Level5.YSG2,妖怪三国志国盗りウォーズ,108,JP,2018-04-10
+com.turbochilli.rollingsky,ローリング・スカイ,109,JP,2018-04-10
+com.idleif.abyssrium,アビスリウム-タップで育つ水族館,110,JP,2018-04-10
+com.sega.PuyoQuest,ぷよぷよ!!クエスト,111,JP,2018-04-10
+com.escape.neat.no55friendroom,脱出ゲーム　友達の部屋からの脱出,112,JP,2018-04-10
+jp.co.cygames.Shadowverse,シャドウバース(Shadowverse),113,JP,2018-04-10
+com.kmescape.Stationery,脱出ゲームStationery,114,JP,2018-04-10
+com.aniplex.fategrandorder,Fate/GrandOrder,115,JP,2018-04-10
+com.sonat.topfreegame.blockpuzzlejewel.blockpuzzle,木ブロックパズルブロックパズルヘキサパズルチャー古典的なレンガ古典2018,116,JP,2018-04-10
+com.cmplay.dancingline,ダンシングライン（DancingLine）,117,JP,2018-04-10
+com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,118,JP,2018-04-10
+jp.co.hit_point.tabikaeru,旅かえる,119,JP,2018-04-10
+air.jp.globalgear.kantei,鑑定サバイバル,120,JP,2018-04-10
+jp.shionhonda.CarEscape,大人の納車ゲーム-四角いアタマを丸くする脳トレパズル,121,JP,2018-04-10
+com.king.candycrushsaga,キャンディークラッシュ,122,JP,2018-04-10
 com.alien.shooter.galaxy.attack,GalaxyAttack:AlienShooter,123,JP,2018-04-10
-com.nankaiigame.niwa,脱出ゲーム　開かずの庭からの脱出,124,JP,2018-04-10
-com.kmescape.Stationery,脱出ゲームStationery,125,JP,2018-04-10
-jp.co.asobism_castleanddragon,城とドラゴン,126,JP,2018-04-10
-com.playrix.homescapes,ホームスケイプ(Homescapes),127,JP,2018-04-10
-com.takasimapon.Amehuruniwa,脱出ゲーム雨降る庭からの脱出,128,JP,2018-04-10
-jp.mbga.a12026102.lite,[モバ７]アナザーゴッドポセイドン-海皇の参戦-,129,JP,2018-04-10
-air.jp.globalgear.kantei,鑑定サバイバル,130,JP,2018-04-10
-jp.co.cygames.princessconnectredive,プリンセスコネクト！Re:Dive,131,JP,2018-04-10
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),132,JP,2018-04-10
-com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,133,JP,2018-04-10
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,134,JP,2018-04-10
-com.famobi.tabletennisworldtour,卓球3D-現実的なピンポンアプリ,135,JP,2018-04-10
-jp.co.beeworks.mushroomWorld,なめこ栽培キットザ・ワールド,136,JP,2018-04-10
-com.playdemic.golf.android,ゴルフクラッシュ,137,JP,2018-04-10
-jp.xlegend.com.epica,【MMORPG】暁のエピカ-UnionBrave-,138,JP,2018-04-10
-com.sinyee.babybus.taxi,パンダの幼稚園バス-BabyBus子ども・幼児向け,139,JP,2018-04-10
-jp.ken1shogi,将棋アプリ将皇,140,JP,2018-04-10
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),141,JP,2018-04-10
-com.linecorp.LGBB2,LINEバブル2,142,JP,2018-04-10
-com.imangi.templerun2,TempleRun2,143,JP,2018-04-10
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,144,JP,2018-04-10
-com.YovoGames.hair,ヘアサロン-スパサロン,145,JP,2018-04-10
-net.capsuleplus.ReacheeE,とどけぇぇえ,146,JP,2018-04-10
-jp.sammynet.next.asn0300,【777NEXT】基本無料パチスロ・パチンコ・スロットゲーム,147,JP,2018-04-10
-com.gismart.realpianofree,ピアノ-ぴあの鍵盤リアル曲げーむ,148,JP,2018-04-10
-jp.mokosoft.ball,意外とハマる物理パズルゲームボールをゴールへドーン無料で簡単な脳トレやひまつぶし,149,JP,2018-04-10
-jp.co.gu3.noah,ドールズオーダー【チーム対戦アクション】,150,JP,2018-04-10
-com.tttery.SchoolLifeSimulator,SchoolLifeSimulator,151,JP,2018-04-10
-jp.sammynet.next.asn0060,【777NEXT】沖ドキ！,152,JP,2018-04-10
-air.com.prisma.twice,MagicTiles-TWICEEdition(K-Pop),153,JP,2018-04-10
-jp.co.gu3.yellow,スマッシュ＆マジック,154,JP,2018-04-10
-jp.co.projapan.mochipanbabanuki,もちもちぱんだババ抜き【公式アプリ】かわいいゲームで遊ぼう,155,JP,2018-04-10
-jp.co.puzzle.NPK,懸賞ナンプレ館-5700問一挙リリース。無料でナンプレを解いて賞金をゲットしよう,156,JP,2018-04-10
-com.os.brick.classic.puzzle.game,テトリス,157,JP,2018-04-10
-mobi.mo61.Werewolf,"人狼ゲーム""牢獄の悪夢""無料版",158,JP,2018-04-10
+jp.xlegend.com.epica,【MMORPG】暁のエピカ-UnionBrave-,124,JP,2018-04-10
+net.capsuleplus.ReacheeE,とどけぇぇえ,125,JP,2018-04-10
+jp.co.cygames.princessconnectredive,プリンセスコネクト！Re:Dive,126,JP,2018-04-10
+jp.co.arttec.satbox.bowlingondesk,机でボウリング,127,JP,2018-04-10
+com.playrix.homescapes,ホームスケイプ(Homescapes),128,JP,2018-04-10
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),129,JP,2018-04-10
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,130,JP,2018-04-10
+com.gameloft.android.ANMP.GloftUOHM,UNO™&Friends,131,JP,2018-04-10
+jp.co.ponos.yasumimasu,今日は休みます。,132,JP,2018-04-10
+jp.co.asobism_castleanddragon,城とドラゴン,133,JP,2018-04-10
+com.spicysoft.charisodx,新チャリ走DX,134,JP,2018-04-10
+com.worksinc.bakkure,会社バックれる!　-脱出ゲーム,135,JP,2018-04-10
+com.playdemic.golf.android,ゴルフクラッシュ,136,JP,2018-04-10
+com.takasimapon.Amehuruniwa,脱出ゲーム雨降る庭からの脱出,137,JP,2018-04-10
+jp.mbga.a12026102.lite,[モバ７]アナザーゴッドポセイドン-海皇の参戦-,138,JP,2018-04-10
+jp.ken1shogi,将棋アプリ将皇,139,JP,2018-04-10
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),140,JP,2018-04-10
+com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,141,JP,2018-04-10
+com.sinyee.babybus.taxi,パンダの幼稚園バス-BabyBus子ども・幼児向け,142,JP,2018-04-10
+jp.sammynet.next.asn0300,【777NEXT】基本無料パチスロ・パチンコ・スロットゲーム,143,JP,2018-04-10
+jp.co.gu3.yellow,スマッシュ＆マジック,144,JP,2018-04-10
+com.linecorp.LGBB2,LINEバブル2,145,JP,2018-04-10
+com.imangi.templerun2,TempleRun2,146,JP,2018-04-10
+jp.co.gu3.noah,ドールズオーダー【チーム対戦アクション】,147,JP,2018-04-10
+com.famobi.tabletennisworldtour,卓球3D-現実的なピンポンアプリ,148,JP,2018-04-10
+jp.co.beeworks.mushroomWorld,なめこ栽培キットザ・ワールド,149,JP,2018-04-10
+com.tttery.SchoolLifeSimulator,SchoolLifeSimulator,150,JP,2018-04-10
+jp.sammynet.next.asn0060,【777NEXT】沖ドキ！,151,JP,2018-04-10
+com.gismart.realpianofree,ピアノ-ぴあの鍵盤リアル曲げーむ,152,JP,2018-04-10
+jp.mokosoft.ball,意外とハマる物理パズルゲームボールをゴールへドーン無料で簡単な脳トレやひまつぶし,153,JP,2018-04-10
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,154,JP,2018-04-10
+com.YovoGames.hair,ヘアサロン-スパサロン,155,JP,2018-04-10
+com.os.brick.classic.puzzle.game,テトリス,156,JP,2018-04-10
+air.com.prisma.twice,MagicTiles-TWICEEdition(K-Pop),157,JP,2018-04-10
+com.neowizgames.game.browndust.srpg.global,【新作】ブラウンダスト(BrownDust),158,JP,2018-04-10
 com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,159,JP,2018-04-10
-com.neowizgames.game.browndust.srpg.global,【新作】ブラウンダスト(BrownDust),160,JP,2018-04-10
-me.gp.hy.j1,最高におバカなゲーム前編,161,JP,2018-04-10
-com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),162,JP,2018-04-10
-com.pulsmo.StrayCatDoors,脱出ゲーム迷い猫の旅-StrayCatDoors-,163,JP,2018-04-10
-jp.gree.android.pf.greeapp96,釣りスタ,164,JP,2018-04-10
-jp.co.ex.million_monster,ミリオンモンスター　リアルタイム対戦RPG,165,JP,2018-04-10
-jp.planet12.AnimalTower,どうぶつタワー,166,JP,2018-04-10
-com.YoStarJP.AzurLane,アズールレーン,167,JP,2018-04-10
-com.com2us.chains.normal.freefull.google.global.android.common,チェーンストライク(ChainStrike),168,JP,2018-04-10
-com.differencetenderwhite.skirt,ブロックパズルジュエル,169,JP,2018-04-10
-com.pixonic.wwr,WarRobots,170,JP,2018-04-10
-com.ty8.game18,遅れて学校に入る-脱出ゲーム,171,JP,2018-04-10
-com.hbg.dentist.hospital.adventure,歯科医の病院の冒険,172,JP,2018-04-10
-com.ansangha.drparking4,駐車の達人4,173,JP,2018-04-10
-jp.uuum.blueman1,青鬼,174,JP,2018-04-10
-com.HirayaSpace.SevenYears,7年後で待ってる,175,JP,2018-04-10
-com.artdigic.t_luck,脱出ゲーム　T:Luck　ちょっと変わったおかしな美容室からの脱出,176,JP,2018-04-10
-net.peakgames.amy,ToyBlast,177,JP,2018-04-10
-com.bushiroad.CrayonShinchan,クレヨンしんちゃん嵐を呼ぶ炎のカスカベランナー!!,178,JP,2018-04-10
-com.waken.CatPainter,ネコの絵描きさん,179,JP,2018-04-10
-com.monois.android.eduapp30,ピタゴラン子供から大人まで楽しめる無料ゲーム,180,JP,2018-04-10
-com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),181,JP,2018-04-10
-com.nhnpa.cps,#コンパス【戦闘摂理解析システム】,182,JP,2018-04-10
-com.yiloo.zgtw.gp,戦国天武,183,JP,2018-04-10
-jp.actkey.snowvillage,脱出ゲーム忘れ雪,184,JP,2018-04-10
-com.bdj.vortexDroid,RollyVortex,185,JP,2018-04-10
-jp.coffeebreakin.app.biruso3,アクションゲーム「ダッシュでバトル」　〜暇つぶしゲーム無料〜,186,JP,2018-04-10
-com.sonat.topfreegame.blockpuzzle.brickclassic,木ブロックパズル古典的なレンガ古典2018,187,JP,2018-04-10
-com.gamestart.matchstick,頭が良くなるマッチ棒クイズゲームMATCHSTICK,188,JP,2018-04-10
-com.raftsurvival.raft,RaftSurvival：筏での生存,189,JP,2018-04-10
-jp.gungho.bm,サモンズボード,190,JP,2018-04-10
-com.Kamonosoukutsu.chotto_009,脱出ゲームちょっと脱出お肉が食べたい,191,JP,2018-04-10
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),160,JP,2018-04-10
+mobi.mo61.Werewolf,"人狼ゲーム""牢獄の悪夢""無料版",161,JP,2018-04-10
+jp.co.projapan.mochipanbabanuki,もちもちぱんだババ抜き【公式アプリ】かわいいゲームで遊ぼう,162,JP,2018-04-10
+com.YoStarJP.AzurLane,アズールレーン,163,JP,2018-04-10
+jp.co.ex.million_monster,ミリオンモンスター　リアルタイム対戦RPG,164,JP,2018-04-10
+com.pulsmo.StrayCatDoors,脱出ゲーム迷い猫の旅-StrayCatDoors-,165,JP,2018-04-10
+com.com2us.chains.normal.freefull.google.global.android.common,チェーンストライク(ChainStrike),166,JP,2018-04-10
+com.differencetenderwhite.skirt,ブロックパズルジュエル,167,JP,2018-04-10
+com.yiloo.zgtw.gp,戦国天武,168,JP,2018-04-10
+com.pixonic.wwr,WarRobots,169,JP,2018-04-10
+jp.gree.android.pf.greeapp96,釣りスタ,170,JP,2018-04-10
+com.Kamonosoukutsu.chotto_009,脱出ゲームちょっと脱出お肉が食べたい,171,JP,2018-04-10
+jp.co.puzzle.NPK,懸賞ナンプレ館-5700問一挙リリース。無料でナンプレを解いて賞金をゲットしよう,172,JP,2018-04-10
+jp.planet12.AnimalTower,どうぶつタワー,173,JP,2018-04-10
+me.gp.hy.j1,最高におバカなゲーム前編,174,JP,2018-04-10
+com.ansangha.drparking4,駐車の達人4,175,JP,2018-04-10
+com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),176,JP,2018-04-10
+com.gamestart.matchstick,頭が良くなるマッチ棒クイズゲームMATCHSTICK,177,JP,2018-04-10
+com.HirayaSpace.SevenYears,7年後で待ってる,178,JP,2018-04-10
+net.peakgames.amy,ToyBlast,179,JP,2018-04-10
+com.artdigic.t_luck,脱出ゲーム　T:Luck　ちょっと変わったおかしな美容室からの脱出,180,JP,2018-04-10
+com.nhnpa.cps,#コンパス【戦闘摂理解析システム】,181,JP,2018-04-10
+jp.uuum.blueman1,青鬼,182,JP,2018-04-10
+com.monois.android.eduapp30,ピタゴラン子供から大人まで楽しめる無料ゲーム,183,JP,2018-04-10
+com.hbg.dentist.hospital.adventure,歯科医の病院の冒険,184,JP,2018-04-10
+com.sonat.topfreegame.blockpuzzle.brickclassic,木ブロックパズル古典的なレンガ古典2018,185,JP,2018-04-10
+com.ty8.game18,遅れて学校に入る-脱出ゲーム,186,JP,2018-04-10
+com.app.kokooka,世界一面白いゲーム-ラファエル公式アプリ,187,JP,2018-04-10
+com.bushiroad.CrayonShinchan,クレヨンしんちゃん嵐を呼ぶ炎のカスカベランナー!!,188,JP,2018-04-10
+com.bdj.vortexDroid,RollyVortex,189,JP,2018-04-10
+jp.actkey.snowvillage,脱出ゲーム忘れ雪,190,JP,2018-04-10
+com.netmarble.knightssaga,ナイツクロニクル,191,JP,2018-04-10
 com.gramgames.mergedragons,MergeDragons!,192,JP,2018-04-10
-com.app.kokooka,世界一面白いゲーム-ラファエル公式アプリ,193,JP,2018-04-10
-jp.co.hit_point.nekoatsume,ねこあつめ,194,JP,2018-04-10
-air.jp.ne.hap.tokimeter,ときめーたー,195,JP,2018-04-10
-jp.co.tomomusic.utadon,うたドン！,196,JP,2018-04-10
-jp.marge.android.wiredecoin2,ワイヤーでコイン2,197,JP,2018-04-10
-air.com.GoldfishScooping,金魚すくい（お祭）,198,JP,2018-04-10
-jp.pokemon.poketoru,ポケとるスマホ版,199,JP,2018-04-10
-com.morningtec.shinnazuki,神無月,200,JP,2018-04-10
-jp.konami.bgc,beatgatherU,201,JP,2018-04-10
-jp.cloverlab.makaiwars.sp,魔界ウォーズ,202,JP,2018-04-10
-jp.gungho.padRadar,パズドラレーダー,203,JP,2018-04-10
-com.QdanApp.WordWolf,ワードウルフ決定版「新・人狼ゲーム」無料アプリ,204,JP,2018-04-10
-com.netmarble.knightssaga,ナイツクロニクル,205,JP,2018-04-10
-site.kusoapp.ppk,まわるポプ子,206,JP,2018-04-10
-com.mediocre.smashhit,SmashHit,207,JP,2018-04-10
-com.matome.scarystory,意味が分かると怖い話-この意味怖を謎解きできるか,208,JP,2018-04-10
-com.sega.d2megaten,Ｄ×２真･女神転生リベレーション,209,JP,2018-04-10
-com.linecorp.LGSDG,LINE:ガンダムウォーズ,210,JP,2018-04-10
-com.square_enix.hoshinodqjp,星のドラゴンクエスト,211,JP,2018-04-10
-com.taigigo.quiz,その発想はなかったw-新対義語脳トレクイズ-,212,JP,2018-04-10
-jp.baibai.beigomastadium,激闘！ベーゴマスタジアムこま回しバトルゲーム！,213,JP,2018-04-10
-jp.emiwatanabe.ShibuyaBasketBall,渋谷バスケットボール,214,JP,2018-04-10
-net.wrightflyer.anothereden,アナザーエデン時空を超える猫,215,JP,2018-04-10
-jp.bdst,ブレイドストーリー　剣と英雄のファンタジーRPG,216,JP,2018-04-10
-jp.colopl.wcat,白猫プロジェクト,217,JP,2018-04-10
-jp.app.zako7,おいザコ！クリアしてみろよ？3D,218,JP,2018-04-10
+jp.cloverlab.makaiwars.sp,魔界ウォーズ,193,JP,2018-04-10
+com.sega.d2megaten,Ｄ×２真･女神転生リベレーション,194,JP,2018-04-10
+com.waken.CatPainter,ネコの絵描きさん,195,JP,2018-04-10
+net.wrightflyer.anothereden,アナザーエデン時空を超える猫,196,JP,2018-04-10
+jp.gungho.bm,サモンズボード,197,JP,2018-04-10
+jp.co.hit_point.nekoatsume,ねこあつめ,198,JP,2018-04-10
+com.raftsurvival.raft,RaftSurvival：筏での生存,199,JP,2018-04-10
+jp.coffeebreakin.app.biruso3,アクションゲーム「ダッシュでバトル」　〜暇つぶしゲーム無料〜,200,JP,2018-04-10
+jp.gungho.padRadar,パズドラレーダー,201,JP,2018-04-10
+site.kusoapp.ppk,まわるポプ子,202,JP,2018-04-10
+jp.co.tomomusic.utadon,うたドン！,203,JP,2018-04-10
+jp.konami.bgc,beatgatherU,204,JP,2018-04-10
+air.jp.ne.hap.tokimeter,ときめーたー,205,JP,2018-04-10
+com.square_enix.hoshinodqjp,星のドラゴンクエスト,206,JP,2018-04-10
+jp.app.zako7,おいザコ！クリアしてみろよ？3D,207,JP,2018-04-10
+jp.pokemon.poketoru,ポケとるスマホ版,208,JP,2018-04-10
+com.QdanApp.WordWolf,ワードウルフ決定版「新・人狼ゲーム」無料アプリ,209,JP,2018-04-10
+air.com.GoldfishScooping,金魚すくい（お祭）,210,JP,2018-04-10
+com.mediocre.smashhit,SmashHit,211,JP,2018-04-10
+jp.marge.android.wiredecoin2,ワイヤーでコイン2,212,JP,2018-04-10
+com.taigigo.quiz,その発想はなかったw-新対義語脳トレクイズ-,213,JP,2018-04-10
+jp.konami.duellinks,遊戯王デュエルリンクス,214,JP,2018-04-10
+jp.colopl.wcat,白猫プロジェクト,215,JP,2018-04-10
+com.matome.scarystory,意味が分かると怖い話-この意味怖を謎解きできるか,216,JP,2018-04-10
+jp.bdst,ブレイドストーリー　剣と英雄のファンタジーRPG,217,JP,2018-04-10
+com.nazokoi.forestbear,脱出ゲーム森のクマさんハウス,218,JP,2018-04-10
 com.bandainamcoent.precuretpjp,プリキュアつながるぱずるん,219,JP,2018-04-10
-jp.konami.duellinks,遊戯王デュエルリンクス,220,JP,2018-04-10
+jp.baibai.beigomastadium,激闘！ベーゴマスタジアムこま回しバトルゲーム！,220,JP,2018-04-10
 com.crossfield.shogibeginner,百鍛将棋初心者向け-ゼロから始めて強くなる入門将棋アプリ,221,JP,2018-04-10
-com.Meromsoft.SchoolGirlsSimulator,スクールガールズシミュレーター,222,JP,2018-04-10
-jp.nicolet.kisaragi,脱出ゲームSpring,223,JP,2018-04-10
-jp.coffeebreakin.app.mokken,格闘ゲーム「木拳」　〜暇つぶしに人気の面白いゲーム！ハマるよ,224,JP,2018-04-10
-com.twoplayergamesfree.twoplayergames,みんなでミニゲーム-無料,225,JP,2018-04-10
+com.piano.music_tiles,🎼🎼🎼ピアノタイル2：音ゲー🎶🎶🎶,222,JP,2018-04-10
+jp.emiwatanabe.ShibuyaBasketBall,渋谷バスケットボール,223,JP,2018-04-10
+jp.konami.mfcsp,麻雀格闘倶楽部Sp|究極のオンライン対戦麻雀ゲーム【無料麻雀アプリ】,224,JP,2018-04-10
+jp.cg.pittanko,脳トレ無料パズル！1日5分で頭が良くなる大人の爽快ピッタンコ,225,JP,2018-04-10
 jp.actkey.festival,脱出ゲーム縁日からの脱出,226,JP,2018-04-10
-jp.uuum.blueman,青鬼2,227,JP,2018-04-10
-jp.ne.colorful.giraffe.shuji.OreKocho3dUnity,俺の校長3D,228,JP,2018-04-10
-jp.ryoshirakawa.WhereIsCat,ねこが隠れて出てこない！-脱出ゲーム-,229,JP,2018-04-10
-com.piano.music_tiles,🎼🎼🎼ピアノタイル2：音ゲー🎶🎶🎶,230,JP,2018-04-10
-net.otouch.crane,ダイヤモンドクレーン【暇つぶし人気無料ゲーム】,231,JP,2018-04-10
-tokyo.seec.tasogarehotel,脱出アドベンチャーノベル　誰ソ彼ホテル,232,JP,2018-04-10
-jp.cg.pittanko,脳トレ無料パズル！1日5分で頭が良くなる大人の爽快ピッタンコ,233,JP,2018-04-10
-com.powertower.cbbing.en,空のスクロールボール：カジュアルなローリングゲーム,234,JP,2018-04-10
-com.noodlecake.altosadventure,Alto'sAdventure,235,JP,2018-04-10
-jp.co.pokelabo.sinoalice,SINoALICEーシノアリスー,236,JP,2018-04-10
-com.wooga.sumikko_jp,すみっコぐらし〜パズルをするんです〜,237,JP,2018-04-10
-jp.konami.pesam,WinningEleven2018,238,JP,2018-04-10
-net.oratta.AsukaZero,戦国アスカZERO-街づくり×SDバトル,239,JP,2018-04-10
-klb.android.lovelive,ラブライブ！スクールアイドルフェスティバル（スクフェス）,240,JP,2018-04-10
-jp.co.PuruConnect,大人がハマる脳トレ！ぷるぷる~頭が良くなる脳トレ一筆パズル,241,JP,2018-04-10
-com.dmm.games.oshirore,御城プロジェクト:RE～CASTLEDEFENSE～,242,JP,2018-04-10
-com.nazokoi.forestbear,脱出ゲーム森のクマさんハウス,243,JP,2018-04-10
-jp.co.sundenshi.shanghaifree,上海～無料ゲーム～【脳トレ！定番暇つぶし！麻雀パズル】,244,JP,2018-04-10
-air.jp.ne.hap.toast,トースト少女,245,JP,2018-04-10
-net.otouch.pita,ピタゴラボール,246,JP,2018-04-10
-jp.co.cybird.appli.android.sgk,イケメン戦国◆時をかける恋　無料恋愛ゲーム,247,JP,2018-04-10
-jp.konami.mfcsp,麻雀格闘倶楽部Sp|究極のオンライン対戦麻雀ゲーム【無料麻雀アプリ】,248,JP,2018-04-10
-com.robotani.SchoolRunAwayLite,スクール鬼ごっこ,249,JP,2018-04-10
-com.sgn.geniesandgems.gp,マジックジュエル,250,JP,2018-04-10
-com.bandainamcoent.godeateronline,GODEATERONLINE,251,JP,2018-04-10
+jp.co.pokelabo.sinoalice,SINoALICEーシノアリスー,227,JP,2018-04-10
+com.Meromsoft.SchoolGirlsSimulator,スクールガールズシミュレーター,228,JP,2018-04-10
+jp.nicolet.kisaragi,脱出ゲームSpring,229,JP,2018-04-10
+com.seyeonsoft.pastel,パステルガール,230,JP,2018-04-10
+jp.coffeebreakin.app.mokken,格闘ゲーム「木拳」　〜暇つぶしに人気の面白いゲーム！ハマるよ,231,JP,2018-04-10
+com.dmm.games.oshirore,御城プロジェクト:RE～CASTLEDEFENSE～,232,JP,2018-04-10
+jp.ne.colorful.giraffe.shuji.OreKocho3dUnity,俺の校長3D,233,JP,2018-04-10
+net.oratta.AsukaZero,戦国アスカZERO-街づくり×SDバトル,234,JP,2018-04-10
+jp.uuum.blueman,青鬼2,235,JP,2018-04-10
+jp.co.sundenshi.shanghaifree,上海～無料ゲーム～【脳トレ！定番暇つぶし！麻雀パズル】,236,JP,2018-04-10
+tokyo.seec.tasogarehotel,脱出アドベンチャーノベル　誰ソ彼ホテル,237,JP,2018-04-10
+com.powertower.cbbing.en,空のスクロールボール：カジュアルなローリングゲーム,238,JP,2018-04-10
+jp.co.PuruConnect,大人がハマる脳トレ！ぷるぷる~頭が良くなる脳トレ一筆パズル,239,JP,2018-04-10
+com.ConstantPouliquen.Keeper,Keeper,240,JP,2018-04-10
+com.twoplayergamesfree.twoplayergames,みんなでミニゲーム-無料,241,JP,2018-04-10
+io.voodoo.stackjump,StackJump,242,JP,2018-04-10
+klb.android.lovelive,ラブライブ！スクールアイドルフェスティバル（スクフェス）,243,JP,2018-04-10
+jp.ryoshirakawa.WhereIsCat,ねこが隠れて出てこない！-脱出ゲーム-,244,JP,2018-04-10
+jp.konami.pesam,WinningEleven2018,245,JP,2018-04-10
+net.otouch.crane,ダイヤモンドクレーン【暇つぶし人気無料ゲーム】,246,JP,2018-04-10
+com.noodlecake.altosadventure,Alto'sAdventure,247,JP,2018-04-10
+isy.remilia.memory.mld,レミリアいじり　追憶のピース【東方】,248,JP,2018-04-10
+com.wooga.sumikko_jp,すみっコぐらし〜パズルをするんです〜,249,JP,2018-04-10
+com.gamevilusa.mlbpilive.android.google.global.normal,MLBパーフェクトイニング2018,250,JP,2018-04-10
+net.otouch.pita,ピタゴラボール,251,JP,2018-04-10
 com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,252,JP,2018-04-10
-io.voodoo.stackjump,StackJump,253,JP,2018-04-10
-jp.miura.yukkurisodateteittene,ゆっくり育てていってね！,254,JP,2018-04-10
-air.jp.globalgear.ptomo,プラトモ,255,JP,2018-04-10
-com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,256,JP,2018-04-10
-com.rovio.baba,アングリーバード2(AngryBirds2),257,JP,2018-04-10
-com.gamevilusa.mlbpilive.android.google.global.normal,MLBパーフェクトイニング2018,258,JP,2018-04-10
-net.otouch.kiseki,奇跡のスプーン【落ちてくる球を受け止めよ】,259,JP,2018-04-10
-net.capsuleplus.TheVaultBox,Theとびばこ-Lv99,260,JP,2018-04-10
-com.kumagames.highschoolsimulator2018,HighSchoolSimulator2018,261,JP,2018-04-10
-com.ty8.game21,教室バックれる-脱出ゲーム,262,JP,2018-04-10
-com.g5e.mahjong.android,ぱずじゃん,263,JP,2018-04-10
-com.bandainamcoent.TKGRI,東京喰種:reinvoke,264,JP,2018-04-10
-com.seyeonsoft.pastel,パステルガール,265,JP,2018-04-10
-com.kuraki.ranking,一般人㊙格付けチェック－あなたは何流ですか？禁断の㊙テスト,266,JP,2018-04-10
-jp.app.zako,おいザコ！クリアしてみろよ？,267,JP,2018-04-10
-jp.pokemon.koiking,はねろ！コイキング,268,JP,2018-04-10
-com.imangi.templerun,TempleRun,269,JP,2018-04-10
-com.threed.bowling,ボウリング3DBowling,270,JP,2018-04-10
-com.ConstantPouliquen.Keeper,Keeper,271,JP,2018-04-10
-com.netease.rs,SurvivorRoyale,272,JP,2018-04-10
-air.jp.co.piisu.airfunya,ふしぎな生き物ふにゃもらけ【ペット育成ゲーム】,273,JP,2018-04-10
-com.appxplore.crabwar,かに戦争(CrabWar),274,JP,2018-04-10
-com.bushiroad.kasukabecity,クレヨンしんちゃん一致団ケツ！かすかべシティ大開発,275,JP,2018-04-10
-jp.co.sega.am2.MJMobile,NET麻雀　MJモバイル,276,JP,2018-04-10
-com.snailgamejp.chime,チャイムが鳴ったら！,277,JP,2018-04-10
-moe.low.arc,Arcaea-超感覚リズムゲーム,278,JP,2018-04-10
-jp.actkey.graduate,脱出ゲーム卒業〜最後の教室〜,279,JP,2018-04-10
-com.sega.yakyutsuku,野球つく！！,280,JP,2018-04-10
-monst.multi.play,マルチ掲示板ガチャ予報＆常駐型攻略＆運極forモンスト,281,JP,2018-04-10
-jp.konami.tokimekiidol,ときめきアイドル,282,JP,2018-04-10
-net.jp.sorairo.daifugovs,大富豪Online,283,JP,2018-04-10
-net.capsuleplus.DropeeE,おとせぇぇえ,284,JP,2018-04-10
-air.jp.globalgear.ningyo,444回目のただいま,285,JP,2018-04-10
-com.paondp.game2.padp.etg,エイリアンのたまご(エリたま)【新感覚！ふるふる交配RPG】,286,JP,2018-04-10
-com.dmm.games.kamihime,神姫PROJECT　A,287,JP,2018-04-10
-numberplace.ohte,ナンプレde懸賞～完全無料で懸賞応募！パズル2000問以上～,288,JP,2018-04-10
-com.bandainamcoent.layeredstorieszero,レイヤードストーリーズゼロ（LayereDStories0）,289,JP,2018-04-10
-jp.boi.mitrasphere.app,ミトラスフィア-MITRASPHERE-,290,JP,2018-04-10
-com.linecorp.LGCOOKIE,LINEクッキーラン,291,JP,2018-04-10
-jp.co.applibot.kamuraitribe,神式一閃カムライトライブ,292,JP,2018-04-10
-com.kuraki.ranking2,一般人㊙格付けチェック2－【急募】一流一般人の方,293,JP,2018-04-10
-com.spilgames.UphillRush,UphillRushウォータースライダーゲーム,294,JP,2018-04-10
-com.joylol.taptube,タップチューブ-ミュージックビデオリズムゲーム,295,JP,2018-04-10
-com.AvoCavo.Apocalypse60,地球滅亡60秒前!,296,JP,2018-04-10
-com.nintendo.zaba,ファイアーエムブレムヒーローズ,297,JP,2018-04-10
-com.pazzlefor10.pazzlefor10,頭が良くなるスライドパズルゲーム10（TEN）,298,JP,2018-04-10
-jp.doraken.app,換金できるRPG【DORAKEN】,299,JP,2018-04-10
-jp.co.projapan.kumaspeed,くまのがっこうスピード【公式アプリ】無料トランプゲーム,300,JP,2018-04-10
-com.jasonli.reversireal,リバーシREAL2人対戦できるボードゲーム,301,JP,2018-04-10
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,302,JP,2018-04-10
-com.namcobandaigames.pacmantournaments,PAC-MAN,303,JP,2018-04-10
-com.crossfield.shisensho2,四川省ニ角取りゲーム麻雀牌パズルの定番四川省アプリ,304,JP,2018-04-10
-com.diezhi.qjnnjp,ミラクルニキ-お着替えコーデRPG,305,JP,2018-04-10
-com.itchmedia.ta3,BaseballBoy!,306,JP,2018-04-10
-com.memoryinc.IGTITAN,にゃんこレンジャー,307,JP,2018-04-10
-com.mobirix.shotingking,射撃の王,308,JP,2018-04-10
-com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),309,JP,2018-04-10
-jp.actkey.phantom,脱出ゲームPHANTOM,310,JP,2018-04-10
-com.the.Ama.zing.frog.dd,theAmazing-frog3D,311,JP,2018-04-10
-com.sixwaves.beast,超進化物語,312,JP,2018-04-10
-com.gameon.fkx,【新作】フィンガーナイツクロス（FINGERKNIGHTSX）【人気ゲーム】,313,JP,2018-04-10
-jp.j_o_e.NewPig,ようとん場MIX,314,JP,2018-04-10
-net.capsuleplus.ThailandKick2,田中にタイキック２,315,JP,2018-04-10
-com.crossfield.hanafuda,花札こいこい定番花札ゲーム-初心者でも楽しく遊べる-花鳥風月,316,JP,2018-04-10
-jp.konami.vsbomber,対戦！ボンバーマン,317,JP,2018-04-10
-isy.remilia.memory.mld,レミリアいじり　追憶のピース【東方】,318,JP,2018-04-10
-com.dmm.games.bloodychain,BloodyChain：イケメンを育てる女性向け恋愛ゲーム,319,JP,2018-04-10
-com.bandainamcoent.saomd,ソードアート・オンラインメモリー・デフラグ,320,JP,2018-04-10
-co.grimoire.bxb,ブレイブソード×ブレイズソウル,321,JP,2018-04-10
-jp.cg.kitinto,脳トレ無料パズル！1日5分で頭が良くなる大人の爽快キチント,322,JP,2018-04-10
-com.idoing.linefirefree,アサルトライフル射撃戦争,323,JP,2018-04-10
-com.mobirix.swipebrick3,ブリックスブレーカーミッション,324,JP,2018-04-10
-com.igg.android.lordsmobile,ロードモバイル【本格リアルタイムストラテジーMMORPG】,325,JP,2018-04-10
-com.bitmango.go.blockhexapuzzle,ブロック！ヘキサパズル,326,JP,2018-04-10
-jp.colopl.nyanko,ほしの島のにゃんこ,327,JP,2018-04-10
-com.billiards.city.pool.nation.club,ビリヤードシティ,328,JP,2018-04-10
-com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),329,JP,2018-04-10
-air.jp.ne.hap.ushiro,うしろ！うしろ！,330,JP,2018-04-10
-com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,331,JP,2018-04-10
-com.byv.chopit,ChopIt,332,JP,2018-04-10
-com.superkiriby.superpinkpanther,SuperKireby'sGoWorldJungle,333,JP,2018-04-10
-com.mylittlekidscoloring.superheroescoloring,NobitaSuperHeroesColoring,334,JP,2018-04-10
-com.usami.runaway2,逃走中2-容疑者を確保せよ!!,335,JP,2018-04-10
-com.factory112.hsh,脱出ゲームHomeSweetHome,336,JP,2018-04-10
-air.jp.globalgear.tvs,ナントカテレビショッピング～自由気ままに放送を楽しもう～,337,JP,2018-04-10
-sugimoto.kon.HideAndSeek,脱出ゲームかくれんぼ,338,JP,2018-04-10
-jp.coreedge.alchro,アルテイルクロニクル,339,JP,2018-04-10
-com.kabam.bigrobot,トランスフォーマー：鋼鉄の戦士たち,340,JP,2018-04-10
-com.ubisoft.hungrysharkworld,HungrySharkWorld,341,JP,2018-04-10
-jp.cocone.niagho,猫のニャッホ　〜ニャ・ミゼラブル〜,342,JP,2018-04-10
-air.jp.globalgear.ptomo2,プラトモ.リゾート,343,JP,2018-04-10
-com.madfingergames.legends,ShadowgunLegends,344,JP,2018-04-10
-com.devsisters.gb,クッキーラン:オーブンブレイク,345,JP,2018-04-10
-com.namcobandaigames.spmoja010,ONEPIECEトレジャークルーズ,346,JP,2018-04-10
+jp.co.cybird.appli.android.sgk,イケメン戦国◆時をかける恋　無料恋愛ゲーム,253,JP,2018-04-10
+jp.app.zako,おいザコ！クリアしてみろよ？,254,JP,2018-04-10
+com.sgn.geniesandgems.gp,マジックジュエル,255,JP,2018-04-10
+air.jp.ne.hap.toast,トースト少女,256,JP,2018-04-10
+jp.co.sega.am2.MJMobile,NET麻雀　MJモバイル,257,JP,2018-04-10
+com.kuraki.ranking,一般人㊙格付けチェック－あなたは何流ですか？禁断の㊙テスト,258,JP,2018-04-10
+com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,259,JP,2018-04-10
+com.kuraki.ranking2,一般人㊙格付けチェック2－【急募】一流一般人の方,260,JP,2018-04-10
+jp.miura.yukkurisodateteittene,ゆっくり育てていってね！,261,JP,2018-04-10
+air.jp.globalgear.ptomo,プラトモ,262,JP,2018-04-10
+com.robotani.SchoolRunAwayLite,スクール鬼ごっこ,263,JP,2018-04-10
+jp.konami.tokimekiidol,ときめきアイドル,264,JP,2018-04-10
+com.g5e.mahjong.android,ぱずじゃん,265,JP,2018-04-10
+moe.low.arc,Arcaea-超感覚リズムゲーム,266,JP,2018-04-10
+com.dmm.games.kamihime,神姫PROJECT　A,267,JP,2018-04-10
+com.bandainamcoent.TKGRI,東京喰種:reinvoke,268,JP,2018-04-10
+com.kumagames.highschoolsimulator2018,HighSchoolSimulator2018,269,JP,2018-04-10
+air.jp.co.piisu.airfunya,ふしぎな生き物ふにゃもらけ【ペット育成ゲーム】,270,JP,2018-04-10
+net.capsuleplus.TheVaultBox,Theとびばこ-Lv99,271,JP,2018-04-10
+net.otouch.kiseki,奇跡のスプーン【落ちてくる球を受け止めよ】,272,JP,2018-04-10
+com.appxplore.crabwar,かに戦争(CrabWar),273,JP,2018-04-10
+com.ty8.game21,教室バックれる-脱出ゲーム,274,JP,2018-04-10
+net.jp.sorairo.daifugovs,大富豪Online,275,JP,2018-04-10
+com.rovio.baba,アングリーバード2(AngryBirds2),276,JP,2018-04-10
+jp.boi.mitrasphere.app,ミトラスフィア-MITRASPHERE-,277,JP,2018-04-10
+jp.pokemon.koiking,はねろ！コイキング,278,JP,2018-04-10
+com.sega.yakyutsuku,野球つく！！,279,JP,2018-04-10
+monst.multi.play,マルチ掲示板ガチャ予報＆常駐型攻略＆運極forモンスト,280,JP,2018-04-10
+com.imangi.templerun,TempleRun,281,JP,2018-04-10
+com.usami.runaway2,逃走中2-容疑者を確保せよ!!,282,JP,2018-04-10
+com.bandainamcoent.godeateronline,GODEATERONLINE,283,JP,2018-04-10
+numberplace.ohte,ナンプレde懸賞～完全無料で懸賞応募！パズル2000問以上～,284,JP,2018-04-10
+jp.doraken.app,換金できるRPG【DORAKEN】,285,JP,2018-04-10
+jp.co.applibot.kamuraitribe,神式一閃カムライトライブ,286,JP,2018-04-10
+com.netease.rs,SurvivorRoyale,287,JP,2018-04-10
+com.threed.bowling,ボウリング3DBowling,288,JP,2018-04-10
+net.capsuleplus.DropeeE,おとせぇぇえ,289,JP,2018-04-10
+jp.actkey.graduate,脱出ゲーム卒業〜最後の教室〜,290,JP,2018-04-10
+com.crossfield.shisensho2,四川省ニ角取りゲーム麻雀牌パズルの定番四川省アプリ,291,JP,2018-04-10
+com.paondp.game2.padp.etg,エイリアンのたまご(エリたま)【新感覚！ふるふる交配RPG】,292,JP,2018-04-10
+jp.actkey.phantom,脱出ゲームPHANTOM,293,JP,2018-04-10
+net.capsuleplus.ThailandKick2,田中にタイキック２,294,JP,2018-04-10
+com.bushiroad.kasukabecity,クレヨンしんちゃん一致団ケツ！かすかべシティ大開発,295,JP,2018-04-10
+com.sixwaves.beast,超進化物語,296,JP,2018-04-10
+com.snailgamejp.chime,チャイムが鳴ったら！,297,JP,2018-04-10
+air.jp.globalgear.ningyo,444回目のただいま,298,JP,2018-04-10
+com.itchmedia.ta3,BaseballBoy!,299,JP,2018-04-10
+com.bandainamcoent.layeredstorieszero,レイヤードストーリーズゼロ（LayereDStories0）,300,JP,2018-04-10
+com.bandainamcoent.saomd,ソードアート・オンラインメモリー・デフラグ,301,JP,2018-04-10
+com.dmm.games.bloodychain,BloodyChain：イケメンを育てる女性向け恋愛ゲーム,302,JP,2018-04-10
+com.joylol.taptube,タップチューブ-ミュージックビデオリズムゲーム,303,JP,2018-04-10
+com.pazzlefor10.pazzlefor10,頭が良くなるスライドパズルゲーム10（TEN）,304,JP,2018-04-10
+com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),305,JP,2018-04-10
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,306,JP,2018-04-10
+com.mobirix.swipebrick3,ブリックスブレーカーミッション,307,JP,2018-04-10
+com.linecorp.LGCOOKIE,LINEクッキーラン,308,JP,2018-04-10
+co.grimoire.bxb,ブレイブソード×ブレイズソウル,309,JP,2018-04-10
+com.jasonli.reversireal,リバーシREAL2人対戦できるボードゲーム,310,JP,2018-04-10
+com.nintendo.zaba,ファイアーエムブレムヒーローズ,311,JP,2018-04-10
+com.namcobandaigames.pacmantournaments,PAC-MAN,312,JP,2018-04-10
+com.mobirix.shotingking,射撃の王,313,JP,2018-04-10
+com.AvoCavo.Apocalypse60,地球滅亡60秒前!,314,JP,2018-04-10
+jp.cg.kitinto,脳トレ無料パズル！1日5分で頭が良くなる大人の爽快キチント,315,JP,2018-04-10
+com.diezhi.qjnnjp,ミラクルニキ-お着替えコーデRPG,316,JP,2018-04-10
+jp.j_o_e.NewPig,ようとん場MIX,317,JP,2018-04-10
+com.gameon.fkx,【新作】フィンガーナイツクロス（FINGERKNIGHTSX）【人気ゲーム】,318,JP,2018-04-10
+com.spilgames.UphillRush,UphillRushウォータースライダーゲーム,319,JP,2018-04-10
+com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),320,JP,2018-04-10
+jp.cocone.niagho,猫のニャッホ　〜ニャ・ミゼラブル〜,321,JP,2018-04-10
+jp.konami.vsbomber,対戦！ボンバーマン,322,JP,2018-04-10
+com.memoryinc.IGTITAN,にゃんこレンジャー,323,JP,2018-04-10
+com.billiards.city.pool.nation.club,ビリヤードシティ,324,JP,2018-04-10
+com.kabam.bigrobot,トランスフォーマー：鋼鉄の戦士たち,325,JP,2018-04-10
+com.crossfield.hanafuda,花札こいこい定番花札ゲーム-初心者でも楽しく遊べる-花鳥風月,326,JP,2018-04-10
+com.byv.chopit,ChopIt,327,JP,2018-04-10
+com.the.Ama.zing.frog.dd,theAmazing-frog3D,328,JP,2018-04-10
+com.igg.android.lordsmobile,ロードモバイル【本格リアルタイムストラテジーMMORPG】,329,JP,2018-04-10
+jp.co.projapan.kumaspeed,くまのがっこうスピード【公式アプリ】無料トランプゲーム,330,JP,2018-04-10
+com.factory112.hsh,脱出ゲームHomeSweetHome,331,JP,2018-04-10
+jp.colopl.nyanko,ほしの島のにゃんこ,332,JP,2018-04-10
+jp.coreedge.alchro,アルテイルクロニクル,333,JP,2018-04-10
+com.bitmango.go.blockhexapuzzle,ブロック！ヘキサパズル,334,JP,2018-04-10
+com.idoing.linefirefree,アサルトライフル射撃戦争,335,JP,2018-04-10
+com.namcobandaigames.spmoja010,ONEPIECEトレジャークルーズ,336,JP,2018-04-10
+air.jp.ne.hap.ushiro,うしろ！うしろ！,337,JP,2018-04-10
+com.superkiriby.superpinkpanther,SuperKireby'sGoWorldJungle,338,JP,2018-04-10
+air.jp.globalgear.ptomo2,プラトモ.リゾート,339,JP,2018-04-10
+com.bij.snoopyDrops,スヌーピードロップス,340,JP,2018-04-10
+com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,341,JP,2018-04-10
+com.ubisoft.hungrysharkworld,HungrySharkWorld,342,JP,2018-04-10
+air.jp.co.piisu.Nadefunya,ボクと契約してマンションを買ってよ。フフフ…【ボクマン】,343,JP,2018-04-10
+sugimoto.kon.HideAndSeek,脱出ゲームかくれんぼ,344,JP,2018-04-10
+com.kotehan.drophunter,ドロップハンター-ハクスラRPG-,345,JP,2018-04-10
+com.madfingergames.legends,ShadowgunLegends,346,JP,2018-04-10
 com.yuushanokusenikonamaikidadash.forwardworks,勇者のくせにこなまいきだDASH!,347,JP,2018-04-10
-air.jp.globalgear.iiwake,フラれ回避,348,JP,2018-04-10
-badminton.king.sportsgame.smash,バドミントンリーグ,349,JP,2018-04-10
-com.wteam.dash1,脱出ゲーム　嘘つきゲーム,350,JP,2018-04-10
-jp.usaya.radish,大根にしがみつく女子高生,351,JP,2018-04-10
-air.jp.globalgear.kikai,アクション作ろう。ピコピコメーカーEX,352,JP,2018-04-10
-jp.infinitysoftware.brainageplay,脳年齢測定器,353,JP,2018-04-10
-net.studiok_i.shogi,ぴよ将棋-本格派対局将棋,354,JP,2018-04-10
-com.giraffegames.curling,Curling3D,355,JP,2018-04-10
-com.bij.snoopyDrops,スヌーピードロップス,356,JP,2018-04-10
-air.jp.co.piisu.Nadefunya,ボクと契約してマンションを買ってよ。フフフ…【ボクマン】,357,JP,2018-04-10
-com.miniclip.agar.io,Agar.io,358,JP,2018-04-10
-com.kotehan.drophunter,ドロップハンター-ハクスラRPG-,359,JP,2018-04-10
-jp.naver.SJLGPP,LINEポコパン,360,JP,2018-04-10
-com.king.blossomblast,ブロッサム・ブラスト,361,JP,2018-04-10
-com.ea.gp.fifamobile,FIFAサッカー,362,JP,2018-04-10
-com.daijiro.taiko2,太鼓さん大次郎２,363,JP,2018-04-10
-com.blayzegames.iosfps,BulletForce,364,JP,2018-04-10
-jp.app.zako3,おいザコ！まさか今の本気じゃないよな？,365,JP,2018-04-10
-jp.co.crooz.ElementalStory,エレメンタルストーリー,366,JP,2018-04-10
-com.nankaiigame.zakk,脱出ゲーム　雑貨屋からの脱出,367,JP,2018-04-10
-air.jp.ne.hap.fk,こんなフリーキックはイヤだ,368,JP,2018-04-10
-com.droidhang.ad,IdleHeroes-無料放置育成RPG,369,JP,2018-04-10
-jp.actkey.magic,脱出ゲーム魔法使いの家から脱出,370,JP,2018-04-10
-com.androbaby.game2048,2048,371,JP,2018-04-10
-jp.co.bandainamcoent.BNEI0242,アイドルマスターシンデレラガールズスターライトステージ,372,JP,2018-04-10
-com.mycraft.exploration.craft,MyCraftExploration,373,JP,2018-04-10
-jp.garud.Wagashiya,脱出ゲーム和菓子屋からの脱出,374,JP,2018-04-10
-air.escapegamestudio.EscapeGameCorporateOffice3,新しい脱出ゲーム会社のオフィス3,375,JP,2018-04-10
-com.king.farmheroessaga,ファームヒーロー,376,JP,2018-04-10
-heart.music.pink.piano.tile,HeartPianoTiles,377,JP,2018-04-10
-com.kuusoukagaku.android.mahjongfree,四人麻雀FREE-初心者から楽しめる完全無料の本格麻雀,378,JP,2018-04-10
-com.rcgames.megaramp.impossible,MegaRamp:FreeImpossibleStunts,379,JP,2018-04-10
-com.ea.game.tetris2011_na,TETRIS,380,JP,2018-04-10
-jp.actkey.themepark,脱出ゲーム遊園地からの脱出,381,JP,2018-04-10
-jp.ne.ambition.bungomayoi,文豪ストレイドッグス迷ヰ犬怪奇譚,382,JP,2018-04-10
-jp.marge.android.toroccodecoin,トロッコでコイン,383,JP,2018-04-10
-com.sinyee.babybus.care,赤ちゃんの世話をする-BabyBus子ども・幼児教育アプリ,384,JP,2018-04-10
-jp.colopl.alice,アリス・ギア・アイギス,385,JP,2018-04-10
+com.king.blossomblast,ブロッサム・ブラスト,348,JP,2018-04-10
+jp.infinitysoftware.brainageplay,脳年齢測定器,349,JP,2018-04-10
+jp.app.zako3,おいザコ！まさか今の本気じゃないよな？,350,JP,2018-04-10
+badminton.king.sportsgame.smash,バドミントンリーグ,351,JP,2018-04-10
+com.droidhang.ad,IdleHeroes-無料放置育成RPG,352,JP,2018-04-10
+net.studiok_i.shogi,ぴよ将棋-本格派対局将棋,353,JP,2018-04-10
+air.escapegamestudio.EscapeGameCorporateOffice3,新しい脱出ゲーム会社のオフィス3,354,JP,2018-04-10
+air.jp.globalgear.tvs,ナントカテレビショッピング～自由気ままに放送を楽しもう～,355,JP,2018-04-10
+com.miniclip.agar.io,Agar.io,356,JP,2018-04-10
+com.devsisters.gb,クッキーラン:オーブンブレイク,357,JP,2018-04-10
+com.wteam.dash1,脱出ゲーム　嘘つきゲーム,358,JP,2018-04-10
+heart.music.pink.piano.tile,HeartPianoTiles,359,JP,2018-04-10
+jp.usaya.radish,大根にしがみつく女子高生,360,JP,2018-04-10
+com.androbaby.game2048,2048,361,JP,2018-04-10
+com.mylittlekidscoloring.superheroescoloring,NobitaSuperHeroesColoring,362,JP,2018-04-10
+com.blayzegames.iosfps,BulletForce,363,JP,2018-04-10
+com.kuusoukagaku.android.mahjongfree,四人麻雀FREE-初心者から楽しめる完全無料の本格麻雀,364,JP,2018-04-10
+com.boombitgames.DancingBall,DancingBallSaga,365,JP,2018-04-10
+jp.naver.SJLGPP,LINEポコパン,366,JP,2018-04-10
+com.ea.gp.fifamobile,FIFAサッカー,367,JP,2018-04-10
+jp.co.bandainamcoent.BNEI0242,アイドルマスターシンデレラガールズスターライトステージ,368,JP,2018-04-10
+air.jp.globalgear.kikai,アクション作ろう。ピコピコメーカーEX,369,JP,2018-04-10
+air.jp.globalgear.iiwake,フラれ回避,370,JP,2018-04-10
+jp.colopl.alice,アリス・ギア・アイギス,371,JP,2018-04-10
+com.rcgames.megaramp.impossible,MegaRamp:FreeImpossibleStunts,372,JP,2018-04-10
+com.ea.game.tetris2011_na,TETRIS,373,JP,2018-04-10
+com.hanaabiru.uwakibest,GuessHolic～浮気thebest～,374,JP,2018-04-10
+com.sinyee.babybus.shopping,かいものだいすき-子ども向けお買物ごっこ遊び,375,JP,2018-04-10
+com.daijiro.taiko2,太鼓さん大次郎２,376,JP,2018-04-10
+com.giraffegames.curling,Curling3D,377,JP,2018-04-10
+jp.co.crooz.ElementalStory,エレメンタルストーリー,378,JP,2018-04-10
+jp.actkey.themepark,脱出ゲーム遊園地からの脱出,379,JP,2018-04-10
+jp.actkey.magic,脱出ゲーム魔法使いの家から脱出,380,JP,2018-04-10
+com.KoroSukeTrain.TrainDoorSimulator,TrainDoorSimulator,381,JP,2018-04-10
+com.memoriki.fullhousecasino,フルハウスカジノ～無料ラスベガスカジノ＆スロット～,382,JP,2018-04-10
+jp.co.yamadapp.jellyfish,癒しのクラゲ育成ゲーム-無料放置育成ゲーム,383,JP,2018-04-10
+jp.ne.ambition.bungomayoi,文豪ストレイドッグス迷ヰ犬怪奇譚,384,JP,2018-04-10
+jp.hase.archery2,トニーくんの百発百中,385,JP,2018-04-10
 com.bandainamcoent.torays,テイルズオブザレイズ,386,JP,2018-04-10
-jp.oridio.starrySwings,星空ブランコ-UUUMversion-,387,JP,2018-04-10
-com.memoriki.fullhousecasino,フルハウスカジノ～無料ラスベガスカジノ＆スロット～,388,JP,2018-04-10
-jp.co.arttec.satbox.soccerondesk,机でサッカー,389,JP,2018-04-10
-com.sinyee.babybus.shopping,かいものだいすき-子ども向けお買物ごっこ遊び,390,JP,2018-04-10
-jp.hase.archery2,トニーくんの百発百中,391,JP,2018-04-10
-jp.co.liberent.soennokantai,蒼焔の艦隊,392,JP,2018-04-10
-jp.co.yamadapp.jellyfish,癒しのクラゲ育成ゲーム-無料放置育成ゲーム,393,JP,2018-04-10
-com.LocoCraft.AK777,LocoCraft:ExplorationAndBuilding,394,JP,2018-04-10
-com.boombitgames.DancingBall,DancingBallSaga,395,JP,2018-04-10
-com.gramgames.london.mergegems,MergeGems!,396,JP,2018-04-10
-jp.co.liica.mimikaki,毎日の耳かき,397,JP,2018-04-10
-com.unitedfun.prod.apollo,かわいくきがえてファッションショー❤CocoPPaPlay,398,JP,2018-04-10
-com.dena.a12024374,歌マクロススマホDeカルチャー,399,JP,2018-04-10
-com.klab.bleach,BLEACHBraveSouls,400,JP,2018-04-10
-com.quarterborrowresult.customer,PuzzleGame,401,JP,2018-04-10
-jp.co.officemove.game.nuriepuzzle,大人の塗り絵パズル！無料人気お絵かきColoring,402,JP,2018-04-10
-com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,403,JP,2018-04-10
-com.square_enix.Android_dqmsuperlight,ドラゴンクエストモンスターズ　スーパーライト,404,JP,2018-04-10
-jp.co.unbalance.android.hf_free,ザ・花札こいこい編-勝ち抜き戦が楽しい無料の花札ゲーム,405,JP,2018-04-10
-air.jp.globalgear.sensuui,あつまれ！コッペパン,406,JP,2018-04-10
-com.tomita.ghostpic,おわかりいただけただろうか心霊写真で最恐ホラー体験,407,JP,2018-04-10
-jp.app.zako6,おいザコ！飛べないザコは這いつくばってろ！,408,JP,2018-04-10
-com.lt.distancelasermeter,距離レーザーメーターシミュレータ,409,JP,2018-04-10
-com.sonat.topfreegame.blockpuzzle.brickclassic.woodblock,木ブロックパズル:ブロックパズル,410,JP,2018-04-10
-jp.pluszero.clicker,東方幻想クリッカー指１本で遊べる放置系弾幕RPG,411,JP,2018-04-10
-jp.konami.pawasaka,実況パワフルサッカー【選手育成サッカーゲーム】,412,JP,2018-04-10
-com.tgg.kidscooking,キッチンで調理,413,JP,2018-04-10
-com.hanaabiru.uwakibest,GuessHolic～浮気thebest～,414,JP,2018-04-10
-com.withprize.cross,クロスワードde懸賞〜楽しく脳トレ！賞品も貰えて一石三鳥！〜,415,JP,2018-04-10
-com.square_enix.android_googleplay.PTD,プロジェクト東京ドールズ,416,JP,2018-04-10
-jp.co.liica.physics,Q,417,JP,2018-04-10
-com.sinyee.babybus.food,中華レストラン-BabyBus　子ども・幼児向けお料理ゲーム,418,JP,2018-04-10
-air.com.dotpico.mahjong,麻雀！,419,JP,2018-04-10
-jp.co.gagex.orion,思い出の食堂物語　～心にしみる昭和シリーズ～,420,JP,2018-04-10
-jp.co.aiia.nogifes,乃木坂46リズムフェスティバル,421,JP,2018-04-10
-com.natenai.glowhockey,GlowHockey,422,JP,2018-04-10
-com.crossfield.reversir2,リバーシ-ゲームの王様リバーシ,423,JP,2018-04-10
-Draziw.Button.Mines,マインスイーパ,424,JP,2018-04-10
-com.square_enix.android_googleplay.FFFEXFjp,FINALFANTASYEXPLORERSFORCE,425,JP,2018-04-10
-com.tactosh.quiz,みんなで早押しクイズ-無料雑学オンラインクイズゲーム,426,JP,2018-04-10
-com.linecorp.LGNOBLE,千銃士,427,JP,2018-04-10
-com.cybergate.candymaker2,洋菓子店ローズ～パン屋はじめました～,428,JP,2018-04-10
-com.skgames.trafficrider,TrafficRider,429,JP,2018-04-10
-com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,430,JP,2018-04-10
-com.st.classiccard.solitaire,ソリティア-美人テーマ、面白いカードゲーム,431,JP,2018-04-10
-jp.shizu.FemalePrivateBathroomEscape,脱出ゲーム女湯からの脱出,432,JP,2018-04-10
-com.NatsuToya.TohoJinro,東方人狼噺～ソロプレイ専用スペルカードで遊ぶ人狼ゲーム～,433,JP,2018-04-10
-com.halfbrick.fruitninjafree,FruitNinja®,434,JP,2018-04-10
-com.frecre.englishstory,ゲームで英語！？【英語物語】英単語からリスニングまで,435,JP,2018-04-10
-air.jp.globalgear.jan,対戦！じゃんけん将棋,436,JP,2018-04-10
-com.studioms32.ms020,英単語ゲームHAMARUTOEIC学習や小中学生英語〜大学受験、リスニング向け無料アプリ,437,JP,2018-04-10
-jp.qualias.ConcentrationSushi,神経衰弱できるもん　おすしやさん,438,JP,2018-04-10
-com.pentagames.crimerevolt,CrimeRevolt-3DOnlineShooter,439,JP,2018-04-10
-com.onetongames.kingofthehill,グランドバトルロワイヤル,440,JP,2018-04-10
-com.king.candycrushjellysaga,キャンディークラッシュゼリー,441,JP,2018-04-10
-com.lastprojects111.tsukiaerudotest,付き合える度診断―あなたの恋愛成功確率？？,442,JP,2018-04-10
-jp.gungho.dmkandroid,ディズニーマジックキングダムズ,443,JP,2018-04-10
-com.pandoragames.finddifference3,間違い探し500レベル,444,JP,2018-04-10
-com.helix.jump.spiral,ヘリックスジャンプ-HelixJump,445,JP,2018-04-10
-com.wife.revenge,妻たちの復讐,446,JP,2018-04-10
-com.linkdesks.iBubble,パワーバブルシューター,447,JP,2018-04-10
-jp.co.unbalance.android.tumesyominna,みんなの詰将棋-将棋の終盤力を鍛える無料の詰将棋,448,JP,2018-04-10
-jp.co.capcom.android.explore,モンスターハンターエクスプロア,449,JP,2018-04-10
-com.KoroSukeTrain.TrainDoorSimulator,TrainDoorSimulator,450,JP,2018-04-10
-jp.co.arttec.satbox.tabletennisondesk,机で卓球,451,JP,2018-04-10
-com.n58works.DOOORS5,脱出ゲームDOOORS5,452,JP,2018-04-10
-jp.co.goodia.SeesawJump,シーソーとび,453,JP,2018-04-10
-com.bloodtype.aruaru2,血液型あるある2-暇つぶし性格診断ゲーム,454,JP,2018-04-10
-com.freegamesstudio.copsvsrobbersjailbreak,強盗対警官：刑務所ブレイク,455,JP,2018-04-10
-com.gamebookstudios.fortnite.lastbattleground.battleroyale.royalesurvival,Fort:NightLastBattlegroundRoyaleSurvival,456,JP,2018-04-10
-com.tsurutomo.MilkFarm,脱出ゲームMilkFarm,457,JP,2018-04-10
-com.dena.a12022874,天華百剣-斬-,458,JP,2018-04-10
-com.rovio.blast,アングリーバードブラスト,459,JP,2018-04-10
-jp.baibai.seeant,アリの巣コロニーほのぼの放置観察育成ゲーム,460,JP,2018-04-10
-com.fgol.HungrySharkEvolutionjapan,ハングリーシャーク　エボリューション,461,JP,2018-04-10
-com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス～シューティング・マフィアゲーム～,462,JP,2018-04-10
-com.sinyee.babybus.earthquakeII,地震だ！避難所へ行こう-BabyBus子ども・幼児向け,463,JP,2018-04-10
-com.spacegame.solitaire.basic,ソリティア！,464,JP,2018-04-10
-com.tygame.game17,落とし穴回避2-脱出ゲーム,465,JP,2018-04-10
-jp.kingsoft.VirusVsVirus2,RB対戦-2人で遊べる暇つぶし無料ゲーム,466,JP,2018-04-10
-com.bandainamcoent.sailormoondrops,美少女戦士セーラームーンセーラームーンドロップス,467,JP,2018-04-10
-com.avocado.newcolorus,ColorUs:はじめてのヒーリング塗り絵,468,JP,2018-04-10
-com.elementary.aruaru,小学生あるあるみっけ！-思わず懐かしくて涙!?,469,JP,2018-04-10
-com.ea.games.r3_na,RealRacing3,470,JP,2018-04-10
-com.ryohei.haruki.EscapeRooms,脱出ゲーム:EscapeRooms,471,JP,2018-04-10
-net.appliss.ojipockle2,おじぽっくる育成BOX,472,JP,2018-04-10
-com.escape.neat.no54resortroom,脱出ゲーム　リゾートルーム,473,JP,2018-04-10
-com.crack.screen.prank.bfun,壊れたスクリーンいたずらPrank,474,JP,2018-04-10
-com.yileweb.mgcsgja.android,頂上三国-本格RPGバトル,475,JP,2018-04-10
-com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,476,JP,2018-04-10
-jp.ebb.gam.ESCAPEA01,脱出ゲーム不思議なコテージからの脱出,477,JP,2018-04-10
-com.escape.neat.no26ryokan,脱出ゲーム　温泉旅館,478,JP,2018-04-10
-com.natukaze.BeYoutuber,目指せYouTuber　-人気ユーチューバー無料育成ゲーム-,479,JP,2018-04-10
-com.strange.image,よく見るとおかしい画像,480,JP,2018-04-10
-com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,481,JP,2018-04-10
-com.sincetimes.games.worldship.google.jp.normal,戦艦帝国-228艘の実在戦艦を集めろ,482,JP,2018-04-10
-com.ojsar.craft.exploration.prime.II,Exploration,483,JP,2018-04-10
-com.PupInteractive.TwistyRoad,曲がりくねった道！,484,JP,2018-04-10
-jp.colopl.bbnext,プロ野球バーサス,485,JP,2018-04-10
-com.hgamesart.ropeboy,AmazingStrangeRopePolice-ViceSpiderVegas,486,JP,2018-04-10
-org.cocos2dx.Training,頭を柔らかくする脳トレ-無料で謎解き暇つぶしIQアプリ,487,JP,2018-04-10
-jp.co.cave.LODjp,ロードオブダンジョン【LoD】,488,JP,2018-04-10
-air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,489,JP,2018-04-10
-jp.PureWater.WhackAMole,もぐらたたき-定番無料ゲーム,490,JP,2018-04-10
-jp.heroz.android.shogiwars,将棋アプリ将棋ウォーズ将棋対戦ゲーム入門・初心者歓迎,491,JP,2018-04-10
-com.mokosoft.crossword,クロスワード,492,JP,2018-04-10
-com.dualcarbon.drivesimulator2016Lite,ドライブシミュレーター2016,493,JP,2018-04-10
-jp.co.kitadenshi.jugisland,ジャグラーアイランド～無料で遊べるバーチャルホール～,494,JP,2018-04-10
-net.appliss.ojipockle,みつけて！おじぽっくる,495,JP,2018-04-10
-jp.co.cave.mahouotome,ゴシックは魔法乙女【ごまおつ】,496,JP,2018-04-10
-com.dmm.games.touken,刀剣乱舞-ONLINE-Pocket,497,JP,2018-04-10
-com.nttdocomo.mb.game.playnext.tugume,未来家系図つぐme,498,JP,2018-04-10
-net.otouch.kaimono,お買い物ゲーム,499,JP,2018-04-10
-com.sinyee.babybus.babyhospital,ベビーの病院-BabyBus　子ども・幼児向けごっこ遊び,500,JP,2018-04-10
-com.cybergate.eatgame,食べないと死ぬ,501,JP,2018-04-10
-com.sgn.pandapop.gp,パンダポップ,502,JP,2018-04-10
-com.supersimpleapps.sudoku,数独,503,JP,2018-04-10
-com.cheshirex.stickmanthefight,StickManGame,504,JP,2018-04-10
-jp.app.sasuzako,おいザコ！さすがにクリアできるよな？,505,JP,2018-04-10
-com.mobcast.mobasakacm,モバサカCHAMPIONSMANAGER～決断するサッカーゲーム～,506,JP,2018-04-10
-air.jp.funkyland.EscapeBeautySalon,脱出ゲームエステサロンからの脱出,507,JP,2018-04-10
-com.canvassoft.Crane,クレーンゲームDX-無料で人気の3Dキャッチャーゲーム,508,JP,2018-04-10
-com.aniplex.magireco,マギアレコード魔法少女まどかマギカ外伝,509,JP,2018-04-10
-com.strongwheel.adventures,Happystrongwheeladventures,510,JP,2018-04-10
-hpca.src,新オヤジリウム:放置育成ゲーム[無料3Dゲーム],511,JP,2018-04-10
-net.theraincoat.graduate,脱出ゲーム卒業〜思い出を振り返るひととき〜,512,JP,2018-04-10
-com.cybergate.bentopuzzle,もふもふ！お弁当パズル,513,JP,2018-04-10
-com.aim.racing,ExtremeCarDrivingSimulator,514,JP,2018-04-10
-com.studiowakaba.escapegame.snowglobe,脱出ゲームスノードームと雪景色,515,JP,2018-04-10
-com.asobimo.avabel_gp_b3,MMORPGアヴァベルオンライン-絆の塔-,516,JP,2018-04-10
-jp.seec.escape.alice.yomi,アリスと闇の女王脱出ゲーム,517,JP,2018-04-10
-eevee.poke.greninja.adventure,EeveeRacing,518,JP,2018-04-10
-com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),519,JP,2018-04-10
+jp.garud.Wagashiya,脱出ゲーム和菓子屋からの脱出,387,JP,2018-04-10
+com.king.farmheroessaga,ファームヒーロー,388,JP,2018-04-10
+jp.seec.escape.alice.yomi,アリスと闇の女王脱出ゲーム,389,JP,2018-04-10
+com.nankaiigame.zakk,脱出ゲーム　雑貨屋からの脱出,390,JP,2018-04-10
+air.jp.ne.hap.fk,こんなフリーキックはイヤだ,391,JP,2018-04-10
+jp.co.arttec.satbox.soccerondesk,机でサッカー,392,JP,2018-04-10
+com.dena.a12024374,歌マクロススマホDeカルチャー,393,JP,2018-04-10
+jp.co.unbalance.android.hf_free,ザ・花札こいこい編-勝ち抜き戦が楽しい無料の花札ゲーム,394,JP,2018-04-10
+jp.app.zako6,おいザコ！飛べないザコは這いつくばってろ！,395,JP,2018-04-10
+com.mycraft.exploration.craft,MyCraftExploration,396,JP,2018-04-10
+jp.co.liberent.soennokantai,蒼焔の艦隊,397,JP,2018-04-10
+com.klab.bleach,BLEACHBraveSouls,398,JP,2018-04-10
+jp.konami.pawasaka,実況パワフルサッカー【選手育成サッカーゲーム】,399,JP,2018-04-10
+jp.marge.android.toroccodecoin,トロッコでコイン,400,JP,2018-04-10
+com.LocoCraft.AK777,LocoCraft:ExplorationAndBuilding,401,JP,2018-04-10
+com.quarterborrowresult.customer,PuzzleGame,402,JP,2018-04-10
+jp.co.liica.mimikaki,毎日の耳かき,403,JP,2018-04-10
+com.sinyee.babybus.care,赤ちゃんの世話をする-BabyBus子ども・幼児教育アプリ,404,JP,2018-04-10
+com.square_enix.Android_dqmsuperlight,ドラゴンクエストモンスターズ　スーパーライト,405,JP,2018-04-10
+jp.oridio.starrySwings,星空ブランコ-UUUMversion-,406,JP,2018-04-10
+com.withprize.cross,クロスワードde懸賞〜楽しく脳トレ！賞品も貰えて一石三鳥！〜,407,JP,2018-04-10
+Draziw.Button.Mines,マインスイーパ,408,JP,2018-04-10
+com.lnrgame.snowboard,Flip:SurfingColors,409,JP,2018-04-10
+jp.co.officemove.game.nuriepuzzle,大人の塗り絵パズル！無料人気お絵かきColoring,410,JP,2018-04-10
+com.linecorp.LGNOBLE,千銃士,411,JP,2018-04-10
+com.frecre.englishstory,ゲームで英語！？【英語物語】英単語からリスニングまで,412,JP,2018-04-10
+com.unitedfun.prod.apollo,かわいくきがえてファッションショー❤CocoPPaPlay,413,JP,2018-04-10
+jp.pluszero.clicker,東方幻想クリッカー指１本で遊べる放置系弾幕RPG,414,JP,2018-04-10
+com.sonat.topfreegame.blockpuzzle.brickclassic.woodblock,木ブロックパズル:ブロックパズル,415,JP,2018-04-10
+jp.co.aiia.nogifes,乃木坂46リズムフェスティバル,416,JP,2018-04-10
+com.tactosh.quiz,みんなで早押しクイズ-無料雑学オンラインクイズゲーム,417,JP,2018-04-10
+jp.co.gagex.orion,思い出の食堂物語　～心にしみる昭和シリーズ～,418,JP,2018-04-10
+com.studioms32.ms020,英単語ゲームHAMARUTOEIC学習や小中学生英語〜大学受験、リスニング向け無料アプリ,419,JP,2018-04-10
+air.com.dotpico.mahjong,麻雀！,420,JP,2018-04-10
+jp.co.liica.physics,Q,421,JP,2018-04-10
+com.gramgames.london.mergegems,MergeGems!,422,JP,2018-04-10
+com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,423,JP,2018-04-10
+com.cybergate.candymaker2,洋菓子店ローズ～パン屋はじめました～,424,JP,2018-04-10
+com.bloodtype.aruaru2,血液型あるある2-暇つぶし性格診断ゲーム,425,JP,2018-04-10
+com.frogrobot.sakura,脱出ゲーム-お花見に行かなきゃ！-新作脱出げーむ,426,JP,2018-04-10
+com.sinyee.babybus.food,中華レストラン-BabyBus　子ども・幼児向けお料理ゲーム,427,JP,2018-04-10
+com.lt.distancelasermeter,距離レーザーメーターシミュレータ,428,JP,2018-04-10
+com.tomita.ghostpic,おわかりいただけただろうか心霊写真で最恐ホラー体験,429,JP,2018-04-10
+com.crossfield.reversir2,リバーシ-ゲームの王様リバーシ,430,JP,2018-04-10
+com.avocado.newcolorus,ColorUs:はじめてのヒーリング塗り絵,431,JP,2018-04-10
+com.wife.revenge,妻たちの復讐,432,JP,2018-04-10
+com.scrapingthebarrel.dimensions,Gatecrasher,433,JP,2018-04-10
+com.akabane.houkai2,どうしてこうなった？作画崩壊２～作画崩壊あるある,434,JP,2018-04-10
+com.halfbrick.fruitninjafree,FruitNinja®,435,JP,2018-04-10
+air.jp.globalgear.sensuui,あつまれ！コッペパン,436,JP,2018-04-10
+com.skgames.trafficrider,TrafficRider,437,JP,2018-04-10
+com.helix.jump.spiral,ヘリックスジャンプ-HelixJump,438,JP,2018-04-10
+com.square_enix.android_googleplay.PTD,プロジェクト東京ドールズ,439,JP,2018-04-10
+jp.shizu.FemalePrivateBathroomEscape,脱出ゲーム女湯からの脱出,440,JP,2018-04-10
+com.square_enix.android_googleplay.FFFEXFjp,FINALFANTASYEXPLORERSFORCE,441,JP,2018-04-10
+com.dena.a12022874,天華百剣-斬-,442,JP,2018-04-10
+com.pandoragames.finddifference3,間違い探し500レベル,443,JP,2018-04-10
+com.NatsuToya.TohoJinro,東方人狼噺～ソロプレイ専用スペルカードで遊ぶ人狼ゲーム～,444,JP,2018-04-10
+com.onetongames.kingofthehill,グランドバトルロワイヤル,445,JP,2018-04-10
+com.king.candycrushjellysaga,キャンディークラッシュゼリー,446,JP,2018-04-10
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,447,JP,2018-04-10
+com.st.classiccard.solitaire,ソリティア-美人テーマ、面白いカードゲーム,448,JP,2018-04-10
+com.natenai.glowhockey,GlowHockey,449,JP,2018-04-10
+com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,450,JP,2018-04-10
+com.rovio.blast,アングリーバードブラスト,451,JP,2018-04-10
+jp.co.unbalance.android.tumesyominna,みんなの詰将棋-将棋の終盤力を鍛える無料の詰将棋,452,JP,2018-04-10
+com.tgg.kidscooking,キッチンで調理,453,JP,2018-04-10
+com.linkdesks.iBubble,パワーバブルシューター,454,JP,2018-04-10
+jp.co.capcom.android.explore,モンスターハンターエクスプロア,455,JP,2018-04-10
+com.pentagames.crimerevolt,CrimeRevolt-3DOnlineShooter,456,JP,2018-04-10
+com.n58works.DOOORS5,脱出ゲームDOOORS5,457,JP,2018-04-10
+jp.qualias.ConcentrationSushi,神経衰弱できるもん　おすしやさん,458,JP,2018-04-10
+com.lastprojects111.tsukiaerudotest,付き合える度診断―あなたの恋愛成功確率？？,459,JP,2018-04-10
+com.crack.screen.prank.bfun,壊れたスクリーンいたずらPrank,460,JP,2018-04-10
+com.ojsar.craft.exploration.prime.II,Exploration,461,JP,2018-04-10
+jp.co.arttec.satbox.tabletennisondesk,机で卓球,462,JP,2018-04-10
+jp.baibai.seeant,アリの巣コロニーほのぼの放置観察育成ゲーム,463,JP,2018-04-10
+com.freegamesstudio.copsvsrobbersjailbreak,強盗対警官：刑務所ブレイク,464,JP,2018-04-10
+com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス～シューティング・マフィアゲーム～,465,JP,2018-04-10
+com.bandainamcoent.sailormoondrops,美少女戦士セーラームーンセーラームーンドロップス,466,JP,2018-04-10
+com.yileweb.mgcsgja.android,頂上三国-本格RPGバトル,467,JP,2018-04-10
+jp.co.kitadenshi.jugisland,ジャグラーアイランド～無料で遊べるバーチャルホール～,468,JP,2018-04-10
+jp.co.goodia.SeesawJump,シーソーとび,469,JP,2018-04-10
+air.jp.globalgear.jan,対戦！じゃんけん将棋,470,JP,2018-04-10
+com.spacegame.solitaire.basic,ソリティア！,471,JP,2018-04-10
+com.tsurutomo.MilkFarm,脱出ゲームMilkFarm,472,JP,2018-04-10
+com.sincetimes.games.worldship.google.jp.normal,戦艦帝国-228艘の実在戦艦を集めろ,473,JP,2018-04-10
+com.elementary.aruaru,小学生あるあるみっけ！-思わず懐かしくて涙!?,474,JP,2018-04-10
+com.sinyee.babybus.earthquakeII,地震だ！避難所へ行こう-BabyBus子ども・幼児向け,475,JP,2018-04-10
+com.fgol.HungrySharkEvolutionjapan,ハングリーシャーク　エボリューション,476,JP,2018-04-10
+net.appliss.ojipockle2,おじぽっくる育成BOX,477,JP,2018-04-10
+com.dmm.games.touken,刀剣乱舞-ONLINE-Pocket,478,JP,2018-04-10
+com.ea.games.r3_na,RealRacing3,479,JP,2018-04-10
+com.escape.neat.no54resortroom,脱出ゲーム　リゾートルーム,480,JP,2018-04-10
+com.tygame.game17,落とし穴回避2-脱出ゲーム,481,JP,2018-04-10
+com.ryohei.haruki.EscapeRooms,脱出ゲーム:EscapeRooms,482,JP,2018-04-10
+jp.co.cave.LODjp,ロードオブダンジョン【LoD】,483,JP,2018-04-10
+jp.gungho.dmkandroid,ディズニーマジックキングダムズ,484,JP,2018-04-10
+com.natukaze.BeYoutuber,目指せYouTuber　-人気ユーチューバー無料育成ゲーム-,485,JP,2018-04-10
+jp.kingsoft.VirusVsVirus2,RB対戦-2人で遊べる暇つぶし無料ゲーム,486,JP,2018-04-10
+jp.heroz.android.shogiwars,将棋アプリ将棋ウォーズ将棋対戦ゲーム入門・初心者歓迎,487,JP,2018-04-10
+com.supersimpleapps.sudoku,数独,488,JP,2018-04-10
+jp.co.cave.mahouotome,ゴシックは魔法乙女【ごまおつ】,489,JP,2018-04-10
+org.cocos2dx.Training,頭を柔らかくする脳トレ-無料で謎解き暇つぶしIQアプリ,490,JP,2018-04-10
+jp.ebb.gam.ESCAPEA01,脱出ゲーム不思議なコテージからの脱出,491,JP,2018-04-10
+jp.colopl.bbnext,プロ野球バーサス,492,JP,2018-04-10
+com.sgn.pandapop.gp,パンダポップ,493,JP,2018-04-10
+com.mobcast.mobasakacm,モバサカCHAMPIONSMANAGER～決断するサッカーゲーム～,494,JP,2018-04-10
+com.escape.neat.no26ryokan,脱出ゲーム　温泉旅館,495,JP,2018-04-10
+jp.PureWater.WhackAMole,もぐらたたき-定番無料ゲーム,496,JP,2018-04-10
+com.PupInteractive.TwistyRoad,曲がりくねった道！,497,JP,2018-04-10
+com.strange.image,よく見るとおかしい画像,498,JP,2018-04-10
+com.dualcarbon.drivesimulator2016Lite,ドライブシミュレーター2016,499,JP,2018-04-10
+air.jp.funkyland.EscapeBeautySalon,脱出ゲームエステサロンからの脱出,500,JP,2018-04-10
+com.cheshirex.stickmanthefight,StickManGame,501,JP,2018-04-10
+com.gamebookstudios.fortnite.lastbattleground.battleroyale.royalesurvival,Fort:NightLastBattlegroundRoyaleSurvival,502,JP,2018-04-10
+com.mokosoft.crossword,クロスワード,503,JP,2018-04-10
+jp.app.sasuzako,おいザコ！さすがにクリアできるよな？,504,JP,2018-04-10
+com.hgamesart.ropeboy,AmazingStrangeRopePolice-ViceSpiderVegas,505,JP,2018-04-10
+air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,506,JP,2018-04-10
+com.aniplex.magireco,マギアレコード魔法少女まどかマギカ外伝,507,JP,2018-04-10
+com.strongwheel.adventures,Happystrongwheeladventures,508,JP,2018-04-10
+jp.co.drecom.dabimas,ダービースタリオンマスターズ,509,JP,2018-04-10
+com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,510,JP,2018-04-10
+com.sinyee.babybus.babyhospital,ベビーの病院-BabyBus　子ども・幼児向けごっこ遊び,511,JP,2018-04-10
+com.bandainamcoent.sgr,スーパーガンダムロワイヤル,512,JP,2018-04-10
+jp.co.happyelements.toto,メルクストーリア癒術士と鈴のしらべ（ライン・ストラテジー）,513,JP,2018-04-10
+hpca.src,新オヤジリウム:放置育成ゲーム[無料3Dゲーム],514,JP,2018-04-10
+jp.co.bandainamcoonline.idolish7,アイドリッシュセブン,515,JP,2018-04-10
+com.cybergate.eatgame,食べないと死ぬ,516,JP,2018-04-10
+com.nttdocomo.mb.game.playnext.tugume,未来家系図つぐme,517,JP,2018-04-10
+com.aim.racing,ExtremeCarDrivingSimulator,518,JP,2018-04-10
+com.asobimo.avabel_gp_b3,MMORPGアヴァベルオンライン-絆の塔-,519,JP,2018-04-10
 jp.co.beeworks.funghisden,なめこの巣,520,JP,2018-04-10
-jp.co.bandainamcoonline.idolish7,アイドリッシュセブン,521,JP,2018-04-10
-jp.marge.android.moneyfarm,マネーファーム,522,JP,2018-04-10
-com.scrapingthebarrel.dimensions,Gatecrasher,523,JP,2018-04-10
-com.bandainamcoent.opts,ONEPIECEサウザンドストーム,524,JP,2018-04-10
-com.akabane.houkai2,どうしてこうなった？作画崩壊２～作画崩壊あるある,525,JP,2018-04-10
-jp.co.happyelements.toto,メルクストーリア癒術士と鈴のしらべ（ライン・ストラテジー）,526,JP,2018-04-10
-jp.actkey.summer,脱出ゲームあの夏の日から脱出,527,JP,2018-04-10
-com.sinyee.babybus.policemen,パンダの警察ごっこ-BabyBus子供・幼児向け知育アプリ,528,JP,2018-04-10
-com.lt.latte.brick,ブロック崩しスター:スペースキング,529,JP,2018-04-10
-com.bandainamcoent.saoif,ソードアート・オンラインインテグラル・ファクター（SAOIF）,530,JP,2018-04-10
-com.bandainamcoent.gsokuo_jp,機動戦士ガンダム即応戦線,531,JP,2018-04-10
-com.crossfield.namsterlife,ハムスターライフ-無料育成ゲーム,532,JP,2018-04-10
-com.general5.finddiff,漢字間違い探し,533,JP,2018-04-10
-com.bandainamcoent.sgr,スーパーガンダムロワイヤル,534,JP,2018-04-10
-com.square_enix.android_googleplay.DQRivals,ドラゴンクエストライバルズ,535,JP,2018-04-10
-com.catmario.hd,しょぼんのアクション,536,JP,2018-04-10
-com.bandainamcoent.ninjaborutage_app,NARUTOXBORUTO忍者BORUTAGE,537,JP,2018-04-10
-jp.co.fujimarukun.twentythreeseven,23/7　トゥエンティスリーセブン,538,JP,2018-04-10
-com.ForceCraft.AK777,ForceCraft:SurvivalAndCreative,539,JP,2018-04-10
-com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),540,JP,2018-04-10
+com.gismart.guitar,リアル・ギター無料-ベースギターコード練習、音楽、音ゲー、リズム、ゲームと楽器アプリ,521,JP,2018-04-10
+com.digitalgene.mappuzzlejp,あそんでまなべる日本地図パズル,522,JP,2018-04-10
+com.bandainamcoent.opts,ONEPIECEサウザンドストーム,523,JP,2018-04-10
+com.general5.finddiff,漢字間違い探し,524,JP,2018-04-10
+kanui.number.color.by.number.pixel.art.sandbox.coloring.pokemon,ColorbyNumberPokemonPixelArt,525,JP,2018-04-10
+net.appliss.ojipockle,みつけて！おじぽっくる,526,JP,2018-04-10
+com.square_enix.android_googleplay.DQRivals,ドラゴンクエストライバルズ,527,JP,2018-04-10
+com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),528,JP,2018-04-10
+net.otouch.kaimono,お買い物ゲーム,529,JP,2018-04-10
+com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),530,JP,2018-04-10
+com.bandainamcoent.saoif,ソードアート・オンラインインテグラル・ファクター（SAOIF）,531,JP,2018-04-10
+com.catmario.hd,しょぼんのアクション,532,JP,2018-04-10
+com.ignm.bokuneko.jp,ぼくとネコ　~ヤバかわ！がちんこRPG~,533,JP,2018-04-10
+com.canvassoft.Crane,クレーンゲームDX-無料で人気の3Dキャッチャーゲーム,534,JP,2018-04-10
+jp.actkey.summer,脱出ゲームあの夏の日から脱出,535,JP,2018-04-10
+com.cybergate.bentopuzzle,もふもふ！お弁当パズル,536,JP,2018-04-10
+com.jetstartgames.chess,チェス,537,JP,2018-04-10
+net.theraincoat.graduate,脱出ゲーム卒業〜思い出を振り返るひととき〜,538,JP,2018-04-10
+com.bandainamcoent.gsokuo_jp,機動戦士ガンダム即応戦線,539,JP,2018-04-10
+jp.co.trips.challengekanken,漢字検定・漢検漢字チャレンジ2級準2級3級4-6級,540,JP,2018-04-10
