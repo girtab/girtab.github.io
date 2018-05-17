@@ -1,12 +1,12 @@
 app_id,app_name,rank,country_code,date
 com.supertapx.lovedots,LoveBalls,1,NZ,2018-05-17
 com.europosit.pixelcoloring,PixelArt-数字で塗り絵スケッチブック,2,NZ,2018-05-17
-com.word.puzzle.game.connect,WordLink,3,NZ,2018-05-17
-com.playgendary.flipgun,FliptheGun-SimulatorGame,4,NZ,2018-05-17
-com.crazylabs.sausage.run,走れ、ソーセージ、走れ！,5,NZ,2018-05-17
-com.tencent.ig,PUBGMOBILE,6,NZ,2018-05-17
-com.boomster.linegame,WeavetheLine,7,NZ,2018-05-17
-com.dvloper.granny,Granny,8,NZ,2018-05-17
+com.playgendary.flipgun,FliptheGun-SimulatorGame,3,NZ,2018-05-17
+com.word.puzzle.game.connect,WordLink,4,NZ,2018-05-17
+com.tencent.ig,PUBGMOBILE,5,NZ,2018-05-17
+com.boomster.linegame,WeavetheLine,6,NZ,2018-05-17
+com.dvloper.granny,Granny,7,NZ,2018-05-17
+com.crazylabs.sausage.run,走れ、ソーセージ、走れ！,8,NZ,2018-05-17
 com.h8games.helixjump,HelixJump,9,NZ,2018-05-17
 com.ketchapp.knifehit,KnifeHit,10,NZ,2018-05-17
 com.kiloo.subwaysurf,SubwaySurfers,11,NZ,2018-05-17
@@ -14,528 +14,528 @@ net.peakgames.toonblast,ToonBlast,12,NZ,2018-05-17
 com.roblox.client,ROBLOX,13,NZ,2018-05-17
 com.king.candycrushsaga,キャンディークラッシュ,14,NZ,2018-05-17
 com.ketchapp.mrgun,MrGun,15,NZ,2018-05-17
-com.pnixgames.minigolfking,MiniGolfKing-マルチプレイヤーゲーム,16,NZ,2018-05-17
-com.alien.shooter.galaxy.attack,GalaxyAttack:AlienShooter,17,NZ,2018-05-17
-com.peoplefun.wordcross,Wordscapes,18,NZ,2018-05-17
-com.productmadness.hovmobile,HeartofVegas:オンラインカジノスロットアプリ,19,NZ,2018-05-17
-com.colorswitch.switch2,ColorSwitch,20,NZ,2018-05-17
-com.miniclip.eightballpool,8BallPool,21,NZ,2018-05-17
-air.com.hypah.io.slither,slither.io,22,NZ,2018-05-17
-com.fillword.cross.wordmind.en,WordCrossy-Acrosswordgame,23,NZ,2018-05-17
-com.matteljv.uno,UNO!™,24,NZ,2018-05-17
-com.alegrium.cong2,"Cash,Inc.Fame&FortuneGame",25,NZ,2018-05-17
-com.TryMyGames.DonutsDrift,DonutsDrift,26,NZ,2018-05-17
-com.happyfamily.tilemaster,HappyFamily-MagicPianoMaster,27,NZ,2018-05-17
-com.LDRLY.budfarm420,BudFarm:420,28,NZ,2018-05-17
-com.kabam.marvelbattle,MARVELオールスターバトル,29,NZ,2018-05-17
-triwin.slots.jackpot.grand,グランドジャックポットスロット-ポップラスベガスカジノ無料ゲーム,30,NZ,2018-05-17
-com.productmadness.cashmancasino,CashmanCasinoSlot:無料カジノスロットゲーム,31,NZ,2018-05-17
-com.azurgames.BattleGroundRoyale,PIXEL'SUNKNOWNBATTLEGROUND,32,NZ,2018-05-17
-com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,33,NZ,2018-05-17
-com.pixelberrystudios.choices,Choices:StoriesYouPlay,34,NZ,2018-05-17
-com.jailbreak.craftcopandrobbers,JailbreakEscapeCraft,35,NZ,2018-05-17
+com.alien.shooter.galaxy.attack,GalaxyAttack:AlienShooter,16,NZ,2018-05-17
+com.pnixgames.minigolfking,MiniGolfKing-マルチプレイヤーゲーム,17,NZ,2018-05-17
+com.productmadness.hovmobile,HeartofVegas:オンラインカジノスロットアプリ,18,NZ,2018-05-17
+com.peoplefun.wordcross,Wordscapes,19,NZ,2018-05-17
+com.miniclip.eightballpool,8BallPool,20,NZ,2018-05-17
+com.fillword.cross.wordmind.en,WordCrossy-Acrosswordgame,21,NZ,2018-05-17
+com.kabam.marvelbattle,MARVELオールスターバトル,22,NZ,2018-05-17
+com.happyfamily.tilemaster,HappyFamily-MagicPianoMaster,23,NZ,2018-05-17
+triwin.slots.jackpot.grand,グランドジャックポットスロット-ポップラスベガスカジノ無料ゲーム,24,NZ,2018-05-17
+com.colorswitch.switch2,ColorSwitch,25,NZ,2018-05-17
+com.productmadness.cashmancasino,CashmanCasinoSlot:無料カジノスロットゲーム,26,NZ,2018-05-17
+com.pixelberrystudios.choices,Choices:StoriesYouPlay,27,NZ,2018-05-17
+air.com.hypah.io.slither,slither.io,28,NZ,2018-05-17
+com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,29,NZ,2018-05-17
+com.azurgames.BattleGroundRoyale,PIXEL'SUNKNOWNBATTLEGROUND,30,NZ,2018-05-17
+com.matteljv.uno,UNO!™,31,NZ,2018-05-17
+com.alegrium.cong2,"Cash,Inc.Fame&FortuneGame",32,NZ,2018-05-17
+com.TryMyGames.DonutsDrift,DonutsDrift,33,NZ,2018-05-17
+com.playrix.homescapes,ホームスケイプ(Homescapes),34,NZ,2018-05-17
+com.fanatee.cody,CodyCross:CrosswordPuzzles,35,NZ,2018-05-17
 com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,36,NZ,2018-05-17
-com.playrix.homescapes,ホームスケイプ(Homescapes),37,NZ,2018-05-17
+com.LDRLY.budfarm420,BudFarm:420,37,NZ,2018-05-17
 com.nintendo.zara,SuperMarioRun,38,NZ,2018-05-17
-com.fanatee.cody,CodyCross:CrosswordPuzzles,39,NZ,2018-05-17
-com.differencetenderwhite.skirt,ブロックパズルジュエル,40,NZ,2018-05-17
-com.MicroCraft2.Survival.Free,MicroCraft2:SurvivalFree,41,NZ,2018-05-17
-com.tapgame.vortex,TapGame-VortexBall,42,NZ,2018-05-17
-com.itchmedia.ta3,BaseballBoy!,43,NZ,2018-05-17
-com.higgs.plus2,SlotMachines-CasinoPlus,44,NZ,2018-05-17
-com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,45,NZ,2018-05-17
-com.nordcurrent.sniperarena,SniperArena:PvPArmyShooter,46,NZ,2018-05-17
-com.braveworld.blockzvsballz,BraveWorld-BlockzVSBallz,47,NZ,2018-05-17
-com.episodeinteractive.android.catalog,Episode-ChooseYourStory,48,NZ,2018-05-17
-com.wordgame.puzzle.board.en,WordCross,49,NZ,2018-05-17
+com.differencetenderwhite.skirt,ブロックパズルジュエル,39,NZ,2018-05-17
+com.itchmedia.ta3,BaseballBoy!,40,NZ,2018-05-17
+com.tapgame.vortex,TapGame-VortexBall,41,NZ,2018-05-17
+com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,42,NZ,2018-05-17
+com.higgs.plus2,SlotMachines-CasinoPlus,43,NZ,2018-05-17
+com.braveworld.blockzvsballz,BraveWorld-BlockzVSBallz,44,NZ,2018-05-17
+com.episodeinteractive.android.catalog,Episode-ChooseYourStory,45,NZ,2018-05-17
+com.jailbreak.craftcopandrobbers,JailbreakEscapeCraft,46,NZ,2018-05-17
+com.nordcurrent.sniperarena,SniperArena:PvPArmyShooter,47,NZ,2018-05-17
+com.wordgame.puzzle.board.en,WordCross,48,NZ,2018-05-17
+com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,49,NZ,2018-05-17
 com.moonactive.coinmaster,CoinMaster,50,NZ,2018-05-17
 com.rovio.baba,アングリーバード2(AngryBirds2),51,NZ,2018-05-17
-com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,52,NZ,2018-05-17
-com.foxnextgames.m3,MARVELストライクフォース,53,NZ,2018-05-17
-com.qaibo.dws,DisasterWillStrike,54,NZ,2018-05-17
-com.newsparkgame.cityofdreams,CityofDreamsSlots-FreeSlotCasinoGames,55,NZ,2018-05-17
-com.bigfishgames.fairwaysolitaireuniversalf2pgoogle,フェアウェイソリティア,56,NZ,2018-05-17
-com.imangi.templerun2,TempleRun2,57,NZ,2018-05-17
-com.dts.freefireth,フリーファイア,58,NZ,2018-05-17
-com.tap4fun.brutalage_test,BrutalAge:HordeInvasion,59,NZ,2018-05-17
-com.scopely.wheeloffortune,WheelofFortuneFreePlay:GameShowWordPuzzles,60,NZ,2018-05-17
-com.easybrain.sudoku.android,ナンプレ,61,NZ,2018-05-17
-com.halfbrick.fruitninjafree,FruitNinja®,62,NZ,2018-05-17
-com.PixelJoy.MountainBikeXtreme,MountainBikeXtreme,63,NZ,2018-05-17
-com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),64,NZ,2018-05-17
-com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),65,NZ,2018-05-17
-com.nianticlabs.pokemongo,PokémonGO,66,NZ,2018-05-17
-com.Pudding.Grandpa,Grandpa,67,NZ,2018-05-17
-com.igg.android.lordsmobile,ロードモバイル【本格リアルタイムストラテジーMMORPG】,68,NZ,2018-05-17
-com.ea.gp.simsmobile,TheSims™Mobile,69,NZ,2018-05-17
-com.cmplay.tiles2,ピアノタイル2™,70,NZ,2018-05-17
-com.yottagames.mafiawar,マフィア・シティ-極道風雲,71,NZ,2018-05-17
-com.productmadness.fafafagold,FaFaFa™GoldCasino:Freeslotmachines,72,NZ,2018-05-17
-com.addswhilessuffers.binds,木ブロックパズル,73,NZ,2018-05-17
-com.crowdstar.covetHome,DesignHome,74,NZ,2018-05-17
-com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,75,NZ,2018-05-17
-com.genetic.realcarparking2,RealCarParking2:DrivingSchool2018,76,NZ,2018-05-17
+com.qaibo.dws,DisasterWillStrike,52,NZ,2018-05-17
+com.newsparkgame.cityofdreams,CityofDreamsSlots-FreeSlotCasinoGames,53,NZ,2018-05-17
+com.bigfishgames.fairwaysolitaireuniversalf2pgoogle,フェアウェイソリティア,54,NZ,2018-05-17
+com.gmail.bulupe.Scale,Scale,55,NZ,2018-05-17
+com.dts.freefireth,フリーファイア,56,NZ,2018-05-17
+com.scopely.wheeloffortune,WheelofFortuneFreePlay:GameShowWordPuzzles,57,NZ,2018-05-17
+com.imangi.templerun2,TempleRun2,58,NZ,2018-05-17
+com.easybrain.sudoku.android,ナンプレ,59,NZ,2018-05-17
+com.halfbrick.fruitninjafree,FruitNinja®,60,NZ,2018-05-17
+com.tap4fun.brutalage_test,BrutalAge:HordeInvasion,61,NZ,2018-05-17
+com.foxnextgames.m3,MARVELストライクフォース,62,NZ,2018-05-17
+com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),63,NZ,2018-05-17
+com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),64,NZ,2018-05-17
+com.addswhilessuffers.binds,木ブロックパズル,65,NZ,2018-05-17
+com.ea.gp.simsmobile,TheSims™Mobile,66,NZ,2018-05-17
+com.cmplay.tiles2,ピアノタイル2™,67,NZ,2018-05-17
+com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,68,NZ,2018-05-17
+com.productmadness.fafafagold,FaFaFa™GoldCasino:Freeslotmachines,69,NZ,2018-05-17
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,70,NZ,2018-05-17
+com.crowdstar.covetHome,DesignHome,71,NZ,2018-05-17
+com.Pudding.Grandpa,Grandpa,72,NZ,2018-05-17
+com.yottagames.mafiawar,マフィア・シティ-極道風雲,73,NZ,2018-05-17
+com.uphill.slot.classic,SuperbCasino-HDFreeSlots,74,NZ,2018-05-17
+com.igg.android.lordsmobile,ロードモバイル【本格リアルタイムストラテジーMMORPG】,75,NZ,2018-05-17
+com.playstudios.popslots,POP!Slots－スロット無料カジノ,76,NZ,2018-05-17
 com.one1line.onetouch.onestroke.dotgame,1LINE–ワンタッチで点をつなぐ,77,NZ,2018-05-17
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,78,NZ,2018-05-17
-com.pixonic.wwr,WarRobots,79,NZ,2018-05-17
-com.uphill.slot.classic,SuperbCasino-HDFreeSlots,80,NZ,2018-05-17
-com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,81,NZ,2018-05-17
-com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),82,NZ,2018-05-17
-com.kongregate.mobile.adventurecapitalist.google,AdVentureCapitalist,83,NZ,2018-05-17
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),84,NZ,2018-05-17
-com.playway.cms2017,CarMechanicSimulator18,85,NZ,2018-05-17
-com.namcobandaigames.pacmantournaments,PAC-MAN,86,NZ,2018-05-17
-com.scrap.mechanic,SSS:SuperScrapSandbox,87,NZ,2018-05-17
-com.playstudios.popslots,POP!Slots－スロット無料カジノ,88,NZ,2018-05-17
-com.bigfishgames.cookingcrazegooglef2p,クッキングクレイズ-超絶ハイテンポ・レストランゲーム,89,NZ,2018-05-17
-com.ea.game.nfs14_row,ニード・フォー・スピードNLレーシング,90,NZ,2018-05-17
-com.jetstartgames.chess,チェス,91,NZ,2018-05-17
-fr.two4tea.fightlist,FightList-PetitBac,92,NZ,2018-05-17
-jp.konami.duellinks,遊戯王デュエルリンクス,93,NZ,2018-05-17
-io.voodoo.dune,Dune!,94,NZ,2018-05-17
-com.quarterborrowresult.customer,PuzzleGame,95,NZ,2018-05-17
-com.CobraMobileGaming.SurvivalForestCraft,サバイバルフォレスト：サバイバーホームビルダー,96,NZ,2018-05-17
-com.playtika.wsop.gp,WSOP無料ポーカー(WorldSeriesofPoker),97,NZ,2018-05-17
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),98,NZ,2018-05-17
-com.miniclip.bowmasters,Bowmasters,99,NZ,2018-05-17
-com.fgol.HungrySharkEvolution,HungrySharkEvolution,100,NZ,2018-05-17
-com.halfbrick.jetpackjoyride,JetpackJoyride,101,NZ,2018-05-17
-com.billiards.city.pool.nation.club,ビリヤードシティ,102,NZ,2018-05-17
-com.pacificinteractive.HouseOfFun,フリー・スロットカジノ-HouseofFunゲーム,103,NZ,2018-05-17
-com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),104,NZ,2018-05-17
-com.gameinsight.gobandroid,GunsofBoom,105,NZ,2018-05-17
-com.bitmango.go.wordcookies,WordCookies™,106,NZ,2018-05-17
-me.pou.app,プーチッチPou,107,NZ,2018-05-17
-com.minifreegames.bounzyball,BounzyBall,108,NZ,2018-05-17
-com.diamondlife.slots.vegas.free,FreeSlots:HotVegasSlotMachines,109,NZ,2018-05-17
-com.yodo1.crossyroad,クロッシーロード,110,NZ,2018-05-17
-com.ketchapp.rider,Rider,111,NZ,2018-05-17
-bubble.shoot.bubbles.game.saga.world,バブルシューター,112,NZ,2018-05-17
-de.lotum.whatsinthefoto.us,4Pics1Word,113,NZ,2018-05-17
-com.hutchgames.hilldash2,MMXHillDash2–オフロードトラック、車、バイクレーシング,114,NZ,2018-05-17
-com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),115,NZ,2018-05-17
-com.ketchapp.dunkshot,DunkShot,116,NZ,2018-05-17
-com.netease.chiji,RulesofSurvival,117,NZ,2018-05-17
-com.playrix.township,タウンシップ(Township),118,NZ,2018-05-17
-com.nexonm.dominations.adk,DomiNations,119,NZ,2018-05-17
-com.imangi.templerun,TempleRun,120,NZ,2018-05-17
-com.gd.fortnight.battle,砦夜戦い接地生存アリーナRoyale,121,NZ,2018-05-17
-air.com.freshplanet.games.SongPop2,SongPop2-音楽トリビア,122,NZ,2018-05-17
-com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,123,NZ,2018-05-17
-com.playdemic.golf.android,ゴルフクラッシュ,124,NZ,2018-05-17
-air.com.playtika.slotomania,Slotomania-FreeSlots英語版,125,NZ,2018-05-17
-com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,126,NZ,2018-05-17
-com.instcoffee.instlife,InstLife,127,NZ,2018-05-17
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,128,NZ,2018-05-17
-com.huuuge.casino.slots,Huuugeカジノ™オンラインスロット、世界で1000万人が遊ぶラスベガスSlotsとカジノゲーム,129,NZ,2018-05-17
-com.cmplay.bricksnballs,ブリックツムツム,130,NZ,2018-05-17
-com.metamoki.weed,WeedInc,131,NZ,2018-05-17
-com.puzzlestudio.physicalline,PuzzleStudio-PhysicalLine,132,NZ,2018-05-17
-com.mediocre.smashhit,SmashHit,133,NZ,2018-05-17
-com.fortecraft.pixel.builder,ForteCraft:PixelBuilder,134,NZ,2018-05-17
-net.peakgames.amy,ToyBlast,135,NZ,2018-05-17
+com.namcobandaigames.pacmantournaments,PAC-MAN,78,NZ,2018-05-17
+com.PixelJoy.MountainBikeXtreme,MountainBikeXtreme,79,NZ,2018-05-17
+com.kongregate.mobile.adventurecapitalist.google,AdVentureCapitalist,80,NZ,2018-05-17
+com.pixonic.wwr,WarRobots,81,NZ,2018-05-17
+com.nianticlabs.pokemongo,PokémonGO,82,NZ,2018-05-17
+com.playtika.wsop.gp,WSOP無料ポーカー(WorldSeriesofPoker),83,NZ,2018-05-17
+com.playway.cms2017,CarMechanicSimulator18,84,NZ,2018-05-17
+jp.konami.duellinks,遊戯王デュエルリンクス,85,NZ,2018-05-17
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),86,NZ,2018-05-17
+com.billiards.city.pool.nation.club,ビリヤードシティ,87,NZ,2018-05-17
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),88,NZ,2018-05-17
+com.genetic.realcarparking2,RealCarParking2:DrivingSchool2018,89,NZ,2018-05-17
+com.quarterborrowresult.customer,PuzzleGame,90,NZ,2018-05-17
+com.bigfishgames.cookingcrazegooglef2p,クッキングクレイズ-超絶ハイテンポ・レストランゲーム,91,NZ,2018-05-17
+io.voodoo.dune,Dune!,92,NZ,2018-05-17
+com.halfbrick.jetpackjoyride,JetpackJoyride,93,NZ,2018-05-17
+fr.two4tea.fightlist,FightList-PetitBac,94,NZ,2018-05-17
+com.fgol.HungrySharkEvolution,HungrySharkEvolution,95,NZ,2018-05-17
+com.miniclip.bowmasters,Bowmasters,96,NZ,2018-05-17
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,97,NZ,2018-05-17
+com.bitmango.go.wordcookies,WordCookies™,98,NZ,2018-05-17
+me.pou.app,プーチッチPou,99,NZ,2018-05-17
+com.CobraMobileGaming.SurvivalForestCraft,サバイバルフォレスト：サバイバーホームビルダー,100,NZ,2018-05-17
+de.lotum.whatsinthefoto.us,4Pics1Word,101,NZ,2018-05-17
+com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),102,NZ,2018-05-17
+bubble.shoot.bubbles.game.saga.world,バブルシューター,103,NZ,2018-05-17
+com.yodo1.crossyroad,クロッシーロード,104,NZ,2018-05-17
+com.minifreegames.bounzyball,BounzyBall,105,NZ,2018-05-17
+com.ketchapp.dunkshot,DunkShot,106,NZ,2018-05-17
+com.gd.fortnight.battle,砦夜戦い接地生存アリーナRoyale,107,NZ,2018-05-17
+com.ea.game.nfs14_row,ニード・フォー・スピードNLレーシング,108,NZ,2018-05-17
+com.jetstartgames.chess,チェス,109,NZ,2018-05-17
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,110,NZ,2018-05-17
+air.com.playtika.slotomania,Slotomania-FreeSlots英語版,111,NZ,2018-05-17
+com.playrix.township,タウンシップ(Township),112,NZ,2018-05-17
+com.playgendary.partymasters,Partymasters-FunIdleGame,113,NZ,2018-05-17
+air.com.freshplanet.games.SongPop2,SongPop2-音楽トリビア,114,NZ,2018-05-17
+com.netease.chiji,RulesofSurvival,115,NZ,2018-05-17
+com.imangi.templerun,TempleRun,116,NZ,2018-05-17
+com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,117,NZ,2018-05-17
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),118,NZ,2018-05-17
+com.hutchgames.hilldash2,MMXHillDash2–オフロードトラック、車、バイクレーシング,119,NZ,2018-05-17
+com.nexonm.dominations.adk,DomiNations,120,NZ,2018-05-17
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,121,NZ,2018-05-17
+com.pacificinteractive.HouseOfFun,フリー・スロットカジノ-HouseofFunゲーム,122,NZ,2018-05-17
+com.gameinsight.gobandroid,GunsofBoom,123,NZ,2018-05-17
+net.peakgames.amy,ToyBlast,124,NZ,2018-05-17
+com.huuuge.casino.slots,Huuugeカジノ™オンラインスロット、世界で1000万人が遊ぶラスベガスSlotsとカジノゲーム,125,NZ,2018-05-17
+com.instcoffee.instlife,InstLife,126,NZ,2018-05-17
+com.motionvolt.flipbounce,FlipMaster,127,NZ,2018-05-17
+com.fingersoft.hcr2,HillClimbRacing2,128,NZ,2018-05-17
+com.diamondlife.slots.vegas.free,FreeSlots:HotVegasSlotMachines,129,NZ,2018-05-17
+com.playdemic.golf.android,ゴルフクラッシュ,130,NZ,2018-05-17
+com.hasbro.beybladesenterprise,BEYBLADEBURSTapp,131,NZ,2018-05-17
+com.mediocre.smashhit,SmashHit,132,NZ,2018-05-17
+com.ketchapp.rider,Rider,133,NZ,2018-05-17
+com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),134,NZ,2018-05-17
+com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,135,NZ,2018-05-17
 com.byv.chopit,ChopIt,136,NZ,2018-05-17
-com.hasbro.beybladesenterprise,BEYBLADEBURSTapp,137,NZ,2018-05-17
-com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,138,NZ,2018-05-17
-com.baklabs.taxi.two,タクシー2,139,NZ,2018-05-17
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,140,NZ,2018-05-17
-com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),141,NZ,2018-05-17
-com.andreisokal.ballscontrol,BallsControl,142,NZ,2018-05-17
-com.motionvolt.flipbounce,FlipMaster,143,NZ,2018-05-17
-com.tiramisu.driftmax2,DriftMaxPro-ドリフトゲーム,144,NZ,2018-05-17
-com.fingersoft.hcr2,HillClimbRacing2,145,NZ,2018-05-17
-com.peoplefun.wordflowers,WordscapesInBloom,146,NZ,2018-05-17
-com.funnyjoy.brainline,FunnyJoy-BrainOnLine,147,NZ,2018-05-17
-com.androbaby.game2048,2048,148,NZ,2018-05-17
-br.com.tapps.bidwars,BidWars–オークション＆質屋ゲーム,149,NZ,2018-05-17
-com.playgendary.partymasters,Partymasters-FunIdleGame,150,NZ,2018-05-17
-com.spacegame.basic3,ソリティア,151,NZ,2018-05-17
-com.gmail.bulupe.Scale,Scale,152,NZ,2018-05-17
-com.mobilityware.solitaire,ソリティア,153,NZ,2018-05-17
-com.playtika.caesarscasino,CaesarsSlots:FreeSlotMachinesandCasinoGames,154,NZ,2018-05-17
-eu.bandainamcoent.tekkenmobile,鉄拳™‐TEKKEN‐,155,NZ,2018-05-17
-com.knowledgequizgames.justriddles,Riddles-Just500Riddles,156,NZ,2018-05-17
-com.gabblestudios.boredbutton,BoredButton,157,NZ,2018-05-17
-com.powertower.cbbing.en,空のスクロールボール：カジュアルなローリングゲーム,158,NZ,2018-05-17
-com.pjmasks.moonlightheroes,PJMasks:MoonlightHeroes,159,NZ,2018-05-17
-com.herogame.gplay.hopelessland,HopelessLand:FightforSurvival,160,NZ,2018-05-17
-com.zeptolab.ctr.ads,CuttheRopeFULLFREE,161,NZ,2018-05-17
-com.trans.block.craft,BlockCraft3D:BuildingSimulator,162,NZ,2018-05-17
-com.aim.racing,ExtremeCarDrivingSimulator,163,NZ,2018-05-17
-com.ketchapp.stack,Stack,164,NZ,2018-05-17
-com.number.draw.ly.color.by.number.pixel.art.sandbox.coloring,Draw.ly-ColorbyNumberPixelArtColoring,165,NZ,2018-05-17
-com.bigduckgames.flow,FlowFree,166,NZ,2018-05-17
-com.tapgame.knifeup,TapGame-KnifeUp,167,NZ,2018-05-17
-com.pianochallenges.marshmelloannemarrie,Marshmello&AnnaMarie-FriendPianoTiles,168,NZ,2018-05-17
-com.crazy.bouncespace,HelixBounceSpace,169,NZ,2018-05-17
-com.motionvolt.flipdiving,FlipDiving,170,NZ,2018-05-17
-com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,171,NZ,2018-05-17
-com.Seriously.BestFiends,BestFiends-無料のパズルゲーム,172,NZ,2018-05-17
-com.gramgames.mergedragons,MergeDragons!,173,NZ,2018-05-17
-com.dodreams.driveahead,DriveAhead!,174,NZ,2018-05-17
-com.n3twork.donuts,ForeverDonuts,175,NZ,2018-05-17
-com.vng.g6.a.zombie,DEADTARGET:Zombie,176,NZ,2018-05-17
-com.cg.cowboy,ウエストガンファイター,177,NZ,2018-05-17
+com.number.draw.ly.color.by.number.pixel.art.sandbox.coloring,Draw.ly-ColorbyNumberPixelArtColoring,137,NZ,2018-05-17
+com.spacegame.basic3,ソリティア,138,NZ,2018-05-17
+com.androbaby.game2048,2048,139,NZ,2018-05-17
+com.tiramisu.driftmax2,DriftMaxPro-ドリフトゲーム,140,NZ,2018-05-17
+com.cmplay.bricksnballs,ブリックツムツム,141,NZ,2018-05-17
+com.herogame.gplay.hopelessland,HopelessLand:FightforSurvival,142,NZ,2018-05-17
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,143,NZ,2018-05-17
+com.playtika.caesarscasino,CaesarsSlots:FreeSlotMachinesandCasinoGames,144,NZ,2018-05-17
+eu.bandainamcoent.tekkenmobile,鉄拳™‐TEKKEN‐,145,NZ,2018-05-17
+com.bigduckgames.flow,FlowFree,146,NZ,2018-05-17
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),147,NZ,2018-05-17
+com.peoplefun.wordflowers,WordscapesInBloom,148,NZ,2018-05-17
+com.powertower.cbbing.en,空のスクロールボール：カジュアルなローリングゲーム,149,NZ,2018-05-17
+com.aim.racing,ExtremeCarDrivingSimulator,150,NZ,2018-05-17
+br.com.tapps.bidwars,BidWars–オークション＆質屋ゲーム,151,NZ,2018-05-17
+com.puzzlestudio.physicalline,PuzzleStudio-PhysicalLine,152,NZ,2018-05-17
+com.baklabs.taxi.two,タクシー2,153,NZ,2018-05-17
+com.zeptolab.ctr.ads,CuttheRopeFULLFREE,154,NZ,2018-05-17
+com.trans.block.craft,BlockCraft3D:BuildingSimulator,155,NZ,2018-05-17
+com.tapgame.knifeup,TapGame-KnifeUp,156,NZ,2018-05-17
+com.motionvolt.flipdiving,FlipDiving,157,NZ,2018-05-17
+com.andreisokal.ballscontrol,BallsControl,158,NZ,2018-05-17
+com.knowledgequizgames.justriddles,Riddles-Just500Riddles,159,NZ,2018-05-17
+com.funnyjoy.brainline,FunnyJoy-BrainOnLine,160,NZ,2018-05-17
+com.bitmango.go.mahjongsolitaireclassic,MahjongSolitaire:Classic,161,NZ,2018-05-17
+com.pjmasks.moonlightheroes,PJMasks:MoonlightHeroes,162,NZ,2018-05-17
+com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,163,NZ,2018-05-17
+com.metamoki.weed,WeedInc,164,NZ,2018-05-17
+com.fortecraft.pixel.builder,ForteCraft:PixelBuilder,165,NZ,2018-05-17
+com.nekki.shadowfight3,シャドウファイト3,166,NZ,2018-05-17
+com.linkdesks.iBubble,パワーバブルシューター,167,NZ,2018-05-17
+zombie.survival.craft.z,LastDayonEarth:Survival,168,NZ,2018-05-17
+com.onetongames.deadlight,DeadLight,169,NZ,2018-05-17
+com.popreach.dumbways,DumbWaystoDieOriginal,170,NZ,2018-05-17
+com.dodreams.driveahead,DriveAhead!,171,NZ,2018-05-17
+com.n3twork.donuts,ForeverDonuts,172,NZ,2018-05-17
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,173,NZ,2018-05-17
+com.cg.cowboy,ウエストガンファイター,174,NZ,2018-05-17
+com.pianochallenges.marshmelloannemarrie,Marshmello&AnnaMarie-FriendPianoTiles,175,NZ,2018-05-17
+com.cmplay.dancingline,ダンシングライン（DancingLine）,176,NZ,2018-05-17
+com.zuuks.truck.simulator.euro,TruckSimulator2018:Europe,177,NZ,2018-05-17
 com.netmarble.mherosgb,マーベル・フューチャーファイト,178,NZ,2018-05-17
-com.zuuks.truck.simulator.euro,TruckSimulator2018:Europe,179,NZ,2018-05-17
-slots.hotchilli.jackpot.casino.games.free,JackpotSlots-VegasCasinoGames&FreeSlots,180,NZ,2018-05-17
-com.nekki.shadowfight3,シャドウファイト3,181,NZ,2018-05-17
-com.bitmango.go.mahjongsolitaireclassic,MahjongSolitaire:Classic,182,NZ,2018-05-17
-lemmingsatwork.quiz,クイズロゴゲーム,183,NZ,2018-05-17
-com.PupInteractive.TwistyRoad,曲がりくねった道！,184,NZ,2018-05-17
-com.robtopx.geometrydashsubzero,GeometryDashSubZero,185,NZ,2018-05-17
-com.vg.shipsofbattleageofpirates,海賊の戦闘時代の船,186,NZ,2018-05-17
-com.onetongames.deadlight,DeadLight,187,NZ,2018-05-17
-com.popreach.dumbways,DumbWaystoDieOriginal,188,NZ,2018-05-17
-com.skgames.trafficrider,TrafficRider,189,NZ,2018-05-17
-com.cmplay.dancingline,ダンシングライン（DancingLine）,190,NZ,2018-05-17
-zombie.survival.craft.z,LastDayonEarth:Survival,191,NZ,2018-05-17
-com.otherguys.zoe,ZOE:InteractiveStory,192,NZ,2018-05-17
-com.lego.ninjago.rideninja,LEGO®NINJAGO®:RideNinja,193,NZ,2018-05-17
-com.bingo.tour.party.crazy.free,ビンゴ　パーティー,194,NZ,2018-05-17
-com.sega.sonicdash,SonicDash,195,NZ,2018-05-17
-com.gamehouse.delicious16,デリシャスエミリーママvsパパ,196,NZ,2018-05-17
-com.linkdesks.iBubble,パワーバブルシューター,197,NZ,2018-05-17
-com.umi.aufeud,FamilyFeud®,198,NZ,2018-05-17
-com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,199,NZ,2018-05-17
-com.leodesol.games.classic.maze.labyrinth,Mazes&More,200,NZ,2018-05-17
-com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,201,NZ,2018-05-17
-com.jellybtn.boardkings,BoardKings,202,NZ,2018-05-17
-com.braveworld.rollingball,BraveWorld-SkyRollingBall,203,NZ,2018-05-17
-com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,204,NZ,2018-05-17
-com.abradoodle.bingo,BingoAbradoodle-無料のビンゴゲーム,205,NZ,2018-05-17
-com.rovio.angrybirds,AngryBirdsClassic,206,NZ,2018-05-17
-com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),207,NZ,2018-05-17
-com.cw13.en13legends,SaiyanLegends,208,NZ,2018-05-17
-slots.unlimited.casino.games.free,SlotsUnlimited-FreeSlotMachinesCasino,209,NZ,2018-05-17
-com.luckios.vegasluckyslots,Slots:FreeSlotMachines,210,NZ,2018-05-17
-com.naturalmotion.customstreetracer2,CSRRacing2,211,NZ,2018-05-17
-com.umonistudio.tile,ブラックタイルをたたけ！,212,NZ,2018-05-17
-com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,213,NZ,2018-05-17
-com.kooapps.pictowordandroid,Pictoword：楽しいワードゲーム。オフラインでの脳トレゲーム。,214,NZ,2018-05-17
-com.Zeeppo.GuitarBand,GuitarBandBattle,215,NZ,2018-05-17
-com.gameloft.android.ANMP.GloftSIHM,MARVELスパイダーマン・アンリミテッド,216,NZ,2018-05-17
-com.turborilla.bmx2,MadSkillsBMX2,217,NZ,2018-05-17
-com.infinitygames.connection,◉コネクション,218,NZ,2018-05-17
-se.illusionlabs.bmx,TouchgrindBMX,219,NZ,2018-05-17
-com.droidhang.ad,IdleHeroes-無料放置育成RPG,220,NZ,2018-05-17
-com.bentostudio.ballsvsblocks,SnakeVSBlock,221,NZ,2018-05-17
-com.ea.games.r3_row,RealRacing3,222,NZ,2018-05-17
-com.ea.game.pvz2_row,Plantsvs.Zombies2,223,NZ,2018-05-17
-toodoo.knife.battle,ナイフの戦い-目標を打つ,224,NZ,2018-05-17
-com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-TheOfficialGame,225,NZ,2018-05-17
-com.CarXTech.CarXDriftRacingFull,CarXDriftRacing,226,NZ,2018-05-17
-com.puzzlestudio.wordchef,PuzzleStudio-WordChef,227,NZ,2018-05-17
-ca.lbcstudios.hempire,Hempire-PlantGrowingGame,228,NZ,2018-05-17
-com.generagames.resistance,CoverFire:無料射撃ゲーム,229,NZ,2018-05-17
-com.raftsurvival.raft,RaftSurvival：筏での生存,230,NZ,2018-05-17
-com.linekong.dbm.na.google,DaybreakLegends:Origin,231,NZ,2018-05-17
-com.jdigamestudio.stickmancrashing,StickmanTurboDismounting,232,NZ,2018-05-17
-com.hitrock.hideonline,HideOnline,233,NZ,2018-05-17
-com.GabrielLimberger.StickmanParkourPlatform,StickmanParkourPlatform,234,NZ,2018-05-17
-se.foglo.svt,SnipersvsThieves:FPSClash,235,NZ,2018-05-17
-ru.prodigydev.blockyparkour3d,BlockyParkour3D,236,NZ,2018-05-17
-air.com.playtika.cvs,VegasWords-DowntownSlots,237,NZ,2018-05-17
-com.gramgames.mergetown,MergeTown!,238,NZ,2018-05-17
-com.ice.bc.ballrace,RushingBalls,239,NZ,2018-05-17
-com.crack.screen.prank.bfun,壊れたスクリーンいたずらPrank,240,NZ,2018-05-17
-com.millionairequiz.alllanguagesquizgame,Millionaire2018NewQuizGame,241,NZ,2018-05-17
-com.dimcoms.checkers,チェッカーズ,242,NZ,2018-05-17
-invaders.os.galaxy.space.shooter.attack.classic,スクアドロン-弾幕シューティング-スター・ウォーズ,243,NZ,2018-05-17
-com.hotheadgames.google.free.survivors,ヒーロー・ハンター,244,NZ,2018-05-17
-air.com.mobigrow.canyouescape,CanYouEscape,245,NZ,2018-05-17
-com.ea.gp.nbamobile,NBALIVEMobileBasketball,246,NZ,2018-05-17
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,247,NZ,2018-05-17
-com.hypnocatstudio.perfecttower,PerfectTower,248,NZ,2018-05-17
-com.ea.games.simsfreeplay_row,TheSimsFreePlay,249,NZ,2018-05-17
-com.tensquaregames.letsfish2,FishingClash:3Dゲーム.リアル釣りシミュレータ.,250,NZ,2018-05-17
-com.rvappstudios.abc_kids_toddler_tracing_phonics,ABCKids-Tracing&Phonics,251,NZ,2018-05-17
-com.miniclip.agar.io,Agar.io,252,NZ,2018-05-17
-com.zynga.livepoker,Zyngaポーカー,253,NZ,2018-05-17
-com.bluewizard.f13puzzle,Fridaythe13th:キラーPuzzle,254,NZ,2018-05-17
-com.bdj.vortexDroid,RollyVortex,255,NZ,2018-05-17
-com.wb.headsup,HeadsUp!,256,NZ,2018-05-17
-net.peakgames.ginrummyplus,GinRummyPlus,257,NZ,2018-05-17
-com.doubletapsoftware.basketballbattle,BasketballBattle,258,NZ,2018-05-17
-io.voodoo.flyingarrow,FlyingArrow!,259,NZ,2018-05-17
-com.Nobodyshot.kuboom,KUBOOM,260,NZ,2018-05-17
-com.cardgame.solitaire,ソリティア,261,NZ,2018-05-17
-com.nekki.shadowfight,シャドウファイト2,262,NZ,2018-05-17
-com.topfreegames.bikeracefreeworld,バイクレース無料レースゲーム(BikeRace),263,NZ,2018-05-17
-sgs.urb.pixel.survival.online,URB:LastPixelsBattle,264,NZ,2018-05-17
-com.milestone.monsterenergysupercross,MonsterEnergySupercrossGame,265,NZ,2018-05-17
-com.natenai.glowhockey,GlowHockey,266,NZ,2018-05-17
-com.wb.goog.got.conquest,ゲーム・オブ・スローンズ：コンクエスト,267,NZ,2018-05-17
-thinkcube.project307,NonstopBalls,268,NZ,2018-05-17
-com.ubisoft.hungrysharkworld,HungrySharkWorld,269,NZ,2018-05-17
-com.lego.starwars.microfighters,LEGO®StarWars™Microfighters,270,NZ,2018-05-17
-com.WildLabs.KingOfScooter,KingOfScooter,271,NZ,2018-05-17
-com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,272,NZ,2018-05-17
-com.zynga.words3,WordsWithFriends2-WordGame,273,NZ,2018-05-17
-com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),274,NZ,2018-05-17
-com.sora.metal.squad,MetalSquad:ShootingGame,275,NZ,2018-05-17
-com.lima.doodlejump,DoodleJump,276,NZ,2018-05-17
-com.miniclip.basketballstars,BasketballStars,277,NZ,2018-05-17
-com.treemengames.pako2,PAKO2,278,NZ,2018-05-17
-com.ea.gp.fifamobile,FIFAサッカー,279,NZ,2018-05-17
-com.huuuge.jomhd,カジノAdventures-無料スロット,280,NZ,2018-05-17
-com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,281,NZ,2018-05-17
-mahjong.games.mahjong.classic.free,麻将,282,NZ,2018-05-17
-com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,283,NZ,2018-05-17
-com.coffeestainstudios.goatsimulator.free,GoatSimulatorFree,284,NZ,2018-05-17
-com.puzzlegame.puzzledom,Puzzledomパズルダムシンプルで頭が良くなるパズル,285,NZ,2018-05-17
-com.orbital.donttouchit,シャターブレイン-物理パズル,286,NZ,2018-05-17
-com.hutchgames.hotwheels,HotWheels:RaceOff,287,NZ,2018-05-17
-com.deerslab.dinoTREX,DinoT-Rex,288,NZ,2018-05-17
-com.ketchapp.rush,Rush,289,NZ,2018-05-17
-com.williamsinteractive.jackpotparty,JackpotPartySlots:カジノスロットゲーム,290,NZ,2018-05-17
-com.alexanderwinn.TerraGenesis,TerraGenesis-スペースコロニー,291,NZ,2018-05-17
-com.bethsoft.falloutshelter,FalloutShelter,292,NZ,2018-05-17
-com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,293,NZ,2018-05-17
-com.ray3d.shootsniper,ShootHunter-GunKiller,294,NZ,2018-05-17
-com.zynga.words,WordsWithFriendsClassic,295,NZ,2018-05-17
-com.king.candycrushjellysaga,キャンディークラッシュゼリー,296,NZ,2018-05-17
-com.Supremacy.MongrelMobDefence,MongrelMobDefence,297,NZ,2018-05-17
-com.baklabs.taxi.simulator,タクシー,298,NZ,2018-05-17
-com.mobilityware.spider,SpiderSolitaire,299,NZ,2018-05-17
-com.CraftingExplore.Big,BigCraftExplore:NewGenerationGame,300,NZ,2018-05-17
-com.ea.game.tetris2011_row,TETRIS,301,NZ,2018-05-17
-com.infinite.shooting.galaxy.attack,InfiniteShooting:GalaxyAttack,302,NZ,2018-05-17
-com.zynga.wizardofoz,『WizardofOz』無料スロット・ベガス・カジノ,303,NZ,2018-05-17
-com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),304,NZ,2018-05-17
-com.king.bubblewitch3,バブルウィッチ3,305,NZ,2018-05-17
-com.sir.racing.ultimatemotorcyclesimulator,UltimateMotorcycleSimulator,306,NZ,2018-05-17
-com.spilgames.OperateNow2,OperateNow:Hospital,307,NZ,2018-05-17
-com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,308,NZ,2018-05-17
-com.ketchapp.spacefrontier,SpaceFrontier,309,NZ,2018-05-17
-com.GMS.icemommy,IceMommyNewborn-BabyGrown,310,NZ,2018-05-17
+com.gramgames.mergedragons,MergeDragons!,179,NZ,2018-05-17
+com.crazy.bouncespace,HelixBounceSpace,180,NZ,2018-05-17
+com.sega.sonicdash,SonicDash,181,NZ,2018-05-17
+com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,182,NZ,2018-05-17
+com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,183,NZ,2018-05-17
+com.gabblestudios.boredbutton,BoredButton,184,NZ,2018-05-17
+com.gameloft.android.ANMP.GloftSIHM,MARVELスパイダーマン・アンリミテッド,185,NZ,2018-05-17
+com.mobilityware.solitaire,ソリティア,186,NZ,2018-05-17
+slots.unlimited.casino.games.free,SlotsUnlimited-FreeSlotMachinesCasino,187,NZ,2018-05-17
+slots.hotchilli.jackpot.casino.games.free,JackpotSlots-VegasCasinoGames&FreeSlots,188,NZ,2018-05-17
+com.gamehouse.delicious16,デリシャスエミリーママvsパパ,189,NZ,2018-05-17
+com.umi.aufeud,FamilyFeud®,190,NZ,2018-05-17
+com.otherguys.zoe,ZOE:InteractiveStory,191,NZ,2018-05-17
+com.abradoodle.bingo,BingoAbradoodle-無料のビンゴゲーム,192,NZ,2018-05-17
+com.kooapps.pictowordandroid,Pictoword：楽しいワードゲーム。オフラインでの脳トレゲーム。,193,NZ,2018-05-17
+com.skgames.trafficrider,TrafficRider,194,NZ,2018-05-17
+com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,195,NZ,2018-05-17
+com.infinitygames.connection,◉コネクション,196,NZ,2018-05-17
+com.leodesol.games.classic.maze.labyrinth,Mazes&More,197,NZ,2018-05-17
+com.CarXTech.CarXDriftRacingFull,CarXDriftRacing,198,NZ,2018-05-17
+com.Zeeppo.GuitarBand,GuitarBandBattle,199,NZ,2018-05-17
+com.ketchapp.stack,Stack,200,NZ,2018-05-17
+com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),201,NZ,2018-05-17
+com.Seriously.BestFiends,BestFiends-無料のパズルゲーム,202,NZ,2018-05-17
+com.ea.games.r3_row,RealRacing3,203,NZ,2018-05-17
+com.umonistudio.tile,ブラックタイルをたたけ！,204,NZ,2018-05-17
+com.droidhang.ad,IdleHeroes-無料放置育成RPG,205,NZ,2018-05-17
+com.luckios.vegasluckyslots,Slots:FreeSlotMachines,206,NZ,2018-05-17
+com.jdigamestudio.stickmancrashing,StickmanTurboDismounting,207,NZ,2018-05-17
+com.hitrock.hideonline,HideOnline,208,NZ,2018-05-17
+com.braveworld.rollingball,BraveWorld-SkyRollingBall,209,NZ,2018-05-17
+com.bentostudio.ballsvsblocks,SnakeVSBlock,210,NZ,2018-05-17
+se.illusionlabs.bmx,TouchgrindBMX,211,NZ,2018-05-17
+com.PupInteractive.TwistyRoad,曲がりくねった道！,212,NZ,2018-05-17
+lemmingsatwork.quiz,クイズロゴゲーム,213,NZ,2018-05-17
+com.ea.gp.nbamobile,NBALIVEMobileBasketball,214,NZ,2018-05-17
+com.vng.g6.a.zombie,DEADTARGET:Zombie,215,NZ,2018-05-17
+com.ice.bc.ballrace,RushingBalls,216,NZ,2018-05-17
+com.millionairequiz.alllanguagesquizgame,Millionaire2018NewQuizGame,217,NZ,2018-05-17
+com.puzzlestudio.wordchef,PuzzleStudio-WordChef,218,NZ,2018-05-17
+air.com.playtika.cvs,VegasWords-DowntownSlots,219,NZ,2018-05-17
+com.tensquaregames.letsfish2,FishingClash:3Dゲーム.リアル釣りシミュレータ.,220,NZ,2018-05-17
+com.bingo.tour.party.crazy.free,ビンゴ　パーティー,221,NZ,2018-05-17
+com.turborilla.bmx2,MadSkillsBMX2,222,NZ,2018-05-17
+com.jellybtn.boardkings,BoardKings,223,NZ,2018-05-17
+com.GabrielLimberger.StickmanParkourPlatform,StickmanParkourPlatform,224,NZ,2018-05-17
+com.robtopx.geometrydashsubzero,GeometryDashSubZero,225,NZ,2018-05-17
+com.rvappstudios.abc_kids_toddler_tracing_phonics,ABCKids-Tracing&Phonics,226,NZ,2018-05-17
+com.dimcoms.checkers,チェッカーズ,227,NZ,2018-05-17
+com.crack.screen.prank.bfun,壊れたスクリーンいたずらPrank,228,NZ,2018-05-17
+ca.lbcstudios.hempire,Hempire-PlantGrowingGame,229,NZ,2018-05-17
+com.vg.shipsofbattleageofpirates,海賊の戦闘時代の船,230,NZ,2018-05-17
+com.lego.ninjago.rideninja,LEGO®NINJAGO®:RideNinja,231,NZ,2018-05-17
+ru.prodigydev.blockyparkour3d,BlockyParkour3D,232,NZ,2018-05-17
+com.hotheadgames.google.free.survivors,ヒーロー・ハンター,233,NZ,2018-05-17
+toodoo.knife.battle,ナイフの戦い-目標を打つ,234,NZ,2018-05-17
+com.miniclip.agar.io,Agar.io,235,NZ,2018-05-17
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,236,NZ,2018-05-17
+se.foglo.svt,SnipersvsThieves:FPSClash,237,NZ,2018-05-17
+com.raftsurvival.raft,RaftSurvival：筏での生存,238,NZ,2018-05-17
+air.com.mobigrow.canyouescape,CanYouEscape,239,NZ,2018-05-17
+com.linekong.dbm.na.google,DaybreakLegends:Origin,240,NZ,2018-05-17
+com.wb.headsup,HeadsUp!,241,NZ,2018-05-17
+invaders.os.galaxy.space.shooter.attack.classic,スクアドロン-弾幕シューティング-スター・ウォーズ,242,NZ,2018-05-17
+com.WildLabs.KingOfScooter,KingOfScooter,243,NZ,2018-05-17
+com.rovio.angrybirds,AngryBirdsClassic,244,NZ,2018-05-17
+com.cw13.en13legends,SaiyanLegends,245,NZ,2018-05-17
+com.naturalmotion.customstreetracer2,CSRRacing2,246,NZ,2018-05-17
+com.alexanderwinn.TerraGenesis,TerraGenesis-スペースコロニー,247,NZ,2018-05-17
+io.voodoo.flyingarrow,FlyingArrow!,248,NZ,2018-05-17
+com.Nobodyshot.kuboom,KUBOOM,249,NZ,2018-05-17
+com.orbital.donttouchit,シャターブレイン-物理パズル,250,NZ,2018-05-17
+com.gramgames.mergetown,MergeTown!,251,NZ,2018-05-17
+com.zynga.words3,WordsWithFriends2-WordGame,252,NZ,2018-05-17
+com.mobilityware.spider,SpiderSolitaire,253,NZ,2018-05-17
+com.zynga.livepoker,Zyngaポーカー,254,NZ,2018-05-17
+com.nekki.shadowfight,シャドウファイト2,255,NZ,2018-05-17
+com.topfreegames.bikeracefreeworld,バイクレース無料レースゲーム(BikeRace),256,NZ,2018-05-17
+com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-TheOfficialGame,257,NZ,2018-05-17
+com.coffeestainstudios.goatsimulator.free,GoatSimulatorFree,258,NZ,2018-05-17
+com.puzzlegame.puzzledom,Puzzledomパズルダムシンプルで頭が良くなるパズル,259,NZ,2018-05-17
+sgs.urb.pixel.survival.online,URB:LastPixelsBattle,260,NZ,2018-05-17
+com.lima.doodlejump,DoodleJump,261,NZ,2018-05-17
+com.cardgame.solitaire,ソリティア,262,NZ,2018-05-17
+com.natenai.glowhockey,GlowHockey,263,NZ,2018-05-17
+com.bdj.vortexDroid,RollyVortex,264,NZ,2018-05-17
+com.ea.game.pvz2_row,Plantsvs.Zombies2,265,NZ,2018-05-17
+com.zynga.words,WordsWithFriendsClassic,266,NZ,2018-05-17
+com.ubisoft.hungrysharkworld,HungrySharkWorld,267,NZ,2018-05-17
+com.Supremacy.MongrelMobDefence,MongrelMobDefence,268,NZ,2018-05-17
+com.treemengames.pako2,PAKO2,269,NZ,2018-05-17
+mahjong.games.mahjong.classic.free,麻将,270,NZ,2018-05-17
+com.bethsoft.falloutshelter,FalloutShelter,271,NZ,2018-05-17
+com.milestone.monsterenergysupercross,MonsterEnergySupercrossGame,272,NZ,2018-05-17
+com.sora.metal.squad,MetalSquad:ShootingGame,273,NZ,2018-05-17
+com.generagames.resistance,CoverFire:無料射撃ゲーム,274,NZ,2018-05-17
+com.hutchgames.hotwheels,HotWheels:RaceOff,275,NZ,2018-05-17
+com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,276,NZ,2018-05-17
+com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,277,NZ,2018-05-17
+com.huuuge.jomhd,カジノAdventures-無料スロット,278,NZ,2018-05-17
+com.williamsinteractive.jackpotparty,JackpotPartySlots:カジノスロットゲーム,279,NZ,2018-05-17
+com.ea.gp.fifamobile,FIFAサッカー,280,NZ,2018-05-17
+com.ea.game.tetris2011_row,TETRIS,281,NZ,2018-05-17
+com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),282,NZ,2018-05-17
+com.zephyo.LivePortraitMaker,LivePortraitMaker,283,NZ,2018-05-17
+com.king.candycrushjellysaga,キャンディークラッシュゼリー,284,NZ,2018-05-17
+com.doubletapsoftware.basketballbattle,BasketballBattle,285,NZ,2018-05-17
+com.CraftingExplore.Big,BigCraftExplore:NewGenerationGame,286,NZ,2018-05-17
+com.itchmedia.tc4,CarMerger,287,NZ,2018-05-17
+com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,288,NZ,2018-05-17
+com.voodoo.idleflipper,IdleFlipper,289,NZ,2018-05-17
+net.peakgames.ginrummyplus,GinRummyPlus,290,NZ,2018-05-17
+com.deerslab.dinoTREX,DinoT-Rex,291,NZ,2018-05-17
+com.king.petrescuesaga,ペットレスキュー,292,NZ,2018-05-17
+com.zynga.wizardofoz,『WizardofOz』無料スロット・ベガス・カジノ,293,NZ,2018-05-17
+com.dle.respawnables,Respawnables-スペシャルフォースFPS,294,NZ,2018-05-17
+com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,295,NZ,2018-05-17
+com.miniclip.basketballstars,BasketballStars,296,NZ,2018-05-17
+com.hypnocatstudio.perfecttower,PerfectTower,297,NZ,2018-05-17
+com.sbkgames.RacingLimits,レースの限界,298,NZ,2018-05-17
+com.infinite.shooting.galaxy.attack,InfiniteShooting:GalaxyAttack,299,NZ,2018-05-17
+com.ea.games.simsfreeplay_row,TheSimsFreePlay,300,NZ,2018-05-17
+com.backflipstudios.android.papertoss2,PaperTossBoss,301,NZ,2018-05-17
+com.baklabs.taxi.simulator,タクシー,302,NZ,2018-05-17
+com.taplane.logoquizm,GuesstheLogo:UltimateQuiz,303,NZ,2018-05-17
+ballz.magiplay.bricks.breaker.ballz.balls.bounce.puzzle,BallsBounce2:PuzzleChallenge,304,NZ,2018-05-17
+com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),305,NZ,2018-05-17
+com.GMS.icemommy,IceMommyNewborn-BabyGrown,306,NZ,2018-05-17
+com.wordloco.wordchallenge,WordSearch,307,NZ,2018-05-17
+com.skgames.trafficracer,TrafficRacer,308,NZ,2018-05-17
+com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,309,NZ,2018-05-17
+com.spilgames.OperateNow2,OperateNow:Hospital,310,NZ,2018-05-17
 com.gamedevltd.destinywarfare,インフィニティオペレーションFPS,311,NZ,2018-05-17
-com.skgames.trafficracer,TrafficRacer,312,NZ,2018-05-17
-com.idle.crash,WillCrush?-IdleSimulation,313,NZ,2018-05-17
-com.np.energy.joe,EnergyJoe,314,NZ,2018-05-17
-com.taplane.logoquizm,GuesstheLogo:UltimateQuiz,315,NZ,2018-05-17
-com.voodoo.idleflipper,IdleFlipper,316,NZ,2018-05-17
-com.wordloco.wordchallenge,WordSearch,317,NZ,2018-05-17
-com.bernylabs.loans.supaertapfortnitebattle123,SupertapFortniteBattleRoyale,318,NZ,2018-05-17
-com.intermedia.hq,HQTrivia,319,NZ,2018-05-17
-com.sbkgames.RacingLimits,レースの限界,320,NZ,2018-05-17
-com.lemongame.klondike.solitaire,ソリティア,321,NZ,2018-05-17
-com.roasterygames.smartphonetycoon,SmartphoneTycoon,322,NZ,2018-05-17
-com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),323,NZ,2018-05-17
-com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,324,NZ,2018-05-17
-com.oka.howto.makeslime,どうやってにメイクスライムメーカー遊びます楽しい,325,NZ,2018-05-17
-com.ConstantPouliquen.Keeper,Keepitalive!,326,NZ,2018-05-17
-com.miniclip.archery,ArcheryKing,327,NZ,2018-05-17
-com.turbochilli.rollingsky,ローリング・スカイ,328,NZ,2018-05-17
-com.inapp.cross.stitch,クロスステッチ,329,NZ,2018-05-17
-com.gamehouse.fabulous4,ファビュラス―アンジェラのウェディング・ディザスター👰🤵,330,NZ,2018-05-17
-net.supertreat.solitaire,Solitaire-GrandHarvest,331,NZ,2018-05-17
-com.hypebits.android.thriller,Cliffhanger-ChatStories,332,NZ,2018-05-17
-com.slotslot.slot,Slotsmachinesスロットマニアパチスロ無料,333,NZ,2018-05-17
-com.ninjakiwi.bloonstdbattles,BloonsTDBattles,334,NZ,2018-05-17
-com.mightcraft.pixeljourney,MyCraft.NewExploration2018.,335,NZ,2018-05-17
-com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,336,NZ,2018-05-17
-ballz.magiplay.bricks.breaker.ballz.balls.bounce.puzzle,BallsBounce2:PuzzleChallenge,337,NZ,2018-05-17
-com.williamsinteractive.goldfish,GoldFishカジノスロット,338,NZ,2018-05-17
-com.wordmobile.prisonstorm,エスケープ-PrisonEscape,339,NZ,2018-05-17
-com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,340,NZ,2018-05-17
-com.dayonegames.rebelracing,RebelRacing,341,NZ,2018-05-17
-com.dreamed.physicsdrop,PhysicsDrop,342,NZ,2018-05-17
-com.MobileSportsTime.MiniGolfEldoradoGolfCourse,ミニゴルフ3Dシティースターアーケード,343,NZ,2018-05-17
-solitaire.cardgames.solitairegames.free.klondike,ソリティア,344,NZ,2018-05-17
-com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,345,NZ,2018-05-17
-com.dle.respawnables,Respawnables-スペシャルフォースFPS,346,NZ,2018-05-17
-com.noodlecake.altosadventure,Alto'sAdventure,347,NZ,2018-05-17
-com.ballytechnologies.f88,88FortunesSlots:無料カジノスロットゲーム,348,NZ,2018-05-17
-com.king.petrescuesaga,ペットレスキュー,349,NZ,2018-05-17
-com.scopely.whiplash,WWEChampions-無料パズルRPGゲーム,350,NZ,2018-05-17
-com.bandainamcogames.dbzdokkanww,DRAGONBALLZDOKKANBATTLE,351,NZ,2018-05-17
-com.backflipstudios.android.papertoss2,PaperTossBoss,352,NZ,2018-05-17
-com.worldofpixel.craftlevelexplotation,LevelCraftNewWorld3DSurvivalAndCrafting,353,NZ,2018-05-17
-com.edujoy.Word_Search,WordSearchGamesinenglish,354,NZ,2018-05-17
-com.banana4apps.evolution,人類進化ゲームの人に贈る指輪の人類,355,NZ,2018-05-17
-com.candylegend.legend,CandyLegend,356,NZ,2018-05-17
-com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,357,NZ,2018-05-17
-com.protey.doors_challenge,100DoorsChallenge,358,NZ,2018-05-17
-com.zzoo.dokdo,DOKDO,359,NZ,2018-05-17
-bubble.shooter.shooting.shoot.game,バブルシューター,360,NZ,2018-05-17
-com.azysnake.slithernake.slitherworm,スリザー・ワーム・スネーク,361,NZ,2018-05-17
-com.supercell.hayday,ヘイ・デイ(HayDay),362,NZ,2018-05-17
-com.zephyo.LivePortraitMaker,LivePortraitMaker,363,NZ,2018-05-17
-com.bigframes.color_road,ColorRoad!,364,NZ,2018-05-17
-com.infokombinat.coloringunicorns,UnicornColoringBook,365,NZ,2018-05-17
-com.ballytechnologies.quickhitslots,QuickHitオンラインカジノゲームそしてスロットマシン,366,NZ,2018-05-17
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),367,NZ,2018-05-17
-com.itchmedia.tc4,CarMerger,368,NZ,2018-05-17
-com.gameloft.android.ANMP.GloftWOHM,DEADRIVALS：ゾンビMMO,369,NZ,2018-05-17
-com.crazy.snakevsblock,SlitherSnakeVSBallBrick,370,NZ,2018-05-17
-com.bintago.weaponsshoot,ガンビルダーの3次元シミュレータ,371,NZ,2018-05-17
-com.ngames.jumpball,JumpBall,372,NZ,2018-05-17
-org.pharaohgoldfortune.mapp,PharaohGoldFortune,373,NZ,2018-05-17
-com.ffgames.racingincar2,RacinginCar2,374,NZ,2018-05-17
-com.orbital.brainiton,BrainItOn!-PhysicsPuzzles,375,NZ,2018-05-17
-com.lego.superheroes.dccomicsmightymicros,LEGO®DCMightyMicros,376,NZ,2018-05-17
-com.cocoplay.gymnastic.star,体操選手-10点満点を目指そう！,377,NZ,2018-05-17
-com.BeerMoneyGames.Demolition2,DemolitionDerby2,378,NZ,2018-05-17
-heart.music.pink.piano.tile,HeartPianoTiles,379,NZ,2018-05-17
-com.gameloft.android.ANMP.GloftHFHM,IronBladeアイアンブレイド—メディーバルRPG,380,NZ,2018-05-17
-com.ea.game.scrabblemattel_bv,SCRABBLE™,381,NZ,2018-05-17
-com.raghu.braingame,脳トレーナー,382,NZ,2018-05-17
-com.supersolid.spark,ホームストリート(HomeStreet),383,NZ,2018-05-17
-com.abstractart.music_racer,MusicRacer,384,NZ,2018-05-17
-com.peppapig.worldofpeppapig_g,WorldofPeppaPig,385,NZ,2018-05-17
-com.braveworld.helixjumper,BraveWorld-HelixJumper,386,NZ,2018-05-17
-com.otherguys.lindab,LindaBrown:InteractiveStory,387,NZ,2018-05-17
-com.ea.game.starwarscapital_row,スター・ウォーズ／銀河の英雄,388,NZ,2018-05-17
-net.wooga.junes_journey_hidden_object_mystery_game,June'sJourney-HiddenObject,389,NZ,2018-05-17
-com.GamesForKids.Mathgames.MultiplicationTables,"MathGames,LearnAdd,Subtract,Multiply&Divide",390,NZ,2018-05-17
-com.crazylabs.dance.school,ダンススクールストーリー-ダンスの夢は叶う,391,NZ,2018-05-17
-com.wordcross.plus.puzzle.en,WordAcross,392,NZ,2018-05-17
-com.distinctivegames.rugbynations18,RugbyNations18,393,NZ,2018-05-17
-com.winnersclub.empire88slots,LuckyTimeSlots:無料カジノスロットマシン,394,NZ,2018-05-17
-air.com.Yoypo.SkillFinger,巧みな指,395,NZ,2018-05-17
-com.balysv.loop,∞InfinityLoop,396,NZ,2018-05-17
-com.racing.in.bar.c,RacingInCar3D,397,NZ,2018-05-17
-com.outfit7.mytalkinghank,マイ・トーキング・ハンク,398,NZ,2018-05-17
-com.luckios.buffaloslots,RoyalSlotsFreeSlotMachines,399,NZ,2018-05-17
-com.glu.deerhunt16,DEERHUNTER2018,400,NZ,2018-05-17
-com.estoty.rockyclimb,RockyClimb,401,NZ,2018-05-17
-air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,402,NZ,2018-05-17
-com.wiz.weed.game,WizKhalifa'sKushFarm,403,NZ,2018-05-17
-com.gismart.realpianofree,ピアノ-ぴあの鍵盤リアル曲げーむ,404,NZ,2018-05-17
-com.CubeSoftware.BattleOfWarships,バトル・オブ・ウォーシップ,405,NZ,2018-05-17
-com.robtopx.geometrydashworld,GeometryDashWorld,406,NZ,2018-05-17
-com.opalastudios.pads,「SUPERPADS」-DJになろう,407,NZ,2018-05-17
-com.hgamesart.ropeboy,AmazingStrangeRopePolice-ViceSpiderVegas,408,NZ,2018-05-17
-com.bingo.blaze.free,BingoBlaze-FreeBingoGames,409,NZ,2018-05-17
-com.FDGEntertainment.redball4.gp,RedBall4,410,NZ,2018-05-17
-com.snailgameusa.pandathree,TaichiPanda3:DragonHunter,411,NZ,2018-05-17
-com.battlecreek.offroadoutlaws,OffroadOutlaws,412,NZ,2018-05-17
-com.nautilus.RealCricket3D,RealCricket™18,413,NZ,2018-05-17
-com.BeresnevGames.Knife,FlippyKnife(フリッピー・ナイフ),414,NZ,2018-05-17
-com.upjers.newzealandfarmer,MyFreeFarm2,415,NZ,2018-05-17
-com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,416,NZ,2018-05-17
-es.socialpoint.DragonCity,ドラゴンシティ,417,NZ,2018-05-17
-com.gramgames.london.bounzy,Bounzy!,418,NZ,2018-05-17
-com.riseup.game,RiseUp,419,NZ,2018-05-17
-air.com.aceviral.motox3m,MotoX3MBikeRaceGame,420,NZ,2018-05-17
-com.king.farmheroessaga,ファームヒーロー,421,NZ,2018-05-17
-com.distinctivegames.rugbyleague18,RugbyLeague18,422,NZ,2018-05-17
-com.ketchapp.spacefrontier2,SpaceFrontier2,423,NZ,2018-05-17
-pl.swiatquizu.lyricsquiz.android,FinishTheLyrics-FreeMusicQuizApp,424,NZ,2018-05-17
-com.ketchapp.ballz,Ballz,425,NZ,2018-05-17
-com.arcsys.tictactoe,TicTacToeのグロー,426,NZ,2018-05-17
-com.abdennacermoufid.fortnitequiz,FortniteQuiz,427,NZ,2018-05-17
-ua.krou.aqueducts,Aquavias,428,NZ,2018-05-17
-com.sega.sprint,SonicForces,429,NZ,2018-05-17
-com.n3twork.legendary,Legendary:GameofHeroes,430,NZ,2018-05-17
-com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,431,NZ,2018-05-17
-com.rocketjump.majormayhem2,MajorMayhem2-ActionArcadeShooter,432,NZ,2018-05-17
-com.doodlejoy.studio.kidsdoojoy,児童ビデオ描画-KidsDoodle,433,NZ,2018-05-17
-com.ketchapp.dunkline,DunkLine,434,NZ,2018-05-17
-com.appadvisory.booooing,Splashy!,435,NZ,2018-05-17
-com.pnixgames.bowlingking,BowlingKing,436,NZ,2018-05-17
-com.ea.game.simpsons4_row,TheSimpsons™:TappedOut,437,NZ,2018-05-17
-com.YovoGames.hair,ヘアサロン-スパサロン,438,NZ,2018-05-17
-macrostudios.wouldyourather,WouldYouRather?,439,NZ,2018-05-17
-com.brokenreality.thebigcapitalist.android,TheBigCapitalist,440,NZ,2018-05-17
-com.mengxiang.lastkingdom.gp,RiseofEmpire:King'sLanding,441,NZ,2018-05-17
-com.spilgames.UphillRush,UphillRushウォータースライダーゲーム,442,NZ,2018-05-17
-air.MSPMobile,MovieStarPlanet,443,NZ,2018-05-17
-com.plarium.vikings,ヴァイキングス：ウォー・オブ・クラン,444,NZ,2018-05-17
-com.superluckycasino.viponly.slots.vegas.android.free,VIPデラックス：無料スロットマシーン,445,NZ,2018-05-17
-com.ddi,DoubleDownCasino-FreeSlots,446,NZ,2018-05-17
-com.joyjourney.PianoWhiteGo,PianoWhiteGo!,447,NZ,2018-05-17
-com.secondarm.taptapdash,TapTapDash,448,NZ,2018-05-17
-se.hellothere.gravityhd,Avicii|GravityHD,449,NZ,2018-05-17
-com.coolkids.crazy.mad.kids.dentist.fun.hospital.adventure,CrazyChildren'sDentistSimulationFunAdventure,450,NZ,2018-05-17
-com.fun.crazy.barber.shop,理髪店ヘアサロン髭ヘアカットゲーム,451,NZ,2018-05-17
-com.free.solitaire.games,FreeSolitaire,452,NZ,2018-05-17
-com.tgg.kidscooking,キッチンで調理,453,NZ,2018-05-17
-com.sweetfuirt.candy,SweetFruitCandy,454,NZ,2018-05-17
-com.scottgames.fnaf2demo,FiveNightsatFreddy's2Demo,455,NZ,2018-05-17
-com.naturalmotion.clumsyninja,ClumsyNinja,456,NZ,2018-05-17
-com.heroesofchaos.koramgame.global,Goddess:PrimalChaos-SEAFree3DActionMMORPG,457,NZ,2018-05-17
-fantasy.survival.game.rpg,GrimSoul:DarkFantasySurvival,458,NZ,2018-05-17
-com.nukeboxstudios.foodtruckchef,フードトラック・シェフ:料理ゲーム,459,NZ,2018-05-17
-com.rkgames.smashywanted,SmashyRoad:Wanted,460,NZ,2018-05-17
-com.jewels.gems.android,Gemsorjewels?,461,NZ,2018-05-17
-com.auxbrain.egginc,"Egg,Inc.",462,NZ,2018-05-17
-com.strawdogstudios.simonscatcrunchtime,Simon’sCat-CrunchTime!,463,NZ,2018-05-17
-ballz.brick.breaker.ballz.bounce.free,BallsBounce,464,NZ,2018-05-17
-com.elex.nikkigp,LoveNikki-DressUPQueen,465,NZ,2018-05-17
-leagueofmonkeys.torqueburnout,トルクバーンアウト,466,NZ,2018-05-17
-com.quarzo.fourinarow,4inarow,467,NZ,2018-05-17
-com.pocketgems.android.dragon,WarDragons,468,NZ,2018-05-17
-com.doubleugames.DoubleUCasino,DoubleUCasino-FreeSlots,469,NZ,2018-05-17
-com.sega.sonic1px,SonictheHedgehog™Classic,470,NZ,2018-05-17
-com.yoob.games,YooBGames,471,NZ,2018-05-17
-com.buffstudio.myoasis,マイオアシス-タブで成長空島,472,NZ,2018-05-17
-com.color.by.number.lowpoly,ColorbyNumber-多角形アート,473,NZ,2018-05-17
-com.disney.wheresmywater2_goo,Where'sMyWater?2,474,NZ,2018-05-17
-com.sinyee.babybus.soda,ベビーパンダのジュースショップ,475,NZ,2018-05-17
-com.smanlygames.fireboy.watergirl.icegirl.maze,LuckyBoyandPrettyGirl-CrystalTempleMaze,476,NZ,2018-05-17
+com.sir.racing.ultimatemotorcyclesimulator,UltimateMotorcycleSimulator,312,NZ,2018-05-17
+com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,313,NZ,2018-05-17
+com.slotslot.slot,Slotsmachinesスロットマニアパチスロ無料,314,NZ,2018-05-17
+com.edujoy.Word_Search,WordSearchGamesinenglish,315,NZ,2018-05-17
+com.bluewizard.f13puzzle,Fridaythe13th:キラーPuzzle,316,NZ,2018-05-17
+com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,317,NZ,2018-05-17
+com.ninjakiwi.bloonstdbattles,BloonsTDBattles,318,NZ,2018-05-17
+com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),319,NZ,2018-05-17
+net.supertreat.solitaire,Solitaire-GrandHarvest,320,NZ,2018-05-17
+com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,321,NZ,2018-05-17
+com.banana4apps.evolution,人類進化ゲームの人に贈る指輪の人類,322,NZ,2018-05-17
+com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,323,NZ,2018-05-17
+com.zzoo.dokdo,DOKDO,324,NZ,2018-05-17
+com.intermedia.hq,HQTrivia,325,NZ,2018-05-17
+com.ketchapp.spacefrontier,SpaceFrontier,326,NZ,2018-05-17
+com.king.bubblewitch3,バブルウィッチ3,327,NZ,2018-05-17
+com.ffgames.racingincar2,RacinginCar2,328,NZ,2018-05-17
+com.noodlecake.altosadventure,Alto'sAdventure,329,NZ,2018-05-17
+com.williamsinteractive.goldfish,GoldFishカジノスロット,330,NZ,2018-05-17
+com.wb.goog.got.conquest,ゲーム・オブ・スローンズ：コンクエスト,331,NZ,2018-05-17
+com.BeerMoneyGames.Demolition2,DemolitionDerby2,332,NZ,2018-05-17
+com.inapp.cross.stitch,クロスステッチ,333,NZ,2018-05-17
+com.lego.starwars.microfighters,LEGO®StarWars™Microfighters,334,NZ,2018-05-17
+com.protey.doors_challenge,100DoorsChallenge,335,NZ,2018-05-17
+com.np.energy.joe,EnergyJoe,336,NZ,2018-05-17
+com.candylegend.legend,CandyLegend,337,NZ,2018-05-17
+thinkcube.project307,NonstopBalls,338,NZ,2018-05-17
+com.dreamed.physicsdrop,PhysicsDrop,339,NZ,2018-05-17
+com.scopely.whiplash,WWEChampions-無料パズルRPGゲーム,340,NZ,2018-05-17
+com.lego.superheroes.dccomicsmightymicros,LEGO®DCMightyMicros,341,NZ,2018-05-17
+com.ballytechnologies.f88,88FortunesSlots:無料カジノスロットゲーム,342,NZ,2018-05-17
+com.miniclip.archery,ArcheryKing,343,NZ,2018-05-17
+com.wordmobile.prisonstorm,エスケープ-PrisonEscape,344,NZ,2018-05-17
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),345,NZ,2018-05-17
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,346,NZ,2018-05-17
+com.ballytechnologies.quickhitslots,QuickHitオンラインカジノゲームそしてスロットマシン,347,NZ,2018-05-17
+heart.music.pink.piano.tile,HeartPianoTiles,348,NZ,2018-05-17
+com.ea.game.starwarscapital_row,スター・ウォーズ／銀河の英雄,349,NZ,2018-05-17
+com.orbital.brainiton,BrainItOn!-PhysicsPuzzles,350,NZ,2018-05-17
+com.peppapig.worldofpeppapig_g,WorldofPeppaPig,351,NZ,2018-05-17
+com.azysnake.slithernake.slitherworm,スリザー・ワーム・スネーク,352,NZ,2018-05-17
+com.supersolid.spark,ホームストリート(HomeStreet),353,NZ,2018-05-17
+com.bintago.weaponsshoot,ガンビルダーの3次元シミュレータ,354,NZ,2018-05-17
+org.pharaohgoldfortune.mapp,PharaohGoldFortune,355,NZ,2018-05-17
+com.gameloft.android.ANMP.GloftWOHM,DEADRIVALS：ゾンビMMO,356,NZ,2018-05-17
+com.ketchapp.rush,Rush,357,NZ,2018-05-17
+com.ray3d.shootsniper,ShootHunter-GunKiller,358,NZ,2018-05-17
+com.worldofpixel.craftlevelexplotation,LevelCraftNewWorld3DSurvivalAndCrafting,359,NZ,2018-05-17
+com.MobileSportsTime.MiniGolfEldoradoGolfCourse,ミニゴルフ3Dシティースターアーケード,360,NZ,2018-05-17
+com.ConstantPouliquen.Keeper,Keepitalive!,361,NZ,2018-05-17
+net.wooga.junes_journey_hidden_object_mystery_game,June'sJourney-HiddenObject,362,NZ,2018-05-17
+bubble.shooter.shooting.shoot.game,バブルシューター,363,NZ,2018-05-17
+com.infokombinat.coloringunicorns,UnicornColoringBook,364,NZ,2018-05-17
+com.opalastudios.pads,「SUPERPADS」-DJになろう,365,NZ,2018-05-17
+com.winnersclub.empire88slots,LuckyTimeSlots:無料カジノスロットマシン,366,NZ,2018-05-17
+com.balysv.loop,∞InfinityLoop,367,NZ,2018-05-17
+com.bandainamcogames.dbzdokkanww,DRAGONBALLZDOKKANBATTLE,368,NZ,2018-05-17
+com.distinctivegames.rugbynations18,RugbyNations18,369,NZ,2018-05-17
+com.crazylabs.dance.school,ダンススクールストーリー-ダンスの夢は叶う,370,NZ,2018-05-17
+com.abstractart.music_racer,MusicRacer,371,NZ,2018-05-17
+com.bingo.blaze.free,BingoBlaze-FreeBingoGames,372,NZ,2018-05-17
+com.king.farmheroessaga,ファームヒーロー,373,NZ,2018-05-17
+com.cocoplay.gymnastic.star,体操選手-10点満点を目指そう！,374,NZ,2018-05-17
+air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,375,NZ,2018-05-17
+com.otherguys.lindab,LindaBrown:InteractiveStory,376,NZ,2018-05-17
+com.lemongame.klondike.solitaire,ソリティア,377,NZ,2018-05-17
+com.glu.deerhunt16,DEERHUNTER2018,378,NZ,2018-05-17
+com.gameloft.android.ANMP.GloftHFHM,IronBladeアイアンブレイド—メディーバルRPG,379,NZ,2018-05-17
+com.turbochilli.rollingsky,ローリング・スカイ,380,NZ,2018-05-17
+com.oka.howto.makeslime,どうやってにメイクスライムメーカー遊びます楽しい,381,NZ,2018-05-17
+com.FDGEntertainment.redball4.gp,RedBall4,382,NZ,2018-05-17
+com.roasterygames.smartphonetycoon,SmartphoneTycoon,383,NZ,2018-05-17
+com.coolkids.crazy.mad.kids.dentist.fun.hospital.adventure,CrazyChildren'sDentistSimulationFunAdventure,384,NZ,2018-05-17
+air.com.aceviral.motox3m,MotoX3MBikeRaceGame,385,NZ,2018-05-17
+com.ea.game.simpsons4_row,TheSimpsons™:TappedOut,386,NZ,2018-05-17
+com.riseup.game,RiseUp,387,NZ,2018-05-17
+com.gamehouse.fabulous4,ファビュラス―アンジェラのウェディング・ディザスター👰🤵,388,NZ,2018-05-17
+com.wiz.weed.game,WizKhalifa'sKushFarm,389,NZ,2018-05-17
+com.ketchapp.spacefrontier2,SpaceFrontier2,390,NZ,2018-05-17
+ua.krou.aqueducts,Aquavias,391,NZ,2018-05-17
+air.com.Yoypo.SkillFinger,巧みな指,392,NZ,2018-05-17
+com.idle.crash,WillCrush?-IdleSimulation,393,NZ,2018-05-17
+com.braveworld.helixjumper,BraveWorld-HelixJumper,394,NZ,2018-05-17
+com.GamesForKids.Mathgames.MultiplicationTables,"MathGames,LearnAdd,Subtract,Multiply&Divide",395,NZ,2018-05-17
+es.socialpoint.DragonCity,ドラゴンシティ,396,NZ,2018-05-17
+com.hypebits.android.thriller,Cliffhanger-ChatStories,397,NZ,2018-05-17
+com.n3twork.legendary,Legendary:GameofHeroes,398,NZ,2018-05-17
+com.mightcraft.pixeljourney,MyCraft.NewExploration2018.,399,NZ,2018-05-17
+com.racing.in.bar.c,RacingInCar3D,400,NZ,2018-05-17
+com.robtopx.geometrydashworld,GeometryDashWorld,401,NZ,2018-05-17
+com.BeresnevGames.Knife,FlippyKnife(フリッピー・ナイフ),402,NZ,2018-05-17
+com.gismart.realpianofree,ピアノ-ぴあの鍵盤リアル曲げーむ,403,NZ,2018-05-17
+com.luckios.buffaloslots,RoyalSlotsFreeSlotMachines,404,NZ,2018-05-17
+com.ketchapp.ballz,Ballz,405,NZ,2018-05-17
+com.spilgames.UphillRush,UphillRushウォータースライダーゲーム,406,NZ,2018-05-17
+com.snailgameusa.pandathree,TaichiPanda3:DragonHunter,407,NZ,2018-05-17
+com.estoty.rockyclimb,RockyClimb,408,NZ,2018-05-17
+com.YovoGames.hair,ヘアサロン-スパサロン,409,NZ,2018-05-17
+com.dayonegames.rebelracing,RebelRacing,410,NZ,2018-05-17
+com.arcsys.tictactoe,TicTacToeのグロー,411,NZ,2018-05-17
+com.mengxiang.lastkingdom.gp,RiseofEmpire:King'sLanding,412,NZ,2018-05-17
+com.superluckycasino.viponly.slots.vegas.android.free,VIPデラックス：無料スロットマシーン,413,NZ,2018-05-17
+com.CubeSoftware.BattleOfWarships,バトル・オブ・ウォーシップ,414,NZ,2018-05-17
+com.wordcross.plus.puzzle.en,WordAcross,415,NZ,2018-05-17
+com.bigframes.color_road,ColorRoad!,416,NZ,2018-05-17
+com.battlecreek.offroadoutlaws,OffroadOutlaws,417,NZ,2018-05-17
+com.ngames.jumpball,JumpBall,418,NZ,2018-05-17
+com.supercell.hayday,ヘイ・デイ(HayDay),419,NZ,2018-05-17
+com.upjers.newzealandfarmer,MyFreeFarm2,420,NZ,2018-05-17
+com.battlecreek.offroadoutlaws,OffroadOutlaws,421,NZ,2018-05-17
+com.ngames.jumpball,JumpBall,422,NZ,2018-05-17
+com.supercell.hayday,ヘイ・デイ(HayDay),423,NZ,2018-05-17
+com.upjers.newzealandfarmer,MyFreeFarm2,424,NZ,2018-05-17
+com.doodlejoy.studio.kidsdoojoy,児童ビデオ描画-KidsDoodle,425,NZ,2018-05-17
+com.ketchapp.dunkline,DunkLine,426,NZ,2018-05-17
+ballz.brick.breaker.ballz.bounce.free,BallsBounce,427,NZ,2018-05-17
+com.pnixgames.bowlingking,BowlingKing,428,NZ,2018-05-17
+solitaire.cardgames.solitairegames.free.klondike,ソリティア,429,NZ,2018-05-17
+com.hgamesart.ropeboy,AmazingStrangeRopePolice-ViceSpiderVegas,430,NZ,2018-05-17
+fantasy.survival.game.rpg,GrimSoul:DarkFantasySurvival,431,NZ,2018-05-17
+air.MSPMobile,MovieStarPlanet,432,NZ,2018-05-17
+com.joyjourney.PianoWhiteGo,PianoWhiteGo!,433,NZ,2018-05-17
+pl.swiatquizu.lyricsquiz.android,FinishTheLyrics-FreeMusicQuizApp,434,NZ,2018-05-17
+com.doubleugames.DoubleUCasino,DoubleUCasino-FreeSlots,435,NZ,2018-05-17
+com.abdennacermoufid.fortnitequiz,FortniteQuiz,436,NZ,2018-05-17
+com.jdigamestudio.stickmanfightthegame,StickmanFight:TheGame,437,NZ,2018-05-17
+se.hellothere.gravityhd,Avicii|GravityHD,438,NZ,2018-05-17
+com.sega.sprint,SonicForces,439,NZ,2018-05-17
+com.prozoxer.building.crafting.build.craft.exploration3,BuildCraft:SurvivalandCreative,440,NZ,2018-05-17
+com.pocketgems.android.dragon,WarDragons,441,NZ,2018-05-17
+com.quarzo.fourinarow,4inarow,442,NZ,2018-05-17
+com.nukeboxstudios.foodtruckchef,フードトラック・シェフ:料理ゲーム,443,NZ,2018-05-17
+com.crazy.snakevsblock,SlitherSnakeVSBallBrick,444,NZ,2018-05-17
+com.outfit7.mytalkinghank,マイ・トーキング・ハンク,445,NZ,2018-05-17
+bubble.shoot.fruit.splash.game2,ShootBubble-FruitSplash,446,NZ,2018-05-17
+com.smanlygames.fireboy.watergirl.icegirl.maze,LuckyBoyandPrettyGirl-CrystalTempleMaze,447,NZ,2018-05-17
+com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,448,NZ,2018-05-17
+com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,449,NZ,2018-05-17
+com.buffstudio.myoasis,マイオアシス-タブで成長空島,450,NZ,2018-05-17
+com.league.herogirls,HeroGirlsLeague-FantasyRPG,451,NZ,2018-05-17
+com.mobile.legends,モバイル·レジェンド:BangBang,452,NZ,2018-05-17
+com.ddi,DoubleDownCasino-FreeSlots,453,NZ,2018-05-17
+com.color.by.number.lowpoly,ColorbyNumber-多角形アート,454,NZ,2018-05-17
+com.tgg.kidscooking,キッチンで調理,455,NZ,2018-05-17
+com.nautilus.RealCricket3D,RealCricket™18,456,NZ,2018-05-17
+com.secretexit.turbodismount,TurboDismount™,457,NZ,2018-05-17
+com.strawdogstudios.simonscatcrunchtime,Simon’sCat-CrunchTime!,458,NZ,2018-05-17
+com.futureplay.boots,IdleFarmingEmpire,459,NZ,2018-05-17
+com.ubisoft.raymanadventures,レイマンアドベンチャー,460,NZ,2018-05-17
+com.disney.wheresmywater2_goo,Where'sMyWater?2,461,NZ,2018-05-17
+com.naturalmotion.clumsyninja,ClumsyNinja,462,NZ,2018-05-17
+com.vividgames.realboxing,「リアル・ボクシング」格闘ゲーム,463,NZ,2018-05-17
+com.gamestar.perfectpiano,パーフェクトピアノ(PerfectPiano),464,NZ,2018-05-17
+com.tastypill.newbottle,ImpossibleBottleFlip,465,NZ,2018-05-17
+com.plarium.blast,ロストアイランド：ブラストアドベンチャー（Unreleased）,466,NZ,2018-05-17
+es.socialpoint.MonsterLegends,MonsterLegends,467,NZ,2018-05-17
+com.auxbrain.egginc,"Egg,Inc.",468,NZ,2018-05-17
+com.rkgames.smashywanted,SmashyRoad:Wanted,469,NZ,2018-05-17
+com.nordcurrent.cafe,HappyCafe,470,NZ,2018-05-17
+macrostudios.wouldyourather,WouldYouRather?,471,NZ,2018-05-17
+com.fun.crazy.barber.shop,理髪店ヘアサロン髭ヘアカットゲーム,472,NZ,2018-05-17
+com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),473,NZ,2018-05-17
+com.robtopx.geometrydashmeltdown,GeometryDashMeltdown,474,NZ,2018-05-17
+com.cheshirex.stickmanthefight,StickManGame,475,NZ,2018-05-17
+com.melesta.coffeeshop,マイカフェ：レシピ＆ストーリー。レストラン経営ゲーム,476,NZ,2018-05-17
 com.bilkon.easypiano,RealPiano,477,NZ,2018-05-17
-com.oguztecimer.stickfightshadowwarrior,StickFight:ShadowWarrior,478,NZ,2018-05-17
-com.Three.Point.Contest.Basketball,スリーポイント・シュートアウト-私のバスケットボールチーム,479,NZ,2018-05-17
-com.robtopx.geometrydashmeltdown,GeometryDashMeltdown,480,NZ,2018-05-17
-com.gamestar.perfectpiano,パーフェクトピアノ(PerfectPiano),481,NZ,2018-05-17
-com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,482,NZ,2018-05-17
-bubble.shoot.fruit.splash.game2,ShootBubble-FruitSplash,483,NZ,2018-05-17
-com.bestcraft.minebuild.craft,BestCraft:Explore,484,NZ,2018-05-17
-com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス～シューティング・マフィアゲーム～,485,NZ,2018-05-17
-com.niceteen.games.dtbam,DealToBeAMillionaire,486,NZ,2018-05-17
-com.nordcurrent.cafe,HappyCafe,487,NZ,2018-05-17
-com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),488,NZ,2018-05-17
-com.league.herogirls,HeroGirlsLeague-FantasyRPG,489,NZ,2018-05-17
-es.socialpoint.MonsterLegends,MonsterLegends,490,NZ,2018-05-17
-com.melesta.coffeeshop,マイカフェ：レシピ＆ストーリー。レストラン経営ゲーム,491,NZ,2018-05-17
-com.cheshirex.stickmanthefight,StickManGame,492,NZ,2018-05-17
-com.mobile.legends,モバイル·レジェンド:BangBang,493,NZ,2018-05-17
-com.pandoragames.finddifference3,間違い探し500レベル,494,NZ,2018-05-17
-com.ubisoft.raymanadventures,レイマンアドベンチャー,495,NZ,2018-05-17
-com.taplane.emojisquiz,EmojiQuiz:Combine&GuesstheEmoji!,496,NZ,2018-05-17
-game.puzzle.blockpuzzle,BlockPuzzle,497,NZ,2018-05-17
-com.tem.mega.ramp.car.racing.gt.stunts.megaramp.construction,MegaRampCarRacingStuntsRampConstruction,498,NZ,2018-05-17
-unity.enjen.bmx,BMXFreestyleExtreme3D,499,NZ,2018-05-17
-com.bbg.avidly.slots,本物マカオSlots-無料スロットゲーム,500,NZ,2018-05-17
-com.nexon.da3.global,DarknessRises,501,NZ,2018-05-17
-com.netease.g48ena.oasisgames,OceanLegend,502,NZ,2018-05-17
-com.gamesture.questland,Questland:TurnBasedRPG,503,NZ,2018-05-17
-com.tencent.warwings2,ウォー・ウィングス(WarWings),504,NZ,2018-05-17
-com.ldw.vvo2,VirtualVillagersOrigins2,505,NZ,2018-05-17
-com.dimchi.crush,WillitCrush?,506,NZ,2018-05-17
-com.zhouchungame.su,SumotoriSports-2017FunnySumoGames,507,NZ,2018-05-17
-com.secretexit.turbodismount,TurboDismount™,508,NZ,2018-05-17
-com.superluckycasino.hotvegas.slots.vegas.android.free,ホットベガス:無料スロットゲームアプリ！,509,NZ,2018-05-17
-com.scopely.headshot,ウォーキング・デッドサバイバルへの道,510,NZ,2018-05-17
-com.hutchgames.cccg,TopDrives,511,NZ,2018-05-17
-br.com.tapps.vloggergoviral,VloggerGoViral,512,NZ,2018-05-17
-com.jdigamestudio.stickmanarcherfight,StickmanArcherFight,513,NZ,2018-05-17
-com.x3m.tx4,🏁TrialXtreme4🏁,514,NZ,2018-05-17
-com.gameloft.android.ANMP.GloftNOHM,N.O.V.A.Legacy,515,NZ,2018-05-17
-com.miniclip.diep.io,diep.io,516,NZ,2018-05-17
-com.vividgames.realboxing,「リアル・ボクシング」格闘ゲーム,517,NZ,2018-05-17
-com.sega.sonicboomandroid,SonicDash2:SonicBoom,518,NZ,2018-05-17
-com.tastypill.newbottle,ImpossibleBottleFlip,519,NZ,2018-05-17
-com.miniclip.dudeperfect,DudePerfect2,520,NZ,2018-05-17
-com.crowdstar.covetfashion,CovetFashion-DressUpGame,521,NZ,2018-05-17
-com.futureplay.boots,IdleFarmingEmpire,522,NZ,2018-05-17
-com.reliancegames.rschampions,RealSteelBoxingChampions,523,NZ,2018-05-17
-com.Pudding.CuteBendyAndTheProjectionist,CuteBendyAndTheProjectionist,524,NZ,2018-05-17
-com.mobirix.shotingking,射撃の王,525,NZ,2018-05-17
-com.ubisoft.dragonfire,SouthPark:PhoneDestroyer™,526,NZ,2018-05-17
-air.com.bitrhymes.bingo,タイトル:BingoBash–無料のビンゴカジノ,527,NZ,2018-05-17
-com.mrdgame.mrd,CrazyTaxiTycoon,528,NZ,2018-05-17
-ru.royalgamesapps.realpathfinderprogamesimulator,リアルパスファインダープロゲームシミュレータ,529,NZ,2018-05-17
-air.com.puffballsunited.escapingtheprison,EscapingthePrison,530,NZ,2018-05-17
-com.dbSoftware.sievolve,SurvivalIsland:Evolve,531,NZ,2018-05-17
-com.prozoxer.building.crafting.build.craft.exploration3,BuildCraft:SurvivalandCreative,532,NZ,2018-05-17
-com.igoldtech.streetchaser,ストリートチェイサー,533,NZ,2018-05-17
-com.ketchapp.fingerdriver,FingerDriver,534,NZ,2018-05-17
-com.nhnent.SKJUMANJI,JUMANJI:THEMOBILEGAME,535,NZ,2018-05-17
-com.cornago.stefano.lapse,Lapse:AForgottenFuture,536,NZ,2018-05-17
-gambino.android,GambinoSlots:FreeVegasCasinoSlotMachines,537,NZ,2018-05-17
-com.piano.tiles.drake.godsplan,Drake-GodsPlanPianoTiles2,538,NZ,2018-05-17
-com.deercatgames.tunnelrush,TunnelRush,539,NZ,2018-05-17
-blaze.andthemonstermachinesferr,BlazeandtheMonsterMachinesFree,540,NZ,2018-05-17
+com.crowdstar.covetfashion,CovetFashion-DressUpGame,478,NZ,2018-05-17
+com.gramgames.london.bounzy,Bounzy!,479,NZ,2018-05-17
+com.secondarm.taptapdash,TapTapDash,480,NZ,2018-05-17
+com.nordcurrent.cafe,HappyCafe,481,NZ,2018-05-17
+com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),482,NZ,2018-05-17
+macrostudios.wouldyourather,WouldYouRather?,483,NZ,2018-05-17
+com.ketchapp.fingerdriver,FingerDriver,484,NZ,2018-05-17
+com.fun.crazy.barber.shop,理髪店ヘアサロン髭ヘアカットゲーム,485,NZ,2018-05-17
+com.reliancegames.rschampions,RealSteelBoxingChampions,486,NZ,2018-05-17
+com.robtopx.geometrydashmeltdown,GeometryDashMeltdown,487,NZ,2018-05-17
+com.cheshirex.stickmanthefight,StickManGame,488,NZ,2018-05-17
+com.miniclip.dudeperfect,DudePerfect2,489,NZ,2018-05-17
+com.melesta.coffeeshop,マイカフェ：レシピ＆ストーリー。レストラン経営ゲーム,490,NZ,2018-05-17
+com.bilkon.easypiano,RealPiano,491,NZ,2018-05-17
+com.crowdstar.covetfashion,CovetFashion-DressUpGame,492,NZ,2018-05-17
+com.secondarm.taptapdash,TapTapDash,493,NZ,2018-05-17
+com.elex.nikkigp,LoveNikki-DressUPQueen,494,NZ,2018-05-17
+unity.enjen.bmx,BMXFreestyleExtreme3D,495,NZ,2018-05-17
+com.heroesofchaos.koramgame.global,Goddess:PrimalChaos-SEAFree3DActionMMORPG,496,NZ,2018-05-17
+com.oguztecimer.stickfightshadowwarrior,StickFight:ShadowWarrior,497,NZ,2018-05-17
+com.recloak.littlealchemy2,LittleAlchemy2,498,NZ,2018-05-17
+com.deercatgames.tunnelrush,TunnelRush,499,NZ,2018-05-17
+com.jellybtn.cashkingmobile,PirateKings,500,NZ,2018-05-17
+com.scottgames.fnaf2demo,FiveNightsatFreddy's2Demo,501,NZ,2018-05-17
+br.com.tapps.vloggergoviral,VloggerGoViral,502,NZ,2018-05-17
+com.sega.sonicboomandroid,SonicDash2:SonicBoom,503,NZ,2018-05-17
+com.zhouchungame.su,SumotoriSports-2017FunnySumoGames,504,NZ,2018-05-17
+com.nexon.da3.global,DarknessRises,505,NZ,2018-05-17
+com.hutchgames.cccg,TopDrives,506,NZ,2018-05-17
+com.mobirix.shotingking,射撃の王,507,NZ,2018-05-17
+com.pandoragames.finddifference3,間違い探し500レベル,508,NZ,2018-05-17
+com.yoob.games,YooBGames,509,NZ,2018-05-17
+game.puzzle.blockpuzzle,BlockPuzzle,510,NZ,2018-05-17
+com.ubisoft.dragonfire,SouthPark:PhoneDestroyer™,511,NZ,2018-05-17
+com.uproargames.memesoundboard2017,MemeSoundboard2018,512,NZ,2018-05-17
+com.games.slots.spirits,SlotsSpirits™BestNewFreeCasinoSlotMachines,513,NZ,2018-05-17
+com.cocoplay.dancetosuccess,ダンスクラッシュ：バレエVSヒップホップ,514,NZ,2018-05-17
+air.com.puffballsunited.escapingtheprison,EscapingthePrison,515,NZ,2018-05-17
+com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス～シューティング・マフィアゲーム～,516,NZ,2018-05-17
+com.sega.sonic1px,SonictheHedgehog™Classic,517,NZ,2018-05-17
+com.netease.g48ena.oasisgames,OceanLegend,518,NZ,2018-05-17
+com.bbg.avidly.slots,本物マカオSlots-無料スロットゲーム,519,NZ,2018-05-17
+com.ldw.vvo2,VirtualVillagersOrigins2,520,NZ,2018-05-17
+com.igoldtech.streetchaser,ストリートチェイサー,521,NZ,2018-05-17
+com.slots.vegas.casino.game,SlotsofVegas-FreeSlotGames,522,NZ,2018-05-17
+mahjong.solitaire.games.classic.mahjong.dragon.free,麻将,523,NZ,2018-05-17
+blaze.andthemonstermachinesferr,BlazeandtheMonsterMachinesFree,524,NZ,2018-05-17
+com.Three.Point.Contest.Basketball,スリーポイント・シュートアウト-私のバスケットボールチーム,525,NZ,2018-05-17
+com.appboxmedia.craftbrewery,BrewTown,526,NZ,2018-05-17
+com.ajgaming.ultimate.fort.night.survival,究極のフォートナイトサバイバル,527,NZ,2018-05-17
+com.tencent.warwings2,ウォー・ウィングス(WarWings),528,NZ,2018-05-17
+com.marblelab.jungle.monkey,JungleMonkeyRun,529,NZ,2018-05-17
+com.nhnent.SKJUMANJI,JUMANJI:THEMOBILEGAME,530,NZ,2018-05-17
+com.lilithgame.sgame.gp.oss,ArtofConquest(AoC),531,NZ,2018-05-17
+gambino.android,GambinoSlots:FreeVegasCasinoSlotMachines,532,NZ,2018-05-17
+com.gamesture.questland,Questland:TurnBasedRPG,533,NZ,2018-05-17
+com.mrdgame.mrd,CrazyTaxiTycoon,534,NZ,2018-05-17
+ru.royalgamesapps.realpathfinderprogamesimulator,リアルパスファインダープロゲームシミュレータ,535,NZ,2018-05-17
+com.superluckycasino.hotvegas.slots.vegas.android.free,ホットベガス:無料スロットゲームアプリ！,536,NZ,2018-05-17
+com.matchington.mansion,マッチングトン·マンション,537,NZ,2018-05-17
+com.cornago.stefano.lapse,Lapse:AForgottenFuture,538,NZ,2018-05-17
+air.com.bitrhymes.bingo,タイトル:BingoBash–無料のビンゴカジノ,539,NZ,2018-05-17
+com.miniclip.diep.io,diep.io,540,NZ,2018-05-17
