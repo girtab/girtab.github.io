@@ -1,8 +1,8 @@
 app_id,app_name,rank,country_code,date
 com.octro.teenpatti,TeenPatti-IndianPoker,1,IN,2018-08-04
 com.moonactive.coinmaster,CoinMaster,2,IN,2018-08-04
-com.teenpatti.hd.gold,TeenPattiGold-TPG,3,IN,2018-08-04
-com.miniclip.eightballpool,8BallPool,4,IN,2018-08-04
+com.miniclip.eightballpool,8BallPool,3,IN,2018-08-04
+com.teenpatti.hd.gold,TeenPattiGold-TPG,4,IN,2018-08-04
 com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),5,IN,2018-08-04
 com.tencent.ig,PUBGMOBILE,6,IN,2018-08-04
 com.king.candycrushsaga,キャンディークラッシュ,7,IN,2018-08-04
@@ -14,528 +14,528 @@ com.hcg.cok.gp,クラッシュオブキングス:TheKingOfFightersスペシャ�
 com.ea.gp.fifamobile,FIFAサッカー,13,IN,2018-08-04
 com.scopely.whiplash,WWEChampions-無料パズルRPGゲーム,14,IN,2018-08-04
 com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),15,IN,2018-08-04
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,16,IN,2018-08-04
-com.funplus.kingofavalon,キング・オブ・アバロン:ドラゴン戦争(KoA),17,IN,2018-08-04
-com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,18,IN,2018-08-04
-jp.konami.pesam,WinningEleven2018,19,IN,2018-08-04
+com.funplus.kingofavalon,キング・オブ・アバロン:ドラゴン戦争(KoA),16,IN,2018-08-04
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,17,IN,2018-08-04
+jp.konami.pesam,WinningEleven2018,18,IN,2018-08-04
+com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,19,IN,2018-08-04
 com.dts.freefireth,フリーファイア,20,IN,2018-08-04
-com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),21,IN,2018-08-04
-com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),22,IN,2018-08-04
-com.games24x7.ultimaterummy.playstore,UltimateRummyCircle,23,IN,2018-08-04
-com.playrix.township,タウンシップ(Township),24,IN,2018-08-04
-com.octro.rummy,IndianRummy(13&21Cards)byOctro,25,IN,2018-08-04
-com.pixelberrystudios.choices,Choices:StoriesYouPlay,26,IN,2018-08-04
-com.yottagames.mafiawar,マフィア・シティ-極道風雲,27,IN,2018-08-04
-com.lein.pppoker.android,PPPoker―無料ポーカーアプリ＆ホームゲーム,28,IN,2018-08-04
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),29,IN,2018-08-04
-com.gameloft.android.ANMP.GloftA9HM,アスファルト9：Legends-2018年最新レーシングゲーム,30,IN,2018-08-04
-com.playtika.wsop.gp,WSOP無料ポーカー(WorldSeriesofPoker),31,IN,2018-08-04
-com.nekki.shadowfight3,シャドウファイト3,32,IN,2018-08-04
-com.netmarble.mherosgb,マーベル・フューチャーファイト,33,IN,2018-08-04
-com.kabam.marvelbattle,MARVELオールスターバトル,34,IN,2018-08-04
-com.playrix.homescapes,ホームスケイプ(Homescapes),35,IN,2018-08-04
-com.longtech.lastwars.gp,LastEmpire–WarZゾンビサバイバル,36,IN,2018-08-04
-com.kiloo.subwaysurf,SubwaySurfers,37,IN,2018-08-04
-com.jellybtn.cashkingmobile,PirateKings,38,IN,2018-08-04
-com.netease.chiji,RulesofSurvival,39,IN,2018-08-04
-com.rovio.baba,アングリーバード2(AngryBirds2),40,IN,2018-08-04
-com.playdemic.golf.android,ゴルフクラッシュ,41,IN,2018-08-04
+com.games24x7.ultimaterummy.playstore,UltimateRummyCircle,21,IN,2018-08-04
+com.octro.rummy,IndianRummy(13&21Cards)byOctro,22,IN,2018-08-04
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),23,IN,2018-08-04
+com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),24,IN,2018-08-04
+com.pixelberrystudios.choices,Choices:StoriesYouPlay,25,IN,2018-08-04
+com.yottagames.mafiawar,マフィア・シティ-極道風雲,26,IN,2018-08-04
+com.lein.pppoker.android,PPPoker―無料ポーカーアプリ＆ホームゲーム,27,IN,2018-08-04
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),28,IN,2018-08-04
+com.playtika.wsop.gp,WSOP無料ポーカー(WorldSeriesofPoker),29,IN,2018-08-04
+com.playrix.township,タウンシップ(Township),30,IN,2018-08-04
+com.kabam.marvelbattle,MARVELオールスターバトル,31,IN,2018-08-04
+com.netmarble.mherosgb,マーベル・フューチャーファイト,32,IN,2018-08-04
+com.jellybtn.cashkingmobile,PirateKings,33,IN,2018-08-04
+com.gameloft.android.ANMP.GloftA9HM,アスファルト9：Legends-2018年最新レーシングゲーム,34,IN,2018-08-04
+com.netease.chiji,RulesofSurvival,35,IN,2018-08-04
+com.lilithgame.sgame.gp.oss,ArtofConquest:DragonDawn,36,IN,2018-08-04
+com.rovio.baba,アングリーバード2(AngryBirds2),37,IN,2018-08-04
+com.longtech.lastwars.gp,LastEmpire–WarZゾンビサバイバル,38,IN,2018-08-04
+com.playrix.homescapes,ホームスケイプ(Homescapes),39,IN,2018-08-04
+com.nekki.shadowfight3,シャドウファイト3,40,IN,2018-08-04
+com.kiloo.subwaysurf,SubwaySurfers,41,IN,2018-08-04
 com.octro.teenpattilive,TeenPattiLive!,42,IN,2018-08-04
-com.lilithgame.sgame.gp.oss,ArtofConquest:DragonDawn,43,IN,2018-08-04
+com.teenpattithreecardspoker,TeenPattiOnline:3PattiIndianPokerSuperstar,43,IN,2018-08-04
 com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,44,IN,2018-08-04
-com.supercell.hayday,ヘイ・デイ(HayDay),45,IN,2018-08-04
-com.games.poker.teenpatti,TeenPattiFlush:3PattiPoker,46,IN,2018-08-04
-com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,47,IN,2018-08-04
-com.teenpattithreecardspoker,TeenPattiOnline:3PattiIndianPokerSuperstar,48,IN,2018-08-04
+com.playdemic.golf.android,ゴルフクラッシュ,45,IN,2018-08-04
+com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,46,IN,2018-08-04
+com.supercell.hayday,ヘイ・デイ(HayDay),47,IN,2018-08-04
+com.games.poker.teenpatti,TeenPattiFlush:3PattiPoker,48,IN,2018-08-04
 com.wb.goog.got.conquest,ゲーム・オブ・スローンズ：コンクエスト,49,IN,2018-08-04
 com.special.warship,戦艦ファイナル-最後の戦い（最後の海戦を舞台にしたSLGの最高傑作）,50,IN,2018-08-04
-com.firsttouchgames.dls3,DreamLeagueSoccer2018,51,IN,2018-08-04
-net.peakgames.amy,ToyBlast,52,IN,2018-08-04
-com.igg.castleclash,CastleClash,53,IN,2018-08-04
-com.pixonic.wwr,WarRobots,54,IN,2018-08-04
+com.igg.castleclash,CastleClash,51,IN,2018-08-04
+com.pixonic.wwr,WarRobots,52,IN,2018-08-04
+com.firsttouchgames.dls3,DreamLeagueSoccer2018,53,IN,2018-08-04
+net.peakgames.amy,ToyBlast,54,IN,2018-08-04
 com.nexonm.dominations.adk,DomiNations,55,IN,2018-08-04
 com.gameinsight.gobandroid,GunsofBoom,56,IN,2018-08-04
-com.tag.casinoclub,CasinoClub,57,IN,2018-08-04
+com.nianticlabs.pokemongo,PokémonGO,57,IN,2018-08-04
 com.melesta.coffeeshop,マイカフェ：レシピ＆ストーリー。レストラン経営ゲーム,58,IN,2018-08-04
 com.plarium.vikings,ヴァイキングス：ウォー・オブ・クラン,59,IN,2018-08-04
-com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,60,IN,2018-08-04
-com.nianticlabs.pokemongo,PokémonGO,61,IN,2018-08-04
-com.nexon.da3.global,DarknessRises,62,IN,2018-08-04
-com.gameloft.android.ANMP.GloftGHHM,マーチオブエンパイア-領土戦争,63,IN,2018-08-04
-com.gtarcade.lod,LegacyofDiscord-FuriousWings,64,IN,2018-08-04
-com.roblox.client,ROBLOX,65,IN,2018-08-04
-net.peakgames.toonblast,ToonBlast,66,IN,2018-08-04
-com.tag.roadrunner,RoadRunner,67,IN,2018-08-04
-com.nextwave.wcc2,WorldCricketChampionship2,68,IN,2018-08-04
+com.nexon.da3.global,DarknessRises,60,IN,2018-08-04
+com.kamagames.pokerist,テキサス・ホールデム－Pokerist,61,IN,2018-08-04
+net.peakgames.toonblast,ToonBlast,62,IN,2018-08-04
+com.roblox.client,ROBLOX,63,IN,2018-08-04
+com.tag.casinoclub,CasinoClub,64,IN,2018-08-04
+com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,65,IN,2018-08-04
+com.gameloft.android.ANMP.GloftDOHM,ドラゴンマニア・レジェンド【ドラマニ】,66,IN,2018-08-04
+com.crowdstar.covetHome,DesignHome,67,IN,2018-08-04
+com.hutchgames.cccg,TopDrives–車のカードレーシング,68,IN,2018-08-04
 com.tap4fun.kings_empire,王者の帝国,69,IN,2018-08-04
-com.crowdstar.covetHome,DesignHome,70,IN,2018-08-04
-com.stac.empire.main,AgeofWarringEmpire,71,IN,2018-08-04
-com.rockstargames.gtavc,グランド・セフト・オート・バイスシティ,72,IN,2018-08-04
-com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,73,IN,2018-08-04
-com.hutchgames.cccg,TopDrives–車のカードレーシング,74,IN,2018-08-04
-com.king.farmheroessaga,ファームヒーロー,75,IN,2018-08-04
-com.appsomniacs.da2,DoodleArmy2:MiniMilitia,76,IN,2018-08-04
-eu.bandainamcoent.tekkenmobile,鉄拳™‐TEKKEN‐,77,IN,2018-08-04
-com.kamagames.pokerist,テキサス・ホールデム－Pokerist,78,IN,2018-08-04
-com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),79,IN,2018-08-04
-com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),80,IN,2018-08-04
-com.stac.aok,王権争覇：天空の戦い,81,IN,2018-08-04
-com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),82,IN,2018-08-04
-com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,83,IN,2018-08-04
-com.supercell.boombeach,ブーム・ビーチ(BoomBeach),84,IN,2018-08-04
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),85,IN,2018-08-04
-com.catdaddy.cat22,WWESuperCard-マルチプレイヤーカード対戦ゲーム,86,IN,2018-08-04
-com.vng.g6.a.zombie,DEADTARGET:Zombie,87,IN,2018-08-04
-com.rockstargames.gtasa,グランド・セフト・オート・サンアンドレアス,88,IN,2018-08-04
-com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),89,IN,2018-08-04
-com.wb.goog.injustice.brawler2017,Injustice2,90,IN,2018-08-04
-com.droidhang.ad,IdleHeroes-無料放置育成RPG,91,IN,2018-08-04
-eu.nordeus.topeleven.android,TopElevenファンタジーサッカーマネージャー,92,IN,2018-08-04
-com.bandainamcoent.dblegends_ww,DRAGONBALLLEGENDS,93,IN,2018-08-04
-com.tfgco.games.strategy.free.castlecrush,キャッスルクラッシュオンライン戦略ゲーム（CastleCrush),94,IN,2018-08-04
-com.playstudios.popslots,POP!Slots－スロット無料カジノ,95,IN,2018-08-04
-com.playgendary.tanks,TankStars,96,IN,2018-08-04
-com.netmarble.war,アイアン・スローン（IronThrone）,97,IN,2018-08-04
-com.gameloft.android.ANMP.GloftDOHM,ドラゴンマニア・レジェンド【ドラマニ】,98,IN,2018-08-04
-com.feelingtouch.zf3d,ZombieFrontier3:スナイパーFPS,99,IN,2018-08-04
-com.nautilus.RealCricket3D,RealCricket™18,100,IN,2018-08-04
-com.firsttouchgames.story,Score!Hero,101,IN,2018-08-04
-com.namcobandaigames.spmoja010E,ONEPIECETREASURECRUISE,102,IN,2018-08-04
-com.imangi.templerun2,TempleRun2,103,IN,2018-08-04
-com.king.candycrushjellysaga,キャンディークラッシュゼリー,104,IN,2018-08-04
-com.ea.games.r3_row,RealRacing3,105,IN,2018-08-04
-com.scopely.headshot,ウォーキング・デッドサバイバルへの道,106,IN,2018-08-04
-es.socialpoint.MonsterLegends,MonsterLegends-ストラテジーRPGバトル戦争,107,IN,2018-08-04
-com.hotheadgames.google.free.survivors,ヒーロー・ハンター,108,IN,2018-08-04
-com.elex.coq.gp,クラッシュオブクイーンズ-光と闇,109,IN,2018-08-04
-com.nekki.shadowfight,シャドウファイト2,110,IN,2018-08-04
-com.my.hawk.air.shooter,HAWK–フライトシューティングゲーム。撃ちまくれ,111,IN,2018-08-04
-com.kixeye.wcm,ウォーコマンダー,112,IN,2018-08-04
-com.com2us.smon.normal.freefull.google.kr.android.common,サマナーズウォー:SkyArena,113,IN,2018-08-04
-com.dipan.feelingtouch.godfather,ゴッドファーザー,114,IN,2018-08-04
-com.miniclip.archery,ArcheryKing,115,IN,2018-08-04
+com.gtarcade.lod,LegacyofDiscord-FuriousWings,70,IN,2018-08-04
+com.rockstargames.gtavc,グランド・セフト・オート・バイスシティ,71,IN,2018-08-04
+com.nextwave.wcc2,WorldCricketChampionship2,72,IN,2018-08-04
+com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),73,IN,2018-08-04
+com.stac.empire.main,AgeofWarringEmpire,74,IN,2018-08-04
+com.appsomniacs.da2,DoodleArmy2:MiniMilitia,75,IN,2018-08-04
+com.playstudios.popslots,POP!Slots－スロット無料カジノ,76,IN,2018-08-04
+com.king.farmheroessaga,ファームヒーロー,77,IN,2018-08-04
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),78,IN,2018-08-04
+com.vng.g6.a.zombie,DEADTARGET:Zombie,79,IN,2018-08-04
+com.wb.goog.injustice.brawler2017,Injustice2,80,IN,2018-08-04
+com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),81,IN,2018-08-04
+com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,82,IN,2018-08-04
+com.gameloft.android.ANMP.GloftGHHM,マーチオブエンパイア-領土戦争,83,IN,2018-08-04
+com.tfgco.games.strategy.free.castlecrush,キャッスルクラッシュオンライン戦略ゲーム（CastleCrush),84,IN,2018-08-04
+com.rockstargames.gtasa,グランド・セフト・オート・サンアンドレアス,85,IN,2018-08-04
+eu.bandainamcoent.tekkenmobile,鉄拳™‐TEKKEN‐,86,IN,2018-08-04
+eu.nordeus.topeleven.android,TopElevenファンタジーサッカーマネージャー,87,IN,2018-08-04
+com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,88,IN,2018-08-04
+com.fungames.battletanksbeta,戦争兵器-無料3D戦車ゲーム-WarMachines,89,IN,2018-08-04
+com.droidhang.ad,IdleHeroes-無料放置育成RPG,90,IN,2018-08-04
+com.namcobandaigames.spmoja010E,ONEPIECETREASURECRUISE,91,IN,2018-08-04
+com.bandainamcoent.dblegends_ww,DRAGONBALLLEGENDS,92,IN,2018-08-04
+com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),93,IN,2018-08-04
+com.playgendary.tanks,TankStars,94,IN,2018-08-04
+com.hotheadgames.google.free.survivors,ヒーロー・ハンター,95,IN,2018-08-04
+com.netmarble.war,アイアン・スローン（IronThrone）,96,IN,2018-08-04
+com.feelingtouch.zf3d,ZombieFrontier3:スナイパーFPS,97,IN,2018-08-04
+com.catdaddy.cat22,WWESuperCard-マルチプレイヤーカード対戦ゲーム,98,IN,2018-08-04
+com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),99,IN,2018-08-04
+com.supercell.boombeach,ブーム・ビーチ(BoomBeach),100,IN,2018-08-04
+es.socialpoint.MonsterLegends,MonsterLegends-ストラテジーRPGバトル戦争,101,IN,2018-08-04
+com.nautilus.RealCricket3D,RealCricket™18,102,IN,2018-08-04
+com.com2us.smon.normal.freefull.google.kr.android.common,サマナーズウォー:SkyArena,103,IN,2018-08-04
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,104,IN,2018-08-04
+com.king.candycrushjellysaga,キャンディークラッシュゼリー,105,IN,2018-08-04
+com.imangi.templerun2,TempleRun2,106,IN,2018-08-04
+com.nekki.shadowfight,シャドウファイト2,107,IN,2018-08-04
+com.elex.coq.gp,クラッシュオブクイーンズ-光と闇,108,IN,2018-08-04
+com.my.hawk.air.shooter,HAWK–フライトシューティングゲーム。撃ちまくれ,109,IN,2018-08-04
+com.firsttouchgames.story,Score!Hero,110,IN,2018-08-04
+com.stac.aok,王権争覇：天空の戦い,111,IN,2018-08-04
+com.ea.games.r3_row,RealRacing3,112,IN,2018-08-04
+com.joycity.potc,パイレーツ・オブ・カリビアン大海の覇者,113,IN,2018-08-04
+com.tenbirds.ire,アイア(Ire:BloodMemory),114,IN,2018-08-04
+com.scopely.headshot,ウォーキング・デッドサバイバルへの道,115,IN,2018-08-04
 bubbleshooter.orig,バブルシューター:BubbleShooter,116,IN,2018-08-04
-com.fungames.battletanksbeta,戦争兵器-無料3D戦車ゲーム-WarMachines,117,IN,2018-08-04
-com.episodeinteractive.android.catalog,Episode-ChooseYourStory,118,IN,2018-08-04
-com.joycity.potc,パイレーツ・オブ・カリビアン大海の覇者,119,IN,2018-08-04
-com.bandainamcogames.dbzdokkanww,DRAGONBALLZDOKKANBATTLE,120,IN,2018-08-04
-es.socialpoint.DragonCity,ドラゴンシティ,121,IN,2018-08-04
-com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,122,IN,2018-08-04
-com.ea.gp.nbamobile,NBALIVEMobileBasketball,123,IN,2018-08-04
-com.crowdstar.covetfashion,CovetFashion-DressUpGame,124,IN,2018-08-04
-com.mojang.minecraftpe,Minecraft,125,IN,2018-08-04
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,126,IN,2018-08-04
-com.gamedevltd.modernstrike,モダンストライクオンライン:3DＦＰＳシューティング銃撃ゲーム,127,IN,2018-08-04
-com.playgendary.kickthebuddy,KicktheBuddy,128,IN,2018-08-04
-com.tenbirds.ire,アイア(Ire:BloodMemory),129,IN,2018-08-04
-com.ninemgames.tennis.google,アルティメットテニス,130,IN,2018-08-04
+com.dipan.feelingtouch.godfather,ゴッドファーザー,117,IN,2018-08-04
+com.gamedevltd.modernstrike,モダンストライクオンライン:3DＦＰＳシューティング銃撃ゲーム,118,IN,2018-08-04
+com.miniclip.archery,ArcheryKing,119,IN,2018-08-04
+com.episodeinteractive.android.catalog,Episode-ChooseYourStory,120,IN,2018-08-04
+com.ea.gp.nbamobile,NBALIVEMobileBasketball,121,IN,2018-08-04
+com.crowdstar.covetfashion,CovetFashion-DressUpGame,122,IN,2018-08-04
+com.alien.shooter.galaxy.attack,GalaxyAttack:AlienShooter,123,IN,2018-08-04
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,124,IN,2018-08-04
+com.playgendary.kickthebuddy,KicktheBuddy,125,IN,2018-08-04
+zombie.survival.craft.z,LastDayonEarth:Survival,126,IN,2018-08-04
+com.kixeye.wcm,ウォーコマンダー,127,IN,2018-08-04
+com.bandainamcogames.dbzdokkanww,DRAGONBALLZDOKKANBATTLE,128,IN,2018-08-04
+com.mojang.minecraftpe,Minecraft,129,IN,2018-08-04
+com.and.riseofthekings,RiseoftheKings,130,IN,2018-08-04
 com.huuuge.casino.slots,Huuugeカジノ™オンラインスロット、世界で1000万人が遊ぶラスベガスSlotsとカジノゲーム,131,IN,2018-08-04
-com.alien.shooter.galaxy.attack,GalaxyAttack:AlienShooter,132,IN,2018-08-04
-com.timuzgames.bikeracing2018,BikeRacing2018-ExtremeBikeRace,133,IN,2018-08-04
-com.and.riseofthekings,RiseoftheKings,134,IN,2018-08-04
-com.ngame.allstar.india,ArenaofValor:5v5Battle,135,IN,2018-08-04
-zombie.survival.craft.z,LastDayonEarth:Survival,136,IN,2018-08-04
-com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,137,IN,2018-08-04
-com.topface.kisskiss,KissKiss:spinthebottle,138,IN,2018-08-04
-com.naturalmotion.customstreetracer2,CSRRacing2,139,IN,2018-08-04
-com.ftt.boxingstar.gl.aos,ボクシングスター(BoxingStar),140,IN,2018-08-04
-com.king.petrescuesaga,ペットレスキュー,141,IN,2018-08-04
-com.gameloft.android.ANMP.GloftFWHM,スナイパーフューリー：トップシューティングゲーム【FPS】,142,IN,2018-08-04
-com.chess,チェス·遊ぶ、学ぶ,143,IN,2018-08-04
-com.n3twork.legendary,Legendary:GameofHeroes,144,IN,2018-08-04
-com.king.bubblewitch3,バブルウィッチ3,145,IN,2018-08-04
-com.theonegames.gunshipbattle,ガンシップ・バトル,146,IN,2018-08-04
-com.hcg.ctw.gp,ClashofKings:TheWest,147,IN,2018-08-04
-com.games24x7.cardclub.playstore,UltimateCardClub,148,IN,2018-08-04
-com.tag.aquaadventure,AquaAdventure,149,IN,2018-08-04
-com.legacy.titans.diacord.mu.eternal.origin.blade,LegacyofDestiny-MostfairandromanticMMORPG,150,IN,2018-08-04
-com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,151,IN,2018-08-04
-com.squareenixmontreal.hitmansniperandroid,ヒットマンスナイパー(HitmanSniper),152,IN,2018-08-04
-com.ludo.king,LudoKing™,153,IN,2018-08-04
-com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,154,IN,2018-08-04
-com.matchington.mansion,マッチングトン·マンション,155,IN,2018-08-04
-com.generagames.resistance,カバー火：無料オフラインシューティングゲーム(CoverFire),156,IN,2018-08-04
+com.timuzgames.bikeracing2018,BikeRacing2018-ExtremeBikeRace,132,IN,2018-08-04
+com.ngame.allstar.india,ArenaofValor:5v5Battle,133,IN,2018-08-04
+com.ninemgames.tennis.google,アルティメットテニス,134,IN,2018-08-04
+es.socialpoint.DragonCity,ドラゴンシティ,135,IN,2018-08-04
+com.legacy.titans.diacord.mu.eternal.origin.blade,LegacyofDestiny-MostfairandromanticMMORPG,136,IN,2018-08-04
+com.topface.kisskiss,KissKiss:spinthebottle,137,IN,2018-08-04
+com.chess,チェス·遊ぶ、学ぶ,138,IN,2018-08-04
+com.foxnextgames.m3,MARVELストライクフォース,139,IN,2018-08-04
+com.king.bubblewitch3,バブルウィッチ3,140,IN,2018-08-04
+com.theonegames.gunshipbattle,ガンシップ・バトル,141,IN,2018-08-04
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,142,IN,2018-08-04
+com.games24x7.cardclub.playstore,UltimateCardClub,143,IN,2018-08-04
+com.hcg.ctw.gp,ClashofKings:TheWest,144,IN,2018-08-04
+air.com.buffalo_studios.newflashbingo,BINGOBLITZ-ビンゴゲーム-ビンゴスロット,145,IN,2018-08-04
+com.ftt.boxingstar.gl.aos,ボクシングスター(BoxingStar),146,IN,2018-08-04
+com.gameloft.android.ANMP.GloftFWHM,スナイパーフューリー：トップシューティングゲーム【FPS】,147,IN,2018-08-04
+com.tap4fun.brutalage_test,BrutalAge:HordeInvasion,148,IN,2018-08-04
+com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,149,IN,2018-08-04
+air.com.playtika.slotomania,Slotomania™-FreeSlots英語版,150,IN,2018-08-04
+com.generagames.resistance,カバー火：無料オフラインシューティングゲーム(CoverFire),151,IN,2018-08-04
+com.innogames.foeandroid,ForgeofEmpires,152,IN,2018-08-04
+com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),153,IN,2018-08-04
+com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,154,IN,2018-08-04
+com.ludo.king,LudoKing™,155,IN,2018-08-04
+com.king.petrescuesaga,ペットレスキュー,156,IN,2018-08-04
 and.onemt.war.en,RevengeofSultans,157,IN,2018-08-04
-com.gameloft.android.ANMP.GloftASHM,アメイジング・スパイダーマン2,158,IN,2018-08-04
-com.tap4fun.brutalage_test,BrutalAge:HordeInvasion,159,IN,2018-08-04
-com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,160,IN,2018-08-04
-air.com.playtika.slotomania,Slotomania™-FreeSlots英語版,161,IN,2018-08-04
-com.foxnextgames.m3,MARVELストライクフォース,162,IN,2018-08-04
-com.tap4fun.reignofwar,インベーション,163,IN,2018-08-04
-com.lockwoodpublishing.avakinlife,AvakinLife,164,IN,2018-08-04
-air.com.spicerackmedia.bingoshowdown,BingoShowdown-ビンゴゲーム–BingoLive,165,IN,2018-08-04
-com.heroesofchaos.koramgame.global,Goddess:PrimalChaos-SEAFree3DActionMMORPG,166,IN,2018-08-04
-com.square_enix.android_googleplay.FFBEWW,FINALFANTASYBRAVEEXVIUS,167,IN,2018-08-04
-com.rovio.angrybirdsfriends,AngryBirdsFriends,168,IN,2018-08-04
-air.com.buffalo_studios.newflashbingo,BINGOBLITZ-ビンゴゲーム-ビンゴスロット,169,IN,2018-08-04
-com.ea.game.pvz2_row,Plantsvs.Zombies2,170,IN,2018-08-04
-com.productmadness.cashmancasino,CashmanCasinoSlot:無料カジノスロットゲーム,171,IN,2018-08-04
-bubbles.aura,AuraBubbles,172,IN,2018-08-04
-com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),173,IN,2018-08-04
-com.topgamesinc.evony,エボニー-王の帰還,174,IN,2018-08-04
-com.gamedevltd.wwh,ワールドウォーヒーローズ,175,IN,2018-08-04
-air.com.goodgamestudios.empirefourkingdoms,エンパイア・フォーキングダム(Empire),176,IN,2018-08-04
+com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,158,IN,2018-08-04
+com.squareenixmontreal.hitmansniperandroid,ヒットマンスナイパー(HitmanSniper),159,IN,2018-08-04
+com.matchington.mansion,マッチングトン·マンション,160,IN,2018-08-04
+com.lockwoodpublishing.avakinlife,AvakinLife,161,IN,2018-08-04
+com.tap4fun.reignofwar,インベーション,162,IN,2018-08-04
+com.firsttouchgames.smp,Score!Match,163,IN,2018-08-04
+com.tag.roadrunner,RoadRunner,164,IN,2018-08-04
+com.heroesofchaos.koramgame.global,Goddess:PrimalChaos-SEAFree3DActionMMORPG,165,IN,2018-08-04
+com.topgamesinc.evony,エボニー-王の帰還,166,IN,2018-08-04
+air.com.spicerackmedia.bingoshowdown,BingoShowdown-ビンゴゲーム–BingoLive,167,IN,2018-08-04
+com.gameloft.android.ANMP.GloftASHM,アメイジング・スパイダーマン2,168,IN,2018-08-04
+com.naturalmotion.customstreetracer2,CSRRacing2,169,IN,2018-08-04
+com.ludia.jw2,JurassicWorld™アライブ!,170,IN,2018-08-04
+com.swiftappskom.thetigerrpg,TheTiger,171,IN,2018-08-04
+com.rovio.angrybirdsfriends,AngryBirdsFriends,172,IN,2018-08-04
+net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,173,IN,2018-08-04
+com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,174,IN,2018-08-04
+com.plarium.military,ソルジャーズ・インク,175,IN,2018-08-04
+bubbles.aura,AuraBubbles,176,IN,2018-08-04
 com.miniclip.soccerstars,SoccerStars,177,IN,2018-08-04
-com.swiftappskom.thetigerrpg,TheTiger,178,IN,2018-08-04
-air.com.playtika.cvs,VegasWords-DowntownSlots,179,IN,2018-08-04
-com.firsttouchgames.smp,Score!Match,180,IN,2018-08-04
-shooter.two.purple,BubbleShooter2,181,IN,2018-08-04
-net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,182,IN,2018-08-04
-com.ludia.jw2,JurassicWorld™アライブ!,183,IN,2018-08-04
-com.pacificinteractive.HouseOfFun,フリー・スロットカジノ-HouseofFunゲーム,184,IN,2018-08-04
-com.innogames.foeandroid,ForgeofEmpires,185,IN,2018-08-04
-com.fingersoft.hcr2,HillClimbRacing2,186,IN,2018-08-04
-com.bandainamcoent.ninjavoltage_app,NARUTOXBORUTONINJAVOLTAGE,187,IN,2018-08-04
-com.nttsolmare.game.android.def,Moe!NinjaGirls,188,IN,2018-08-04
-com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス～シューティング・マフィアゲーム～,189,IN,2018-08-04
-mobi.gameguru.racingfevermoto,RacingFever:Moto,190,IN,2018-08-04
-com.reliancegames.wwemayhem,WWEMayhem,191,IN,2018-08-04
-com.nukeboxstudios.foodtruckchef,フードトラック・シェフ:料理ゲーム,192,IN,2018-08-04
-com.bestfreegames.busracinghillclimb,BusRacing-HillClimb,193,IN,2018-08-04
-com.tencent.teenpattiworld,TeenPattiLove-3Patti,194,IN,2018-08-04
-com.doubleugames.DoubleUCasino,DoubleUCasino-FreeSlots,195,IN,2018-08-04
-com.timuzgames.eurobussimulator2018,EuroBusSimulator2018,196,IN,2018-08-04
-com.fgol.HungrySharkEvolution,ハングリーシャーク・エボリューション,197,IN,2018-08-04
-com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,198,IN,2018-08-04
-com.nway.powerrangerslegacywars,パワーレンジャー:レガシー　ウォーズ,199,IN,2018-08-04
-com.camelgames.superking,WarandOrder,200,IN,2018-08-04
-ata.squid.pimd,PartyinmyDorm,201,IN,2018-08-04
-com.rovio.battlebay,BattleBay,202,IN,2018-08-04
-com.jetplay.sachinsagacc,SachinSagaCricketChampions,203,IN,2018-08-04
-com.gamesofa.android.teenpatti,TeenPatti-Bollywood3Patti,204,IN,2018-08-04
-com.greenteagames.dogracing3d,DogRun-PetDogSimulator,205,IN,2018-08-04
-com.fds.infiniteflight,InfiniteFlightSimulator,206,IN,2018-08-04
-com.sticksports.spl2,StickCricketSuperLeague,207,IN,2018-08-04
-com.playgendary.kniferush,KnifeRush,208,IN,2018-08-04
-com.youdagames.gop3multiplayer,GovernorofPoker3-TexasHoldemPokerOnline,209,IN,2018-08-04
-jp.konami.pesclubmanager,ウイニングイレブンクラブマネージャー/ウイクラ【サッカー】,210,IN,2018-08-04
-com.twelvegigs.heaven.vpoker,ビデオポーカーゲーム日本語・無料！オンライン,211,IN,2018-08-04
-com.zynga.FarmVille2CountryEscape,FarmVille2:のんびり農場生活,212,IN,2018-08-04
-com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,213,IN,2018-08-04
-com.blacklightsw.ludo,"LudoGame:New(2018)DiceGame,TheStar",214,IN,2018-08-04
-com.hitwicket.unity,Hitwicket™T20CricketGame2018,215,IN,2018-08-04
-com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,216,IN,2018-08-04
-com.ea.games.nfs13_row,NeedforSpeed™MostWanted,217,IN,2018-08-04
-com.igg.clashoflords2,ClashofLords2:GuildCastle,218,IN,2018-08-04
-com.wordgame.puzzle.board.en,WordCross,219,IN,2018-08-04
-com.topfreegames.bikeracefreeworld,バイクレース無料レースゲーム(BikeRace),220,IN,2018-08-04
-leyi.blazeofbattle,BlazeofBattle,221,IN,2018-08-04
-com.droidhen.game.poker,テキサス・ホールデム達人,222,IN,2018-08-04
-com.mgs.sniper1,SniperStrike–FPS3DShootingGame,223,IN,2018-08-04
-com.bigblueparrot.pokerfriends,PokerHeat:テキサスホールデムポーカー,224,IN,2018-08-04
-com.rsg.heroesevolved,HeroesEvolved,225,IN,2018-08-04
-com.feelingtouch.empirewaronline,帝国戦争,226,IN,2018-08-04
-com.gameloft.android.ANMP.GloftSIHM,MARVELスパイダーマン・アンリミテッド,227,IN,2018-08-04
-com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,228,IN,2018-08-04
-com.pnixgames.bowlingking,BowlingKing,229,IN,2018-08-04
-com.mss.wheelspin,MoneyWheelSlotMachineGame,230,IN,2018-08-04
-com.skgames.trafficrider,TrafficRider,231,IN,2018-08-04
-com.backflipstudios.transformersearthwars,トランスフォーマー：アースウォーズ,232,IN,2018-08-04
-com.bahubali.game,Baahubali:TheGame(Official),233,IN,2018-08-04
-com.plarium.military,ソルジャーズ・インク,234,IN,2018-08-04
-com.Tysoul.CallofWar.GoldenAgeAgain,LordsofEmpire:KingdomWar-StrategyRPG,235,IN,2018-08-04
-com.mars.avgchapters,Chapters:InteractiveStories,236,IN,2018-08-04
-com.ea.game.starwarscapital_row,スター・ウォーズ／銀河の英雄,237,IN,2018-08-04
-com.boyaa.fben,BoyaaPoker(En)–SocialTexasHold’em,238,IN,2018-08-04
+com.sticksports.spl2,StickCricketSuperLeague,178,IN,2018-08-04
+com.fingersoft.hcr2,HillClimbRacing2,179,IN,2018-08-04
+com.bandainamcoent.ninjavoltage_app,NARUTOXBORUTONINJAVOLTAGE,180,IN,2018-08-04
+air.com.goodgamestudios.empirefourkingdoms,エンパイア・フォーキングダム(Empire),181,IN,2018-08-04
+com.ea.game.pvz2_row,Plantsvs.Zombies2,182,IN,2018-08-04
+shooter.two.purple,BubbleShooter2,183,IN,2018-08-04
+com.ea.game.starwarscapital_row,スター・ウォーズ／銀河の英雄,184,IN,2018-08-04
+com.gamedevltd.wwh,ワールドウォーヒーローズ,185,IN,2018-08-04
+com.timuzgames.eurobussimulator2018,EuroBusSimulator2018,186,IN,2018-08-04
+com.doubleugames.DoubleUCasino,DoubleUCasino-FreeSlots,187,IN,2018-08-04
+com.nukeboxstudios.foodtruckchef,フードトラック・シェフ:料理ゲーム,188,IN,2018-08-04
+com.reliancegames.wwemayhem,WWEMayhem,189,IN,2018-08-04
+com.fgol.HungrySharkEvolution,ハングリーシャーク・エボリューション,190,IN,2018-08-04
+jp.konami.pesclubmanager,ウイニングイレブンクラブマネージャー/ウイクラ【サッカー】,191,IN,2018-08-04
+com.igg.clashoflords2,ClashofLords2:GuildCastle,192,IN,2018-08-04
+com.zynga.FarmVille2CountryEscape,FarmVille2:のんびり農場生活,193,IN,2018-08-04
+com.backflipstudios.transformersearthwars,トランスフォーマー：アースウォーズ,194,IN,2018-08-04
+com.bestfreegames.busracinghillclimb,BusRacing-HillClimb,195,IN,2018-08-04
+air.com.sgn.cookiejamblast.gp,クッキージャム・ブラスト,196,IN,2018-08-04
+com.hitwicket.unity,Hitwicket™T20CricketGame2018,197,IN,2018-08-04
+ata.squid.pimd,PartyinmyDorm,198,IN,2018-08-04
+com.playgendary.kniferush,KnifeRush,199,IN,2018-08-04
+com.pacificinteractive.HouseOfFun,フリー・スロットカジノ-HouseofFunゲーム,200,IN,2018-08-04
+com.gtarcade.eoa,EraofCelestials,201,IN,2018-08-04
+com.jellybtn.boardkings,BoardKings,202,IN,2018-08-04
+com.fds.infiniteflight,InfiniteFlightSimulator,203,IN,2018-08-04
+com.camelgames.superking,WarandOrder,204,IN,2018-08-04
+com.nttsolmare.game.android.def,Moe!NinjaGirls,205,IN,2018-08-04
+leyi.blazeofbattle,BlazeofBattle,206,IN,2018-08-04
+com.twelvegigs.heaven.vpoker,ビデオポーカーゲーム日本語・無料！オンライン,207,IN,2018-08-04
+com.mss.wheelspin,MoneyWheelSlotMachineGame,208,IN,2018-08-04
+com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス～シューティング・マフィアゲーム～,209,IN,2018-08-04
+com.gameloft.android.ANMP.GloftSIHM,MARVELスパイダーマン・アンリミテッド,210,IN,2018-08-04
+com.gamesofa.android.teenpatti,TeenPatti-Bollywood3Patti,211,IN,2018-08-04
+com.nway.powerrangerslegacywars,パワーレンジャー:レガシー　ウォーズ,212,IN,2018-08-04
+com.productmadness.cashmancasino,CashmanCasinoSlot:無料カジノスロットゲーム,213,IN,2018-08-04
+com.wordgame.puzzle.board.en,WordCross,214,IN,2018-08-04
+com.feelingtouch.empirewaronline,帝国戦争,215,IN,2018-08-04
+com.greenteagames.dogracing3d,DogRun-PetDogSimulator,216,IN,2018-08-04
+com.rsg.heroesevolved,HeroesEvolved,217,IN,2018-08-04
+com.blacklightsw.ludo,"LudoGame:New(2018)DiceGame,TheStar",218,IN,2018-08-04
+com.Tysoul.CallofWar.GoldenAgeAgain,LordsofEmpire:KingdomWar-StrategyRPG,219,IN,2018-08-04
+com.mars.avgchapters,Chapters:InteractiveStories,220,IN,2018-08-04
+com.jetplay.sachinsagacc,SachinSagaCricketChampions,221,IN,2018-08-04
+mobi.gameguru.racingfevermoto,RacingFever:Moto,222,IN,2018-08-04
+com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,223,IN,2018-08-04
+com.ea.games.nfs13_row,NeedforSpeed™MostWanted,224,IN,2018-08-04
+com.netease.g78na.gb,決戦！平安京,225,IN,2018-08-04
+com.n3twork.legendary,Legendary:GameofHeroes,226,IN,2018-08-04
+com.ocous.sowbeta,StormofWars:SacredHomeland,227,IN,2018-08-04
+com.youdagames.gop3multiplayer,GovernorofPoker3-TexasHoldemPokerOnline,228,IN,2018-08-04
+com.bigblueparrot.pokerfriends,PokerHeat:テキサスホールデムポーカー,229,IN,2018-08-04
+com.hotheadgames.google.free.ks2,KillShotBravo,230,IN,2018-08-04
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,231,IN,2018-08-04
+com.asobimo.toramonline,トーラムオンライン自由を謳歌する正統派MMORPG,232,IN,2018-08-04
+com.nordcurrent.sniperarena,SniperArena:PvPArmyShooter,233,IN,2018-08-04
+uk.co.childishthings.cricketcaptain2018,CricketCaptain2018,234,IN,2018-08-04
+com.word.puzzle.game.connect,WordLink,235,IN,2018-08-04
+com.gameloft.android.ANMP.GloftD6HM,DarkQuestChampions：本格オンラインアクションRPG,236,IN,2018-08-04
+com.superevilmegacorp.game,Vainglory5V5,237,IN,2018-08-04
+com.pennypop.monsters.live,BattleCamp:バトルキャンプ-モンスター狩,238,IN,2018-08-04
 com.lilithgame.roc.gp,RiseofCivilizations,239,IN,2018-08-04
-com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,240,IN,2018-08-04
-com.word.puzzle.game.connect,WordLink,241,IN,2018-08-04
+com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,240,IN,2018-08-04
+com.topfreegames.bikeracefreeworld,バイクレース無料レースゲーム(BikeRace),241,IN,2018-08-04
 com.weplaydots.twodotsandroid,TwoDots,242,IN,2018-08-04
-com.rovio.tnt,AngryBirdsEvolution,243,IN,2018-08-04
-com.asobimo.toramonline,トーラムオンライン自由を謳歌する正統派MMORPG,244,IN,2018-08-04
-com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,245,IN,2018-08-04
-com.igoldtech.streetchaser,ストリートチェイサー,246,IN,2018-08-04
-air.com.bitrhymes.bingo,タイトル:BingoBash–無料のビンゴカジノ,247,IN,2018-08-04
-com.teenpattiarena.supreme2017,RummyOnline-UltimateRummyCircle,248,IN,2018-08-04
-uk.co.childishthings.cricketcaptain2018,CricketCaptain2018,249,IN,2018-08-04
-com.microsoft.ageofempirescastlesiege,AgeofEmpires:CastleSiege,250,IN,2018-08-04
-com.kixeye.vegaconflict,VEGAConflict,251,IN,2018-08-04
-com.rovio.blast,アングリーバードブラスト,252,IN,2018-08-04
-com.pennypop.monsters.live,BattleCamp:バトルキャンプ-モンスター狩,253,IN,2018-08-04
-com.hourgames.stormofwar,ウオー・ストームクラッシュ・ヒーロー,254,IN,2018-08-04
-com.nordcurrent.sniperarena,SniperArena:PvPArmyShooter,255,IN,2018-08-04
-air.com.sgn.cookiejamblast.gp,クッキージャム・ブラスト,256,IN,2018-08-04
-com.mengxiang.lastkingdom.gp,RiseofEmpire:King'sLanding,257,IN,2018-08-04
-com.superevilmegacorp.game,Vainglory5V5,258,IN,2018-08-04
-com.elestorm.bingoadventure,BingoAdventure-WorldTour,259,IN,2018-08-04
-com.g5e.hiddencity.android,HiddenCity:アイテム探しアドベンチャー,260,IN,2018-08-04
-com.sgn.pandapop.gp,パンダポップ,261,IN,2018-08-04
-com.jellybtn.boardkings,BoardKings,262,IN,2018-08-04
-com.playshoo.texaspoker.indiaen,ShahiIndiaPoker-FreeTexasHold'em&Slots&Cards,263,IN,2018-08-04
-com.rovio.abmatch3,アングリーバードマッチ(AngryBirdsMatch),264,IN,2018-08-04
-com.gtarcade.eoa,EraofCelestials,265,IN,2018-08-04
-com.criticalforceentertainment.criticalops,CriticalOps,266,IN,2018-08-04
-com.wb.goog.mkx,MORTALKOMBATX,267,IN,2018-08-04
+com.skgames.trafficrider,TrafficRider,243,IN,2018-08-04
+com.tencent.teenpattiworld,TeenPattiLove-3Patti,244,IN,2018-08-04
+com.kixeye.vegaconflict,VEGAConflict,245,IN,2018-08-04
+com.hourgames.stormofwar,ウオー・ストームクラッシュ・ヒーロー,246,IN,2018-08-04
+com.ftxgames.narcos,Narcos:CartelWars,247,IN,2018-08-04
+com.rovio.blast,アングリーバードブラスト,248,IN,2018-08-04
+com.bahubali.game,Baahubali:TheGame(Official),249,IN,2018-08-04
+com.teenpattiarena.supreme2017,RummyOnline-UltimateRummyCircle,250,IN,2018-08-04
+com.pnixgames.bowlingking,BowlingKing,251,IN,2018-08-04
+com.mgs.sniper1,SniperStrike–FPS3DShootingGame,252,IN,2018-08-04
+com.sgn.pandapop.gp,パンダポップ,253,IN,2018-08-04
+com.droidhen.game.poker,テキサス・ホールデム達人,254,IN,2018-08-04
+com.g5e.hiddencity.android,HiddenCity:アイテム探しアドベンチャー,255,IN,2018-08-04
+com.rovio.tnt,AngryBirdsEvolution,256,IN,2018-08-04
+com.square_enix.android_googleplay.FFBEWW,FINALFANTASYBRAVEEXVIUS,257,IN,2018-08-04
+com.Seriously.BestFiends,BestFiends-無料のパズルゲーム,258,IN,2018-08-04
+com.beestudio.kkpoker,KKPoker,259,IN,2018-08-04
+com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,260,IN,2018-08-04
+freedom.bubble,BubbleFreedom,261,IN,2018-08-04
+com.rovio.battlebay,BattleBay,262,IN,2018-08-04
+com.bladewings.poppace,Blade&Wings:FutureFantasy3DAnimeMMORPGGame,263,IN,2018-08-04
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,264,IN,2018-08-04
+com.rovio.abmatch3,アングリーバードマッチ(AngryBirdsMatch),265,IN,2018-08-04
+com.hippogames.ludosaga,LudoMaster–BestLudoGame2018,266,IN,2018-08-04
+com.playtika.caesarscasino,CaesarsSlots:FreeSlotMachinesandCasinoGames,267,IN,2018-08-04
 com.aim.racing,ExtremeCarDrivingSimulator,268,IN,2018-08-04
-com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,269,IN,2018-08-04
-com.bladewings.poppace,Blade&Wings:FutureFantasy3DAnimeMMORPGGame,270,IN,2018-08-04
-com.kamagames.roulettist,カジノルーレット：Roulettist,271,IN,2018-08-04
-com.t2ksports.wwe2k15mobile,WWE2K,272,IN,2018-08-04
-com.timuzgames.runrun3,RUNRUN3D-3,273,IN,2018-08-04
-freedom.bubble,BubbleFreedom,274,IN,2018-08-04
-com.hippogames.ludosaga,LudoMaster–BestLudoGame2018,275,IN,2018-08-04
-com.Seriously.BestFiends,BestFiends-無料のパズルゲーム,276,IN,2018-08-04
-com.hotheadgames.google.free.ks2,KillShotBravo,277,IN,2018-08-04
-com.naturalmotion.dawnoftitans,DawnofTitans-壮大な戦略ゲーム,278,IN,2018-08-04
+com.microsoft.ageofempirescastlesiege,AgeofEmpires:CastleSiege,269,IN,2018-08-04
+air.com.bitrhymes.bingo,タイトル:BingoBash–無料のビンゴカジノ,270,IN,2018-08-04
+com.igoldtech.streetchaser,ストリートチェイサー,271,IN,2018-08-04
+com.wb.goog.mkx,MORTALKOMBATX,272,IN,2018-08-04
+com.gameloft.android.ANMP.GloftHFHM,IronBlade（アイアンブレイド）,273,IN,2018-08-04
+com.kamagames.roulettist,カジノルーレット：Roulettist,274,IN,2018-08-04
+com.milliongamesnew.dinosaurgamessimulator2018,DinosaurGamesSimulator2018,275,IN,2018-08-04
+com.t2ksports.wwe2k15mobile,WWE2K,276,IN,2018-08-04
+com.milliongames.russiantrainsimulator,RussianTrainSimulator,277,IN,2018-08-04
+bubbles.pop.power,PowerPopBubbles,278,IN,2018-08-04
 com.giantssoftware.fs18.google,FarmingSimulator18,279,IN,2018-08-04
-jp.konami.wecc,ウイニングイレブンカードコレクション,280,IN,2018-08-04
-com.gameloft.android.ANMP.GloftD6HM,DarkQuestChampions：本格オンラインアクションRPG,281,IN,2018-08-04
-com.games37.yhjy,BladesandRings,282,IN,2018-08-04
-com.evogames.slavsforvk,実りの地,283,IN,2018-08-04
-com.perplelab.dragonvillagem.kr,ドラゴンRPG-ドラゴンビレッジM,284,IN,2018-08-04
-com.gameloft.android.ANMP.GloftHFHM,IronBlade（アイアンブレイド）,285,IN,2018-08-04
-com.milliongamesnew.dinosaurgamessimulator2018,DinosaurGamesSimulator2018,286,IN,2018-08-04
-com.ftxgames.narcos,Narcos:CartelWars,287,IN,2018-08-04
-com.freegames.mountaincardriving,MountainCarDrive,288,IN,2018-08-04
-com.milliongames.russiantrainsimulator,RussianTrainSimulator,289,IN,2018-08-04
-com.cympl.masalaexpressgame,MasalaExpress:CookingGame,290,IN,2018-08-04
-com.tencent.warwings2,ウォー・ウィングス(WarWings),291,IN,2018-08-04
-com.playtika.caesarscasino,CaesarsSlots:FreeSlotMachinesandCasinoGames,292,IN,2018-08-04
-com.zentertain.classicvegasslots,Slots™-ラスベガスカジノスタイルのスロットマシン,293,IN,2018-08-04
-jp.pokemon.pokemoncomaster,ポケモンコマスター,294,IN,2018-08-04
-com.nordcurrent.murderinalps,MurderintheAlps,295,IN,2018-08-04
-com.tap4fun.galaxyempire2_android,銀河の伝説-宇宙制覇系のSFゲーム,296,IN,2018-08-04
-bubbles.pop.power,PowerPopBubbles,297,IN,2018-08-04
-com.spilgames.UphillRush,UphillRushウォータースライダーゲーム,298,IN,2018-08-04
-com.kamagames.blackjack,ブラックジャック21:Blackjackist,299,IN,2018-08-04
-com.miniclip.basketballstars,BasketballStars,300,IN,2018-08-04
-com.mobirix.swipebrick2,ブリックスブレーカークエスト,301,IN,2018-08-04
-com.klab.captain283.global,CaptainTsubasa:DreamTeam,302,IN,2018-08-04
-com.jungleegames.teenpatti,JungleeTeenPatti3D,303,IN,2018-08-04
-com.pnixgames.minigolfking,MiniGolfKing-マルチプレイヤーゲーム,304,IN,2018-08-04
-com.zitga.ninja.stickman.legends.shadow.wars,StickmanLegends:ShadowWars,305,IN,2018-08-04
-com.uken.BingoPop,BingoPop,306,IN,2018-08-04
-com.elex.nikkigp,LoveNikki-DressUPQueen,307,IN,2018-08-04
-com.aki.teenpatti.ind,Teen Patti Unlimited Club,308,IN,2018-08-04
-com.gismart.realpianofree,ピアノ-ぴあの鍵盤リアル曲げーむ,309,IN,2018-08-04
-com.productmadness.hovmobile,HeartofVegas:オンラインカジノスロットアプリ,310,IN,2018-08-04
-com.ujoy.rings,WarofRings-AwakenDragonkin,311,IN,2018-08-04
-com.king.blossomblast,ブロッサム・ブラスト,312,IN,2018-08-04
-com.squareenix.lis,ライフイズストレンジ,313,IN,2018-08-04
-com.ubisoft.hungrysharkworld,HungrySharkWorld,314,IN,2018-08-04
-com.miHoYo.bh3global,HonkaiImpact3rd,315,IN,2018-08-04
-com.qoontree.b17poker,"B17Poker-TexasHold'em,Livecampoker",316,IN,2018-08-04
-com.netease.g78na.gb,決戦！平安京,317,IN,2018-08-04
-com.plarium.zoo,FamilyZoo:TheStory,318,IN,2018-08-04
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,319,IN,2018-08-04
-in.loop.hdmakeover,ホームデザインメイクオーバー,320,IN,2018-08-04
-com.fillword.cross.wordmind.en,WordCrossy-Acrosswordgame,321,IN,2018-08-04
-com.ninjakiwi.bftg,ギャラクシーのための戦い,322,IN,2018-08-04
-com.milliongames.happybikewheels,HappyBikeWheels,323,IN,2018-08-04
-com.erepubliklabs.worldatwar,WorldatWar:WW2StrategyMMO,324,IN,2018-08-04
-com.beestudio.kkpoker,KKPoker,325,IN,2018-08-04
-com.wordsmobile.gunship,ヘリコプター空襲-GunshipStrike3D,326,IN,2018-08-04
-com.rafotech.piggyboom,PiggyBoom,327,IN,2018-08-04
-com.swiftappskom.thewolfrpg,TheWolf,328,IN,2018-08-04
-com.snailgameusa.dragonrevolt,DragonRevolt-ClassicMMORPG,329,IN,2018-08-04
-jp.co.cybird.appli.android.als.en,IkemenRevolution~Love&MagicinWonderland~,330,IN,2018-08-04
-com.spaceapegames.rivalkingdoms,ライバル・キングダムー失われた都ー,331,IN,2018-08-04
-com.glu.gordondashx,RESTAURANTDASH:GORDONRAMSAY,332,IN,2018-08-04
-com.bestfreegames.dinosaurbattlesimulator,DinosaurBattleSimulator,333,IN,2018-08-04
-com.landlordgame.tycoon,Landlord-不動産タイクーン,334,IN,2018-08-04
-com.king.diamonddiariessaga,ダイヤモンドダイアリー,335,IN,2018-08-04
-com.timuzgames.indian.traingames,IndianMetroTrainSimulator,336,IN,2018-08-04
-com.racergame.cityracing3d,シティレーシング3D-FreeRacing,337,IN,2018-08-04
-com.ubisoft.assassinscreed.identity,アサシンクリードアイデンティティ,338,IN,2018-08-04
-com.madfingergames.unkilled,Unkilled-ゾンビシューティング,339,IN,2018-08-04
-com.swiftappskom.pantheronline,PantherOnline,340,IN,2018-08-04
-sts.al,ArcaneLegendsMMO-ActionRPG,341,IN,2018-08-04
-com.jellyblast.cmcm,JellipopMatch:FormerlyJellyBlastMatch3Game,342,IN,2018-08-04
-com.selfawaregames.acecasino,BigFishCasino：本場ラスベガスのカジノ＆スロットマシンをプレイ,343,IN,2018-08-04
-com.mobirix.ludo,ルドチャンピオンシップ,344,IN,2018-08-04
-com.nexon.maplem.global,MapleStoryM,345,IN,2018-08-04
-com.d3p.mpq,マーベル・パズルクエス,346,IN,2018-08-04
-com.moonfrog.ludo.club,LudoClub-FunDiceGame,347,IN,2018-08-04
-com.netmarble.knightsgb,KnightsChronicle,348,IN,2018-08-04
-com.geewa.smashingfour,SmashingFour,349,IN,2018-08-04
-com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,350,IN,2018-08-04
-com.goplaytoday.guildofheroes,GuildofHeroes-fantasyRPG,351,IN,2018-08-04
-com.generamobile.zhunter.gp,ZombieHunter:黙示録ゾンビゾンビシューティングゲーム。アンデッドの大群で生き残る!,352,IN,2018-08-04
-com.crossword.bible.cookies.find.english,WordConnect,353,IN,2018-08-04
-com.joycity.warshipbattle,ウォーシップ･バトル,354,IN,2018-08-04
-com.gameloft.android.ANMP.GloftAGHM,AsphaltNitro,355,IN,2018-08-04
-air.com.gamesys.mobile.slots.jpj,JackpotjoySlots-FreeSlots,356,IN,2018-08-04
-com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,357,IN,2018-08-04
-com.machinezone.gow,ゲーム・オブ・ウォー【GameofWar】,358,IN,2018-08-04
-com.superking.parchisi.star,ParchisiSTAR,359,IN,2018-08-04
-com.generagames.soccerstarleaguesfootball,SoccerStar2018TopLeagues・ベストフットボールゲーム,360,IN,2018-08-04
+com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,280,IN,2018-08-04
+com.playshoo.texaspoker.indiaen,ShahiIndiaPoker-FreeTexasHold'em&Slots&Cards,281,IN,2018-08-04
+com.zentertain.classicvegasslots,Slots™-ラスベガスカジノスタイルのスロットマシン,282,IN,2018-08-04
+com.swiftappskom.thewolfrpg,TheWolf,283,IN,2018-08-04
+com.kamagames.blackjack,ブラックジャック21:Blackjackist,284,IN,2018-08-04
+com.tap4fun.galaxyempire2_android,銀河の伝説-宇宙制覇系のSFゲーム,285,IN,2018-08-04
+com.cympl.masalaexpressgame,MasalaExpress:CookingGame,286,IN,2018-08-04
+com.boyaa.fben,BoyaaPoker(En)–SocialTexasHold’em,287,IN,2018-08-04
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,288,IN,2018-08-04
+com.nordcurrent.murderinalps,MurderintheAlps,289,IN,2018-08-04
+com.mobirix.swipebrick2,ブリックスブレーカークエスト,290,IN,2018-08-04
+com.qoontree.b17poker,"B17Poker-TexasHold'em,Livecampoker",291,IN,2018-08-04
+com.miniclip.basketballstars,BasketballStars,292,IN,2018-08-04
+com.aki.teenpatti.ind,Teen Patti Unlimited Club,293,IN,2018-08-04
+com.perplelab.dragonvillagem.kr,ドラゴンRPG-ドラゴンビレッジM,294,IN,2018-08-04
+com.evogames.slavsforvk,実りの地,295,IN,2018-08-04
+com.squareenix.lis,ライフイズストレンジ,296,IN,2018-08-04
+com.pnixgames.minigolfking,MiniGolfKing-マルチプレイヤーゲーム,297,IN,2018-08-04
+jp.co.cybird.appli.android.als.en,IkemenRevolution~Love&MagicinWonderland~,298,IN,2018-08-04
+com.naturalmotion.dawnoftitans,DawnofTitans-壮大な戦略ゲーム,299,IN,2018-08-04
+com.geeker.gok,GameofKings:TheBloodThrone,300,IN,2018-08-04
+match.jungles,JungleMatch,301,IN,2018-08-04
+com.criticalforceentertainment.criticalops,CriticalOps,302,IN,2018-08-04
+jp.konami.wecc,ウイニングイレブンカードコレクション,303,IN,2018-08-04
+com.madfingergames.unkilled,Unkilled-ゾンビシューティング,304,IN,2018-08-04
+com.miHoYo.bh3global,HonkaiImpact3rd,305,IN,2018-08-04
+com.elestorm.bingoadventure,BingoAdventure-WorldTour,306,IN,2018-08-04
+com.crossword.bible.cookies.find.english,WordConnect,307,IN,2018-08-04
+com.wb.goog.dc.legends,DCLegends:正義のためのバトル,308,IN,2018-08-04
+jp.pokemon.pokemoncomaster,ポケモンコマスター,309,IN,2018-08-04
+com.ninjakiwi.bftg,ギャラクシーのための戦い,310,IN,2018-08-04
+com.dle.respawnables,Respawnables-スペシャルフォースFPS,311,IN,2018-08-04
+com.rafotech.piggyboom,PiggyBoom,312,IN,2018-08-04
+com.jungleegames.teenpatti,JungleeTeenPatti3D,313,IN,2018-08-04
+com.moonfrog.ludo.club,LudoClub-FunDiceGame,314,IN,2018-08-04
+com.geewa.smashingfour,SmashingFour,315,IN,2018-08-04
+com.racergame.cityracing3d,シティレーシング3D-FreeRacing,316,IN,2018-08-04
+com.goplaytoday.guildofheroes,GuildofHeroes-fantasyRPG,317,IN,2018-08-04
+com.freegames.mountaincardriving,MountainCarDrive,318,IN,2018-08-04
+com.spilgames.UphillRush,UphillRushウォータースライダーゲーム,319,IN,2018-08-04
+air.com.pixelfederation.TrainStationGame,TrainStation-GameOnRails,320,IN,2018-08-04
+com.uken.BingoPop,BingoPop,321,IN,2018-08-04
+com.gismart.realpianofree,ピアノ-ぴあの鍵盤リアル曲げーむ,322,IN,2018-08-04
+com.wordsmobile.gunship,ヘリコプター空襲-GunshipStrike3D,323,IN,2018-08-04
+com.tencent.warwings2,ウォー・ウィングス(WarWings),324,IN,2018-08-04
+air.com.gamesys.mobile.slots.jpj,JackpotjoySlots-FreeSlots,325,IN,2018-08-04
+in.loop.hdmakeover,ホームデザインメイクオーバー,326,IN,2018-08-04
+net.wargaming.wows.blitz,ワールド・オブ・ウォーシップBlitz海軍バトルシップMMOゲーム,327,IN,2018-08-04
+com.swiftappskom.pantheronline,PantherOnline,328,IN,2018-08-04
+com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,329,IN,2018-08-04
+com.king.diamonddiariessaga,ダイヤモンドダイアリー,330,IN,2018-08-04
+com.zitga.ninja.stickman.legends.shadow.wars,StickmanLegends:ShadowWars,331,IN,2018-08-04
+com.elex.nikkigp,LoveNikki-DressUPQueen,332,IN,2018-08-04
+com.jellyblast.cmcm,JellipopMatch:FormerlyJellyBlastMatch3Game,333,IN,2018-08-04
+com.frenzoo.FashionEmpireBoutiqueGirlGame,FashionEmpire-BoutiqueSim,334,IN,2018-08-04
+sts.al,ArcaneLegendsMMO-ActionRPG,335,IN,2018-08-04
+com.netmarble.knightsgb,KnightsChronicle,336,IN,2018-08-04
+com.selfawaregames.acecasino,BigFishCasino：本場ラスベガスのカジノ＆スロットマシンをプレイ,337,IN,2018-08-04
+com.generamobile.zhunter.gp,ZombieHunter:黙示録ゾンビゾンビシューティングゲーム。アンデッドの大群で生き残る!,338,IN,2018-08-04
+com.productmadness.hovmobile,HeartofVegas:オンラインカジノスロットアプリ,339,IN,2018-08-04
+com.plarium.zoo,FamilyZoo:TheStory,340,IN,2018-08-04
+com.ubisoft.hungrysharkworld,HungrySharkWorld,341,IN,2018-08-04
+com.yoozoogames.pokerchampionsa,PokerChampions-PokeristforIndia,342,IN,2018-08-04
+com.nexon.maplem.global,MapleStoryM,343,IN,2018-08-04
+com.midasplayer.apps.bubblewitchsaga2,バブルウィッチ,344,IN,2018-08-04
+com.wb.wwe.brawler2014,WWEImmortals,345,IN,2018-08-04
+com.joycity.warshipbattle,ウォーシップ･バトル,346,IN,2018-08-04
+com.glu.gordondashx,RESTAURANTDASH:GORDONRAMSAY,347,IN,2018-08-04
+com.d3p.mpq,マーベル・パズルクエス,348,IN,2018-08-04
+fantasy.survival.game.rpg,GrimSoul:DarkFantasySurvival,349,IN,2018-08-04
+com.socialquantum.acityint,メガポリス(Megapolis),350,IN,2018-08-04
+com.superking.parchisi.star,ParchisiSTAR,351,IN,2018-08-04
+com.timuzgames.runrun3,RUNRUN3D-3,352,IN,2018-08-04
+com.ubisoft.assassinscreed.identity,アサシンクリードアイデンティティ,353,IN,2018-08-04
+com.octro.tambola,TambolaHousie-90BallBingo,354,IN,2018-08-04
+com.bigfishgames.cookingcrazegooglef2p,クッキングクレイズ-超絶ハイテンポ・レストランゲーム,355,IN,2018-08-04
+com.ea.gp.simsmobile,TheSims シムズ ポケット,356,IN,2018-08-04
+com.king.blossomblast,ブロッサム・ブラスト,357,IN,2018-08-04
+com.timuzgames.stuntmaster,BikeStuntMaster,358,IN,2018-08-04
+com.otherguys.lindab,LindaBrown:InteractiveStory,359,IN,2018-08-04
+com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,360,IN,2018-08-04
 com.madfingergames.deadtrigger2,DEADTRIGGER2-ゾンビサバイバルシューター,361,IN,2018-08-04
-com.gramgames.mergedragons,MergeDragons!,362,IN,2018-08-04
-com.miniclip.agar.io,Agar.io,363,IN,2018-08-04
-com.empire.grow.rome,成長エンパイアローマ(GrowEmpire:Rome),364,IN,2018-08-04
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),365,IN,2018-08-04
-com.timuzgames.stuntmaster,BikeStuntMaster,366,IN,2018-08-04
-com.pockettrend.neomonsters,ネオモンスターズ,367,IN,2018-08-04
-best.game.bulbsmash,BulbSmash-BestGameOf2017,368,IN,2018-08-04
-com.otherguys.lindab,LindaBrown:InteractiveStory,369,IN,2018-08-04
-com.flerogames.aos.pitapatrestaurant.global.test,どきどきレストラン,370,IN,2018-08-04
-com.atari.mobile.rctempire,RollerCoasterTycoonTouch,371,IN,2018-08-04
-com.lastsaver.zombiehuntermaster,LastSaver:ZombieHunterMaster,372,IN,2018-08-04
-com.midasplayer.apps.bubblewitchsaga2,バブルウィッチ,373,IN,2018-08-04
-com.glu.mi5,ミッション：インポッシブルローグ・ネイション,374,IN,2018-08-04
-com.mobirix.swipebrick,レンガのブレーカーのパズル,375,IN,2018-08-04
-fantasy.survival.game.rpg,GrimSoul:DarkFantasySurvival,376,IN,2018-08-04
-com.noodlecake.altosodyssey,アルトのオデッセイ,377,IN,2018-08-04
-com.yuyintech.gr.gp,栄光の道(GloryRoad),378,IN,2018-08-04
-com.socialquantum.acityint,メガポリス(Megapolis),379,IN,2018-08-04
-com.mw.rouletteroyale,RouletteRoyale-FREECasino,380,IN,2018-08-04
-com.gameloft.android.ANMP.GloftNOHM,N.O.V.A.Legacy,381,IN,2018-08-04
-com.bestfreegames.carvsbikeracing,CarvsBikeRacing,382,IN,2018-08-04
-com.gameseverytime.offroadcardriver,OffroadCarDrive,383,IN,2018-08-04
-com.wgt.android.golf,WGTGolfGamebyTopgolf,384,IN,2018-08-04
-com.doodlemobile.vicecity,オートセフトギャングスター,385,IN,2018-08-04
-com.octro.tambola,TambolaHousie-90BallBingo,386,IN,2018-08-04
-com.bitmango.go.wordcookies,WordCookies™,387,IN,2018-08-04
-com.codemasters.f12016,F12016,388,IN,2018-08-04
-com.wb.wwe.brawler2014,WWEImmortals,389,IN,2018-08-04
-com.domobile.game.teenpatti,TeenPattiKing,390,IN,2018-08-04
-com.yoozoogames.pokerchampionsa,PokerChampions-PokeristforIndia,391,IN,2018-08-04
-com.bigfishgames.gummydropgoogle,グミドロップ！-爽快パズルゲーム,392,IN,2018-08-04
-com.mageeks.android.trucksim18,TruckSimulatorPROEurope,393,IN,2018-08-04
-jp.co.heroz.chess,チェスオンライン対戦無料アプリ-CHESSHEROZ,394,IN,2018-08-04
-com.perblue.disneyheroes,DisneyHeroes:BattleMode,395,IN,2018-08-04
-com.rockstar.gta3,GrandTheftAutoIII,396,IN,2018-08-04
-com.epicwaronline.ms,モバイルストライク【MobileStrike】,397,IN,2018-08-04
-com.bigfishgames.cookingcrazegooglef2p,クッキングクレイズ-超絶ハイテンポ・レストランゲーム,398,IN,2018-08-04
-com.kd.gp.elvd,ElvesDuel,399,IN,2018-08-04
-com.linkdesks.iBubble,パワーバブルシューター,400,IN,2018-08-04
-com.superplusgames.hosandroid,HillsofSteel,401,IN,2018-08-04
-com.ocous.sowbeta,StormofWars:SacredHomeland,402,IN,2018-08-04
-com.ludia.dragons,Dragons:RiseofBerk,403,IN,2018-08-04
-pl.idreams.pottery,Let'sCreate!Pottery,404,IN,2018-08-04
-com.gameloft.android.ANMP.GloftA3HM,ブラザーインアームズ®3：SonsofWar,405,IN,2018-08-04
-com.frenzoo.FashionEmpireBoutiqueGirlGame,FashionEmpire-BoutiqueSim,406,IN,2018-08-04
-com.RocketGames.VegasJackpot,ヴェガスジャックポットカジノスロット,407,IN,2018-08-04
-com.madfingergames.legends,SHADOWGUNLEGENDS,408,IN,2018-08-04
-com.prettysimple.criminalcaseandroid,クリミナルケース,409,IN,2018-08-04
-invaders.os.galaxy.space.shooter.attack.classic,ファルコンスクワッド-銀河の守護者,410,IN,2018-08-04
-net.isitlove.cartercorp.ryan,Is-itLove?Ryan:Chooseyourstory–OtomeGames,411,IN,2018-08-04
-com.ea.gp.simsmobile,TheSims シムズ ポケット,412,IN,2018-08-04
-eu.ganymede.pokerhd,PokerTexasHoldemLivePro,413,IN,2018-08-04
-com.bingo.tour.party.crazy.free,ビンゴパーティー・人気のカジノゲーム,414,IN,2018-08-04
-net.wargaming.wows.blitz,ワールド・オブ・ウォーシップBlitz海軍バトルシップMMOゲーム,415,IN,2018-08-04
-com.jedigames.p20.googleplay,我が天下【世界配信2周年】,416,IN,2018-08-04
-com.fungames.boomforce,戦争ヒーローズ：無料マルチプレイヤーゲーム(WarHeroes),417,IN,2018-08-04
-com.rbx.battle.android,バトルアリーナ：ヒーローズアドベンチャー,418,IN,2018-08-04
-com.uken.bingo_infinity,BingoInfinity,419,IN,2018-08-04
-com.gameinsight.airport,AirportCity:AirlineTycoon,420,IN,2018-08-04
-mobi.gameguru.racingfever,レーシングフィーバー,421,IN,2018-08-04
-com.ptfarm.pokerrrr,Pokerrrr2-友だちとポーカー,422,IN,2018-08-04
-com.doodle.turboracing3d,TurboDrivingRacing3D,423,IN,2018-08-04
-com.outfit7.talkingtomcamp,トーキング・トムのキャンプ,424,IN,2018-08-04
-com.bandainamcoent.narutoblazingna,UltimateNinjaBlazing,425,IN,2018-08-04
-com.generagames.gladiatorheroes,GladiatorHeroes-戦い、ブラッド＆グローリー,426,IN,2018-08-04
-com.snailgameusa.aowd,AgeofWushuDynasty,427,IN,2018-08-04
-com.productmadness.fafafagold,FaFaFa™GoldCasino:Freeslotmachines,428,IN,2018-08-04
-bubbleshooter.android,BubbleShooter™,429,IN,2018-08-04
-com.space.zero.gp,GalaxyWar,430,IN,2018-08-04
-com.x3m.tx4.stunt.bike.racing.tricks.master,スタントバイクレース:StuntBikeRacingTricks,431,IN,2018-08-04
-com.linekong.dbm.na.google,DaybreakLegends:Origin,432,IN,2018-08-04
-com.ea.game.easportsufc_row,EASPORTS™UFC®,433,IN,2018-08-04
-net.flysher.rockncash,RockN'CashCasinoSlots-FreeVegasSlotGames,434,IN,2018-08-04
-com.spotlight.languinis,Languinis:WordPuzzleChallenge,435,IN,2018-08-04
-it.rortos.realflight,AIRLINECOMMANDER-リアルフライト・イクスピアリエンス,436,IN,2018-08-04
-com.sigames.fmm2018,FootballManagerMobile2018,437,IN,2018-08-04
-com.creativemobile.zc,ZooCraft:AnimalFamily,438,IN,2018-08-04
-com.chillfleet.puzzle,PolyArtbook-puzzlegame,439,IN,2018-08-04
-us.kr.baseballnine,プロ野球ナイン,440,IN,2018-08-04
-com.rockstargames.bully,Bully:AnniversaryEdition,441,IN,2018-08-04
-com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,442,IN,2018-08-04
-com.greenheartgames.gdt,GameDevTycoon,443,IN,2018-08-04
-com.blitwise.ptankshd,PocketTanks,444,IN,2018-08-04
-com.flaregames.rrtournament,RoyalRevolt2,445,IN,2018-08-04
-com.playfirst.cookingdashx,COOKINGDASH,446,IN,2018-08-04
-com.CubeSoftware.BattleOfWarships,バトル・オブ・ウォーシップ,447,IN,2018-08-04
-com.gameloft.android.ANMP.GloftMOHM,アスファルト：Xtreme－RallyRacing－,448,IN,2018-08-04
-com.rovio.angrybirdsrio,AngryBirdsRio,449,IN,2018-08-04
-air.com.pixelfederation.seaport.explore.collect.trade,"Seaport-Explore,Collect&Trade",450,IN,2018-08-04
-com.mytona.seekersnotes.android,探索者の記録,451,IN,2018-08-04
-com.playsportgames.mmm3,MotorsportManagerMobile3,452,IN,2018-08-04
-com.ftt.msleague_gl,モンスタースーパーリーグ,453,IN,2018-08-04
-com.ffgames.racingincar2,RacinginCar2,454,IN,2018-08-04
-com.vector3d.uatc,UnmatchedAirTrafficControl,455,IN,2018-08-04
-com.wb.goog.dc.legends,DCLegends:正義のためのバトル,456,IN,2018-08-04
-com.cosmo.candybomb.free,キャンディ爆弾,457,IN,2018-08-04
-com.geargames.aow,アート・オブ・ウォー3:グローバル・コンフリクト-リアルタイムの軍事戦略,458,IN,2018-08-04
-com.userjoy.LetsVegasSlots,Let'sVegasSlots,459,IN,2018-08-04
-com.kd.gp.magocal,MagicalMenagerie,460,IN,2018-08-04
-com.glu.deerhunt16,DEERHUNTER2018,461,IN,2018-08-04
-com.aigrind.warspear,"WarspearOnline(MMORPG,RPG,MMO)",462,IN,2018-08-04
-com.zentertain.bigcasino,LuckyWinCasino™-FREESLOTS,463,IN,2018-08-04
-com.king.shufflecatcards,ShuffleCats,464,IN,2018-08-04
-com.kabam.wartune.android,Wartune:HallofHeroes,465,IN,2018-08-04
-pl.idreams.SkyForceReloaded2016,SkyForceReloaded,466,IN,2018-08-04
-shooter3.bubble,BubbleShooter3,467,IN,2018-08-04
-com.duksel.spinwin.slots.free,JackpotSpin-WinSlots,468,IN,2018-08-04
-com.rockstar.maxpayne,マックス・ペインモバイル,469,IN,2018-08-04
-com.onethumbmobile.celticheroes,3DMMOCelticHeroes,470,IN,2018-08-04
-com.OsOs.TinyArchers,TinyArchers,471,IN,2018-08-04
-com.nekki.shadowfight2.paid,ShadowFight2SpecialEdition,472,IN,2018-08-04
-com.mobirix.zombieking,ZombieHunterKing,473,IN,2018-08-04
-com.rovio.angrybirds,AngryBirdsClassic,474,IN,2018-08-04
-com.skgames.trafficracer,TrafficRacer,475,IN,2018-08-04
-com.sevenpirates.infinitywar,アーク・オブ・ウォー「ArkofWar」,476,IN,2018-08-04
-com.huntinggames.huntingsimulator.wildhunt,狩猟ゲーム2018-サファリのスポーツハンティングゲーム,477,IN,2018-08-04
-com.oneworld.ef5.x,AceForce:JointCombat,478,IN,2018-08-04
-com.squareenix.relicrun,LaraCroft:RelicRun,479,IN,2018-08-04
-com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,480,IN,2018-08-04
-com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,481,IN,2018-08-04
-com.timuzgames.riderrushsubwaytrains,SubwayRider-TrainRush,482,IN,2018-08-04
-and.onemt.boe.tr,MuhteşemOsmanlı-TahtiçinStratejiSavaşı,483,IN,2018-08-04
-com.timuzsolutions.rollercoastersimulator,RollerCoaster3D,484,IN,2018-08-04
-chessfriends.online.chess,チェス,485,IN,2018-08-04
-com.inv.driftone,DriftOne,486,IN,2018-08-04
-com.rastargames.had2,HonorAgainstDarkness,487,IN,2018-08-04
-com.mageeks.android.trainsimulator,TrainSimulatorPRO2018,488,IN,2018-08-04
-com.wb.goog.injustice,Injustice:GodsAmongUs,489,IN,2018-08-04
-com.wordsmobile.RealBikeRacing,リアルなバイクレーシング3D,490,IN,2018-08-04
-com.pikpok.dr2.play,イントゥ・ザ・デッド2[IntotheDead2],491,IN,2018-08-04
-com.ucool.heroesarena,ヒーローズ・アリーナ,492,IN,2018-08-04
-air.com.pixelfederation.diggy,Diggy'sAdventure（ディギーの冒険）,493,IN,2018-08-04
-com.funplus.familyfarm,にじいろ牧場,494,IN,2018-08-04
-com.outfit7.talkingtomjetski2,トーキング・トムのジェットスキー2,495,IN,2018-08-04
-com.wordmobiles.bikeRacing,バイクレーシング3D-BikeRacing,496,IN,2018-08-04
-com.milliongames.bikeracer2018,BikeRacer2018,497,IN,2018-08-04
-air.com.come2play.backgammon,BackgammonLive:オンラインボードゲーム,498,IN,2018-08-04
-com.nttsolmare.game.android.biref,Shallwedate?:BloodinRoses+,499,IN,2018-08-04
-com.spilgames.OperateNow2,OperateNow:Hospital,500,IN,2018-08-04
-com.giantssoftware.fs14,FarmingSimulator14,501,IN,2018-08-04
-com.voltage.g.hykoi.en,Love365:FindYourStory,502,IN,2018-08-04
-com.rocketjump.majormayhem2,MajorMayhem2-GunShootingAction,503,IN,2018-08-04
-com.my.juggernautwars,JuggernautWars:RPGArenawithdungeons&raids,504,IN,2018-08-04
-com.netease.z3.android,CrusadersofLight,505,IN,2018-08-04
-com.gameloft.android.ANMP.GloftAMHM,アメイジング・スパイダーマン,506,IN,2018-08-04
-com.purplekiwii.vegaslive,VegasLiveSlots,507,IN,2018-08-04
-bubbles.sniper,SniperBubbles,508,IN,2018-08-04
-com.slots.classicvegas,ClassicVegasOnline-RealSlotMachineGames,509,IN,2018-08-04
-air.cn.kx.yttxgoogleEn,ClashofThreeKingdoms,510,IN,2018-08-04
-com.timuzsolutions.trainsimulator2016,トレインシミュレータ2016,511,IN,2018-08-04
-com.vectorunit.purple.googleplay,BeachBuggyRacing,512,IN,2018-08-04
-com.timuzsolutions.bikemaster3d,BikeMaster3D,513,IN,2018-08-04
-com.telltalegames.walkingdead100,TheWalkingDead:SeasonOne,514,IN,2018-08-04
-com.dle.respawnables,Respawnables-スペシャルフォースFPS,515,IN,2018-08-04
-com.timuzgames.counterterrorstrike,CounterTerrorist-GunShootingGame,516,IN,2018-08-04
-letsfarm.com.playday,一緒に農場(Let'sFarm),517,IN,2018-08-04
-com.alegrium.cong2,"Cash,Inc.マネー・タップゲーム&ビジネスアドベンチャー",518,IN,2018-08-04
-com.ballytechnologies.f88,88FortunesSlots:無料カジノスロットゲーム,519,IN,2018-08-04
-com.goodgamestudios.bigfarmmobileharvest,BigFarm:MobileHarvest,520,IN,2018-08-04
-com.tinyco.avengers,MARVELAvengersAcademy,521,IN,2018-08-04
-com.igg.android.conquerors,‫الفاتحون‬‎,522,IN,2018-08-04
-me.dreamsky.lostjourney2,時空の旅(Dreamsky),523,IN,2018-08-04
-com.masomo.headball2,HeadBall2,524,IN,2018-08-04
-com.joycity.oceansandempires,オーシャン＆エンパイア:Oceans&Empires,525,IN,2018-08-04
-com.timOsStudios.premiumSudokuCardsGP,PremiumSudokuCards,526,IN,2018-08-04
-com.elex.ram,バトルアラート：WarofTank,527,IN,2018-08-04
-com.company.foxteenpatti,FoxTeenPatti,528,IN,2018-08-04
-com.gameloft.android.ANMP.Gloft5DHM,DarkQuest5（ダーククエスト5）ハクスラRPG,529,IN,2018-08-04
-com.hgamesartworks.dinosimulator,DinosaurSimulator:DinoWorld,530,IN,2018-08-04
-com.king.paradisebay,パラダイス・ベイ,531,IN,2018-08-04
-com.ketchapp.knifehit,KnifeHit,532,IN,2018-08-04
-com.wittygames.rummyking,RummyKing,533,IN,2018-08-04
-match.jungles,JungleMatch,534,IN,2018-08-04
-com.plarium.stormfallrob,ストームフォール・バルーアの復活「Stormfall」,535,IN,2018-08-04
-com.ea.games.simsfreeplay_row,TheSimsFreePlay,536,IN,2018-08-04
-jp.konami.duellinks,遊戯王デュエルリンクス,537,IN,2018-08-04
-com.sgn.geniesandgems.gp,マジックジュエル,538,IN,2018-08-04
-com.mobirix.swipebrick3,ブリックスブレーカーミッション,539,IN,2018-08-04
-net.isitlove.mysteryspell.drogo,Is-itLove?Drogo-Vampire,540,IN,2018-08-04
+com.flerogames.aos.pitapatrestaurant.global.test,どきどきレストラン,362,IN,2018-08-04
+com.yuyintech.gr.gp,栄光の道(GloryRoad),363,IN,2018-08-04
+com.atari.mobile.rctempire,RollerCoasterTycoonTouch,364,IN,2018-08-04
+com.gameloft.android.ANMP.GloftAGHM,AsphaltNitro,365,IN,2018-08-04
+com.lastsaver.zombiehuntermaster,LastSaver:ZombieHunterMaster,366,IN,2018-08-04
+it.rortos.realflight,AIRLINECOMMANDER-リアルフライト・イクスピアリエンス,367,IN,2018-08-04
+com.erepubliklabs.worldatwar,WorldatWar:WW2StrategyMMO,368,IN,2018-08-04
+com.bigfishgames.gummydropgoogle,グミドロップ！-爽快パズルゲーム,369,IN,2018-08-04
+com.milliongames.bikeracer2018,BikeRacer2018,370,IN,2018-08-04
+com.kd.gp.magocal,MagicalMenagerie,371,IN,2018-08-04
+com.bingo.tour.party.crazy.free,ビンゴパーティー・人気のカジノゲーム,372,IN,2018-08-04
+com.doodlemobile.vicecity,オートセフトギャングスター,373,IN,2018-08-04
+com.mobirix.swipebrick,レンガのブレーカーのパズル,374,IN,2018-08-04
+com.bestfreegames.carvsbikeracing,CarvsBikeRacing,375,IN,2018-08-04
+com.gameseverytime.offroadcardriver,OffroadCarDrive,376,IN,2018-08-04
+com.mobirix.ludo,ルドチャンピオンシップ,377,IN,2018-08-04
+com.klab.captain283.global,CaptainTsubasa:DreamTeam,378,IN,2018-08-04
+com.games37.yhjy,BladesandRings,379,IN,2018-08-04
+com.rockstar.gta3,GrandTheftAutoIII,380,IN,2018-08-04
+com.jedigames.p20.googleplay,我が天下【世界配信2周年】,381,IN,2018-08-04
+com.timuzgames.indian.traingames,IndianMetroTrainSimulator,382,IN,2018-08-04
+com.landlordgame.tycoon,Landlord-不動産タイクーン,383,IN,2018-08-04
+com.madfingergames.legends,SHADOWGUNLEGENDS,384,IN,2018-08-04
+com.domobile.game.teenpatti,TeenPattiKing,385,IN,2018-08-04
+best.game.bulbsmash,BulbSmash-BestGameOf2017,386,IN,2018-08-04
+com.linkdesks.iBubble,パワーバブルシューター,387,IN,2018-08-04
+com.wgt.android.golf,WGTGolfGamebyTopgolf,388,IN,2018-08-04
+com.gramgames.mergedragons,MergeDragons!,389,IN,2018-08-04
+com.epicwaronline.ms,モバイルストライク【MobileStrike】,390,IN,2018-08-04
+com.kd.gp.elvd,ElvesDuel,391,IN,2018-08-04
+com.bitmango.go.wordcookies,WordCookies™,392,IN,2018-08-04
+com.glu.mi5,ミッション：インポッシブルローグ・ネイション,393,IN,2018-08-04
+com.fungames.boomforce,戦争ヒーローズ：無料マルチプレイヤーゲーム(WarHeroes),394,IN,2018-08-04
+com.fillword.cross.wordmind.en,WordCrossy-Acrosswordgame,395,IN,2018-08-04
+com.mageeks.android.trucksim18,TruckSimulatorPROEurope,396,IN,2018-08-04
+com.miniclip.agar.io,Agar.io,397,IN,2018-08-04
+net.isitlove.cartercorp.ryan,Is-itLove?Ryan:Chooseyourstory–OtomeGames,398,IN,2018-08-04
+com.tencent.tmgp.cfmnac,CrossFire:Legends,399,IN,2018-08-04
+com.ptfarm.pokerrrr,Pokerrrr2-友だちとポーカー,400,IN,2018-08-04
+com.gameloft.android.ANMP.GloftNOHM,N.O.V.A.Legacy,401,IN,2018-08-04
+com.perblue.disneyheroes,DisneyHeroes:BattleMode,402,IN,2018-08-04
+com.productmadness.fafafagold,FaFaFa™GoldCasino:Freeslotmachines,403,IN,2018-08-04
+air.com.pixelfederation.seaport.explore.collect.trade,"Seaport-Explore,Collect&Trade",404,IN,2018-08-04
+com.generagames.soccerstarleaguesfootball,SoccerStar2018TopLeagues・ベストフットボールゲーム,405,IN,2018-08-04
+com.joycity.oceansandempires,オーシャン＆エンパイア:Oceans&Empires,406,IN,2018-08-04
+com.snailgameusa.aowd,AgeofWushuDynasty,407,IN,2018-08-04
+pl.idreams.pottery,Let'sCreate!Pottery,408,IN,2018-08-04
+com.codemasters.f12016,F12016,409,IN,2018-08-04
+com.RocketGames.VegasJackpot,ヴェガスジャックポットカジノスロット,410,IN,2018-08-04
+com.superplusgames.hosandroid,HillsofSteel,411,IN,2018-08-04
+air.com.playtika.cvs,VegasWords-DowntownSlots,412,IN,2018-08-04
+com.uken.bingo_infinity,BingoInfinity,413,IN,2018-08-04
+com.gameloft.android.ANMP.GloftA3HM,ブラザーインアームズ®3：SonsofWar,414,IN,2018-08-04
+com.sigames.fmm2018,FootballManagerMobile2018,415,IN,2018-08-04
+com.empire.grow.rome,成長エンパイアローマ(GrowEmpire:Rome),416,IN,2018-08-04
+com.prettysimple.criminalcaseandroid,クリミナルケース,417,IN,2018-08-04
+com.doodle.turboracing3d,TurboDrivingRacing3D,418,IN,2018-08-04
+com.cosmo.candybomb.free,キャンディ爆弾,419,IN,2018-08-04
+com.flaregames.rrtournament,RoyalRevolt2,420,IN,2018-08-04
+com.bestfreegames.dinosaurbattlesimulator,DinosaurBattleSimulator,421,IN,2018-08-04
+com.ludia.dragons,Dragons:RiseofBerk,422,IN,2018-08-04
+com.sega.d2megaten.en,SHINMEGAMITENSEILiberationD×２,423,IN,2018-08-04
+com.netease.z3.android,CrusadersofLight,424,IN,2018-08-04
+com.murka.infinityslots,InfinitySlots–ベガスのカジノスロットマシン,425,IN,2018-08-04
+com.bandainamcoent.narutoblazingna,UltimateNinjaBlazing,426,IN,2018-08-04
+com.zentertain.bigcasino,LuckyWinCasino™-FREESLOTS,427,IN,2018-08-04
+com.creativemobile.zc,ZooCraft:AnimalFamily,428,IN,2018-08-04
+com.ffgames.racingincar2,RacinginCar2,429,IN,2018-08-04
+invaders.os.galaxy.space.shooter.attack.classic,ファルコンスクワッド-銀河の守護者,430,IN,2018-08-04
+com.rockstargames.bully,Bully:AnniversaryEdition,431,IN,2018-08-04
+com.rbx.battle.android,バトルアリーナ：ヒーローズアドベンチャー,432,IN,2018-08-04
+com.ftt.msleague_gl,モンスタースーパーリーグ,433,IN,2018-08-04
+com.gameloft.android.ANMP.GloftW2HM,ウォープラネットオンライン：GlobalConquest,434,IN,2018-08-04
+com.OsOs.TinyArchers,TinyArchers,435,IN,2018-08-04
+and.onemt.boe.tr,MuhteşemOsmanlı-TahtiçinStratejiSavaşı,436,IN,2018-08-04
+bubbleshooter.android,BubbleShooter™,437,IN,2018-08-04
+com.vector3d.uatc,UnmatchedAirTrafficControl,438,IN,2018-08-04
+com.machinezone.gow,ゲーム・オブ・ウォー【GameofWar】,439,IN,2018-08-04
+com.feelingtouch.dipan.slggameglobal,Empire:RomeRising,440,IN,2018-08-04
+com.purplekiwii.vegaslive,VegasLiveSlots,441,IN,2018-08-04
+com.rovio.angrybirdsrio,AngryBirdsRio,442,IN,2018-08-04
+com.voltage.g.hykoi.en,Love365:FindYourStory,443,IN,2018-08-04
+com.rocketjump.majormayhem2,MajorMayhem2-GunShootingAction,444,IN,2018-08-04
+com.noodlecake.altosodyssey,アルトのオデッセイ,445,IN,2018-08-04
+com.gameloft.android.ANMP.GloftMOHM,アスファルト：Xtreme－RallyRacing－,446,IN,2018-08-04
+com.x3m.tx4.stunt.bike.racing.tricks.master,スタントバイクレース:StuntBikeRacingTricks,447,IN,2018-08-04
+com.generagames.gladiatorheroes,GladiatorHeroes-戦い、ブラッド＆グローリー,448,IN,2018-08-04
+com.onethumbmobile.celticheroes,3DMMOCelticHeroes,449,IN,2018-08-04
+com.linekong.dbm.na.google,DaybreakLegends:Origin,450,IN,2018-08-04
+com.slots.classicvegas,ClassicVegasOnline-RealSlotMachineGames,451,IN,2018-08-04
+com.playfirst.cookingdashx,COOKINGDASH,452,IN,2018-08-04
+ghor.games.tanktastic,Tanktastic3Dtanks,453,IN,2018-08-04
+com.blitwise.ptankshd,PocketTanks,454,IN,2018-08-04
+com.greenheartgames.gdt,GameDevTycoon,455,IN,2018-08-04
+com.outfit7.talkingtomjetski2,トーキング・トムのジェットスキー2,456,IN,2018-08-04
+com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,457,IN,2018-08-04
+mobi.gameguru.racingfever,レーシングフィーバー,458,IN,2018-08-04
+pl.idreams.SkyForceReloaded2016,SkyForceReloaded,459,IN,2018-08-04
+com.playfungame.ggplay.lzgsea,DragonNestM-SEA,460,IN,2018-08-04
+com.rastargames.had2,HonorAgainstDarkness,461,IN,2018-08-04
+com.Playrion.AirlinesManager2,AirlinesManager-Tycoon2018,462,IN,2018-08-04
+com.duksel.spinwin.slots.free,JackpotSpin-WinSlots,463,IN,2018-08-04
+com.sevenpirates.infinitywar,アーク・オブ・ウォー「ArkofWar」,464,IN,2018-08-04
+com.huntinggames.huntingsimulator.wildhunt,狩猟ゲーム2018-サファリのスポーツハンティングゲーム,465,IN,2018-08-04
+com.goodgamestudios.bigfarmmobileharvest,BigFarm:MobileHarvest,466,IN,2018-08-04
+com.gameloft.android.ANMP.GloftAMHM,アメイジング・スパイダーマン,467,IN,2018-08-04
+com.chillfleet.puzzle,PolyArtbook-puzzlegame,468,IN,2018-08-04
+com.timuzgames.riderrushsubwaytrains,SubwayRider-TrainRush,469,IN,2018-08-04
+com.playsportgames.mmm3,MotorsportManagerMobile3,470,IN,2018-08-04
+com.geargames.aow,アート・オブ・ウォー3:グローバル・コンフリクト-リアルタイムの軍事戦略,471,IN,2018-08-04
+com.squareenix.relicrun,LaraCroft:RelicRun,472,IN,2018-08-04
+com.userjoy.LetsVegasSlots,Let'sVegasSlots,473,IN,2018-08-04
+com.skgames.trafficracer,TrafficRacer,474,IN,2018-08-04
+com.pikpok.dr2.play,イントゥ・ザ・デッド2[IntotheDead2],475,IN,2018-08-04
+com.king.shufflecatcards,ShuffleCats,476,IN,2018-08-04
+com.ucool.heroesarena,ヒーローズ・アリーナ,477,IN,2018-08-04
+com.tubbgames.teenpatti,TubbTeenPatti-IndianPoker-TTP,478,IN,2018-08-04
+com.ujoy.rings,WarofRings-AwakenDragonkin,479,IN,2018-08-04
+com.ea.game.easportsufc_row,EASPORTS™UFC®,480,IN,2018-08-04
+com.tinyco.avengers,MARVELAvengersAcademy,481,IN,2018-08-04
+com.mobirix.zombieking,ZombieHunterKing,482,IN,2018-08-04
+com.company.foxteenpatti,FoxTeenPatti,483,IN,2018-08-04
+com.glu.deerhunt16,DEERHUNTER2018,484,IN,2018-08-04
+com.rockstar.maxpayne,マックス・ペインモバイル,485,IN,2018-08-04
+net.flysher.rockncash,RockN'CashCasinoSlots-FreeVegasSlotGames,486,IN,2018-08-04
+com.masomo.headball2,HeadBall2,487,IN,2018-08-04
+com.mytona.seekersnotes.android,探索者の記録,488,IN,2018-08-04
+net.isitlove.mysteryspell.peter,Is-itLove?Peter-EpisodeVampire,489,IN,2018-08-04
+com.giantssoftware.fs14,FarmingSimulator14,490,IN,2018-08-04
+air.cn.kx.yttxgoogleEn,ClashofThreeKingdoms,491,IN,2018-08-04
+com.timuzsolutions.bikemaster3d,BikeMaster3D,492,IN,2018-08-04
+com.gameloft.android.ANMP.GloftGOHM,ゴッド・オブ・ローマ,493,IN,2018-08-04
+com.timuzgames.counterterrorstrike,CounterTerrorist-GunShootingGame,494,IN,2018-08-04
+com.wordsmobile.RealBikeRacing,リアルなバイクレーシング3D,495,IN,2018-08-04
+com.rovio.angrybirds,AngryBirdsClassic,496,IN,2018-08-04
+chessfriends.online.chess,チェス,497,IN,2018-08-04
+com.ballytechnologies.f88,88FortunesSlots:無料カジノスロットゲーム,498,IN,2018-08-04
+com.mageeks.android.trainsimulator,TrainSimulatorPRO2018,499,IN,2018-08-04
+com.king.paradisebay,パラダイス・ベイ,500,IN,2018-08-04
+com.mobirix.swipebrick3,ブリックスブレーカーミッション,501,IN,2018-08-04
+com.timOsStudios.premiumSudokuCardsGP,PremiumSudokuCards,502,IN,2018-08-04
+com.sgs.emhq.android,EMERGENCYHQ,503,IN,2018-08-04
+com.rovio.ABstellapop,AngryBirdsPOPBubbleShooter,504,IN,2018-08-04
+com.wittygames.rummyking,RummyKing,505,IN,2018-08-04
+com.betterfun.wah.gp,ArtofWar:LastDay,506,IN,2018-08-04
+com.vectorunit.purple.googleplay,BeachBuggyRacing,507,IN,2018-08-04
+com.spilgames.OperateNow2,OperateNow:Hospital,508,IN,2018-08-04
+com.elex.ram,バトルアラート：WarofTank,509,IN,2018-08-04
+com.megarama.doublemoneyslots,DoubleMoneySlots™FREESlotMachinesCasino,510,IN,2018-08-04
+com.zynga.FarmVilleTropicEscape,FarmVille:TropicEscape,511,IN,2018-08-04
+es.parrotgames.restaurantcity,WorldChef,512,IN,2018-08-04
+com.telltalegames.walkingdead100,TheWalkingDead:SeasonOne,513,IN,2018-08-04
+com.libii.dressupworld,FashionFantasy,514,IN,2018-08-04
+shooter3.bubble,BubbleShooter3,515,IN,2018-08-04
+com.ketchapp.knifehit,KnifeHit,516,IN,2018-08-04
+com.igg.android.conquerors,‫الفاتحون‬‎,517,IN,2018-08-04
+com.plarium.stormfallrob,ストームフォール・バルーアの復活「Stormfall」,518,IN,2018-08-04
+com.fortune.sim.game.cash,HelloStars,519,IN,2018-08-04
+com.CubeSoftware.BattleOfWarships,バトル・オブ・ウォーシップ,520,IN,2018-08-04
+com.ea.games.simsfreeplay_row,TheSimsFreePlay,521,IN,2018-08-04
+com.gameloft.android.ANMP.Gloft5DHM,DarkQuest5（ダーククエスト5）ハクスラRPG,522,IN,2018-08-04
+com.sgn.geniesandgems.gp,マジックジュエル,523,IN,2018-08-04
+me.dreamsky.lostjourney2,時空の旅(Dreamsky),524,IN,2018-08-04
+eu.ganymede.pokerhd,PokerTexasHoldemLivePro,525,IN,2018-08-04
+com.funplus.familyfarm,にじいろ牧場,526,IN,2018-08-04
+jp.konami.duellinks,遊戯王デュエルリンクス,527,IN,2018-08-04
+com.kongregate.mobile.stormbound.google,Stormbound:KingdomWars,528,IN,2018-08-04
+com.appx.oceangame,OceanTeenPatti-Indian3patti,529,IN,2018-08-04
+com.spotlight.languinis,Languinis:WordPuzzleChallenge,530,IN,2018-08-04
+jp.co.heroz.chess,チェスオンライン対戦無料アプリ-CHESSHEROZ,531,IN,2018-08-04
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),532,IN,2018-08-04
+com.gamegos.mobile.cafeland,Cafeland-レストランゲーム,533,IN,2018-08-04
+com.hgamesartworks.dinosimulator,DinosaurSimulator:DinoWorld,534,IN,2018-08-04
+com.g5e.homicidesquadpg.android,HomicideSquad:隠された犯罪,535,IN,2018-08-04
+in.playsimple.wordtrip,WordTrip-WordStreakPuzzles,536,IN,2018-08-04
+com.quizup.core,QuizUp,537,IN,2018-08-04
+com.wordcross.plus.puzzle.en,WordAcross,538,IN,2018-08-04
+com.codebrewgames.pocketcitygame,PocketCity,539,IN,2018-08-04
+com.carameltec.bladesrpg,バトルの刃：アイドルヒーローズファンタジーRPG,540,IN,2018-08-04
