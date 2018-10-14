@@ -2,9 +2,9 @@ app_id,app_name,rank,country_code,date
 com.ea.game.starwarscapital_row,スター・ウォーズ／銀河の英雄,1,VE,2018-10-14
 com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),2,VE,2018-10-14
 com.google.android.apps.docs,Googleドライブ,3,VE,2018-10-14
-com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,4,VE,2018-10-14
-com.tinder,Tinder,5,VE,2018-10-14
-com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),6,VE,2018-10-14
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),4,VE,2018-10-14
+com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,5,VE,2018-10-14
+com.tinder,Tinder,6,VE,2018-10-14
 air.com.playtika.slotomania,Slotomania™-FreeSlots英語版,7,VE,2018-10-14
 com.gtarcade.eoa,EraofCelestials,8,VE,2018-10-14
 com.king.candycrushsaga,キャンディークラッシュ,9,VE,2018-10-14
@@ -29,8 +29,8 @@ com.mobile.legends,モバイル·レジェンド:BangBang,27,VE,2018-10-14
 net.peakgames.amy,ToyBlast,28,VE,2018-10-14
 com.kiloo.subwaysurf,SubwaySurfers,29,VE,2018-10-14
 com.gameinsight.gobandroid,GunsofBoom,30,VE,2018-10-14
-com.playrix.homescapes,ホームスケイプ(Homescapes),31,VE,2018-10-14
-com.freevpnintouch,FreeVPN-BetternetVPNProxy&Wi-FiSecurity,32,VE,2018-10-14
+com.freevpnintouch,FreeVPN-BetternetVPNProxy&Wi-FiSecurity,31,VE,2018-10-14
+com.playrix.homescapes,ホームスケイプ(Homescapes),32,VE,2018-10-14
 com.jollity.genki,元氣の英雄,33,VE,2018-10-14
 com.kabam.marvelbattle,MARVELオールスターバトル,34,VE,2018-10-14
 com.dragonnestm.ggplay.koramgame.global,DragonNestM,35,VE,2018-10-14
@@ -73,18 +73,18 @@ com.square_enix.android_googleplay.FFBEWW,FINALFANTASYBRAVEEXVIUS,71,VE,2018-10-
 com.ngame.allstar.eu,ArenaofValor:5v5ArenaGame,72,VE,2018-10-14
 com.klab.bleach,BLEACHBraveSouls,73,VE,2018-10-14
 com.calm.android,"Calm-Meditate,Sleep,Relax",74,VE,2018-10-14
-com.dropbox.android,Dropbox,75,VE,2018-10-14
-com.DargomStudio.GunboundM.Global,ガンバウンドM,76,VE,2018-10-14
-com.moonactive.coinmaster,CoinMaster,77,VE,2018-10-14
-com.smooch.labs.jswipe,JSwipe,78,VE,2018-10-14
-com.hot8app,Hot8-初心者のための英語,79,VE,2018-10-14
-com.playrix.township,タウンシップ(Township),80,VE,2018-10-14
-com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,81,VE,2018-10-14
-com.avast.android.mobilesecurity,Avastアンチウイルス2018,82,VE,2018-10-14
-com.playdemic.golf.android,ゴルフクラッシュ,83,VE,2018-10-14
-com.apalon.weatherradar.free,天気予報＆気象レーダー,84,VE,2018-10-14
-com.feelingtouch.idl,EpicSummoners:バトルヒーロー戦士-アクションRPG,85,VE,2018-10-14
-com.king.petrescuesaga,ペットレスキュー,86,VE,2018-10-14
+com.DargomStudio.GunboundM.Global,ガンバウンドM,75,VE,2018-10-14
+com.moonactive.coinmaster,CoinMaster,76,VE,2018-10-14
+com.smooch.labs.jswipe,JSwipe,77,VE,2018-10-14
+com.hot8app,Hot8-初心者のための英語,78,VE,2018-10-14
+com.playrix.township,タウンシップ(Township),79,VE,2018-10-14
+com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,80,VE,2018-10-14
+com.avast.android.mobilesecurity,Avastアンチウイルス2018,81,VE,2018-10-14
+com.playdemic.golf.android,ゴルフクラッシュ,82,VE,2018-10-14
+com.apalon.weatherradar.free,天気予報＆気象レーダー,83,VE,2018-10-14
+com.feelingtouch.idl,EpicSummoners:バトルヒーロー戦士-アクションRPG,84,VE,2018-10-14
+com.king.petrescuesaga,ペットレスキュー,85,VE,2018-10-14
+com.dropbox.android,Dropbox,86,VE,2018-10-14
 com.nhnent.Qpoker,한게임포커,87,VE,2018-10-14
 com.gameinsight.tribez3gp,TradeIsland,88,VE,2018-10-14
 com.scores365,ライブスコア365Scores,89,VE,2018-10-14
@@ -131,349 +131,342 @@ com.naturalmotion.dawnoftitans,DawnofTitans-壮大な戦略ゲーム,129,VE,2018
 com.longtech.lastwars.gp,LastEmpire–WarZゾンビサバイバル,130,VE,2018-10-14
 com.magicjack,magicAppCalling&Messaging,131,VE,2018-10-14
 com.adobe.reader,AdobeAcrobatReader,132,VE,2018-10-14
-com.photomyne,Photomyneによる写真スキャナー,133,VE,2018-10-14
-com.g5e.hiddencity.android,HiddenCity:アイテム探しアドベンチャー,134,VE,2018-10-14
-jp.co.capcom.mhsspen,MonsterHunterStories,135,VE,2018-10-14
-com.iplum.android,"iPlum:2ndPhoneNumberUS,Canada,800TollFree",136,VE,2018-10-14
-com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,137,VE,2018-10-14
-com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,138,VE,2018-10-14
-com.king.diamonddiariessaga,ダイヤモンドダイアリー,139,VE,2018-10-14
-com.netmarble.lin2ws,Lineage2:Revolution,140,VE,2018-10-14
-com.igg.castleclash,CastleClash:BraveSquads,141,VE,2018-10-14
-com.textmeinc.textme,"TextMe:TextFree,CallFree,SecondPhoneNumber",142,VE,2018-10-14
-com.movile.disneyjuniorplay_latam_an,DisneyJuniorPlay,143,VE,2018-10-14
-com.tdinvite.gen,TDInvite,144,VE,2018-10-14
-com.ea.gp.nbamobile,NBALIVEMobileBasketball,145,VE,2018-10-14
-com.ninemgames.tennis.google,アルティメットテニス,146,VE,2018-10-14
-com.crowdstar.covetHome,DesignHome,147,VE,2018-10-14
-com.droidhang.ad,IdleHeroes-無料放置育成RPG,148,VE,2018-10-14
-mega.privacy.android.app,MEGA,149,VE,2018-10-14
-com.eset.ems2.gp,MobileSecurity&Antivirus,150,VE,2018-10-14
-com.studiorainmobile.bitcoinsignals,BitcoinSignals-GuidesforCryptocurrencies,151,VE,2018-10-14
-com.mngo.knights,PocketKnights2,152,VE,2018-10-14
-com.funplus.kingofavalon,キング・オブ・アバロン:ドラゴン戦争(KoA),153,VE,2018-10-14
-com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),154,VE,2018-10-14
-com.gismart.guitar,リアル・ギター無料-ベースギターコード練習、音楽、音ゲー、リズム、ゲームと楽器アプリ,155,VE,2018-10-14
-com.playgendary.partymasters,Partymasters-FunIdleGame,156,VE,2018-10-14
-com.rockstargames.gtasa,グランド・セフト・オート・サンアンドレアス,157,VE,2018-10-14
-com.nexon.maplem.global,MapleStoryM,158,VE,2018-10-14
-com.playgendary.kickthebuddy,KicktheBuddy,159,VE,2018-10-14
-org.imperiaonline.android.v6,ImperiaOnlineMMOStrategy,160,VE,2018-10-14
-com.lilithgame.sgame.gp.oss,ArtofConquest,161,VE,2018-10-14
-com.ea.games.simsfreeplay_row,TheSimsFreePlay,162,VE,2018-10-14
-com.mobivate.colourgo,ColourGo-Coloringbook,163,VE,2018-10-14
-com.apalon.weatherlive.free,天気ライブ-地域の天気予報,164,VE,2018-10-14
-com.getsomeheadspace.android,Headspace:Meditation&Mindfulness,165,VE,2018-10-14
-com.hbo.broadband,HBOGO®,166,VE,2018-10-14
-com.expressvpn.vpn,ExpressVPN–Android向けのベストVPN,167,VE,2018-10-14
-ws.ebs.stjosemaria,St.Josemaria,168,VE,2018-10-14
-com.ea.game.pegglex_row,PeggleBlast,169,VE,2018-10-14
-free.vpn.unblock.proxy.vpnmaster,VPNMaster-FreeunblockProxyVPN&securityVPN,170,VE,2018-10-14
-com.lumoslabs.lumosity,Lumosity:#1脳トレゲーム・認知力トレーニングアプリ,171,VE,2018-10-14
-com.trophymanager.pro11,Pro11-フットボールマネージャー,172,VE,2018-10-14
-com.tambucho.fsradiopanel,FsRadioPanelPro,173,VE,2018-10-14
-com.avg.cleaner,AVGクリーナーでスピード、バッテリー、メモリを向上,174,VE,2018-10-14
-air.com.sweetnitro.flickarena,FlickArena,175,VE,2018-10-14
-com.mobirate.DeadAheadTactics,DeadAhead:ZombieWarfare,176,VE,2018-10-14
-com.viki.android,Viki:アジアのテレビドラマ&映画,177,VE,2018-10-14
-com.glu.gordondashx,RESTAURANTDASH:GORDONRAMSAY,178,VE,2018-10-14
-com.perblue.disneyheroes,DisneyHeroes:BattleMode,179,VE,2018-10-14
-zombie.survival.craft.z,LastDayonEarth:Survival,180,VE,2018-10-14
-com.intsig.camscanner,CamScannerスキャンPDF作成,181,VE,2018-10-14
-vixr.bermuda,BermudaVideoChat-新しい人に会います,182,VE,2018-10-14
-air.com.pixelfederation.seaport.explore.collect.trade,"Seaport-Explore,Collect&Trade",183,VE,2018-10-14
-com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,184,VE,2018-10-14
-com.goldenfrog.vyprvpn.app,VPN-VyprVPNによる高速、安全で無制限のWiFi,185,VE,2018-10-14
-com.chatous.chatous,Chatous,186,VE,2018-10-14
-com.foxnextgames.m3,MARVELストライクフォース,187,VE,2018-10-14
-com.productmadness.hovmobile,HeartofVegas:オンラインカジノスロットアプリ,188,VE,2018-10-14
-com.azarlive.android,Azar-ビデオチャット、友達検索,189,VE,2018-10-14
-com.allstargames.ggplay.wsjjeu,SwordofChaos,190,VE,2018-10-14
-com.zrgiu.antivirus,AntivirusFree-MobileSecurity,191,VE,2018-10-14
-com.king.blossomblast,ブロッサム・ブラスト,192,VE,2018-10-14
-com.crypter.cryptocyrrency,"CryptoApp-Widgets,Alerts,News,BitcoinPrices",193,VE,2018-10-14
-com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,194,VE,2018-10-14
-com.playfirst.cookingdashx,COOKINGDASH,195,VE,2018-10-14
-tunein.player,TuneInRadio,196,VE,2018-10-14
-com.gameloft.android.ANMP.GloftGHHM,マーチオブエンパイア-領土戦争,197,VE,2018-10-14
-com.singlecellsoftware.caustickey,CausticUnlockKey,198,VE,2018-10-14
-com.zindagigames.ccs,CrazyCakeSwap,199,VE,2018-10-14
-com.axlebolt.standoff2,Standoff2,200,VE,2018-10-14
-me.dingtone.app.im,"Freephonecalls,freetextingSMSonfreenumber",201,VE,2018-10-14
-de.mobileconcepts.cyberghost,CyberGhostVPN,202,VE,2018-10-14
-com.nintendo.zara,SuperMarioRun,203,VE,2018-10-14
-com.sweetringplus.android,出会える婚活・恋愛アプリSweetRing(スイートリング),204,VE,2018-10-14
-dce.seriea,SerieAPass,205,VE,2018-10-14
-mappstreet.silentmanager,SilentManager,206,VE,2018-10-14
-com.atistudios.italk.de,ドイツ語を学ぶ。ドイツ語を話す,207,VE,2018-10-14
-com.king.candycrushjellysaga,キャンディークラッシュゼリー,208,VE,2018-10-14
-com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,209,VE,2018-10-14
-com.zenstudios.bethesdaf2p,Bethesda®Pinball,210,VE,2018-10-14
-com.naturalmotion.csrracing,CSRRacing,211,VE,2018-10-14
-com.rcplatform.livechat,LiveChat-Meetnewpeople,212,VE,2018-10-14
-us.kr.baseballnine,プロ野球ナイン,213,VE,2018-10-14
-com.tensquaregames.letsfish2,FishingClash:簡単釣りゲーム。究極のスポーツフィッシングシミュレーター,214,VE,2018-10-14
-com.lt.latte.brick,ブロック崩しスター:スペースキング,215,VE,2018-10-14
-com.learninglabs.flashsticks,FlashAcademy®-LanguageLearning,216,VE,2018-10-14
-com.apalon.mandala.coloring.book,私塗り絵本-大人のための塗り絵帳,217,VE,2018-10-14
-com.ninjakiwi.bloonstdbattles,BloonsTDBattles,218,VE,2018-10-14
-ws.coverme.im,PrivateTextMessaging+SecureTexting&Calling,219,VE,2018-10-14
-co.speechnotes.speechnotes,Speechnotesスピーチノート-音声から文字へ,220,VE,2018-10-14
-com.roomster,Roomster-ルームメイト&ルームシェア,221,VE,2018-10-14
-com.textmeinc.freetone,FreeToneFreeCalls&Texting,222,VE,2018-10-14
-air.com.bitrhymes.bingo,タイトル:BingoBash–無料のビンゴカジノ,223,VE,2018-10-14
-com.playgendary.tom,TomboftheMask,224,VE,2018-10-14
-chimp.works.td4,PowerPainter,225,VE,2018-10-14
-com.halfbrick.jetpackjoyride,JetpackJoyride,226,VE,2018-10-14
-simply.learn.finnish,わかりやすいフィンランド語レッスン,227,VE,2018-10-14
-net.tandem,Tandemタンデム-言語交換,228,VE,2018-10-14
-com.gameloft.android.ANMP.GloftASHM,アメイジング・スパイダーマン2,229,VE,2018-10-14
-com.microsoft.office.word,MicrosoftWord,230,VE,2018-10-14
-com.chasquimobile,ChasquiMobile,231,VE,2018-10-14
-com.disrapp.coinkeeper.material,CoinKeeper,232,VE,2018-10-14
-com.rockstargames.bully,Bully:AnniversaryEdition,233,VE,2018-10-14
-com.lilithgame.roc.gp,RiseofCivilizations,234,VE,2018-10-14
-com.kung.follow.grow,MassFollowers™,235,VE,2018-10-14
-com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,236,VE,2018-10-14
-net.isitlove.mysteryspell.nicolae,Is-itLove?NicolaeVampire,237,VE,2018-10-14
-com.stac.empire.main,AgeofWarringEmpire,238,VE,2018-10-14
-com.playgendary.sportmasters,Bouncemasters!,239,VE,2018-10-14
-net.isitlove.cartercorp.adam,IsitLove?-Adam-StorywithChoices,240,VE,2018-10-14
-com.antivirus,AVGアンチウイルス無料〜スマホセキュリティソフト〜,241,VE,2018-10-14
-com.s.antivirus,Xperia™用AVGProtection,242,VE,2018-10-14
-com.fanatee.stop,Stop-CategoriesWordGame,243,VE,2018-10-14
-chessfriends.online.chess,チェス,244,VE,2018-10-14
-com.algoriddim.djay_free,djayFREE-DJMixRemixMusic,245,VE,2018-10-14
-es.parrotgames.restaurantcity,WorldChef,246,VE,2018-10-14
-com.ea.gp.simsmobile,TheSims シムズ ポケット,247,VE,2018-10-14
-es.socialpoint.MonsterLegends,MonsterLegends-ストラテジーRPGバトル戦争,248,VE,2018-10-14
-jp.naver.line.android,LINE（ライン）-無料通話・メールアプリ,249,VE,2018-10-14
-com.nimmble.rgpro,RegrannPro-RepostforInstagram,250,VE,2018-10-14
-com.probits.argo,アルゴARGO-ソーシャルビデオチャット、友達探し,251,VE,2018-10-14
-com.papumba.academyforkids,Papumbaアカデミー：幼児・子ども向けゲーム,252,VE,2018-10-14
-com.marinetraffic.android,MarineTrafficshippositions,253,VE,2018-10-14
-tv.twitch.android.app,Twitch,254,VE,2018-10-14
-com.futureplay.battleground,BattlelandsRoyale,255,VE,2018-10-14
-com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,256,VE,2018-10-14
-net.peakgames.ginrummyplus,GinRummyPlus,257,VE,2018-10-14
-com.slots.vegas.casino.game,SlotsofVegas-FreeSlotGames,258,VE,2018-10-14
-com.kingsgroup.ww2,Zデー:ハーツオブヒーローズ,259,VE,2018-10-14
-com.utorrent.client.pro,µTorrent®Pro-TorrentApp,260,VE,2018-10-14
-com.allstargames.ggplay.wsjjes,SwordofChaos-ArmadeCaos,261,VE,2018-10-14
-com.youdagames.gop3multiplayer,GovernorofPoker3-TexasHoldemPokerOnline,262,VE,2018-10-14
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,263,VE,2018-10-14
-com.vialsoft.radarbot_free,Radarbot無料版:スピードカメラ検知&速度計,264,VE,2018-10-14
-com.nextgames.android.ourworld,ウォーキング・デッド：我らの世界,265,VE,2018-10-14
-com.editorialbuencamino.buencamino,BuenCaminodeSantiagoPro,266,VE,2018-10-14
-com.nbaimd.gametime.nba2011,NBAApp,267,VE,2018-10-14
-com.proficientcity.ddtankbrazil,BombMeBrasil:ShooterLords,268,VE,2018-10-14
-com.robtopx.geometryjump,GeometryDash,269,VE,2018-10-14
-com.godgame.bigtwod.android,鋤大地神來也鋤大D,270,VE,2018-10-14
-com.brainbow.peak.app,PEAK（ピーク）-脳トレ,271,VE,2018-10-14
-com.hcg.ctw.gp,ClashofKings:TheWest,272,VE,2018-10-14
-com.ksmobile.pro.launcher,💎CMLauncherPro,273,VE,2018-10-14
-com.pnixgames.bowlingking,BowlingKing,274,VE,2018-10-14
-com.appsomniacs.da2,DoodleArmy2:MiniMilitia,275,VE,2018-10-14
-com.flyersoft.moonreaderp,Moon+ReaderPro,276,VE,2018-10-14
-com.ballytechnologies.f88,88FortunesSlots:無料カジノスロットゲーム,277,VE,2018-10-14
-com.playmini.miniworld,MiniWorldBlockArt,278,VE,2018-10-14
-com.likes.followers.assistant,RealFollowersandlikeswithHashtags,279,VE,2018-10-14
-tv.telepathic.hooked,HOOKED-ChatStories,280,VE,2018-10-14
-com.sega.sprint,SonicForces,281,VE,2018-10-14
-com.gmail.heagoo.apkeditor.pro,APKEditorPro,282,VE,2018-10-14
-com.rockstargames.gtavc,グランド・セフト・オート・バイスシティ,283,VE,2018-10-14
-com.camex.tactical.monster,タクティカルモンスターズ(TacticalMonsters),284,VE,2018-10-14
-com.skgames.trafficrider,TrafficRider,285,VE,2018-10-14
-com.smule.singandroid,Smule-ナンバーワンの歌アプリ,286,VE,2018-10-14
-com.otherguys.zoe,ZOE:InteractiveStory,287,VE,2018-10-14
-com.teslacoilsw.launcher.prime,NovaLauncherPrime,288,VE,2018-10-14
-com.glu.flcn_new,フロントラインコマンド：ノルマンディー,289,VE,2018-10-14
-com.playkot.ageofmagic,AgeofMagic,290,VE,2018-10-14
-com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,291,VE,2018-10-14
-com.voltage.lovestruck.ggl.en,LovestruckChooseYourRomance,292,VE,2018-10-14
-com.bornehltd.tornadovpn.pro,TornadoVPNPro–PremiumPaidSecurityProxy,293,VE,2018-10-14
-air.com.freshplanet.games.SongPop2,SongPop2-音楽トリビア,294,VE,2018-10-14
-com.gamebeartech.nova,ノヴァ帝国,295,VE,2018-10-14
-com.zynga.FarmVilleTropicEscape,FarmVille:TropicEscape,296,VE,2018-10-14
-air.com.noodlecake.luminocity,LuminoCity,297,VE,2018-10-14
-com.ChillyRoom.DungeonShooter,SoulKnight,298,VE,2018-10-14
-com.yottagames.mafiawar,マフィア・シティ-極道風雲,299,VE,2018-10-14
-com.gaditek.purevpnics,PureVPN-BestFreeVPNforAndroid,300,VE,2018-10-14
-com.aadhk.woinvoice,シンプル請求書,301,VE,2018-10-14
-br.com.zeroum.cancionesdelzoo,CancionesdelZoo,302,VE,2018-10-14
-ca.emeraldcitygames.erpg,ライオンハート:ダークムーン,303,VE,2018-10-14
-ginlemon.flowerfree,スマートランチャー(SmartLauncher),304,VE,2018-10-14
-com.zeptolab.thieves.google,KingofThieves(泥棒の王様),305,VE,2018-10-14
-com.xs.pooltd,3Dビリヤード,306,VE,2018-10-14
-br.com.zeroum.turmadagalinha,TurmadaGalinhaPintadinha,307,VE,2018-10-14
-com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-ビデオエディター,308,VE,2018-10-14
-com.jsdev.instasize,InstaSize-フォトスタジオ画像加工＆コラージュ編集,309,VE,2018-10-14
-com.liquidum.rocketvpn,RocketVPN–InternetFreedomVPN,310,VE,2018-10-14
-com.speedsoftware.rootexplorer,RootExplorer,311,VE,2018-10-14
-net.liveatc.liveatc_app,LiveATCforAndroid,312,VE,2018-10-14
-com.apalon.scanner.app,私のためのスキャナー:画像をPDFに変換j,313,VE,2018-10-14
-com.cyberlink.powerdirector.DRA140225_01,PowerDirector-ビデオ編集,314,VE,2018-10-14
-com.justunfollow.android,Crowdfire:YourSmartMarketer,315,VE,2018-10-14
-id.passport.photo.lite,PassportSizePhotoMaker-PrintatHome,316,VE,2018-10-14
-com.evernote,ノート、手帳、プランナー、メモをすべてEvernoteで,317,VE,2018-10-14
-com.jetappfactory.jetaudioplus,ジェットオーディオプラス-高音質の音楽プレーヤー,318,VE,2018-10-14
-io.faceapp,FaceApp,319,VE,2018-10-14
-cm.confide.android,Confide,320,VE,2018-10-14
-com.flightradar24free,Flightradar24フライトトラッカー,321,VE,2018-10-14
-com.funcamerastudio.videomaker,VideoMaker—動画編集＆動画作成＆動画加工&音楽&魔法のビデオエディタ,322,VE,2018-10-14
-np.com.njs.autophotos,PassportSizePhotoEditor,323,VE,2018-10-14
-com.videoshop.app,Videoshop-ビデオエディター,324,VE,2018-10-14
-eztools.calculator.photo.vault,電卓-写真金庫（あなたの写真を隠して）,325,VE,2018-10-14
-com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,326,VE,2018-10-14
-com.cmplay.bricksnballs,ブリックツムツム,327,VE,2018-10-14
-com.moplus.gvphone,PHONEforGoogleVoice&GTalk,328,VE,2018-10-14
-com.tenbirds.animus,アニマス-アイア番外編,329,VE,2018-10-14
-com.chanel.weather.forecast.accu.pro,天気予報プロ,330,VE,2018-10-14
-com.tasmanic.camtoplan,CamToPlan,331,VE,2018-10-14
-com.tohsoft.ringtone.maker.pro,RingtoneMakerPro,332,VE,2018-10-14
-com.hiketop.app,Hiketop+,333,VE,2018-10-14
-pl.idreams.SkyForceReloaded2016,SkyForceReloaded,334,VE,2018-10-14
-com.easytech.wc4.android,世界の覇者4,335,VE,2018-10-14
-cz.zdenekhorak.mibandtools,Tools&MiBand,336,VE,2018-10-14
-com.creative.sandbox.number.drawning.coloring,No.Draw-数字で塗り絵スケッチブック,337,VE,2018-10-14
-com.epsxe.ePSXe,ePSXeforAndroid,338,VE,2018-10-14
-com.algoriddim.djay,djay2,339,VE,2018-10-14
-air.com.spilgames.TrollFaceQuestHorror,TrollFaceQuestHorror,340,VE,2018-10-14
-com.cashitapp.app.jokesphone,JokesPhone-ジョーク電話,341,VE,2018-10-14
-com.pockybop.sociali,Neutrino+,342,VE,2018-10-14
-com.powermanager.batteryaddon,PackageDisablerPro+(Samsung),343,VE,2018-10-14
-com.rhmsoft.edit.pro,QuickEditテキストエディタープロ,344,VE,2018-10-14
-com.netmarble.fishingstg,フィッシングストライク,345,VE,2018-10-14
-com.mc.miband1,Notify&FitnessforMiBand,346,VE,2018-10-14
-sk.inlogic.rouletteprovip.android,ルーレットプロVIP,347,VE,2018-10-14
-com.klinker.android.twitter_l,TalonforTwitter,348,VE,2018-10-14
-com.luckios.buffaloslots,RoyalSlotsFreeSlotMachines,349,VE,2018-10-14
-com.wordgame.puzzle.board.es,PalabrasCruz,350,VE,2018-10-14
-com.jibjab.android.messages.fbmessenger,JibJab,351,VE,2018-10-14
-com.estrongs.android.pop.pro,ESFileExplorer/ManagerPRO,352,VE,2018-10-14
-com.turner.superstarsoccer2,CNSuperstarSoccer:Goal!!!,353,VE,2018-10-14
-com.gameloft.android.ANMP.GloftICHM,SonicRunnersAdventure-FastActionPlatformer,354,VE,2018-10-14
-com.supercell.boombeach,ブーム・ビーチ(BoomBeach),355,VE,2018-10-14
-com.MeteoGames.AlterDogma,AlterDogma,356,VE,2018-10-14
-net.dinglisch.android.taskerm,Tasker,357,VE,2018-10-14
-com.narvii.amino.master,Amino:CommunitiesandChats,358,VE,2018-10-14
-reddit.news,Relayforreddit(Pro),359,VE,2018-10-14
-jp.co.ponos.battlecatsen,TheBattleCats,360,VE,2018-10-14
-com.scottgames.fnaf2,FiveNightsatFreddy's2,361,VE,2018-10-14
-com.yivana.android,YivanaMeditación,362,VE,2018-10-14
-com.gameloft.android.ANMP.GloftGF2F,エコふぁ～む3,363,VE,2018-10-14
-com.disney.WMW,スワンピーのお風呂パニック！,364,VE,2018-10-14
-com.mmo.android,RucoyOnline-MMORPG-MMO,365,VE,2018-10-14
-air.com.officemax.magicmirror.ElfYourSelf,ElfYourself®ByOfficeDepot,366,VE,2018-10-14
-com.ticktalk.translatevoice,言語翻訳-声を翻訳,367,VE,2018-10-14
-il.co.smedia.callrecorder.yoni,CallRecorder-Automatic,368,VE,2018-10-14
-followerchief.app,FollowersChief,369,VE,2018-10-14
-com.my.hawk.air.shooter,HAWK–フライトシューティングゲーム。撃ちまくれ,370,VE,2018-10-14
-com.gismart.drum.pads.machine,DrumPads-BeatMakerGo,371,VE,2018-10-14
-it.ideasolutions.kyms,KYMS-Keepyourmediasafe,372,VE,2018-10-14
-com.badoo.mobile.premium,BadooPremium,373,VE,2018-10-14
-com.pacosal.gear.notificationsweargears2,"NotificationsWearforGearS2,S3,Sport&G.Watch",374,VE,2018-10-14
-com.firsttouchgames.dls3,DreamLeagueSoccer2018,375,VE,2018-10-14
-com.tutotoons.app.farmanimalshospitaldoctor3.free,ファーム動物病院ドクター3,376,VE,2018-10-14
-com.tutotoons.app.sweetbabygirlcleanup6.free,SweetBabyGirlCleanup6-CleaningFunatSchool,377,VE,2018-10-14
-com.aor.droidedit.pro,DroidEditPro(codeeditor),378,VE,2018-10-14
-com.zynga.livepoker,Zyngaポーカー,379,VE,2018-10-14
-com.skytecgames.cardsheroes,CardHeroes,380,VE,2018-10-14
-pixelab.camart.cartoon,camartcartoon,381,VE,2018-10-14
-com.lingplay.match3rpg,HeroesandPuzzles,382,VE,2018-10-14
-com.facilisimo.dotmind,Siente-Mindfulnessypsicologíapositiva,383,VE,2018-10-14
-net.isitlove.mysteryspell.peter,Is-itLove?Peter-EpisodeVampire,384,VE,2018-10-14
-com.FDGEntertainment.redball4.gp,RedBall4,385,VE,2018-10-14
-com.FireproofStudios.TheRoom2,TheRoomTwo,386,VE,2018-10-14
-jp.naver.lineplay.android,LINEプレイ-世界中の友だちと楽しむアバターライフ,387,VE,2018-10-14
-com.advasoft.touchretouch,TouchRetouch,388,VE,2018-10-14
-com.dc.hwsj,GameofSultans,389,VE,2018-10-14
-com.miniclip.basketballstars,BasketballStars,390,VE,2018-10-14
-com.superpowered.backtrackit,BACKTRACKIT,391,VE,2018-10-14
-com.sega.sonic2.runner,SonicTheHedgehog2Classic,392,VE,2018-10-14
-projekt.sungstratum,sungstratum★substratumforsamsungnougat7.x,393,VE,2018-10-14
-com.matchington.mansion,マッチングトン·マンション,394,VE,2018-10-14
-jp.co.capcom.rockman3en,MEGAMAN3MOBILE,395,VE,2018-10-14
-air.com.RustyLake.CubeEscapeParadox,CubeEscape:Paradox,396,VE,2018-10-14
-com.gameloft.android.ANMP.GloftFWHM,スナイパーフューリー：トップシューティングゲーム【FPS】,397,VE,2018-10-14
-com.imvu.mobilecordova,IMVU-3Dアバターソーシャルアプリ,398,VE,2018-10-14
-com.app.cyxsb,穿越小说吧-追小说，阅读小说神器-海量免费小说-台湾言情小说王,399,VE,2018-10-14
-com.cleevio.spendee,Spendee-BudgetandExpenseTracker&Planner,400,VE,2018-10-14
-com.beamdog.icewinddale,IcewindDale:EnhancedEdition,401,VE,2018-10-14
-com.cmplay.tiles2,ピアノタイル2™,402,VE,2018-10-14
-com.rayark.cytus2,CytusII(サイタスⅡ),403,VE,2018-10-14
-com.coolapps.postermaker,"ポスター創造主,広告ページ創案者,リーフレットデザイナー",404,VE,2018-10-14
-com.pleasantapps.unfollowers,Unfollowers,405,VE,2018-10-14
-com.bbm,BBM-通話とメッセージを無料で,406,VE,2018-10-14
-com.zuuks.truck.simulator.euro,TruckSimulator2018:Europe,407,VE,2018-10-14
-com.vinwap.parallaxwallpaper,3DParallaxBackground-HDWallpapersin3D,408,VE,2018-10-14
-com.workout.workout,ProGymWorkout(GymWorkouts&Fitness),409,VE,2018-10-14
-com.lumaticsoft.watchdroidphone,WatchDroidPhone,410,VE,2018-10-14
-org.pixelrush.moneyiq,"1Money-expensetracker,moneymanager,budget",411,VE,2018-10-14
-com.vimage.android,VIMAGE-cinemagraphanimator&livephotoeditor,412,VE,2018-10-14
-com.coolapps.dslrcamera,DSLRカメラのぼかし効果,413,VE,2018-10-14
-air.br.com.megajogos.mobile,MegaJogos-JogosdeCartaseJogosdeTabuleiro,414,VE,2018-10-14
-com.nordcurrent.cafe,HappyCafe,415,VE,2018-10-14
-com.bitdefender.security,BitdefenderMobileSecurity&Antivirus,416,VE,2018-10-14
-com.cleanmaster.security,SecurityMaster-無料セキュリティ，アプリロック,417,VE,2018-10-14
-de.j4velin.wallpaperChanger,WallpaperChanger,418,VE,2018-10-14
-com.appszona.dolartodaywidget,DolarHoyWidgetPreciodeDolarNoticiasVenezuela,419,VE,2018-10-14
-com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,420,VE,2018-10-14
-com.outfit7.talkingnewsfree,トーキング・トムとベンのニュース,421,VE,2018-10-14
-de.lotum.whatsinthefoto.es,4Fotos1Palabra,422,VE,2018-10-14
-com.mola.playspace.android.parchis,ParcheesibyPlayspace,423,VE,2018-10-14
-com.everbytestudio.sinisteredge,SinisterEdge-3Dホラーゲーム,424,VE,2018-10-14
-com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),425,VE,2018-10-14
-kr.co.manhole.hujicam,HujiCam,426,VE,2018-10-14
-com.ministone.game.risingsuperchef2,RisingSuperChef2:CookingGame,427,VE,2018-10-14
-com.special.warship,戦艦ファイナル-最後の戦い（最後の海戦を舞台にしたSLGの最高傑作）,428,VE,2018-10-14
-com.zplay.willhero,ウィルヒーロー,429,VE,2018-10-14
-com.MoustacheBanana.TacticalWarSimulator,TacticalBattleSimulator,430,VE,2018-10-14
-air.com.bulkypix.pretentiousgame,PretentiousGame,431,VE,2018-10-14
-org.zwanoo.android.speedtest,Speedtest.net,432,VE,2018-10-14
-com.moonlab.unfold,Unfold—CreateStories,433,VE,2018-10-14
-com.yahoo.mobile.client.android.mail,YahooMail–StayOrganized,434,VE,2018-10-14
-com.ywha.social.followers,FameTurbo-FastFollowersPro,435,VE,2018-10-14
-com.pixonic.wwr,WarRobots,436,VE,2018-10-14
-com.okidokico.okgolf,OKGolf-OKゴルフ,437,VE,2018-10-14
-com.tencent.warwings2,ウォー・ウィングス(WarWings),438,VE,2018-10-14
-com.turner.atskisafari,SkiSafari:AdventureTime,439,VE,2018-10-14
-com.santiagosarquis.mono,Mono-IconPack,440,VE,2018-10-14
-klb.android.lovelive_en,LoveLive!Schoolidolfestival,441,VE,2018-10-14
-com.piksoft.turboscan.free,TurboScan:scandocuments&receiptsinPDF,442,VE,2018-10-14
-com.intsig.BizCardReader,CamCard:名刺管理•日本語他16言語対応,443,VE,2018-10-14
-com.gogii.textplus,textPlus:FreeText&Calls,444,VE,2018-10-14
-com.bethsoft.falloutshelter,FalloutShelter,445,VE,2018-10-14
-com.makingfun.mageandminions,Eternium,446,VE,2018-10-14
-com.kvadgroup.photostudio_pro,PhotoStudioPRO,447,VE,2018-10-14
-com.vladlee.callblocker,通話ブロッカー,448,VE,2018-10-14
-com.jndapp.apple.ilook.iconpack,iLOOKIconpack:iOSUXTHEME,449,VE,2018-10-14
-com.mindmill.pipes.loops.plumber.puzzle,パズルゲーム:Linedoku,450,VE,2018-10-14
-me.morirain.dev.iconpack.pure,Pure-IconPack(FlatDesign),451,VE,2018-10-14
-com.gamecircus.tycoon,TapstoRiches,452,VE,2018-10-14
-com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,453,VE,2018-10-14
-com.zenstudios.MarvelPinball,MarvelPinball,454,VE,2018-10-14
-com.n7mobile.nplayer,n7player音楽プレーヤー,455,VE,2018-10-14
-com.viber.voip,Viber無料通話＆メッセージアプリ,456,VE,2018-10-14
-com.superking.parchisi.star,ParchisSTAROnline,457,VE,2018-10-14
-com.astragon.cs2016,ConstructionSimulator2,458,VE,2018-10-14
-com.wecut.vapor,"VaporCam-VHSGlitchフィルター,Vaporwaveステッカー,美学写真編集",459,VE,2018-10-14
-air.com.buffalo_studios.newflashbingo,BINGOBLITZ™️ビンゴゲーム-ビンゴスロット,460,VE,2018-10-14
-com.ThoriumGameLab.BattleOfVicksburg,BattleofVicksburg,461,VE,2018-10-14
-com.hsv.freeadblockerbrowser,無料の広告ブロックブラウザ,462,VE,2018-10-14
-com.epplayworld.likes,LikesforInstagram,463,VE,2018-10-14
-mobi.lockdown.weather,"TodayWeather-天気予報,レーダー&雨アラーム",464,VE,2018-10-14
-com.buak.link2sdplus,Link2SDPlus(New),465,VE,2018-10-14
-com.halfbrick.fruitninja,FruitNinjaClassic,466,VE,2018-10-14
-me.dreamsky.lostjourney2,時空の旅(Dreamsky),467,VE,2018-10-14
-com.esim.numero,NumeroeSIM-InternationalVirtualPhoneNumbers,468,VE,2018-10-14
-com.erc.bibliaaiopro,CELUBIBLIAALLINONEPRO,469,VE,2018-10-14
-com.cyberlink.photodirector,PhotoDirector–カメラ&編集アプリ,470,VE,2018-10-14
-com.visiting.businesscardmaker,BusinessCardMakerFreeVisitingCardMakerphoto,471,VE,2018-10-14
-com.infinite.shooting.galaxy.attack,インフィニティシューティング：銀河戦争,472,VE,2018-10-14
-ru.crazypanda.MMOStrategy,StellarAge:MMO戦略,473,VE,2018-10-14
-net.lovoo.android,LOVOO-LiveVideoChat,474,VE,2018-10-14
-com.animoto.android.videoslideshow,AnimotoVideoMaker,475,VE,2018-10-14
-com.pockettrend.neomonsters,ネオモンスターズ,476,VE,2018-10-14
-com.ubisoft.dance.JustDance,JustDanceNow,477,VE,2018-10-14
-com.gamedevltd.destinywarfare,インフィニティオペレーションFPS,478,VE,2018-10-14
+com.ubisoft.hungrysharkworld,HungrySharkWorld,133,VE,2018-10-14
+com.photomyne,Photomyneによる写真スキャナー,134,VE,2018-10-14
+com.g5e.hiddencity.android,HiddenCity:アイテム探しアドベンチャー,135,VE,2018-10-14
+jp.co.capcom.mhsspen,MonsterHunterStories,136,VE,2018-10-14
+com.iplum.android,"iPlum:2ndPhoneNumberUS,Canada,800TollFree",137,VE,2018-10-14
+com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,138,VE,2018-10-14
+com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,139,VE,2018-10-14
+com.king.diamonddiariessaga,ダイヤモンドダイアリー,140,VE,2018-10-14
+com.netmarble.lin2ws,Lineage2:Revolution,141,VE,2018-10-14
+com.igg.castleclash,CastleClash:BraveSquads,142,VE,2018-10-14
+com.textmeinc.textme,"TextMe:TextFree,CallFree,SecondPhoneNumber",143,VE,2018-10-14
+com.movile.disneyjuniorplay_latam_an,DisneyJuniorPlay,144,VE,2018-10-14
+com.tdinvite.gen,TDInvite,145,VE,2018-10-14
+com.ea.gp.nbamobile,NBALIVEMobileBasketball,146,VE,2018-10-14
+com.ninemgames.tennis.google,アルティメットテニス,147,VE,2018-10-14
+com.crowdstar.covetHome,DesignHome,148,VE,2018-10-14
+com.funplus.kingofavalon,キング・オブ・アバロン:ドラゴン戦争(KoA),149,VE,2018-10-14
+com.droidhang.ad,IdleHeroes-無料放置育成RPG,150,VE,2018-10-14
+mega.privacy.android.app,MEGA,151,VE,2018-10-14
+com.eset.ems2.gp,MobileSecurity&Antivirus,152,VE,2018-10-14
+com.studiorainmobile.bitcoinsignals,BitcoinSignals-GuidesforCryptocurrencies,153,VE,2018-10-14
+com.mngo.knights,PocketKnights2,154,VE,2018-10-14
+com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),155,VE,2018-10-14
+com.gismart.guitar,リアル・ギター無料-ベースギターコード練習、音楽、音ゲー、リズム、ゲームと楽器アプリ,156,VE,2018-10-14
+com.playgendary.partymasters,Partymasters-FunIdleGame,157,VE,2018-10-14
+com.rockstargames.gtasa,グランド・セフト・オート・サンアンドレアス,158,VE,2018-10-14
+com.nexon.maplem.global,MapleStoryM,159,VE,2018-10-14
+com.playgendary.kickthebuddy,KicktheBuddy,160,VE,2018-10-14
+org.imperiaonline.android.v6,ImperiaOnlineMMOStrategy,161,VE,2018-10-14
+com.lilithgame.sgame.gp.oss,ArtofConquest,162,VE,2018-10-14
+com.ea.games.simsfreeplay_row,TheSimsFreePlay,163,VE,2018-10-14
+com.mobivate.colourgo,ColourGo-Coloringbook,164,VE,2018-10-14
+com.apalon.weatherlive.free,天気ライブ-地域の天気予報,165,VE,2018-10-14
+com.getsomeheadspace.android,Headspace:Meditation&Mindfulness,166,VE,2018-10-14
+com.hbo.broadband,HBOGO®,167,VE,2018-10-14
+com.expressvpn.vpn,ExpressVPN–Android向けのベストVPN,168,VE,2018-10-14
+ws.ebs.stjosemaria,St.Josemaria,169,VE,2018-10-14
+com.ea.game.pegglex_row,PeggleBlast,170,VE,2018-10-14
+free.vpn.unblock.proxy.vpnmaster,VPNMaster-FreeunblockProxyVPN&securityVPN,171,VE,2018-10-14
+com.lumoslabs.lumosity,Lumosity:#1脳トレゲーム・認知力トレーニングアプリ,172,VE,2018-10-14
+com.trophymanager.pro11,Pro11-フットボールマネージャー,173,VE,2018-10-14
+com.tambucho.fsradiopanel,FsRadioPanelPro,174,VE,2018-10-14
+com.avg.cleaner,AVGクリーナーでスピード、バッテリー、メモリを向上,175,VE,2018-10-14
+air.com.sweetnitro.flickarena,FlickArena,176,VE,2018-10-14
+com.mobirate.DeadAheadTactics,DeadAhead:ZombieWarfare,177,VE,2018-10-14
+com.viki.android,Viki:アジアのテレビドラマ&映画,178,VE,2018-10-14
+com.glu.gordondashx,RESTAURANTDASH:GORDONRAMSAY,179,VE,2018-10-14
+com.perblue.disneyheroes,DisneyHeroes:BattleMode,180,VE,2018-10-14
+zombie.survival.craft.z,LastDayonEarth:Survival,181,VE,2018-10-14
+com.intsig.camscanner,CamScannerスキャンPDF作成,182,VE,2018-10-14
+vixr.bermuda,BermudaVideoChat-新しい人に会います,183,VE,2018-10-14
+air.com.pixelfederation.seaport.explore.collect.trade,"Seaport-Explore,Collect&Trade",184,VE,2018-10-14
+com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,185,VE,2018-10-14
+com.goldenfrog.vyprvpn.app,VPN-VyprVPNによる高速、安全で無制限のWiFi,186,VE,2018-10-14
+com.chatous.chatous,Chatous,187,VE,2018-10-14
+com.foxnextgames.m3,MARVELストライクフォース,188,VE,2018-10-14
+com.productmadness.hovmobile,HeartofVegas:オンラインカジノスロットアプリ,189,VE,2018-10-14
+com.azarlive.android,Azar-ビデオチャット、友達検索,190,VE,2018-10-14
+com.allstargames.ggplay.wsjjeu,SwordofChaos,191,VE,2018-10-14
+com.zrgiu.antivirus,AntivirusFree-MobileSecurity,192,VE,2018-10-14
+com.king.blossomblast,ブロッサム・ブラスト,193,VE,2018-10-14
+com.crypter.cryptocyrrency,"CryptoApp-Widgets,Alerts,News,BitcoinPrices",194,VE,2018-10-14
+com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,195,VE,2018-10-14
+com.playfirst.cookingdashx,COOKINGDASH,196,VE,2018-10-14
+tunein.player,TuneInRadio,197,VE,2018-10-14
+com.gameloft.android.ANMP.GloftGHHM,マーチオブエンパイア-領土戦争,198,VE,2018-10-14
+com.singlecellsoftware.caustickey,CausticUnlockKey,199,VE,2018-10-14
+com.zindagigames.ccs,CrazyCakeSwap,200,VE,2018-10-14
+com.axlebolt.standoff2,Standoff2,201,VE,2018-10-14
+me.dingtone.app.im,"Freephonecalls,freetextingSMSonfreenumber",202,VE,2018-10-14
+de.mobileconcepts.cyberghost,CyberGhostVPN,203,VE,2018-10-14
+com.nintendo.zara,SuperMarioRun,204,VE,2018-10-14
+com.sweetringplus.android,出会える婚活・恋愛アプリSweetRing(スイートリング),205,VE,2018-10-14
+dce.seriea,SerieAPass,206,VE,2018-10-14
+mappstreet.silentmanager,SilentManager,207,VE,2018-10-14
+com.atistudios.italk.de,ドイツ語を学ぶ。ドイツ語を話す,208,VE,2018-10-14
+com.king.candycrushjellysaga,キャンディークラッシュゼリー,209,VE,2018-10-14
+com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,210,VE,2018-10-14
+com.zenstudios.bethesdaf2p,Bethesda®Pinball,211,VE,2018-10-14
+com.naturalmotion.csrracing,CSRRacing,212,VE,2018-10-14
+com.rcplatform.livechat,LiveChat-Meetnewpeople,213,VE,2018-10-14
+us.kr.baseballnine,プロ野球ナイン,214,VE,2018-10-14
+com.tensquaregames.letsfish2,FishingClash:簡単釣りゲーム。究極のスポーツフィッシングシミュレーター,215,VE,2018-10-14
+com.lt.latte.brick,ブロック崩しスター:スペースキング,216,VE,2018-10-14
+com.learninglabs.flashsticks,FlashAcademy®-LanguageLearning,217,VE,2018-10-14
+com.apalon.mandala.coloring.book,私塗り絵本-大人のための塗り絵帳,218,VE,2018-10-14
+com.ninjakiwi.bloonstdbattles,BloonsTDBattles,219,VE,2018-10-14
+ws.coverme.im,PrivateTextMessaging+SecureTexting&Calling,220,VE,2018-10-14
+co.speechnotes.speechnotes,Speechnotesスピーチノート-音声から文字へ,221,VE,2018-10-14
+com.roomster,Roomster-ルームメイト&ルームシェア,222,VE,2018-10-14
+com.textmeinc.freetone,FreeToneFreeCalls&Texting,223,VE,2018-10-14
+air.com.bitrhymes.bingo,タイトル:BingoBash–無料のビンゴカジノ,224,VE,2018-10-14
+com.playgendary.tom,TomboftheMask,225,VE,2018-10-14
+chimp.works.td4,PowerPainter,226,VE,2018-10-14
+com.halfbrick.jetpackjoyride,JetpackJoyride,227,VE,2018-10-14
+simply.learn.finnish,わかりやすいフィンランド語レッスン,228,VE,2018-10-14
+net.tandem,Tandemタンデム-言語交換,229,VE,2018-10-14
+com.gameloft.android.ANMP.GloftASHM,アメイジング・スパイダーマン2,230,VE,2018-10-14
+com.microsoft.office.word,MicrosoftWord,231,VE,2018-10-14
+com.chasquimobile,ChasquiMobile,232,VE,2018-10-14
+com.disrapp.coinkeeper.material,CoinKeeper,233,VE,2018-10-14
+com.rockstargames.bully,Bully:AnniversaryEdition,234,VE,2018-10-14
+com.lilithgame.roc.gp,RiseofCivilizations,235,VE,2018-10-14
+com.kung.follow.grow,MassFollowers™,236,VE,2018-10-14
+com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,237,VE,2018-10-14
+net.isitlove.mysteryspell.nicolae,Is-itLove?NicolaeVampire,238,VE,2018-10-14
+com.stac.empire.main,AgeofWarringEmpire,239,VE,2018-10-14
+com.playgendary.sportmasters,Bouncemasters!,240,VE,2018-10-14
+net.isitlove.cartercorp.adam,IsitLove?-Adam-StorywithChoices,241,VE,2018-10-14
+com.antivirus,AVGアンチウイルス無料〜スマホセキュリティソフト〜,242,VE,2018-10-14
+com.s.antivirus,Xperia™用AVGProtection,243,VE,2018-10-14
+com.fanatee.stop,Stop-CategoriesWordGame,244,VE,2018-10-14
+chessfriends.online.chess,チェス,245,VE,2018-10-14
+com.JESoftware.LastHopeSniperWar,LastHopeSniper-ZombieWar:ShootingGamesFPS,246,VE,2018-10-14
+com.algoriddim.djay_free,djayFREE-DJMixRemixMusic,247,VE,2018-10-14
+es.parrotgames.restaurantcity,WorldChef,248,VE,2018-10-14
+com.ea.gp.simsmobile,TheSims シムズ ポケット,249,VE,2018-10-14
+es.socialpoint.MonsterLegends,MonsterLegends-ストラテジーRPGバトル戦争,250,VE,2018-10-14
+jp.naver.line.android,LINE（ライン）-無料通話・メールアプリ,251,VE,2018-10-14
+com.nimmble.rgpro,RegrannPro-RepostforInstagram,252,VE,2018-10-14
+com.probits.argo,アルゴARGO-ソーシャルビデオチャット、友達探し,253,VE,2018-10-14
+com.papumba.academyforkids,Papumbaアカデミー：幼児・子ども向けゲーム,254,VE,2018-10-14
+com.marinetraffic.android,MarineTrafficshippositions,255,VE,2018-10-14
+tv.twitch.android.app,Twitch,256,VE,2018-10-14
+com.futureplay.battleground,BattlelandsRoyale,257,VE,2018-10-14
+com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,258,VE,2018-10-14
+net.peakgames.ginrummyplus,GinRummyPlus,259,VE,2018-10-14
+com.slots.vegas.casino.game,SlotsofVegas-FreeSlotGames,260,VE,2018-10-14
+com.kingsgroup.ww2,Zデー:ハーツオブヒーローズ,261,VE,2018-10-14
+com.utorrent.client.pro,µTorrent®Pro-TorrentApp,262,VE,2018-10-14
+com.allstargames.ggplay.wsjjes,SwordofChaos-ArmadeCaos,263,VE,2018-10-14
+com.youdagames.gop3multiplayer,GovernorofPoker3-TexasHoldemPokerOnline,264,VE,2018-10-14
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,265,VE,2018-10-14
+com.vialsoft.radarbot_free,Radarbot無料版:スピードカメラ検知&速度計,266,VE,2018-10-14
+com.nextgames.android.ourworld,ウォーキング・デッド：我らの世界,267,VE,2018-10-14
+com.editorialbuencamino.buencamino,BuenCaminodeSantiagoPro,268,VE,2018-10-14
+com.nbaimd.gametime.nba2011,NBAApp,269,VE,2018-10-14
+com.proficientcity.ddtankbrazil,BombMeBrasil:ShooterLords,270,VE,2018-10-14
+com.robtopx.geometryjump,GeometryDash,271,VE,2018-10-14
+com.brainbow.peak.app,PEAK（ピーク）-脳トレ,272,VE,2018-10-14
+com.hcg.ctw.gp,ClashofKings:TheWest,273,VE,2018-10-14
+com.ksmobile.pro.launcher,💎CMLauncherPro,274,VE,2018-10-14
+com.pnixgames.bowlingking,BowlingKing,275,VE,2018-10-14
+com.appsomniacs.da2,DoodleArmy2:MiniMilitia,276,VE,2018-10-14
+com.flyersoft.moonreaderp,Moon+ReaderPro,277,VE,2018-10-14
+com.ballytechnologies.f88,88FortunesSlots:無料カジノスロットゲーム,278,VE,2018-10-14
+com.playmini.miniworld,MiniWorldBlockArt,279,VE,2018-10-14
+com.likes.followers.assistant,RealFollowersandlikeswithHashtags,280,VE,2018-10-14
+tv.telepathic.hooked,HOOKED-ChatStories,281,VE,2018-10-14
+com.sega.sprint,SonicForces,282,VE,2018-10-14
+com.game.idle.fantasy,TrialsofHeroes,283,VE,2018-10-14
+com.gmail.heagoo.apkeditor.pro,APKEditorPro,284,VE,2018-10-14
+com.rockstargames.gtavc,グランド・セフト・オート・バイスシティ,285,VE,2018-10-14
+com.camex.tactical.monster,タクティカルモンスターズ(TacticalMonsters),286,VE,2018-10-14
+com.skgames.trafficrider,TrafficRider,287,VE,2018-10-14
+com.smule.singandroid,Smule-ナンバーワンの歌アプリ,288,VE,2018-10-14
+com.otherguys.zoe,ZOE:InteractiveStory,289,VE,2018-10-14
+com.teslacoilsw.launcher.prime,NovaLauncherPrime,290,VE,2018-10-14
+com.glu.flcn_new,フロントラインコマンド：ノルマンディー,291,VE,2018-10-14
+com.playkot.ageofmagic,AgeofMagic,292,VE,2018-10-14
+com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,293,VE,2018-10-14
+com.voltage.lovestruck.ggl.en,LovestruckChooseYourRomance,294,VE,2018-10-14
+com.bornehltd.tornadovpn.pro,TornadoVPNPro–PremiumPaidSecurityProxy,295,VE,2018-10-14
+air.com.freshplanet.games.SongPop2,SongPop2-音楽トリビア,296,VE,2018-10-14
+com.gamebeartech.nova,ノヴァ帝国,297,VE,2018-10-14
+com.zynga.FarmVilleTropicEscape,FarmVille:TropicEscape,298,VE,2018-10-14
+air.com.noodlecake.luminocity,LuminoCity,299,VE,2018-10-14
+com.ChillyRoom.DungeonShooter,SoulKnight,300,VE,2018-10-14
+com.yottagames.mafiawar,マフィア・シティ-極道風雲,301,VE,2018-10-14
+com.gaditek.purevpnics,PureVPN-BestFreeVPNforAndroid,302,VE,2018-10-14
+com.aadhk.woinvoice,シンプル請求書,303,VE,2018-10-14
+br.com.zeroum.cancionesdelzoo,CancionesdelZoo,304,VE,2018-10-14
+ca.emeraldcitygames.erpg,ライオンハート:ダークムーン,305,VE,2018-10-14
+ginlemon.flowerfree,スマートランチャー(SmartLauncher),306,VE,2018-10-14
+com.zeptolab.thieves.google,KingofThieves(泥棒の王様),307,VE,2018-10-14
+com.xs.pooltd,3Dビリヤード,308,VE,2018-10-14
+br.com.zeroum.turmadagalinha,TurmadaGalinhaPintadinha,309,VE,2018-10-14
+com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-ビデオエディター,310,VE,2018-10-14
+com.godgame.bigtwod.android,鋤大地神來也鋤大D,311,VE,2018-10-14
+com.jsdev.instasize,InstaSize-フォトスタジオ画像加工＆コラージュ編集,312,VE,2018-10-14
+com.liquidum.rocketvpn,RocketVPN–InternetFreedomVPN,313,VE,2018-10-14
+com.speedsoftware.rootexplorer,RootExplorer,314,VE,2018-10-14
+net.liveatc.liveatc_app,LiveATCforAndroid,315,VE,2018-10-14
+com.apalon.scanner.app,私のためのスキャナー:画像をPDFに変換j,316,VE,2018-10-14
+com.cyberlink.powerdirector.DRA140225_01,PowerDirector-ビデオ編集,317,VE,2018-10-14
+com.justunfollow.android,Crowdfire:YourSmartMarketer,318,VE,2018-10-14
+id.passport.photo.lite,PassportSizePhotoMaker-PrintatHome,319,VE,2018-10-14
+com.evernote,ノート、手帳、プランナー、メモをすべてEvernoteで,320,VE,2018-10-14
+com.jetappfactory.jetaudioplus,ジェットオーディオプラス-高音質の音楽プレーヤー,321,VE,2018-10-14
+io.faceapp,FaceApp,322,VE,2018-10-14
+cm.confide.android,Confide,323,VE,2018-10-14
+com.flightradar24free,Flightradar24フライトトラッカー,324,VE,2018-10-14
+com.funcamerastudio.videomaker,VideoMaker—動画編集＆動画作成＆動画加工&音楽&魔法のビデオエディタ,325,VE,2018-10-14
+np.com.njs.autophotos,PassportSizePhotoEditor,326,VE,2018-10-14
+com.videoshop.app,Videoshop-ビデオエディター,327,VE,2018-10-14
+eztools.calculator.photo.vault,電卓-写真金庫（あなたの写真を隠して）,328,VE,2018-10-14
+com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,329,VE,2018-10-14
+com.cmplay.bricksnballs,ブリックツムツム,330,VE,2018-10-14
+com.moplus.gvphone,PHONEforGoogleVoice&GTalk,331,VE,2018-10-14
+com.tenbirds.animus,アニマス-アイア番外編,332,VE,2018-10-14
+com.chanel.weather.forecast.accu.pro,天気予報プロ,333,VE,2018-10-14
+com.tasmanic.camtoplan,CamToPlan,334,VE,2018-10-14
+com.tohsoft.ringtone.maker.pro,RingtoneMakerPro,335,VE,2018-10-14
+com.hiketop.app,Hiketop+,336,VE,2018-10-14
+pl.idreams.SkyForceReloaded2016,SkyForceReloaded,337,VE,2018-10-14
+com.easytech.wc4.android,世界の覇者4,338,VE,2018-10-14
+cz.zdenekhorak.mibandtools,Tools&MiBand,339,VE,2018-10-14
+com.creative.sandbox.number.drawning.coloring,No.Draw-数字で塗り絵スケッチブック,340,VE,2018-10-14
+com.epsxe.ePSXe,ePSXeforAndroid,341,VE,2018-10-14
+com.algoriddim.djay,djay2,342,VE,2018-10-14
+air.com.spilgames.TrollFaceQuestHorror,TrollFaceQuestHorror,343,VE,2018-10-14
+com.cashitapp.app.jokesphone,JokesPhone-ジョーク電話,344,VE,2018-10-14
+com.pockybop.sociali,Neutrino+,345,VE,2018-10-14
+com.powermanager.batteryaddon,PackageDisablerPro+(Samsung),346,VE,2018-10-14
+com.rhmsoft.edit.pro,QuickEditテキストエディタープロ,347,VE,2018-10-14
+com.netmarble.fishingstg,フィッシングストライク,348,VE,2018-10-14
+com.mc.miband1,Notify&FitnessforMiBand,349,VE,2018-10-14
+sk.inlogic.rouletteprovip.android,ルーレットプロVIP,350,VE,2018-10-14
+com.klinker.android.twitter_l,TalonforTwitter,351,VE,2018-10-14
+com.luckios.buffaloslots,RoyalSlotsFreeSlotMachines,352,VE,2018-10-14
+com.wordgame.puzzle.board.es,PalabrasCruz,353,VE,2018-10-14
+com.jibjab.android.messages.fbmessenger,JibJab,354,VE,2018-10-14
+com.estrongs.android.pop.pro,ESFileExplorer/ManagerPRO,355,VE,2018-10-14
+com.turner.superstarsoccer2,CNSuperstarSoccer:Goal!!!,356,VE,2018-10-14
+com.gameloft.android.ANMP.GloftICHM,SonicRunnersAdventure-FastActionPlatformer,357,VE,2018-10-14
+com.supercell.boombeach,ブーム・ビーチ(BoomBeach),358,VE,2018-10-14
+com.MeteoGames.AlterDogma,AlterDogma,359,VE,2018-10-14
+net.dinglisch.android.taskerm,Tasker,360,VE,2018-10-14
+com.narvii.amino.master,Amino:CommunitiesandChats,361,VE,2018-10-14
+reddit.news,Relayforreddit(Pro),362,VE,2018-10-14
+jp.co.ponos.battlecatsen,TheBattleCats,363,VE,2018-10-14
+com.scottgames.fnaf2,FiveNightsatFreddy's2,364,VE,2018-10-14
+com.yivana.android,YivanaMeditación,365,VE,2018-10-14
+com.gameloft.android.ANMP.GloftGF2F,エコふぁ～む3,366,VE,2018-10-14
+com.disney.WMW,スワンピーのお風呂パニック！,367,VE,2018-10-14
+com.mmo.android,RucoyOnline-MMORPG-MMO,368,VE,2018-10-14
+air.com.officemax.magicmirror.ElfYourSelf,ElfYourself®ByOfficeDepot,369,VE,2018-10-14
+com.ticktalk.translatevoice,言語翻訳-声を翻訳,370,VE,2018-10-14
+il.co.smedia.callrecorder.yoni,CallRecorder-Automatic,371,VE,2018-10-14
+followerchief.app,FollowersChief,372,VE,2018-10-14
+com.my.hawk.air.shooter,HAWK–フライトシューティングゲーム。撃ちまくれ,373,VE,2018-10-14
+com.gismart.drum.pads.machine,DrumPads-BeatMakerGo,374,VE,2018-10-14
+it.ideasolutions.kyms,KYMS-Keepyourmediasafe,375,VE,2018-10-14
+com.badoo.mobile.premium,BadooPremium,376,VE,2018-10-14
+com.pacosal.gear.notificationsweargears2,"NotificationsWearforGearS2,S3,Sport&G.Watch",377,VE,2018-10-14
+com.firsttouchgames.dls3,DreamLeagueSoccer2018,378,VE,2018-10-14
+com.tutotoons.app.farmanimalshospitaldoctor3.free,ファーム動物病院ドクター3,379,VE,2018-10-14
+com.tutotoons.app.sweetbabygirlcleanup6.free,SweetBabyGirlCleanup6-CleaningFunatSchool,380,VE,2018-10-14
+com.aor.droidedit.pro,DroidEditPro(codeeditor),381,VE,2018-10-14
+com.zynga.livepoker,Zyngaポーカー,382,VE,2018-10-14
+com.skytecgames.cardsheroes,CardHeroes,383,VE,2018-10-14
+pixelab.camart.cartoon,camartcartoon,384,VE,2018-10-14
+com.lingplay.match3rpg,HeroesandPuzzles,385,VE,2018-10-14
+com.facilisimo.dotmind,Siente-Mindfulnessypsicologíapositiva,386,VE,2018-10-14
+net.isitlove.mysteryspell.peter,Is-itLove?Peter-EpisodeVampire,387,VE,2018-10-14
+com.FDGEntertainment.redball4.gp,RedBall4,388,VE,2018-10-14
+com.FireproofStudios.TheRoom2,TheRoomTwo,389,VE,2018-10-14
+jp.naver.lineplay.android,LINEプレイ-世界中の友だちと楽しむアバターライフ,390,VE,2018-10-14
+com.advasoft.touchretouch,TouchRetouch,391,VE,2018-10-14
+com.dc.hwsj,GameofSultans,392,VE,2018-10-14
+com.miniclip.basketballstars,BasketballStars,393,VE,2018-10-14
+com.superpowered.backtrackit,BACKTRACKIT,394,VE,2018-10-14
+com.sega.sonic2.runner,SonicTheHedgehog2Classic,395,VE,2018-10-14
+projekt.sungstratum,sungstratum★substratumforsamsungnougat7.x,396,VE,2018-10-14
+com.matchington.mansion,マッチングトン·マンション,397,VE,2018-10-14
+jp.co.capcom.rockman3en,MEGAMAN3MOBILE,398,VE,2018-10-14
+air.com.RustyLake.CubeEscapeParadox,CubeEscape:Paradox,399,VE,2018-10-14
+com.gameloft.android.ANMP.GloftFWHM,スナイパーフューリー：トップシューティングゲーム【FPS】,400,VE,2018-10-14
+com.imvu.mobilecordova,IMVU-3Dアバターソーシャルアプリ,401,VE,2018-10-14
+com.app.cyxsb,穿越小说吧-追小说，阅读小说神器-海量免费小说-台湾言情小说王,402,VE,2018-10-14
+com.cleevio.spendee,Spendee-BudgetandExpenseTracker&Planner,403,VE,2018-10-14
+com.beamdog.icewinddale,IcewindDale:EnhancedEdition,404,VE,2018-10-14
+com.cmplay.tiles2,ピアノタイル2™,405,VE,2018-10-14
+com.rayark.cytus2,CytusII(サイタスⅡ),406,VE,2018-10-14
+com.coolapps.postermaker,"ポスター創造主,広告ページ創案者,リーフレットデザイナー",407,VE,2018-10-14
+com.pleasantapps.unfollowers,Unfollowers,408,VE,2018-10-14
+com.bbm,BBM-通話とメッセージを無料で,409,VE,2018-10-14
+com.zuuks.truck.simulator.euro,TruckSimulator2018:Europe,410,VE,2018-10-14
+com.vinwap.parallaxwallpaper,3DParallaxBackground-HDWallpapersin3D,411,VE,2018-10-14
+com.workout.workout,ProGymWorkout(GymWorkouts&Fitness),412,VE,2018-10-14
+com.lumaticsoft.watchdroidphone,WatchDroidPhone,413,VE,2018-10-14
+org.pixelrush.moneyiq,"1Money-expensetracker,moneymanager,budget",414,VE,2018-10-14
+com.vimage.android,VIMAGE-cinemagraphanimator&livephotoeditor,415,VE,2018-10-14
+com.coolapps.dslrcamera,DSLRカメラのぼかし効果,416,VE,2018-10-14
+air.br.com.megajogos.mobile,MegaJogos-JogosdeCartaseJogosdeTabuleiro,417,VE,2018-10-14
+com.nordcurrent.cafe,HappyCafe,418,VE,2018-10-14
+com.bitdefender.security,BitdefenderMobileSecurity&Antivirus,419,VE,2018-10-14
+com.cleanmaster.security,SecurityMaster-無料セキュリティ，アプリロック,420,VE,2018-10-14
+de.j4velin.wallpaperChanger,WallpaperChanger,421,VE,2018-10-14
+com.appszona.dolartodaywidget,DolarHoyWidgetPreciodeDolarNoticiasVenezuela,422,VE,2018-10-14
+com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,423,VE,2018-10-14
+com.outfit7.talkingnewsfree,トーキング・トムとベンのニュース,424,VE,2018-10-14
+de.lotum.whatsinthefoto.es,4Fotos1Palabra,425,VE,2018-10-14
+com.mola.playspace.android.parchis,ParcheesibyPlayspace,426,VE,2018-10-14
+com.everbytestudio.sinisteredge,SinisterEdge-3Dホラーゲーム,427,VE,2018-10-14
+com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),428,VE,2018-10-14
+kr.co.manhole.hujicam,HujiCam,429,VE,2018-10-14
+com.ministone.game.risingsuperchef2,RisingSuperChef2:CookingGame,430,VE,2018-10-14
+com.special.warship,戦艦ファイナル-最後の戦い（最後の海戦を舞台にしたSLGの最高傑作）,431,VE,2018-10-14
+com.zplay.willhero,ウィルヒーロー,432,VE,2018-10-14
+com.MoustacheBanana.TacticalWarSimulator,TacticalBattleSimulator,433,VE,2018-10-14
+air.com.bulkypix.pretentiousgame,PretentiousGame,434,VE,2018-10-14
+org.zwanoo.android.speedtest,Speedtest.net,435,VE,2018-10-14
+com.moonlab.unfold,Unfold—CreateStories,436,VE,2018-10-14
+com.yahoo.mobile.client.android.mail,YahooMail–StayOrganized,437,VE,2018-10-14
+com.ywha.social.followers,FameTurbo-FastFollowersPro,438,VE,2018-10-14
+com.pixonic.wwr,WarRobots,439,VE,2018-10-14
+com.okidokico.okgolf,OKGolf-OKゴルフ,440,VE,2018-10-14
+com.tencent.warwings2,ウォー・ウィングス(WarWings),441,VE,2018-10-14
+com.turner.atskisafari,SkiSafari:AdventureTime,442,VE,2018-10-14
+com.santiagosarquis.mono,Mono-IconPack,443,VE,2018-10-14
+klb.android.lovelive_en,LoveLive!Schoolidolfestival,444,VE,2018-10-14
+com.piksoft.turboscan.free,TurboScan:scandocuments&receiptsinPDF,445,VE,2018-10-14
+com.intsig.BizCardReader,CamCard:名刺管理•日本語他16言語対応,446,VE,2018-10-14
+com.gogii.textplus,textPlus:FreeText&Calls,447,VE,2018-10-14
+com.bethsoft.falloutshelter,FalloutShelter,448,VE,2018-10-14
+com.makingfun.mageandminions,Eternium,449,VE,2018-10-14
+com.kvadgroup.photostudio_pro,PhotoStudioPRO,450,VE,2018-10-14
+com.vladlee.callblocker,通話ブロッカー,451,VE,2018-10-14
+com.jndapp.apple.ilook.iconpack,iLOOKIconpack:iOSUXTHEME,452,VE,2018-10-14
+com.mindmill.pipes.loops.plumber.puzzle,パズルゲーム:Linedoku,453,VE,2018-10-14
+me.morirain.dev.iconpack.pure,Pure-IconPack(FlatDesign),454,VE,2018-10-14
+com.gamecircus.tycoon,TapstoRiches,455,VE,2018-10-14
+com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,456,VE,2018-10-14
+com.zenstudios.MarvelPinball,MarvelPinball,457,VE,2018-10-14
+com.n7mobile.nplayer,n7player音楽プレーヤー,458,VE,2018-10-14
+com.viber.voip,Viber無料通話＆メッセージアプリ,459,VE,2018-10-14
+com.superking.parchisi.star,ParchisSTAROnline,460,VE,2018-10-14
+com.astragon.cs2016,ConstructionSimulator2,461,VE,2018-10-14
+com.wecut.vapor,"VaporCam-VHSGlitchフィルター,Vaporwaveステッカー,美学写真編集",462,VE,2018-10-14
+air.com.buffalo_studios.newflashbingo,BINGOBLITZ™️ビンゴゲーム-ビンゴスロット,463,VE,2018-10-14
+com.ThoriumGameLab.BattleOfVicksburg,BattleofVicksburg,464,VE,2018-10-14
+com.hsv.freeadblockerbrowser,無料の広告ブロックブラウザ,465,VE,2018-10-14
+com.epplayworld.likes,LikesforInstagram,466,VE,2018-10-14
+mobi.lockdown.weather,"TodayWeather-天気予報,レーダー&雨アラーム",467,VE,2018-10-14
+com.buak.link2sdplus,Link2SDPlus(New),468,VE,2018-10-14
+com.halfbrick.fruitninja,FruitNinjaClassic,469,VE,2018-10-14
+com.amald.digital.clocks,MNMLDigitalClockMods[Substratum],470,VE,2018-10-14
+me.dreamsky.lostjourney2,時空の旅(Dreamsky),471,VE,2018-10-14
