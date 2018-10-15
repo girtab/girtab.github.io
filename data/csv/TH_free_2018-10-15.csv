@@ -1,9 +1,9 @@
 app_id,app_name,rank,country_code,date
 com.ss.android.ugc.trill,TikTok,1,TH,2018-10-15
 com.facebook.orca,Messenger,2,TH,2018-10-15
-jp.naver.line.android,LINE（ライン）-無料通話・メールアプリ,3,TH,2018-10-15
-com.h8games.helixjump,HelixJump,4,TH,2018-10-15
-io.call.screen.cool.flashlight,FlashlightCallScreen,5,TH,2018-10-15
+io.call.screen.cool.flashlight,FlashlightCallScreen,3,TH,2018-10-15
+jp.naver.line.android,LINE（ライン）-無料通話・メールアプリ,4,TH,2018-10-15
+com.h8games.helixjump,HelixJump,5,TH,2018-10-15
 com.dts.freefireth,フリーファイア,6,TH,2018-10-15
 com.facebook.katana,Facebook,7,TH,2018-10-15
 com.lazada.android,Lazada-OnlineShopping&Deals,8,TH,2018-10-15
@@ -12,8 +12,8 @@ com.facebook.mlite,MessengerLite:無料通話とメッセージ,10,TH,2018-10-15
 com.game5mobile.lineandwater,HappyGlass,11,TH,2018-10-15
 com.king.candycrush4,キャンディークラッシュフレンズ,12,TH,2018-10-15
 com.shopee.th,Shopee:ที่1ออนไลน์ช้อปปิ้ง,13,TH,2018-10-15
-com.riseup.game,RiseUp,14,TH,2018-10-15
-com.garena.game.kgth,GarenaRoV:MobileMOBA,15,TH,2018-10-15
+com.garena.game.kgth,GarenaRoV:MobileMOBA,14,TH,2018-10-15
+com.riseup.game,RiseUp,15,TH,2018-10-15
 com.facebook.lite,FacebookLite,16,TH,2018-10-15
 com.garena.game.hdltw,GarenaContra:Return,17,TH,2018-10-15
 com.dvloper.granny,Granny,18,TH,2018-10-15
@@ -24,13 +24,13 @@ th.co.truemoney.wallet,TrueMoneyWallet,22,TH,2018-10-15
 com.tencent.ig,PUBGMOBILE,23,TH,2018-10-15
 com.instagram.android,Instagram,24,TH,2018-10-15
 com.amanotes.pamahelixtiles,HelixCrush,25,TH,2018-10-15
-com.mt.mtxx.mtxx,Meitu－美顔自撮り　GIFアニメ　おもしろ加工　写真編集機能,26,TH,2018-10-15
-com.tencent.ibg.joox,JOOXMusic-LiveandKaraoke,27,TH,2018-10-15
+com.tencent.ibg.joox,JOOXMusic-LiveandKaraoke,26,TH,2018-10-15
+com.mt.mtxx.mtxx,Meitu－美顔自撮り　GIFアニメ　おもしろ加工　写真編集機能,27,TH,2018-10-15
 com.candyrufusgames.survivalcrafttrial,SurvivalcraftDemo,28,TH,2018-10-15
 com.lenovo.anyshare.gps,SHAREit-Transfer&Share,29,TH,2018-10-15
 com.pmg.speed,SpeedBall,30,TH,2018-10-15
-com.playgendary.tom,TomboftheMask,31,TH,2018-10-15
-com.tencent.wesing,WeSing-カラオケ歌唱&カラオケ録音&曲の歌唱,32,TH,2018-10-15
+com.tencent.wesing,WeSing-カラオケ歌唱&カラオケ録音&曲の歌唱,31,TH,2018-10-15
+com.playgendary.tom,TomboftheMask,32,TH,2018-10-15
 com.outfit7.mytalkingtom2,マイ・トーキング・トム2,33,TH,2018-10-15
 com.google.android.play.games,GooglePlayゲーム,34,TH,2018-10-15
 com.ais.mimo.AISPlay,AISPLAY,35,TH,2018-10-15
@@ -43,8 +43,8 @@ com.netease.idv.googleplay,IdentityV,41,TH,2018-10-15
 com.noxgroup.app.cleaner,NoxCleaner-キャッシュ除去・動作快適化・メモリーのクリーンアップやスマートな画像管理,42,TH,2018-10-15
 com.levelupgames.latalew,LataleW:Levelup,43,TH,2018-10-15
 com.dailyselfie.newlook.studio,SweetCamera-美顔自撮り、写真編集、画像加工、カメラアプリ,44,TH,2018-10-15
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),45,TH,2018-10-15
-com.azarlive.android,Azar-ビデオチャット、友達検索,46,TH,2018-10-15
+com.azarlive.android,Azar-ビデオチャット、友達検索,45,TH,2018-10-15
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),46,TH,2018-10-15
 com.linecorp.b612.android,B612-いつもの毎日をもっと楽しく,47,TH,2018-10-15
 com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,48,TH,2018-10-15
 com.kasikorn.retail.mbanking.wap,KPLUS,49,TH,2018-10-15
@@ -52,35 +52,35 @@ me.zepeto.main,ZEPETO,50,TH,2018-10-15
 com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,51,TH,2018-10-15
 com.google.android.youtube,YouTube,52,TH,2018-10-15
 com.fgol.HungrySharkEvolution,ハングリーシャーク・エボリューション,53,TH,2018-10-15
-com.gta.real.gangster.crime,RealGangsterCrime,54,TH,2018-10-15
-com.king.candycrushsaga,キャンディークラッシュ,55,TH,2018-10-15
+com.king.candycrushsaga,キャンディークラッシュ,54,TH,2018-10-15
+com.gta.real.gangster.crime,RealGangsterCrime,55,TH,2018-10-15
 com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,56,TH,2018-10-15
 com.scb.phone,SCBEASY,57,TH,2018-10-15
 com.appblockgames.freecraftexploration,MOD-MASTERforMinecraftPE(PocketEdition)Free,58,TH,2018-10-15
 air.com.hypah.io.slither,slither.io,59,TH,2018-10-15
 vStudio.Android.Camera360,カメラ360,60,TH,2018-10-15
-com.roblox.client,ROBLOX,61,TH,2018-10-15
-com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,62,TH,2018-10-15
+com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,61,TH,2018-10-15
+com.roblox.client,ROBLOX,62,TH,2018-10-15
 com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,63,TH,2018-10-15
 com.sinyee.babybus.tailor,ベビーパンダのファッションドレスアップゲーム,64,TH,2018-10-15
-com.efun.thcktx,ตำนานแห่งวายุ-THELASTNINJAWORLDWAR,65,TH,2018-10-15
-sg.bigo.live,BIGOLIVE（ビゴライブ)‐SNS系ライブ配信,66,TH,2018-10-15
+sg.bigo.live,BIGOLIVE（ビゴライブ)‐SNS系ライブ配信,65,TH,2018-10-15
+com.efun.thcktx,ตำนานแห่งวายุ-THELASTNINJAWORLDWAR,66,TH,2018-10-15
 com.commsource.beautyplus,BeautyPlus-美カメラでナチュラル自撮り,67,TH,2018-10-15
-com.sinyee.babybus.village,リトルパンダのドリームタウン,68,TH,2018-10-15
-com.tencent.livemaster,VOOV-FreeSocialVideoApp,69,TH,2018-10-15
-com.google.android.apps.translate,Google翻訳,70,TH,2018-10-15
+com.tencent.livemaster,VOOV-FreeSocialVideoApp,68,TH,2018-10-15
+com.google.android.apps.translate,Google翻訳,69,TH,2018-10-15
+com.sinyee.babybus.village,リトルパンダのドリームタウン,70,TH,2018-10-15
 com.ea.games.r3_row,RealRacing3,71,TH,2018-10-15
 jpark.AOS5,Angerofstick5:zombie,72,TH,2018-10-15
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,73,TH,2018-10-15
+com.beetalk,BeeTalk,73,TH,2018-10-15
 com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,74,TH,2018-10-15
-com.beetalk,BeeTalk,75,TH,2018-10-15
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,75,TH,2018-10-15
 com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,76,TH,2018-10-15
-com.bbtvnewmedia.bugaboolite,Bugaboo.TVLite,77,TH,2018-10-15
-com.igenesoft.hide,隠れん坊オンライン,78,TH,2018-10-15
-com.tdcm.android.trueyou,TrueYou,79,TH,2018-10-15
+com.chilindo,Chilindo,77,TH,2018-10-15
+com.tdcm.android.trueyou,TrueYou,78,TH,2018-10-15
+com.bbtvnewmedia.bugaboolite,Bugaboo.TVLite,79,TH,2018-10-15
 com.physics.sim.game.cat,HelloCats,80,TH,2018-10-15
-stickmanwarriors.stickmanWar.online,StickmanWarriorsOnline:EpicWar,81,TH,2018-10-15
-com.chilindo,Chilindo,82,TH,2018-10-15
+com.igenesoft.hide,隠れん坊オンライン,81,TH,2018-10-15
+stickmanwarriors.stickmanWar.online,StickmanWarriorsOnline:EpicWar,82,TH,2018-10-15
 phone.cleaner.speed.booster.cache.clean.android.master,"PhoneCleaner-CacheClean,AndroidBoosterMaster",83,TH,2018-10-15
 com.werewolfapps.online,WerewolfOnline,84,TH,2018-10-15
 com.groundhog.mcpemaster,MasterforMinecraft(PocketEdition)-ModLauncher,85,TH,2018-10-15
@@ -88,24 +88,24 @@ com.imangi.templerun2,TempleRun2,86,TH,2018-10-15
 com.google.android.apps.youtube.mango,YouTubeGo,87,TH,2018-10-15
 com.apps.go.clean.boost.master,SuperCleaner-クリーナー、セキュリティ＆ウイルス対策、ブーストアプリ,88,TH,2018-10-15
 com.miniclip.bowmasters,Bowmasters,89,TH,2018-10-15
-com.ss.android.ugc.trill.go,TikToklite,90,TH,2018-10-15
-com.twitter.android,Twitter,91,TH,2018-10-15
-panda.keyboard.emoji.theme,"CheetahKeyboard-Gif,EmojiKeyboard&3DThemes",92,TH,2018-10-15
-com.nexon.pbs,PointBlank:Strike,93,TH,2018-10-15
-com.ksmobile.launcher,CMLauncher3D-カスタマイズ可能、セキュリティ保護、効率的,94,TH,2018-10-15
-com.dramaton.slime,SuperSlimeSimulator-SatisfyingSlimeApp,95,TH,2018-10-15
-com.roidapp.photogrid,PhotoGrid-写真加工・コラージュ、ビューティーカメラ、画像・動画スタンプ,96,TH,2018-10-15
-com.linecorp.LGGRTHN,LINELet'sGetRich,97,TH,2018-10-15
+com.twitter.android,Twitter,90,TH,2018-10-15
+panda.keyboard.emoji.theme,"CheetahKeyboard-Gif,EmojiKeyboard&3DThemes",91,TH,2018-10-15
+com.ss.android.ugc.trill.go,TikToklite,92,TH,2018-10-15
+com.ksmobile.launcher,CMLauncher3D-カスタマイズ可能、セキュリティ保護、効率的,93,TH,2018-10-15
+com.nexon.pbs,PointBlank:Strike,94,TH,2018-10-15
+com.roidapp.photogrid,PhotoGrid-写真加工・コラージュ、ビューティーカメラ、画像・動画スタンプ,95,TH,2018-10-15
+com.linecorp.LGGRTHN,LINELet'sGetRich,96,TH,2018-10-15
+com.dramaton.slime,SuperSlimeSimulator-SatisfyingSlimeApp,97,TH,2018-10-15
 com.jingdong.th.app,JDCENTRAL,98,TH,2018-10-15
-com.snailgamesusa.survival,SurvivalHeroes-MOBABattleRoyale,99,TH,2018-10-15
-com.imangi.templerun,TempleRun,100,TH,2018-10-15
-sg.bigo.hellotalk,HelloYo–FreeVoiceChatRooms,101,TH,2018-10-15
-air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,102,TH,2018-10-15
+sg.bigo.hellotalk,HelloYo–FreeVoiceChatRooms,99,TH,2018-10-15
+com.snailgamesusa.survival,SurvivalHeroes-MOBABattleRoyale,100,TH,2018-10-15
+com.imangi.templerun,TempleRun,101,TH,2018-10-15
+com.estrongs.android.pop,ESファイルエクスプローラー,102,TH,2018-10-15
 com.ais.mimo.eservice,myAIS,103,TH,2018-10-15
-com.estrongs.android.pop,ESファイルエクスプローラー,104,TH,2018-10-15
-com.differencetenderwhite.skirt,ブロックパズルジュエル,105,TH,2018-10-15
-com.supercell.hayday,ヘイ・デイ(HayDay),106,TH,2018-10-15
-com.dummy.poker,Dummyดัมมี่เกมไพ่สุดฮิต,107,TH,2018-10-15
+air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,104,TH,2018-10-15
+com.dummy.poker,Dummyดัมมี่เกมไพ่สุดฮิต,105,TH,2018-10-15
+com.differencetenderwhite.skirt,ブロックパズルジュエル,106,TH,2018-10-15
+com.supercell.hayday,ヘイ・デイ(HayDay),107,TH,2018-10-15
 com.tpvapps.simpledrumsrock,シンプルなドラム,108,TH,2018-10-15
 com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キャプチャ・編集無料アプリ(モビゼン),109,TH,2018-10-15
 com.adobe.lrmobile,AdobePhotoshopLightroomCC,110,TH,2018-10-15
@@ -113,42 +113,42 @@ fps.zombie.shooting.fun.to.dead,MADZOMBIES:ゾンビ,111,TH,2018-10-15
 com.Ch7.Android,Ch7HD,112,TH,2018-10-15
 com.rubygames.slingdrift,SlingDrift,113,TH,2018-10-15
 com.bitmango.go.stringart,LinePuzzle:StringArt,114,TH,2018-10-15
-ktbcs.netbank,KTBnetbank,115,TH,2018-10-15
-com.life360.android.safetymapd,Life360－子供の見守り、家族と位置情報共有アプリ,116,TH,2018-10-15
+com.life360.android.safetymapd,Life360－子供の見守り、家族と位置情報共有アプリ,115,TH,2018-10-15
+ktbcs.netbank,KTBnetbank,116,TH,2018-10-15
 com.firsttouchgames.dls3,DreamLeagueSoccer2018,117,TH,2018-10-15
 com.devsisters.gb,クッキーラン:オーブンブレイク,118,TH,2018-10-15
-com.no.color,ナンバーカラーゲーム-ナンバーカラー,119,TH,2018-10-15
-com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,120,TH,2018-10-15
+com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,119,TH,2018-10-15
+com.no.color,ナンバーカラーゲーム-ナンバーカラー,120,TH,2018-10-15
 com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,121,TH,2018-10-15
-com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,122,TH,2018-10-15
+com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,122,TH,2018-10-15
 com.naver.linewebtoon,LINEWEBTOON-FreeComics,123,TH,2018-10-15
-com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,124,TH,2018-10-15
+com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,124,TH,2018-10-15
 com.miniclip.eightballpool,8BallPool,125,TH,2018-10-15
-com.nekki.shadowfight,シャドウファイト2,126,TH,2018-10-15
-com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,127,TH,2018-10-15
-com.amanotes.beathopper,TilesHop:EndlessMusicJumpingBall,128,TH,2018-10-15
-jp.naver.linecamera.android,LINECamera-写真編集＆オシャレ加工,129,TH,2018-10-15
-com.mob.booster,BoostMaster,130,TH,2018-10-15
-com.keplerians.evilnun,邪悪な修道士,131,TH,2018-10-15
-com.apptxx.ramp.car.racing,RampCarStunts,132,TH,2018-10-15
-air.com.spilgames.TrollFaceQuestHorror,TrollFaceQuestHorror,133,TH,2018-10-15
-com.greenteagames.dogracing3d,DogRun-PetDogSimulator,134,TH,2018-10-15
-com.mobirix.fishinghook,フィッシングフック,135,TH,2018-10-15
-com.viu.phone,Viu,136,TH,2018-10-15
-com.billiards.city.pool.nation.club,ビリヤードシティ,137,TH,2018-10-15
-com.garena.gaslite,Garena,138,TH,2018-10-15
-jp.ne.sk_mine.android.game.emono_hofuru,獲物を屠るゲーム,139,TH,2018-10-15
-com.bbl.mobilebanking,BualuangmBanking,140,TH,2018-10-15
+com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,126,TH,2018-10-15
+com.nekki.shadowfight,シャドウファイト2,127,TH,2018-10-15
+com.mob.booster,BoostMaster,128,TH,2018-10-15
+com.amanotes.beathopper,TilesHop:EndlessMusicJumpingBall,129,TH,2018-10-15
+jp.naver.linecamera.android,LINECamera-写真編集＆オシャレ加工,130,TH,2018-10-15
+com.viu.phone,Viu,131,TH,2018-10-15
+com.keplerians.evilnun,邪悪な修道士,132,TH,2018-10-15
+com.mobirix.fishinghook,フィッシングフック,133,TH,2018-10-15
+com.garena.gaslite,Garena,134,TH,2018-10-15
+com.apptxx.ramp.car.racing,RampCarStunts,135,TH,2018-10-15
+air.com.spilgames.TrollFaceQuestHorror,TrollFaceQuestHorror,136,TH,2018-10-15
+com.greenteagames.dogracing3d,DogRun-PetDogSimulator,137,TH,2018-10-15
+com.billiards.city.pool.nation.club,ビリヤードシティ,138,TH,2018-10-15
+com.bbl.mobilebanking,BualuangmBanking,139,TH,2018-10-15
+jp.ne.sk_mine.android.game.emono_hofuru,獲物を屠るゲーム,140,TH,2018-10-15
 com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,141,TH,2018-10-15
-com.mobirix.throwball,ヒット＆ノックダウン,142,TH,2018-10-15
+com.timuzgames.missioncounterattack,MissionCounterAttack,142,TH,2018-10-15
 com.mobirix.zombieking,ZombieHunterKing,143,TH,2018-10-15
-com.timuzgames.missioncounterattack,MissionCounterAttack,144,TH,2018-10-15
+com.mobirix.throwball,ヒット＆ノックダウン,144,TH,2018-10-15
 com.duckprog.makhos,หมากฮอส,145,TH,2018-10-15
 air.jp.globalgear.kaihi2,ドッキリ神回避2　-脱出ゲーム,146,TH,2018-10-15
 com.tongzhuo.tongzhuogame.international,QwikMatch-PlayGameswithFriends&Hangout,147,TH,2018-10-15
-com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,148,TH,2018-10-15
-com.Meromsoft.SchoolGirlsSimulator,スクールガールズシミュレーター,149,TH,2018-10-15
-me.pou.app,プーチッチPou,150,TH,2018-10-15
+me.pou.app,プーチッチPou,148,TH,2018-10-15
+com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,149,TH,2018-10-15
+com.Meromsoft.SchoolGirlsSimulator,スクールガールズシミュレーター,150,TH,2018-10-15
 com.sinyee.babybus.shopping,かいものだいすき-子ども向けお買物ごっこ遊び,151,TH,2018-10-15
 com.spilgames.UphillRush,UphillRushWaterParkRacing,152,TH,2018-10-15
 com.aim.racing,ExtremeCarDrivingSimulator,153,TH,2018-10-15
@@ -156,386 +156,386 @@ com.mobilife.gsb.mymo,MyMobyGSB,154,TH,2018-10-15
 th.co.crie.tron2.android,dtac,155,TH,2018-10-15
 com.duapps.recorder,DURecorder–画面レコーダーおよびビデオエディター,156,TH,2018-10-15
 asuk.com.android.app,7-ElevenTH,157,TH,2018-10-15
-com.YovoGames.dentist,子供の医者：歯科医,158,TH,2018-10-15
-com.kasikornbank.corp.mbanking,K-CorporateMobileBanking,159,TH,2018-10-15
-com.beeasy.airpay,AirPay,160,TH,2018-10-15
-com.appcraft.unicorn,UNICORN-大人向け塗り絵本,161,TH,2018-10-15
-com.bitmango.go.bloxorzpuzzle,Bloxorz:RolltheBlock,162,TH,2018-10-15
-com.ffgames.racingincar2,RacinginCar2,163,TH,2018-10-15
+com.kasikornbank.corp.mbanking,K-CorporateMobileBanking,158,TH,2018-10-15
+com.beeasy.airpay,AirPay,159,TH,2018-10-15
+com.YovoGames.dentist,子供の医者：歯科医,160,TH,2018-10-15
+com.bitmango.go.bloxorzpuzzle,Bloxorz:RolltheBlock,161,TH,2018-10-15
+com.ffgames.racingincar2,RacinginCar2,162,TH,2018-10-15
+com.appcraft.unicorn,UNICORN-大人向け塗り絵本,163,TH,2018-10-15
 com.wordsmobile.RealBikeRacing,リアルなバイクレーシング3D,164,TH,2018-10-15
-com.niksoftware.snapseed,Snapseed,165,TH,2018-10-15
-com.cleanmaster.mguard,CleanMasterー無料アンチウイルスとRAMクリーナー,166,TH,2018-10-15
-com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),167,TH,2018-10-15
-com.mokvold.flatzombies_defense_free,FlatZombies:Defense&Cleanup,168,TH,2018-10-15
-com.grabtaxi.passenger,"Grab-Transport,FoodDelivery,Payments",169,TH,2018-10-15
-com.tencent.mm,WeChat,170,TH,2018-10-15
+com.cleanmaster.mguard,CleanMasterー無料アンチウイルスとRAMクリーナー,165,TH,2018-10-15
+com.niksoftware.snapseed,Snapseed,166,TH,2018-10-15
+com.grabtaxi.passenger,"Grab-Transport,FoodDelivery,Payments",167,TH,2018-10-15
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),168,TH,2018-10-15
+com.tencent.mm,WeChat,169,TH,2018-10-15
+com.mokvold.flatzombies_defense_free,FlatZombies:Defense&Cleanup,170,TH,2018-10-15
 com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),171,TH,2018-10-15
 com.supertapx.bigbigballer,BigBigBaller,172,TH,2018-10-15
 com.bubadu.supermarket,スーパーマーケット–子供向けゲーム,173,TH,2018-10-15
 com.tomico.wheeliechallenge,WheelieChallenge,174,TH,2018-10-15
 io.voodoo.paper2,Paper.io2,175,TH,2018-10-15
-com.playmini.miniworld,MiniWorldBlockArt,176,TH,2018-10-15
-com.omni.cleaner,OmniCleaner-PowerfulCacheClean,177,TH,2018-10-15
+com.omni.cleaner,OmniCleaner-PowerfulCacheClean,176,TH,2018-10-15
+com.pokerthai_compare.poker,ไพ่แคง-ดัมมี่เก้าเกป๊อกเด้ง,177,TH,2018-10-15
 kr.co.manhole.hujicam,HujiCam,178,TH,2018-10-15
-com.pokerthai_compare.poker,ไพ่แคง-ดัมมี่เก้าเกป๊อกเด้ง,179,TH,2018-10-15
+com.playmini.miniworld,MiniWorldBlockArt,179,TH,2018-10-15
 com.atpc,ユーチューブ音楽ダウンロード無料YouTube,180,TH,2018-10-15
 com.ookbee.joyapp.android,Joylada,181,TH,2018-10-15
-com.touchtao.soccerkinggoogle,世界のサッカーリーグ,182,TH,2018-10-15
-com.qisiemoji.inputmethod,"KikaKeyboard-EmojiKeyboard,Emoticon,GIF",183,TH,2018-10-15
-phone.cleaner.antivirus.speed.booster.cache.virus.cleaner,スマホクリーナー-不要ファイルクリーナー、ウイルス対策,184,TH,2018-10-15
+com.qisiemoji.inputmethod,"KikaKeyboard-EmojiKeyboard,Emoticon,GIF",182,TH,2018-10-15
+phone.cleaner.antivirus.speed.booster.cache.virus.cleaner,スマホクリーナー-不要ファイルクリーナー、ウイルス対策,183,TH,2018-10-15
+com.touchtao.soccerkinggoogle,世界のサッカーリーグ,184,TH,2018-10-15
 com.netflix.mediaclient,Netflix,185,TH,2018-10-15
-remove.unwanted.object,RemoveObjectfromPhoto-UnwantedObjectRemover,186,TH,2018-10-15
-com.webgames.ghosts,GhostTownAdventures:MysteryRiddlesGame,187,TH,2018-10-15
+com.webgames.ghosts,GhostTownAdventures:MysteryRiddlesGame,186,TH,2018-10-15
+remove.unwanted.object,RemoveObjectfromPhoto-UnwantedObjectRemover,187,TH,2018-10-15
 com.tdsinteractive.tescolotus,TescoLotus,188,TH,2018-10-15
 com.fortune.sim.game.cash,HelloStars,189,TH,2018-10-15
 com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,190,TH,2018-10-15
-com.mgc.stickman.rope.hero,StickmanRopeHero,191,TH,2018-10-15
-com.jb.emoji.gokeyboard,GOキーボード無料きせかえ顔文字(かおもじ)パック,192,TH,2018-10-15
-com.dimcoms.checkers,チェッカーズ,193,TH,2018-10-15
-com.camera.beautycam,ビューティーカメラ-自撮り編集,194,TH,2018-10-15
-com.yunzong.happypoker,HappyPoker,195,TH,2018-10-15
-com.gamecircus.PrizeClaw,PrizeClaw,196,TH,2018-10-15
-com.game.SuperMii,SuperMii-MakeComicAvatar,197,TH,2018-10-15
-camera360.lite.beauty.selfie.camera,カメラ360,198,TH,2018-10-15
-com.tdcm.htv,HTV,199,TH,2018-10-15
+com.jb.emoji.gokeyboard,GOキーボード無料きせかえ顔文字(かおもじ)パック,191,TH,2018-10-15
+com.yunzong.happypoker,HappyPoker,192,TH,2018-10-15
+com.mgc.stickman.rope.hero,StickmanRopeHero,193,TH,2018-10-15
+com.dimcoms.checkers,チェッカーズ,194,TH,2018-10-15
+com.camera.beautycam,ビューティーカメラ-自撮り編集,195,TH,2018-10-15
+camera360.lite.beauty.selfie.camera,カメラ360,196,TH,2018-10-15
+com.gamecircus.PrizeClaw,PrizeClaw,197,TH,2018-10-15
+com.tdcm.htv,HTV,198,TH,2018-10-15
+com.game.SuperMii,SuperMii-MakeComicAvatar,199,TH,2018-10-15
 com.addswhilessuffers.binds,BlockPuzzle-WoodLegend,200,TH,2018-10-15
 com.fingersoft.hcr2,HillClimbRacing2,201,TH,2018-10-15
 game.soft.blackcrafter.findthebuttons.maps.collection,FindtheButtoninMCPE.CollectionofMaps,202,TH,2018-10-15
-com.nudecreatives.petid,PetIdentitycard,203,TH,2018-10-15
-com.phototools.freeup.space.turbo.speed.gamebooster,GameBooster-OneTapAdvancedSpeedBooster,204,TH,2018-10-15
-com.azurgames.BattleGroundRoyale,PIXEL'SUNKNOWNBATTLEGROUND,205,TH,2018-10-15
-com.skout.android,SKOUT-出会う、チャットする、友達になる,206,TH,2018-10-15
+com.phototools.freeup.space.turbo.speed.gamebooster,GameBooster-OneTapAdvancedSpeedBooster,203,TH,2018-10-15
+com.nudecreatives.petid,PetIdentitycard,204,TH,2018-10-15
+com.skout.android,SKOUT-出会う、チャットする、友達になる,205,TH,2018-10-15
+com.azurgames.BattleGroundRoyale,PIXEL'SUNKNOWNBATTLEGROUND,206,TH,2018-10-15
 com.king.farmheroessaga,ファームヒーロー,207,TH,2018-10-15
-com.DioAliasGames.MinePixelPainter,PixelPainter,208,TH,2018-10-15
-com.junkclean.boost.master,SmartCleanerー無料スマホクリーナー,209,TH,2018-10-15
-com.doonung.activity,MONOMAXบริการดูหนังออนไลน์,210,TH,2018-10-15
-com.cmplay.tiles2,ピアノタイル2™,211,TH,2018-10-15
-com.herogame.gplay.hopelessland,HopelessLand:FightforSurvival,212,TH,2018-10-15
+com.doonung.activity,MONOMAXบริการดูหนังออนไลน์,208,TH,2018-10-15
+com.DioAliasGames.MinePixelPainter,PixelPainter,209,TH,2018-10-15
+com.herogame.gplay.hopelessland,HopelessLand:FightforSurvival,210,TH,2018-10-15
+com.junkclean.boost.master,SmartCleanerー無料スマホクリーナー,211,TH,2018-10-15
+com.cmplay.tiles2,ピアノタイル2™,212,TH,2018-10-15
 com.brokendiamond.advance.car.parking.car.driver.simulator,AdvanceCarParking:CarDriverSimulator,213,TH,2018-10-15
 air.com.wowsomesphere.colorfulcottoncandy,ColorfulCottonCandy,214,TH,2018-10-15
-com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,215,TH,2018-10-15
-jp.co.ofcr.cm00,クッキングママお料理しましょ！,216,TH,2018-10-15
-com.mobirix.SnakeGame,蛇と梯子の王,217,TH,2018-10-15
-com.rovio.angrybirdsrio,AngryBirdsRio,218,TH,2018-10-15
-net.siamdev.nattster.manman,KeyboardManMan,219,TH,2018-10-15
-com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス～シューティング・マフィアゲーム～,220,TH,2018-10-15
+jp.co.ofcr.cm00,クッキングママお料理しましょ！,215,TH,2018-10-15
+com.rovio.angrybirdsrio,AngryBirdsRio,216,TH,2018-10-15
+com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,217,TH,2018-10-15
+com.mobirix.SnakeGame,蛇と梯子の王,218,TH,2018-10-15
+com.UCMobile.intl,UCBrowser-FastDownloadPrivate&Secure,219,TH,2018-10-15
+net.siamdev.nattster.manman,KeyboardManMan,220,TH,2018-10-15
 com.EvilChaotic.ModernWarplanes,ModernWarplanes:CombatAcesPvPSkiesWarfare,221,TH,2018-10-15
-com.baretreemedia.lolstickers,L.O.L.SurpriseStickers,222,TH,2018-10-15
-com.UCMobile.intl,UCBrowser-FastDownloadPrivate&Secure,223,TH,2018-10-15
-com.draw.ai.learn.to.draw,Draw.ai-プレイ＆ドロー！,224,TH,2018-10-15
-com.linecorp.LGRGS,LINEレンジャー,225,TH,2018-10-15
+com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス～シューティング・マフィアゲーム～,222,TH,2018-10-15
+com.baretreemedia.lolstickers,L.O.L.SurpriseStickers,223,TH,2018-10-15
+com.linecorp.LGRGS,LINEレンジャー,224,TH,2018-10-15
+com.ea.gp.fifamobile,FIFAサッカー,225,TH,2018-10-15
 com.gs5.cfm,CrossFire:Legends,226,TH,2018-10-15
-com.ea.gp.fifamobile,FIFAサッカー,227,TH,2018-10-15
+com.draw.ai.learn.to.draw,Draw.ai-プレイ＆ドロー！,227,TH,2018-10-15
 com.rappidstudios.simulatorbattlephysics,EpicBattleSimulator2,228,TH,2018-10-15
 com.bugaboo.TV,BUGABOO.TV,229,TH,2018-10-15
-com.turbochilli.rollingsky,ローリング・スカイ,230,TH,2018-10-15
-com.campmobile.snow,SNOW-ビューティー効果＆メイク機能付き自撮りカメラ,231,TH,2018-10-15
+com.campmobile.snow,SNOW-ビューティー効果＆メイク機能付き自撮りカメラ,230,TH,2018-10-15
+com.turbochilli.rollingsky,ローリング・スカイ,231,TH,2018-10-15
 com.oneapp.max.cleaner.booster,無料クリーナー、アンチウイルス&キャッシュ削除-MAXCleaner,232,TH,2018-10-15
 jp.ne.ibis.ibispaintx.app,アイビスペイントX,233,TH,2018-10-15
 air.com.puffballsunited.escapingtheprison,EscapingthePrison,234,TH,2018-10-15
-com.halfbrick.jetpackjoyride,JetpackJoyride,235,TH,2018-10-15
-com.playgendary.tanks,TankStars,236,TH,2018-10-15
-com.gmm.onehd,one31,237,TH,2018-10-15
-com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",238,TH,2018-10-15
-com.giraffegames.ggpool,SnookerStars-3DOnlineSportsGame,239,TH,2018-10-15
-com.lwfd.datelinethailand,นัดไทย,240,TH,2018-10-15
-com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,241,TH,2018-10-15
-com.ludashi.dualspace,DualSpace-MultipleAccounts&AppCloner,242,TH,2018-10-15
+com.lwfd.datelinethailand,นัดไทย,235,TH,2018-10-15
+com.halfbrick.jetpackjoyride,JetpackJoyride,236,TH,2018-10-15
+com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",237,TH,2018-10-15
+com.gmm.onehd,one31,238,TH,2018-10-15
+com.playgendary.tanks,TankStars,239,TH,2018-10-15
+com.giraffegames.ggpool,SnookerStars-3DOnlineSportsGame,240,TH,2018-10-15
+com.ludashi.dualspace,DualSpace-MultipleAccounts&AppCloner,241,TH,2018-10-15
+com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,242,TH,2018-10-15
 com.longyou.changwutuan.tg,Auallstar-เวอร์ชั่นใหม่รุ่นที่III,243,TH,2018-10-15
 com.monobroadcast.mono29,MONO29,244,TH,2018-10-15
-com.outfit7.talkinggingerfree,おしゃべり猫のトーキング・ジンジャー,245,TH,2018-10-15
-com.titan.cd.gb,CreativeDestruction,246,TH,2018-10-15
-com.vectorunit.purple.googleplay,BeachBuggyRacing,247,TH,2018-10-15
-com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,248,TH,2018-10-15
-com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ作成,249,TH,2018-10-15
-com.appsomniacs.da2,DoodleArmy2:MiniMilitia,250,TH,2018-10-15
+com.titan.cd.gb,CreativeDestruction,245,TH,2018-10-15
+com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ作成,246,TH,2018-10-15
+com.outfit7.talkinggingerfree,おしゃべり猫のトーキング・ジンジャー,247,TH,2018-10-15
+com.vectorunit.purple.googleplay,BeachBuggyRacing,248,TH,2018-10-15
+com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,249,TH,2018-10-15
+com.spacegame.homedesign,マイホーム　デザインドリーム,250,TH,2018-10-15
 com.com2us.smon.normal.freefull.google.kr.android.common,サマナーズウォー:SkyArena,251,TH,2018-10-15
-io.voodoo.holeio,Hole.io,252,TH,2018-10-15
-com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,253,TH,2018-10-15
-com.fingersoft.benjibananas,BenjiBananas,254,TH,2018-10-15
-com.spacegame.homedesign,マイホーム　デザインドリーム,255,TH,2018-10-15
-com.ketchapp.knifehit,KnifeHit,256,TH,2018-10-15
-air.HardTime,HardTime(PrisonSim),257,TH,2018-10-15
-com.leodesol.games.classic.maze.labyrinth,Mazes&More,258,TH,2018-10-15
-com.linecorp.linemanth,"LINEMAN:Taxi,Food,Postal",259,TH,2018-10-15
-com.lilithgame.roc.gp,RiseofCivilizations,260,TH,2018-10-15
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,261,TH,2018-10-15
-com.workpoint.dist2.lquiz,ปริศนาฟ้าแลบ,262,TH,2018-10-15
+com.appsomniacs.da2,DoodleArmy2:MiniMilitia,252,TH,2018-10-15
+io.voodoo.holeio,Hole.io,253,TH,2018-10-15
+com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,254,TH,2018-10-15
+com.fingersoft.benjibananas,BenjiBananas,255,TH,2018-10-15
+com.linecorp.linemanth,"LINEMAN:Taxi,Food,Postal",256,TH,2018-10-15
+com.ketchapp.knifehit,KnifeHit,257,TH,2018-10-15
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,258,TH,2018-10-15
+com.lilithgame.roc.gp,RiseofCivilizations,259,TH,2018-10-15
+com.leodesol.games.classic.maze.labyrinth,Mazes&More,260,TH,2018-10-15
+com.joyours.kkkk,ไพ่แคงไทย,261,TH,2018-10-15
+air.HardTime,HardTime(PrisonSim),262,TH,2018-10-15
 com.traveloka.android,TravelokaBookFlight&Hotel,263,TH,2018-10-15
-com.joyours.kkkk,ไพ่แคงไทย,264,TH,2018-10-15
-badminton.king.sportsgame.smash,バドミントンリーグ,265,TH,2018-10-15
-com.supertapx.lovedots,LoveBalls,266,TH,2018-10-15
-ocean.nomad.survival.simulator,OceanNomad-SurvivalonRaft,267,TH,2018-10-15
+com.workpoint.dist2.lquiz,ปริศนาฟ้าแลบ,264,TH,2018-10-15
+com.pokerthai_dummy.poker,ดัมมี่Dummyรวมเก้าเกไพ่แคง,265,TH,2018-10-15
+com.simejikeyboard,"FacemojiEmojiKeyboard:GIF,Emoji,KeyboardTheme",266,TH,2018-10-15
+badminton.king.sportsgame.smash,バドミントンリーグ,267,TH,2018-10-15
 com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-ビデオエディター,268,TH,2018-10-15
-com.simejikeyboard,"FacemojiEmojiKeyboard:GIF,Emoji,KeyboardTheme",269,TH,2018-10-15
-com.skgames.trafficrider,TrafficRider,270,TH,2018-10-15
-com.vsco.cam,VSCO,271,TH,2018-10-15
-com.pokerthai_dummy.poker,ดัมมี่Dummyรวมเก้าเกไพ่แคง,272,TH,2018-10-15
-com.funplay.thai.gaple,โดมิโน่ไทย-DominoOnline,273,TH,2018-10-15
+com.vsco.cam,VSCO,269,TH,2018-10-15
+com.supertapx.lovedots,LoveBalls,270,TH,2018-10-15
+com.skgames.trafficrider,TrafficRider,271,TH,2018-10-15
+com.funplay.thai.gaple,โดมิโน่ไทย-DominoOnline,272,TH,2018-10-15
+ocean.nomad.survival.simulator,OceanNomad-SurvivalonRaft,273,TH,2018-10-15
 com.pinterest,Pinterest（ピンタレスト）,274,TH,2018-10-15
-air.com.bmapps.gossipgirlsdivasinhighschool,GossipGirlsDivasinHighschool,275,TH,2018-10-15
-com.cootek.smartinputv5.skin.keyboard_theme_neon_butterfly_keyboard,ColorfulGlitterNeonButterflyKeyboardTheme,276,TH,2018-10-15
-com.zzkko,SHEIN-FashionShoppingOnline,277,TH,2018-10-15
-com.infokombinat.multiply,MultiplicationTablesLearn,278,TH,2018-10-15
-com.mobirix.airhockey,エアホッケーチャレンジ,279,TH,2018-10-15
-com.devtab.thaitvplusonline,ThailandTV-ดูทีวีออนไลน์,280,TH,2018-10-15
-com.hlpth.majorcineplex,MajorMoviePlus,281,TH,2018-10-15
-com.boomegg.nineke,เก้าเกไทย,282,TH,2018-10-15
+com.zzkko,SHEIN-FashionShoppingOnline,275,TH,2018-10-15
+com.boomegg.nineke,เก้าเกไทย,276,TH,2018-10-15
+com.cootek.smartinputv5.skin.keyboard_theme_neon_butterfly_keyboard,ColorfulGlitterNeonButterflyKeyboardTheme,277,TH,2018-10-15
+air.com.bmapps.gossipgirlsdivasinhighschool,GossipGirlsDivasinHighschool,278,TH,2018-10-15
+com.infokombinat.multiply,MultiplicationTablesLearn,279,TH,2018-10-15
+com.hlpth.majorcineplex,MajorMoviePlus,280,TH,2018-10-15
+com.devtab.thaitvplusonline,ThailandTV-ดูทีวีออนไลน์,281,TH,2018-10-15
+com.mobirix.airhockey,エアホッケーチャレンジ,282,TH,2018-10-15
 com.agoda.mobile.consumer,Agoda-国内・海外ホテル宿泊予約はアゴダ®でハッピー,283,TH,2018-10-15
 com.wordsearch.world,シークワーズ-WordSearch-,284,TH,2018-10-15
 com.efun.thyp,เจ้านายที่รัก,285,TH,2018-10-15
 com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,286,TH,2018-10-15
 com.meitu.makeup,MakeupPlus-写真にメイクが出来る画像編集アプリ,287,TH,2018-10-15
 com.ss.android.ugc.tiktok.livewallpaper,TikTokダイナミック壁紙,288,TH,2018-10-15
-puzzle.wood.block.cube.music.box,木製ブロック-オルゴール,289,TH,2018-10-15
-com.dewmobile.kuaiya.play,"Zapya-FileTransfer,Sharing",290,TH,2018-10-15
-com.cocoplay.cakemaker,リアルケーキメーカー３Ｄ,291,TH,2018-10-15
-com.koyokiservices.FoF,ForcesofFreedom(EarlyAccess),292,TH,2018-10-15
-com.nianticlabs.pokemongo,PokémonGO,293,TH,2018-10-15
-com.badoo.mobile,Badoo-無料チャット&デートアプリ,294,TH,2018-10-15
-com.ea.gp.simsmobile,TheSims シムズ ポケット,295,TH,2018-10-15
+com.koyokiservices.FoF,ForcesofFreedom(EarlyAccess),289,TH,2018-10-15
+com.badoo.mobile,Badoo-無料チャット&デートアプリ,290,TH,2018-10-15
+puzzle.wood.block.cube.music.box,木製ブロック-オルゴール,291,TH,2018-10-15
+com.dewmobile.kuaiya.play,"Zapya-FileTransfer,Sharing",292,TH,2018-10-15
+com.cocoplay.cakemaker,リアルケーキメーカー３Ｄ,293,TH,2018-10-15
+com.ea.gp.simsmobile,TheSims シムズ ポケット,294,TH,2018-10-15
+com.nianticlabs.pokemongo,PokémonGO,295,TH,2018-10-15
 com.amanotes.pamamagictwist,MagicTwist:TwisterMusicBallGame,296,TH,2018-10-15
-com.ExploreCraft.Bevzy,ExploreCraft:SurvivalAndBuilding,297,TH,2018-10-15
-onet.gamefree.animals.hotslink,OnetnewAnimals2016,298,TH,2018-10-15
+onet.gamefree.animals.hotslink,OnetnewAnimals2016,297,TH,2018-10-15
+com.ExploreCraft.Bevzy,ExploreCraft:SurvivalAndBuilding,298,TH,2018-10-15
 com.google.android.apps.photos,Googleフォト,299,TH,2018-10-15
 equalizer.bassbooster,イコライザー-ベースブースター＆ボリュームブースター,300,TH,2018-10-15
-com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,301,TH,2018-10-15
-com.lionmobi.battery,PowerBattery-節電、快速充電、電池計測&最適化,302,TH,2018-10-15
+com.lionmobi.battery,PowerBattery-節電、快速充電、電池計測&最適化,301,TH,2018-10-15
+com.netease.chiji,RulesofSurvival,302,TH,2018-10-15
 com.fotoable.wallpaperkeyboard,キーボード-壁紙、写真,303,TH,2018-10-15
-com.netease.chiji,RulesofSurvival,304,TH,2018-10-15
-com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,305,TH,2018-10-15
-mega.privacy.android.app,MEGA,306,TH,2018-10-15
-com.gmthai.sf,SwordFantasy-เซียนรักกระบี่คู่,307,TH,2018-10-15
-com.truelife.mobile.android.trueiservice,TrueiService,308,TH,2018-10-15
-com.seyeonsoft.pastel,パステルガール,309,TH,2018-10-15
-com.tutotoons.app.sweetbabygirlcleanup5.free,スイートな赤ちゃんのクリーンアップ5,310,TH,2018-10-15
-invaders.os.galaxy.space.shooter.attack.classic,ファルコンスカッドー銀河系の守護者,311,TH,2018-10-15
-com.eyu.piano,MagicPianoTiles2018-MusicGame,312,TH,2018-10-15
-com.funplus.familyfarm,にじいろ牧場,313,TH,2018-10-15
-com.appzek.HorrorKiss,HorrorKiss,314,TH,2018-10-15
+mega.privacy.android.app,MEGA,304,TH,2018-10-15
+com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,305,TH,2018-10-15
+com.gmthai.sf,SwordFantasy-เซียนรักกระบี่คู่,306,TH,2018-10-15
+com.truelife.mobile.android.trueiservice,TrueiService,307,TH,2018-10-15
+com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,308,TH,2018-10-15
+com.eyu.piano,MagicPianoTiles2018-MusicGame,309,TH,2018-10-15
+com.funplus.familyfarm,にじいろ牧場,310,TH,2018-10-15
+com.seyeonsoft.pastel,パステルガール,311,TH,2018-10-15
+net.fsnasia.adpocket,AdPocket,312,TH,2018-10-15
+com.tutotoons.app.sweetbabygirlcleanup5.free,スイートな赤ちゃんのクリーンアップ5,313,TH,2018-10-15
+invaders.os.galaxy.space.shooter.attack.classic,ファルコンスカッドー銀河系の守護者,314,TH,2018-10-15
 com.ovelin.guitartuna,無料　チューナー　GuitarTuna,315,TH,2018-10-15
-com.ea.games.simsfreeplay_row,TheSimsFreePlay,316,TH,2018-10-15
-com.smart.math.calculator,数学計算機-写真を撮って問題を解決する,317,TH,2018-10-15
-net.fsnasia.adpocket,AdPocket,318,TH,2018-10-15
-com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,319,TH,2018-10-15
-com.onavo.spaceship,ProtectFreeVPN+DataManager,320,TH,2018-10-15
-com.whatsapp,WhatsAppMessenger,321,TH,2018-10-15
+com.smart.math.calculator,数学計算機-写真を撮って問題を解決する,316,TH,2018-10-15
+com.onavo.spaceship,ProtectFreeVPN+DataManager,317,TH,2018-10-15
+com.ea.games.simsfreeplay_row,TheSimsFreePlay,318,TH,2018-10-15
+com.appzek.HorrorKiss,HorrorKiss,319,TH,2018-10-15
+com.whatsapp,WhatsAppMessenger,320,TH,2018-10-15
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,321,TH,2018-10-15
 com.app.dealfish.main,Kaidee-แหล่งช้อปซื้อขายออนไลน์,322,TH,2018-10-15
 com.gtarcade.eoa,EraofCelestials,323,TH,2018-10-15
-jp.smarteducation.tofusushi,TO-FUおっ!すし屋さん,324,TH,2018-10-15
-com.cmcm.arrowio,アーチャー大作戦,325,TH,2018-10-15
-com.gamefeast.battle.unknown.players.survival.shooting.game,FiringSquadBattleground,326,TH,2018-10-15
-com.krungsri.kma,KMA,327,TH,2018-10-15
-com.sinyee.babybus.food,中華レストラン-BabyBus　子ども・幼児向けお料理ゲーム,328,TH,2018-10-15
-com.dianhun.xgame.lvs.thai,LightXShadowTH,329,TH,2018-10-15
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),330,TH,2018-10-15
-tv.hooq.android,"HOOQ-Stream&WatchMovies,TVSeries&More",331,TH,2018-10-15
-com.tutotoons.app.kikififipetbeautysalon.free,キキ＆フィフィペット美容院,332,TH,2018-10-15
-com.surpax.ledflashlight.panel,懐中電灯-ledライト,333,TH,2018-10-15
-com.mmarcel.cnb2,工芸と建築-CraftingandBuilding,334,TH,2018-10-15
-com.outfit7.mytalkinghank,マイ・トーキング・ハンク,335,TH,2018-10-15
-com.sevelina.icywedding,❄IcyWedding❄WinterBride,336,TH,2018-10-15
-com.mario.bros.adventure.free,SuperJabberJump3,337,TH,2018-10-15
-com.waplogmatch.social,W-Match:チャットでナンパな友人に出会う,338,TH,2018-10-15
-com.cam001.selfie,"SweetSelfie-写真,ビューティーエディタ",339,TH,2018-10-15
-app.manoth.fahsai,ฟ้าใส:เลขาส่วนตัว,340,TH,2018-10-15
-com.sandboxol.indiegame.eggwars,EggWars,341,TH,2018-10-15
-com.meigee.craftopia,Craftopia,342,TH,2018-10-15
-video.downloader.videodownloader,無料動画ダウンロード,343,TH,2018-10-15
-com.mobileguru.fruitsbomb.free,FruitsBomb,344,TH,2018-10-15
-com.picklove.camera,PickLoveCamera,345,TH,2018-10-15
-com.kumagames.highschoolsimulator2018,HighSchoolSimulator2018,346,TH,2018-10-15
-com.boombitgames.Dartsy,DartsClub,347,TH,2018-10-15
-com.cooyostudio.marble.blast,JungleMarbleBlast,348,TH,2018-10-15
+com.waplogmatch.social,W-Match:チャットでナンパな友人に出会う,324,TH,2018-10-15
+jp.smarteducation.tofusushi,TO-FUおっ!すし屋さん,325,TH,2018-10-15
+com.surpax.ledflashlight.panel,懐中電灯-ledライト,326,TH,2018-10-15
+com.cmcm.arrowio,アーチャー大作戦,327,TH,2018-10-15
+com.krungsri.kma,KMA,328,TH,2018-10-15
+com.gamefeast.battle.unknown.players.survival.shooting.game,FiringSquadBattleground,329,TH,2018-10-15
+com.dianhun.xgame.lvs.thai,LightXShadowTH,330,TH,2018-10-15
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),331,TH,2018-10-15
+tv.hooq.android,"HOOQ-Stream&WatchMovies,TVSeries&More",332,TH,2018-10-15
+com.sinyee.babybus.food,中華レストラン-BabyBus　子ども・幼児向けお料理ゲーム,333,TH,2018-10-15
+com.tutotoons.app.kikififipetbeautysalon.free,キキ＆フィフィペット美容院,334,TH,2018-10-15
+video.downloader.videodownloader,無料動画ダウンロード,335,TH,2018-10-15
+com.cam001.selfie,"SweetSelfie-写真,ビューティーエディタ",336,TH,2018-10-15
+com.outfit7.mytalkinghank,マイ・トーキング・ハンク,337,TH,2018-10-15
+com.mmarcel.cnb2,工芸と建築-CraftingandBuilding,338,TH,2018-10-15
+com.mario.bros.adventure.free,SuperJabberJump3,339,TH,2018-10-15
+com.sevelina.icywedding,❄IcyWedding❄WinterBride,340,TH,2018-10-15
+com.picklove.camera,PickLoveCamera,341,TH,2018-10-15
+app.manoth.fahsai,ฟ้าใส:เลขาส่วนตัว,342,TH,2018-10-15
+com.mobileguru.fruitsbomb.free,FruitsBomb,343,TH,2018-10-15
+com.boombitgames.Dartsy,DartsClub,344,TH,2018-10-15
+com.sandboxol.indiegame.eggwars,EggWars,345,TH,2018-10-15
+com.meigee.craftopia,Craftopia,346,TH,2018-10-15
+com.cooyostudio.marble.blast,JungleMarbleBlast,347,TH,2018-10-15
+com.kumagames.highschoolsimulator2018,HighSchoolSimulator2018,348,TH,2018-10-15
 com.sandboxol.indiegame.bedwar,BedWars,349,TH,2018-10-15
 com.dotc.latin.ime.tap,FlashKeyboardEmoji,350,TH,2018-10-15
-com.android.chrome,GoogleChrome:高速で安全,351,TH,2018-10-15
-com.ViperGames.StickmanWarriors,StickmanWarriors,352,TH,2018-10-15
+com.freevpnintouch,FreeVPN-BetternetVPNProxy&Wi-FiSecurity,351,TH,2018-10-15
+com.android.chrome,GoogleChrome:高速で安全,352,TH,2018-10-15
 com.mwm.drum,Drums-リアルなドラムセット・ゲーム,353,TH,2018-10-15
-cartoon.club.channel,CartoonClubChannel,354,TH,2018-10-15
-com.easytouch.assistivetouch,AssistiveTouchforAndroid,355,TH,2018-10-15
-com.freevpnintouch,FreeVPN-BetternetVPNProxy&Wi-FiSecurity,356,TH,2018-10-15
-com.heavy.excavator.simulator.driveandtransport,SnowHeavyExcavatorSimulator,357,TH,2018-10-15
+com.easytouch.assistivetouch,AssistiveTouchforAndroid,354,TH,2018-10-15
+com.ViperGames.StickmanWarriors,StickmanWarriors,355,TH,2018-10-15
+cartoon.club.channel,CartoonClubChannel,356,TH,2018-10-15
+com.hyperspeed.rocketclean.pro,超高速クリーナー：ウイルスバスター、ウィルス対策、電話クリーナー、携帯加速,357,TH,2018-10-15
 jkg.dectruction.stickmandismount,StickmanTurboDestruction,358,TH,2018-10-15
 com.ea.game.pvz2_row,PlantsvsZombies2Free,359,TH,2018-10-15
-com.heyyogame.gdth,Lord&Beauties-ทำตัวเปรียบดั่งขุนแผน,360,TH,2018-10-15
-com.hyperspeed.rocketclean.pro,超高速クリーナー：ウイルスバスター、ウィルス対策、電話クリーナー、携帯加速,361,TH,2018-10-15
-com.rus.piskar.exploration.divers.two,Exploration,362,TH,2018-10-15
-com.mobirix.differencegame,まちがい探しの王,363,TH,2018-10-15
-com.bfgames.kingstha,ไพ่แคงออนไลน์,364,TH,2018-10-15
-com.hyperkani.bomberfriends,BomberFriends,365,TH,2018-10-15
-air.com.noxgames.PuppetSoccer2014,⚽PuppetSoccer2014-BigHeadFootball🏆,366,TH,2018-10-15
-com.gotokeep.keep.intl,Keep-パーソナルホームトレイナー,367,TH,2018-10-15
-com.forqan.tech.PrincessColoring,子供のためのプリンセス・カラーリング,368,TH,2018-10-15
-com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,369,TH,2018-10-15
-com.godlike.creatures.th,GODLIKECreatures,370,TH,2018-10-15
-androidcode.in.th.Handwrite,คัดลายมือThaiHandwriting,371,TH,2018-10-15
-ru.zdevs.zarchiver,ZArchiver,372,TH,2018-10-15
-com.halfbrick.fruitninjafree,FruitNinja®,373,TH,2018-10-15
-pool.snooker.pool,Snooker,374,TH,2018-10-15
-com.dreamplay.realmoto.google,RealMoto,375,TH,2018-10-15
-com.BECi.live3,Ch3Thailand,376,TH,2018-10-15
-com.ubisoft.hungrysharkworld,HungrySharkWorld,377,TH,2018-10-15
-tat.example.ildar.seer,警察探知機（速度カメラレーダー）,378,TH,2018-10-15
-com.infinity_dev.math,คณิตคิดเร็วป.1-ป.6,379,TH,2018-10-15
-air.com.bmapps.rainbowicecreamcooking,RainbowIceCreamCooking,380,TH,2018-10-15
-com.netease.ko,荒野行動-スマホ版バトロワ,381,TH,2018-10-15
-com.sandboxol.blockymods,BlockmanGO:BlockyMods,382,TH,2018-10-15
-com.keyboard.font.theme.emoji,SmileyEmojiKeyboard2018-CuteEmoticons,383,TH,2018-10-15
-th.in.njoy.swm.au2mobile,AU2Mobile,384,TH,2018-10-15
-com.cootek.smartinputv5.skin.keyboard_theme_water,ガラス水キーボードテーマ,385,TH,2018-10-15
-com.gametornado.short_life,ShortLife,386,TH,2018-10-15
+com.bfgames.kingstha,ไพ่แคงออนไลน์,360,TH,2018-10-15
+com.heavy.excavator.simulator.driveandtransport,SnowHeavyExcavatorSimulator,361,TH,2018-10-15
+com.heyyogame.gdth,Lord&Beauties-ทำตัวเปรียบดั่งขุนแผน,362,TH,2018-10-15
+com.hyperkani.bomberfriends,BomberFriends,363,TH,2018-10-15
+com.gotokeep.keep.intl,Keep-パーソナルホームトレイナー,364,TH,2018-10-15
+com.mobirix.differencegame,まちがい探しの王,365,TH,2018-10-15
+com.rus.piskar.exploration.divers.two,Exploration,366,TH,2018-10-15
+air.com.noxgames.PuppetSoccer2014,⚽PuppetSoccer2014-BigHeadFootball🏆,367,TH,2018-10-15
+tat.example.ildar.seer,警察探知機（速度カメラレーダー）,368,TH,2018-10-15
+pool.snooker.pool,Snooker,369,TH,2018-10-15
+com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,370,TH,2018-10-15
+ru.zdevs.zarchiver,ZArchiver,371,TH,2018-10-15
+com.forqan.tech.PrincessColoring,子供のためのプリンセス・カラーリング,372,TH,2018-10-15
+com.dreamplay.realmoto.google,RealMoto,373,TH,2018-10-15
+androidcode.in.th.Handwrite,คัดลายมือThaiHandwriting,374,TH,2018-10-15
+com.godlike.creatures.th,GODLIKECreatures,375,TH,2018-10-15
+com.halfbrick.fruitninjafree,FruitNinja®,376,TH,2018-10-15
+com.BECi.live3,Ch3Thailand,377,TH,2018-10-15
+com.ubisoft.hungrysharkworld,HungrySharkWorld,378,TH,2018-10-15
+com.netease.ko,荒野行動-スマホ版バトロワ,379,TH,2018-10-15
+com.infinity_dev.math,คณิตคิดเร็วป.1-ป.6,380,TH,2018-10-15
+air.com.bmapps.rainbowicecreamcooking,RainbowIceCreamCooking,381,TH,2018-10-15
+com.cootek.smartinputv5.skin.keyboard_theme_water,ガラス水キーボードテーマ,382,TH,2018-10-15
+th.in.njoy.swm.au2mobile,AU2Mobile,383,TH,2018-10-15
+com.sandboxol.blockymods,BlockmanGO:BlockyMods,384,TH,2018-10-15
+com.keyboard.font.theme.emoji,SmileyEmojiKeyboard2018-CuteEmoticons,385,TH,2018-10-15
+com.kasikornbank.retail.kmerchant,K-PowerPay(mPOS),386,TH,2018-10-15
 com.riobma.farmcrusheggs,恐竜の卵を撃ちます,387,TH,2018-10-15
-com.kasikornbank.retail.kmerchant,K-PowerPay(mPOS),388,TH,2018-10-15
-com.huya.nimo,NimoTV–Play.Live.Share.,389,TH,2018-10-15
-com.happylabs.magic,魔法学校物語,390,TH,2018-10-15
-air.jp.globalgear.kaihi3,ドッキリ神回避3　-脱出ゲーム,391,TH,2018-10-15
-com.singsong.smokephotoeffect,SmokeEffectPhotoEdit,392,TH,2018-10-15
-com.vng.android.mps.dead.zombie2,ゾンビ:DEADWARFARE-Zombie,393,TH,2018-10-15
+com.gametornado.short_life,ShortLife,388,TH,2018-10-15
+com.happylabs.magic,魔法学校物語,389,TH,2018-10-15
+com.singsong.smokephotoeffect,SmokeEffectPhotoEdit,390,TH,2018-10-15
+com.huya.nimo,NimoTV–Play.Live.Share.,391,TH,2018-10-15
+com.vng.android.mps.dead.zombie2,ゾンビ:DEADWARFARE-Zombie,392,TH,2018-10-15
+air.jp.globalgear.kaihi3,ドッキリ神回避3　-脱出ゲーム,393,TH,2018-10-15
 com.sinyee.babybus.holiday,ベイビーパンダのバケーション,394,TH,2018-10-15
 com.gameparadiso.milkchoco,ミルクチョコ-オンラインFPS,395,TH,2018-10-15
-air.net.chicworld.brideweddingdresses,BrideWeddingDresses,396,TH,2018-10-15
-com.pianotiles.battle.mode.free,PianoPinkTiles-音楽ゲーム2019,397,TH,2018-10-15
-com.outfit7.talkingben,おしゃべり犬のトーキング・ベン,398,TH,2018-10-15
+com.bfgames.dummy,Dummyไพ่ฟรีนิยม-ดัมมี่,396,TH,2018-10-15
+com.edjing.edjingdjturntable,edjingMix:DJミュージックミキサーコンソール,397,TH,2018-10-15
+air.net.chicworld.brideweddingdresses,BrideWeddingDresses,398,TH,2018-10-15
 mobisocial.arcade,OmletArcade–ライブ動画配信、出会い、そしてプレー,399,TH,2018-10-15
-com.bfgames.dummy,Dummyไพ่ฟรีนิยม-ดัมมี่,400,TH,2018-10-15
-com.creempop.prengluktungminet,เพลงลูกทุ่งรวมฮิตไม่ใช้เน็ต,401,TH,2018-10-15
-com.funplay.thai.hilo,ไฮโลhilo,402,TH,2018-10-15
-com.triples.game.freestyle.tha,FreestyleMobile,403,TH,2018-10-15
-com.balljump.towercolors,NineBallJumpTower2018,404,TH,2018-10-15
-com.herogames.gplay.crisisactionsa,CrisisAction:RiseofMech,405,TH,2018-10-15
-com.edjing.edjingdjturntable,edjingMix:DJミュージックミキサーコンソール,406,TH,2018-10-15
+com.creempop.prengluktungminet,เพลงลูกทุ่งรวมฮิตไม่ใช้เน็ต,400,TH,2018-10-15
+jp.konami.pesam,WinningEleven2018,401,TH,2018-10-15
+com.pianotiles.battle.mode.free,PianoPinkTiles-音楽ゲーム2019,402,TH,2018-10-15
+com.funplay.thai.hilo,ไฮโลhilo,403,TH,2018-10-15
+com.herogames.gplay.crisisactionsa,CrisisAction:RiseofMech,404,TH,2018-10-15
+com.outfit7.talkingben,おしゃべり犬のトーキング・ベン,405,TH,2018-10-15
+com.triples.game.freestyle.tha,FreestyleMobile,406,TH,2018-10-15
 jp.naver.lineplay.android,LINEプレイ-世界中の友だちと楽しむアバターライフ,407,TH,2018-10-15
-com.cocoplay.shoppinggirl,ショッピングセンター・ガール,408,TH,2018-10-15
-com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,409,TH,2018-10-15
-jp.konami.pesam,WinningEleven2018,410,TH,2018-10-15
-photoeditor.layout.collagemaker,コラージュメーカー:画像加工&写真編集者,411,TH,2018-10-15
+com.balljump.towercolors,NineBallJumpTower2018,408,TH,2018-10-15
+photoeditor.layout.collagemaker,コラージュメーカー:画像加工&写真編集者,409,TH,2018-10-15
+com.cocoplay.shoppinggirl,ショッピングセンター・ガール,410,TH,2018-10-15
+com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,411,TH,2018-10-15
 com.gameloft.android.ANMP.GloftSIHM,MARVELスパイダーマン・アンリミテッド,412,TH,2018-10-15
 com.fungamesforfree.colorfy,Colorfy:大人のための塗り絵ゲーム-無料曼荼羅アート,413,TH,2018-10-15
-air.com.bmapps.crazymommystreetfoodtruck,CrazyMommyStreetFoodTruck,414,TH,2018-10-15
-com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),415,TH,2018-10-15
-com.kingpower.online,KingPower,416,TH,2018-10-15
-com.superbros.adventure.jump.free,SuperJimJump,417,TH,2018-10-15
+com.kingpower.online,KingPower,414,TH,2018-10-15
+com.superbros.adventure.jump.free,SuperJimJump,415,TH,2018-10-15
+com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),416,TH,2018-10-15
+air.com.bmapps.crazymommystreetfoodtruck,CrazyMommyStreetFoodTruck,417,TH,2018-10-15
 jurassic.survival.craft.z,JurassicSurvival,418,TH,2018-10-15
-com.mobirix.czw,キューブゾンビハンター,419,TH,2018-10-15
-com.timuzgames.counterterrorstrike,CounterTerrorist-GunShootingGame,420,TH,2018-10-15
-com.ubisoft.hungrydragon,HungryDragon™,421,TH,2018-10-15
-smellymoo.sand,砂:絵,422,TH,2018-10-15
-com.smule.singandroid,Smule-ナンバーワンの歌アプリ,423,TH,2018-10-15
-th.tesco.clubcard,TescoLotusClubcard,424,TH,2018-10-15
-com.fdgentertainment.bananakong,バナナコング,425,TH,2018-10-15
-com.creative.sandbox.number.drawning.coloring,No.Draw-数字で塗り絵スケッチブック,426,TH,2018-10-15
-rougelans.gunsmodformcpe,GunsmodforMCPE,427,TH,2018-10-15
-com.lego.ninjago.rideninja,LEGO®NINJAGO®:RideNinja,428,TH,2018-10-15
-com.musicplayer.music,DefaultMusicPlayer,429,TH,2018-10-15
-com.sega.sonicdash,SonicDash,430,TH,2018-10-15
-com.estsoft.picnic,"PICNIC-人気アプリ,旅行写真,くもり加工",431,TH,2018-10-15
-com.cmcm.lite,CMLite-ForLow-EndPhone,432,TH,2018-10-15
-com.paypal.android.p2pmobile,PayPal,433,TH,2018-10-15
-com.lego.superheroes.dccomicsmightymicros,LEGO®DCMightyMicros,434,TH,2018-10-15
-net.minerblockchain.schoolchild,SchoolandNeighborhoodMapforMCPE,435,TH,2018-10-15
-com.halo.wifikey.wifilocating,WiFiMasterKey-bywifi.com,436,TH,2018-10-15
+com.timuzgames.counterterrorstrike,CounterTerrorist-GunShootingGame,419,TH,2018-10-15
+com.mobirix.czw,キューブゾンビハンター,420,TH,2018-10-15
+com.kooup.kooup,Kooup-Date&MeetYourSoulmate,421,TH,2018-10-15
+com.smule.singandroid,Smule-ナンバーワンの歌アプリ,422,TH,2018-10-15
+com.ubisoft.hungrydragon,HungryDragon™,423,TH,2018-10-15
+smellymoo.sand,砂:絵,424,TH,2018-10-15
+th.tesco.clubcard,TescoLotusClubcard,425,TH,2018-10-15
+com.fdgentertainment.bananakong,バナナコング,426,TH,2018-10-15
+com.estsoft.picnic,"PICNIC-人気アプリ,旅行写真,くもり加工",427,TH,2018-10-15
+com.creative.sandbox.number.drawning.coloring,No.Draw-数字で塗り絵スケッチブック,428,TH,2018-10-15
+com.lego.ninjago.rideninja,LEGO®NINJAGO®:RideNinja,429,TH,2018-10-15
+rougelans.gunsmodformcpe,GunsmodforMCPE,430,TH,2018-10-15
+com.musicplayer.music,DefaultMusicPlayer,431,TH,2018-10-15
+com.paypal.android.p2pmobile,PayPal,432,TH,2018-10-15
+com.halo.wifikey.wifilocating,WiFiMasterKey-bywifi.com,433,TH,2018-10-15
+com.cmcm.lite,CMLite-ForLow-EndPhone,434,TH,2018-10-15
+com.sega.sonicdash,SonicDash,435,TH,2018-10-15
+com.lego.superheroes.dccomicsmightymicros,LEGO®DCMightyMicros,436,TH,2018-10-15
 com.spilgames.ThrillRush1,ThrillRushThemePark,437,TH,2018-10-15
-com.kooup.kooup,Kooup-Date&MeetYourSoulmate,438,TH,2018-10-15
-com.mstfbs.yesiluzayli,緑のエイリアンダンス,439,TH,2018-10-15
-at.nk.tools.iTranslate,iTranslate翻訳-音声とテキストの翻訳,440,TH,2018-10-15
-es.socialpoint.DragonCity,ドラゴンシティ:　育てて、進化させて、バトル！町を作ろう！,441,TH,2018-10-15
-com.linecorp.lineat.android,LINE@App(LINEat),442,TH,2018-10-15
-com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,443,TH,2018-10-15
-com.tbegames.and.best_speed_racing,ニトロレーシングGO!クリッカー系レースゲーム,444,TH,2018-10-15
-com.heliosinteractive.ben10,ベン：10エイリアン体験,445,TH,2018-10-15
-io.mrarm.mctoolbox,ToolboxforMinecraft:PE,446,TH,2018-10-15
-com.twoplayergamesfree.twoplayergames,みんなでミニゲーム-無料,447,TH,2018-10-15
-com.vcraftmodsstudio.toolsgamesmod,ToolsGamesModforMCPE,448,TH,2018-10-15
-com.gocrossword.free,WordFinder-WordConnect,449,TH,2018-10-15
-zombie.survival.craft.z,LastDayonEarth:Survival,450,TH,2018-10-15
-com.igenesoft.maze,迷路オンライン,451,TH,2018-10-15
-com.bfgames.hilotha,ไฮโลไทย-รวมเก้าเกป๊อกเด้งดัมมี่,452,TH,2018-10-15
-com.mosteasy.cleanmaster,EasyCleaner,453,TH,2018-10-15
+net.minerblockchain.schoolchild,SchoolandNeighborhoodMapforMCPE,438,TH,2018-10-15
+at.nk.tools.iTranslate,iTranslate翻訳-音声とテキストの翻訳,439,TH,2018-10-15
+com.linecorp.lineat.android,LINE@App(LINEat),440,TH,2018-10-15
+com.mosteasy.cleanmaster,EasyCleaner,441,TH,2018-10-15
+es.socialpoint.DragonCity,ドラゴンシティ:　育てて、進化させて、バトル！町を作ろう！,442,TH,2018-10-15
+com.mstfbs.yesiluzayli,緑のエイリアンダンス,443,TH,2018-10-15
+com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,444,TH,2018-10-15
+com.gocrossword.free,WordFinder-WordConnect,445,TH,2018-10-15
+com.bfgames.hilotha,ไฮโลไทย-รวมเก้าเกป๊อกเด้งดัมมี่,446,TH,2018-10-15
+com.heliosinteractive.ben10,ベン：10エイリアン体験,447,TH,2018-10-15
+io.mrarm.mctoolbox,ToolboxforMinecraft:PE,448,TH,2018-10-15
+zombie.survival.craft.z,LastDayonEarth:Survival,449,TH,2018-10-15
+com.twoplayergamesfree.twoplayergames,みんなでミニゲーム-無料,450,TH,2018-10-15
+com.tbegames.and.best_speed_racing,ニトロレーシングGO!クリッカー系レースゲーム,451,TH,2018-10-15
+com.fasttrack.security,ウィルスクリーナー-ウイルス対策、ブースター(スーパー・セキュリティ),452,TH,2018-10-15
+com.vcraftmodsstudio.toolsgamesmod,ToolsGamesModforMCPE,453,TH,2018-10-15
 com.TMBTOUCH.PRODUCTION,TMBTouch,454,TH,2018-10-15
-com.fasttrack.security,ウィルスクリーナー-ウイルス対策、ブースター(スーパー・セキュリティ),455,TH,2018-10-15
-air.com.turner.boomerangmakeandrace,BoomerangMakeandRace,456,TH,2018-10-15
+com.igenesoft.maze,迷路オンライン,455,TH,2018-10-15
+com.eggdigital.trueyouedc,TrueSmartMerchant,456,TH,2018-10-15
 pawapp.games.onetdeluxe,OnetDeluxe,457,TH,2018-10-15
-com.solou.catendless.run,キャットランナー：デザインホームルーム,458,TH,2018-10-15
-com.minicades.stockcars,StockCarRacing,459,TH,2018-10-15
-com.longtugame.yulgang,YulgangMobile,460,TH,2018-10-15
-com.eggdigital.trueyouedc,TrueSmartMerchant,461,TH,2018-10-15
+com.longtugame.yulgang,YulgangMobile,458,TH,2018-10-15
+air.com.turner.boomerangmakeandrace,BoomerangMakeandRace,459,TH,2018-10-15
+com.minicades.stockcars,StockCarRacing,460,TH,2018-10-15
+com.gameindy.dummyth,ดัมมี่เผือก-Dummyสุดฮิตสนุกเกมไทยเล่นฟรี,461,TH,2018-10-15
 com.skyline.fishing,FishingParty-สวรรค์ของนักล่าปลา,462,TH,2018-10-15
-com.tbegames.and.best_moto_race,モトライダーGO！ハイウェイレーシング,463,TH,2018-10-15
-com.pixonic.wwr,WarRobots,464,TH,2018-10-15
-com.gameindy.dummyth,ดัมมี่เผือก-Dummyสุดฮิตสนุกเกมไทยเล่นฟรี,465,TH,2018-10-15
+com.solou.catendless.run,キャットランナー：デザインホームルーム,463,TH,2018-10-15
+com.kakao.talk,カカオトーク-無料でグループ通話！高音質でつながる無料通話！,464,TH,2018-10-15
+com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,465,TH,2018-10-15
 com.funcamerastudio.videomaker,VideoMaker—動画編集＆動画作成＆動画加工&音楽&魔法のビデオエディタ,466,TH,2018-10-15
-com.oguztecimer.stickfightshadowwarrior,StickFight:ShadowWarrior,467,TH,2018-10-15
-com.kakao.talk,カカオトーク-無料でグループ通話！高音質でつながる無料通話！,468,TH,2018-10-15
-com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,469,TH,2018-10-15
-com.mattel.barbiesparkleblastkids,バービー・ファッションクローゼット,470,TH,2018-10-15
+com.tbegames.and.best_moto_race,モトライダーGO！ハイウェイレーシング,467,TH,2018-10-15
+com.pixonic.wwr,WarRobots,468,TH,2018-10-15
+com.bkapp.medan,ด่านมีด่านบอกด้วย,469,TH,2018-10-15
+com.oguztecimer.stickfightshadowwarrior,StickFight:ShadowWarrior,470,TH,2018-10-15
 com.discord,Discord-ゲーマー向けチャットシステム,471,TH,2018-10-15
-com.bkapp.medan,ด่านมีด่านบอกด้วย,472,TH,2018-10-15
-com.timuzgames.bikeracing2018,BikeRacing2018-ExtremeBikeRace,473,TH,2018-10-15
-com.trivago,trivago:ホテル検索・料金比較アプリ,474,TH,2018-10-15
-com.kokola.limdasadika,ExplorationLite,475,TH,2018-10-15
-com.kyout.kawaii,Cutewallpapers&kawaiibackgroundsimages,476,TH,2018-10-15
-com.lbe.parallel.intl,並行世界－同時に二つのアカウントがログイン,477,TH,2018-10-15
-com.sandboxol.indiegame.skywar,SkyWars,478,TH,2018-10-15
-com.sinyee.babybus.restaurant,パンダのレストラン,479,TH,2018-10-15
-planetevoyance.la_boule_du_voyant,水晶玉占い,480,TH,2018-10-15
-com.powergaming.drinkcocktailrealsim2d,CocktailDrinkPrankSimulator,481,TH,2018-10-15
-com.cocoplay.sweet.bakery,マイ・ベーカリーの王国-ケーキを焼いて飾って売ろう,482,TH,2018-10-15
-com.gmthai.bar,BladesandRings-ตำนานครูเสด,483,TH,2018-10-15
-com.coloring.mermaids,サイレン,484,TH,2018-10-15
+com.trivago,trivago:ホテル検索・料金比較アプリ,472,TH,2018-10-15
+com.lbe.parallel.intl,並行世界－同時に二つのアカウントがログイン,473,TH,2018-10-15
+com.mattel.barbiesparkleblastkids,バービー・ファッションクローゼット,474,TH,2018-10-15
+com.timuzgames.bikeracing2018,BikeRacing2018-ExtremeBikeRace,475,TH,2018-10-15
+coin.vidplayer.popupvideo,XXVideoPlayer2018-XXVideoPopupPlayer2018,476,TH,2018-10-15
+com.kyout.kawaii,Cutewallpapers&kawaiibackgroundsimages,477,TH,2018-10-15
+com.kokola.limdasadika,ExplorationLite,478,TH,2018-10-15
+planetevoyance.la_boule_du_voyant,水晶玉占い,479,TH,2018-10-15
+com.sinyee.babybus.restaurant,パンダのレストラン,480,TH,2018-10-15
+com.sandboxol.indiegame.skywar,SkyWars,481,TH,2018-10-15
+com.gmthai.bar,BladesandRings-ตำนานครูเสด,482,TH,2018-10-15
+com.cocoplay.sweet.bakery,マイ・ベーカリーの王国-ケーキを焼いて飾って売ろう,483,TH,2018-10-15
+com.powergaming.drinkcocktailrealsim2d,CocktailDrinkPrankSimulator,484,TH,2018-10-15
 br.com.zoetropic.free,Zoetropic(free)-fotoemmovimento,485,TH,2018-10-15
 com.pic.mycamera,SelfieCamera - Filter&Sticker&PhotoEditor,486,TH,2018-10-15
-com.volevi.chayen,Chayen-ジェスチャーで遊ぼう,487,TH,2018-10-15
-coin.vidplayer.popupvideo,XXVideoPlayer2018-XXVideoPopupPlayer2018,488,TH,2018-10-15
-com.inc.tbb_vip,3BB,489,TH,2018-10-15
-com.rovio.baba,アングリーバード2(AngryBirds2),490,TH,2018-10-15
-com.prankscreen.brokenscreen.crackedscreen,壊れた画面いたずらPrank,491,TH,2018-10-15
-com.counter.terrorism.shoot.ray,対テロ銃撃,492,TH,2018-10-15
-com.joyours.thaipokdeng,ป๊อกเด้งเซียนไทย,493,TH,2018-10-15
-com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,494,TH,2018-10-15
-com.linecorp.foodcam.android,Foodie-生活のためのカメラ,495,TH,2018-10-15
-com.fruitheroes.legend,FruitBlock-PuzzleLegend,496,TH,2018-10-15
-music.piano.game.tiles.black.master.magic.vn.tro.choi.amnhac,MagicPianoTilesClassic-RelaxandChallenges,497,TH,2018-10-15
-com.xvideostudio.videoeditor,動画編集はVideoShow-魔法のビデオエディタ,498,TH,2018-10-15
-com.qihoo.security,360セキュリティ-アンチウイルス&ブースト,499,TH,2018-10-15
-nu.sound.effect,SoundEffectDJ,500,TH,2018-10-15
-com.micube.sushi,寿司ハウス,501,TH,2018-10-15
+com.joyours.thaipokdeng,ป๊อกเด้งเซียนไทย,487,TH,2018-10-15
+com.coloring.mermaids,サイレン,488,TH,2018-10-15
+com.volevi.chayen,Chayen-ジェスチャーで遊ぼう,489,TH,2018-10-15
+com.qihoo.security,360セキュリティ-アンチウイルス&ブースト,490,TH,2018-10-15
+com.xvideostudio.videoeditor,動画編集はVideoShow-魔法のビデオエディタ,491,TH,2018-10-15
+com.inc.tbb_vip,3BB,492,TH,2018-10-15
+com.rovio.baba,アングリーバード2(AngryBirds2),493,TH,2018-10-15
+com.linecorp.foodcam.android,Foodie-生活のためのカメラ,494,TH,2018-10-15
+com.counter.terrorism.shoot.ray,対テロ銃撃,495,TH,2018-10-15
+com.prankscreen.brokenscreen.crackedscreen,壊れた画面いたずらPrank,496,TH,2018-10-15
+nu.sound.effect,SoundEffectDJ,497,TH,2018-10-15
+com.emoticon.screen.home.launcher,INLauncher,498,TH,2018-10-15
+com.fruitheroes.legend,FruitBlock-PuzzleLegend,499,TH,2018-10-15
+com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,500,TH,2018-10-15
+music.piano.game.tiles.black.master.magic.vn.tro.choi.amnhac,MagicPianoTilesClassic-RelaxandChallenges,501,TH,2018-10-15
 com.Zonmob.ShadowofDeath.FightingGames,ShadowofDeath:DarkKnight-StickmanFighting,502,TH,2018-10-15
-com.rzerogames.charlie3d,CharlieCharlieChallenge,503,TH,2018-10-15
-com.playrix.homescapes,ホームスケイプ(Homescapes),504,TH,2018-10-15
-com.bandainamcoent.ninjavoltage_app,NARUTOXBORUTONINJAVOLTAGE,505,TH,2018-10-15
-com.rioo.runnersubway,地下鉄プリンセスランナー,506,TH,2018-10-15
-com.emoticon.screen.home.launcher,INLauncher,507,TH,2018-10-15
-com.cocoplay.icewedding,氷のプリンセスウェディングデー,508,TH,2018-10-15
-com.rasugames.msl,MobileSoccerLeague,509,TH,2018-10-15
-com.pantip.android.Pantip.com,Pantip,510,TH,2018-10-15
-com.appon.resorttycoon,ResortTycoon-HotelSimulationGame,511,TH,2018-10-15
-com.blacklionteam.themask.fighting,เกมบุพเพสันนิวาส:เกมแต่งตัวชุดไทยแม่การะเกด,512,TH,2018-10-15
-com.uniqlo.th.catalogue,UNIQLOTH,513,TH,2018-10-15
-tv.twitch.android.app,Twitch,514,TH,2018-10-15
-com.linkdesks.iBubble,パワーバブルシューター,515,TH,2018-10-15
-com.rappidstudios.simulatorbattle,EpicBattleSimulator,516,TH,2018-10-15
-com.bfgames.nineketha,เก้าเกไทย-เซียนออนไลน์,517,TH,2018-10-15
-com.eyesthegame.eyes,ルーンの瞳ーホラーゲーム,518,TH,2018-10-15
-com.rsupport.mobizen.sec,Mobizenスクリーンレコーダー(SAMSUNG端末専用)：無料画面録画・キャプチャ,519,TH,2018-10-15
-com.ucool.heroesarena,ヒーローズ・アリーナ,520,TH,2018-10-15
-com.herogame.gplay.theoutlived,TheOutlived,521,TH,2018-10-15
-com.jaumo,チャット&楽しんでJAUMO,522,TH,2018-10-15
-com.plaeskado.punpop.sso,SSOConnectMobile,523,TH,2018-10-15
-com.bigframes.color_road,ColorRoad!,524,TH,2018-10-15
-iflix.play,iflix,525,TH,2018-10-15
-com.linecorp.LGFARM,LINEブラウンファーム,526,TH,2018-10-15
-com.aboutfun.kidspuzzles,Kids'Puzzles,527,TH,2018-10-15
-com.tbegames.and.tank_world_battle,TankBattleHeroes:WorldofShooting,528,TH,2018-10-15
-com.sinyee.babybus.hero,ベビーパンダの勇敢な仕事,529,TH,2018-10-15
-com.gamedevltd.modernstrike,モダンストライクオンライン:3DＦＰＳシューティング銃撃ゲーム,530,TH,2018-10-15
-net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),531,TH,2018-10-15
-com.microsoft.office.outlook,MicrosoftOutlook,532,TH,2018-10-15
-com.toast.comico.th,comicoการ์ตูนและนิยายออนไลน์,533,TH,2018-10-15
-com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,534,TH,2018-10-15
-com.playappking.ametalsoldiers2,MetalSoldiers2,535,TH,2018-10-15
-com.cherinbo.callrecorder,電話録音アプリ-自動通話レコーダー:CherinboACR,536,TH,2018-10-15
-com.fundevs.app.mediaconverter,VideoMP3Converter,537,TH,2018-10-15
-air.com.spilgames.trollfacequestunlucky,TrollFaceQuestUnlucky,538,TH,2018-10-15
-com.turner.wbb2016,アイスベアのグリルマスター-ぼくらベアベアーズ,539,TH,2018-10-15
-com.ginnypix.kujicam,KujiCam,540,TH,2018-10-15
+com.playrix.homescapes,ホームスケイプ(Homescapes),503,TH,2018-10-15
+com.micube.sushi,寿司ハウス,504,TH,2018-10-15
+com.pantip.android.Pantip.com,Pantip,505,TH,2018-10-15
+com.bandainamcoent.ninjavoltage_app,NARUTOXBORUTONINJAVOLTAGE,506,TH,2018-10-15
+com.bfgames.nineketha,เก้าเกไทย-เซียนออนไลน์,507,TH,2018-10-15
+com.rzerogames.charlie3d,CharlieCharlieChallenge,508,TH,2018-10-15
+tv.twitch.android.app,Twitch,509,TH,2018-10-15
+com.jaumo,チャット&楽しんでJAUMO,510,TH,2018-10-15
+com.rioo.runnersubway,地下鉄プリンセスランナー,511,TH,2018-10-15
+com.rasugames.msl,MobileSoccerLeague,512,TH,2018-10-15
+com.appon.resorttycoon,ResortTycoon-HotelSimulationGame,513,TH,2018-10-15
+com.cocoplay.icewedding,氷のプリンセスウェディングデー,514,TH,2018-10-15
+com.rsupport.mobizen.sec,Mobizenスクリーンレコーダー(SAMSUNG端末専用)：無料画面録画・キャプチャ,515,TH,2018-10-15
+com.blacklionteam.themask.fighting,เกมบุพเพสันนิวาส:เกมแต่งตัวชุดไทยแม่การะเกด,516,TH,2018-10-15
+com.linkdesks.iBubble,パワーバブルシューター,517,TH,2018-10-15
+com.linecorp.LGFARM,LINEブラウンファーム,518,TH,2018-10-15
+com.uniqlo.th.catalogue,UNIQLOTH,519,TH,2018-10-15
+iflix.play,iflix,520,TH,2018-10-15
+com.ucool.heroesarena,ヒーローズ・アリーナ,521,TH,2018-10-15
+com.herogame.gplay.theoutlived,TheOutlived,522,TH,2018-10-15
+com.eyesthegame.eyes,ルーンの瞳ーホラーゲーム,523,TH,2018-10-15
+com.rappidstudios.simulatorbattle,EpicBattleSimulator,524,TH,2018-10-15
+com.gamedevltd.modernstrike,モダンストライクオンライン:3DＦＰＳシューティング銃撃ゲーム,525,TH,2018-10-15
+com.tbegames.and.tank_world_battle,TankBattleHeroes:WorldofShooting,526,TH,2018-10-15
+com.toast.comico.th,comicoการ์ตูนและนิยายออนไลน์,527,TH,2018-10-15
+com.plaeskado.punpop.sso,SSOConnectMobile,528,TH,2018-10-15
+com.bigframes.color_road,ColorRoad!,529,TH,2018-10-15
+com.cherinbo.callrecorder,電話録音アプリ-自動通話レコーダー:CherinboACR,530,TH,2018-10-15
+com.aboutfun.kidspuzzles,Kids'Puzzles,531,TH,2018-10-15
+com.fundevs.app.mediaconverter,VideoMP3Converter,532,TH,2018-10-15
+com.microsoft.office.outlook,MicrosoftOutlook,533,TH,2018-10-15
+all.video.downloader.allvideodownloader,オールビデオダウンローダー2018,534,TH,2018-10-15
+com.sinyee.babybus.hero,ベビーパンダの勇敢な仕事,535,TH,2018-10-15
+com.playappking.ametalsoldiers2,MetalSoldiers2,536,TH,2018-10-15
+com.ginnypix.kujicam,KujiCam,537,TH,2018-10-15
+net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),538,TH,2018-10-15
+com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,539,TH,2018-10-15
+com.google.earth,GoogleEarth,540,TH,2018-10-15
