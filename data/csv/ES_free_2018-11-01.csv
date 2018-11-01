@@ -1,10 +1,10 @@
 app_id,app_name,rank,country_code,date
 games.onebutton.golfbattle,GolfBattle,1,ES,2018-11-01
 com.chollometro,"Chollometro–Chollos,ofertasyjuegosgratis",2,ES,2018-11-01
-com.whatsapp,WhatsAppMessenger,3,ES,2018-11-01
+com.custom.spillit,SpillIt!,3,ES,2018-11-01
 com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,4,ES,2018-11-01
-com.etermax.trivia.preguntados2,トリビアクラック2,5,ES,2018-11-01
-com.custom.spillit,SpillIt!,6,ES,2018-11-01
+com.whatsapp,WhatsAppMessenger,5,ES,2018-11-01
+com.etermax.trivia.preguntados2,トリビアクラック2,6,ES,2018-11-01
 io.voodoo.paper2,Paper.io2,7,ES,2018-11-01
 com.pacybits.fut19draft,PACYBITSFUT19,8,ES,2018-11-01
 com.game5mobile.lineandwater,HappyGlass,9,ES,2018-11-01
@@ -12,530 +12,530 @@ com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,10,ES,2018-11-
 com.testfoni.android,Testfoni,11,ES,2018-11-01
 com.joom,Joom,12,ES,2018-11-01
 com.google.android.apps.youtube.music,YouTubeMusic,13,ES,2018-11-01
-com.facebook.orca,Messenger,14,ES,2018-11-01
+com.netflix.mediaclient,Netflix,14,ES,2018-11-01
 com.h8games.helixjump,HelixJump,15,ES,2018-11-01
-com.netflix.mediaclient,Netflix,16,ES,2018-11-01
+com.facebook.orca,Messenger,16,ES,2018-11-01
 com.zhiliaoapp.musically,TikTok,17,ES,2018-11-01
 com.instagram.android,Instagram,18,ES,2018-11-01
-com.amazon.mShop.android.shopping,Amazonショッピングアプリ,19,ES,2018-11-01
-com.lidl.eci.lidlplus,LidlPlus,20,ES,2018-11-01
+com.lidl.eci.lidlplus,LidlPlus,19,ES,2018-11-01
+com.amazon.mShop.android.shopping,Amazonショッピングアプリ,20,ES,2018-11-01
 com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,21,ES,2018-11-01
 com.wallapop,Wallapop-Buy&SellNearby,22,ES,2018-11-01
 com.riseup.game,RiseUp,23,ES,2018-11-01
-com.rooftop.q12,Q12Trivia,24,ES,2018-11-01
-com.facebook.katana,Facebook,25,ES,2018-11-01
-com.teknasyon.astral_horoscope,AstralCoach,26,ES,2018-11-01
-com.snapchat.android,Snapchat,27,ES,2018-11-01
-com.futureplay.battleground,BattlelandsRoyale,28,ES,2018-11-01
-com.king.candycrush4,キャンディークラッシュフレンズ,29,ES,2018-11-01
-com.playgendary.kickthebuddy,KicktheBuddy,30,ES,2018-11-01
-com.chanel.weather.forecast.accu,天気予報,31,ES,2018-11-01
-com.muba.anuncios,Milanuncios:anunciosgratisparacompraryvender,32,ES,2018-11-01
-me.zepeto.main,ZEPETO,33,ES,2018-11-01
-com.playgendary.sportmasters,Bouncemasters!,34,ES,2018-11-01
-com.glovo,Glovo:deliveryfromanystore,35,ES,2018-11-01
+com.snapchat.android,Snapchat,24,ES,2018-11-01
+com.rooftop.q12,Q12Trivia,25,ES,2018-11-01
+com.futureplay.battleground,BattlelandsRoyale,26,ES,2018-11-01
+com.facebook.katana,Facebook,27,ES,2018-11-01
+com.teknasyon.astral_horoscope,AstralCoach,28,ES,2018-11-01
+com.playgendary.kickthebuddy,KicktheBuddy,29,ES,2018-11-01
+com.glovo,Glovo:deliveryfromanystore,30,ES,2018-11-01
+com.king.candycrush4,キャンディークラッシュフレンズ,31,ES,2018-11-01
+com.playgendary.sportmasters,Bouncemasters!,32,ES,2018-11-01
+com.muba.anuncios,Milanuncios:anunciosgratisparacompraryvender,33,ES,2018-11-01
+me.zepeto.main,ZEPETO,34,ES,2018-11-01
+com.chanel.weather.forecast.accu,天気予報,35,ES,2018-11-01
 com.simejikeyboard,"FacemojiEmojiKeyboard:GIF,Emoji,KeyboardTheme",36,ES,2018-11-01
-com.vova.android,Vova-EnjoyShoppingOnline,37,ES,2018-11-01
-com.fanatee.cody,CodyCross:CrosswordPuzzles,38,ES,2018-11-01
-org.telegram.messenger,Telegram,39,ES,2018-11-01
-com.playgendary.tom,TomboftheMask,40,ES,2018-11-01
+com.playgendary.tom,TomboftheMask,37,ES,2018-11-01
+com.etermax.preguntados.lite,トリビア・クラック,38,ES,2018-11-01
+com.vova.android,Vova-EnjoyShoppingOnline,39,ES,2018-11-01
+com.fanatee.cody,CodyCross:CrosswordPuzzles,40,ES,2018-11-01
 se.foglo.svt,SnipersvsThieves,41,ES,2018-11-01
-com.etermax.preguntados.lite,トリビア・クラック,42,ES,2018-11-01
-es.lacaixa.mobile.android.newwapicon,CaixaBank,43,ES,2018-11-01
-com.microsoft.office.outlook,MicrosoftOutlook,44,ES,2018-11-01
-com.facebook.mlite,MessengerLite:無料通話とメッセージ,45,ES,2018-11-01
-com.mitelelite,Mitele-TValacarta,46,ES,2018-11-01
-com.interactionmobile.msquad,MSquad-Triviaventuras,47,ES,2018-11-01
-com.spacegame.homedesign,マイホーム　デザインドリーム,48,ES,2018-11-01
-com.google.android.play.games,GooglePlayゲーム,49,ES,2018-11-01
-com.google.android.apps.chromecast.app,GoogleHome,50,ES,2018-11-01
-com.supertapx.bigbigballer,BigBigBaller,51,ES,2018-11-01
-io.voodoo.tenkyu,TENKYU-転球,52,ES,2018-11-01
-com.pinterest,Pinterest（ピンタレスト）,53,ES,2018-11-01
-net.infojobs.mobile.android,InfoJobs-TrabajoyEmpleo,54,ES,2018-11-01
-com.groupon,Groupon（グルーポン)毎日見たくなる、お得なクーポンアプリ,55,ES,2018-11-01
-com.superking.parchisi.star,ParchisSTAROnline,56,ES,2018-11-01
-com.kiloo.subwaysurf,SubwaySurfers,57,ES,2018-11-01
+org.telegram.messenger,Telegram,42,ES,2018-11-01
+com.mitelelite,Mitele-TValacarta,43,ES,2018-11-01
+com.facebook.mlite,MessengerLite:無料通話とメッセージ,44,ES,2018-11-01
+es.lacaixa.mobile.android.newwapicon,CaixaBank,45,ES,2018-11-01
+com.microsoft.office.outlook,MicrosoftOutlook,46,ES,2018-11-01
+com.spacegame.homedesign,マイホーム　デザインドリーム,47,ES,2018-11-01
+com.supertapx.bigbigballer,BigBigBaller,48,ES,2018-11-01
+com.interactionmobile.msquad,MSquad-Triviaventuras,49,ES,2018-11-01
+com.google.android.play.games,GooglePlayゲーム,50,ES,2018-11-01
+com.google.android.apps.chromecast.app,GoogleHome,51,ES,2018-11-01
+com.superking.parchisi.star,ParchisSTAROnline,52,ES,2018-11-01
+com.kiloo.subwaysurf,SubwaySurfers,53,ES,2018-11-01
+io.voodoo.tenkyu,TENKYU-転球,54,ES,2018-11-01
+com.pinterest,Pinterest（ピンタレスト）,55,ES,2018-11-01
+net.infojobs.mobile.android,InfoJobs-TrabajoyEmpleo,56,ES,2018-11-01
+com.xiaomi.hm.health,MiFit,57,ES,2018-11-01
 com.google.android.apps.translate,Google翻訳,58,ES,2018-11-01
-com.xiaomi.hm.health,MiFit,59,ES,2018-11-01
-com.bbva.bbvacontigo,BBVAEspaña,60,ES,2018-11-01
-com.alibaba.aliexpresshd,AliExpress-スマートにお買い物して、より良い暮らしを,61,ES,2018-11-01
-com.physics.sim.game.cat,HelloCats,62,ES,2018-11-01
-es.plus.yomvi,MOVISTAR+,63,ES,2018-11-01
-com.eyu.piano,MagicPianoTiles2018-MusicGame,64,ES,2018-11-01
-es.randstad.empleo,RandstadEspaña-Empleo,65,ES,2018-11-01
-com.wordgame.puzzle.board.es,PalabrasCruz,66,ES,2018-11-01
-de.sec.mobile,Lidl-Offers&Leaflets,67,ES,2018-11-01
-com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で色ぬりえ,68,ES,2018-11-01
-com.apptxx.ramp.car.racing,RampCarStunts,69,ES,2018-11-01
-com.zzkko,SHEIN-FashionShoppingOnline,70,ES,2018-11-01
-com.bitstrips.imoji,Bitmoji-アバター絵文字,71,ES,2018-11-01
-com.titan.cda.gb,創造的破壊,72,ES,2018-11-01
-com.dts.freefireth,フリーファイア,73,ES,2018-11-01
-org.videolan.vlc,VLCforAndroid,74,ES,2018-11-01
-com.booking,ホテル予約のブッキングドットコム,75,ES,2018-11-01
+com.groupon,Groupon（グルーポン)毎日見たくなる、お得なクーポンアプリ,59,ES,2018-11-01
+com.apptxx.ramp.car.racing,RampCarStunts,60,ES,2018-11-01
+com.wordgame.puzzle.board.es,PalabrasCruz,61,ES,2018-11-01
+com.alibaba.aliexpresshd,AliExpress-スマートにお買い物して、より良い暮らしを,62,ES,2018-11-01
+com.eyu.piano,MagicPianoTiles2018-MusicGame,63,ES,2018-11-01
+com.physics.sim.game.cat,HelloCats,64,ES,2018-11-01
+es.plus.yomvi,MOVISTAR+,65,ES,2018-11-01
+com.titan.cda.gb,創造的破壊,66,ES,2018-11-01
+com.bitstrips.imoji,Bitmoji-アバター絵文字,67,ES,2018-11-01
+com.bbva.bbvacontigo,BBVAEspaña,68,ES,2018-11-01
+com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で色ぬりえ,69,ES,2018-11-01
+es.randstad.empleo,RandstadEspaña-Empleo,70,ES,2018-11-01
+de.sec.mobile,Lidl-Offers&Leaflets,71,ES,2018-11-01
+com.dts.freefireth,フリーファイア,72,ES,2018-11-01
+org.videolan.vlc,VLCforAndroid,73,ES,2018-11-01
+com.emoticon.screen.home.launcher,INLauncher,74,ES,2018-11-01
+com.zzkko,SHEIN-FashionShoppingOnline,75,ES,2018-11-01
 com.rubygames.slingdrift,SlingDrift,76,ES,2018-11-01
-com.emoticon.screen.home.launcher,INLauncher,77,ES,2018-11-01
-com.bigframes.color_road,ColorRoad!,78,ES,2018-11-01
-com.microsoft.office.word,MicrosoftWord,79,ES,2018-11-01
-com.amazon.avod.thirdpartyclient,Amazonプライム・ビデオ,80,ES,2018-11-01
-com.ubercab,Uber,81,ES,2018-11-01
-com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),82,ES,2018-11-01
-com.wiseplay,Wiseplay,83,ES,2018-11-01
-br.com.tapps.bidwars,BidWars-StorageAuctionsandPawnShopTycoon,84,ES,2018-11-01
-es.burgerking.android,BURGERKING®España,85,ES,2018-11-01
-com.cabify.rider,Cabify,86,ES,2018-11-01
-es.cm.android,Bankia,87,ES,2018-11-01
-com.shazam.android,Shazam,88,ES,2018-11-01
-com.duolingo,Duolingo|英語を無料で学ぼう,89,ES,2018-11-01
-com.movistar.android.mimovistar.es,MiMovistar,90,ES,2018-11-01
-com.twitter.android,Twitter,91,ES,2018-11-01
-com.google.android.apps.docs.editors.docs,Googleドキュメント,92,ES,2018-11-01
-com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,93,ES,2018-11-01
-com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,94,ES,2018-11-01
-com.roblox.client,ROBLOX,95,ES,2018-11-01
-com.hbo.android.app,HBO,96,ES,2018-11-01
-com.adobe.reader,AdobeAcrobatReader,97,ES,2018-11-01
-com.boo.boomoji,Boomoji-Your3DAvatar,98,ES,2018-11-01
-com.differencetenderwhite.skirt,ブロックパズルジュエル,99,ES,2018-11-01
-com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,100,ES,2018-11-01
-me.pou.app,プーチッチPou,101,ES,2018-11-01
-com.themausoft.wpsapp,WPSApp,102,ES,2018-11-01
-com.etec.snake_pixel,SnakePixel,103,ES,2018-11-01
-com.android21buttons,21Buttons,104,ES,2018-11-01
-com.reva.app.pelispluschromecast,PelisPLUSChromecast,105,ES,2018-11-01
-com.caixabankconsumer.mediamarktclubcard,MediaMarktClub,106,ES,2018-11-01
-com.google.android.apps.classroom,GoogleClassroom,107,ES,2018-11-01
-com.amazon.dee.app,AmazonAlexa,108,ES,2018-11-01
-com.king.candycrushsaga,キャンディークラッシュ,109,ES,2018-11-01
-com.playgendary.tanks,TankStars,110,ES,2018-11-01
-tw.mobileapp.qrcode.banner,QRコードリーダー,111,ES,2018-11-01
-com.facebook.lite,FacebookLite,112,ES,2018-11-01
-no.mobitroll.kahoot.android,Kahoot!,113,ES,2018-11-01
-com.justeat.app.es,JustEat-Comidaadomicilio,114,ES,2018-11-01
-com.badoo.mobile,Badoo-無料チャット&デートアプリ,115,ES,2018-11-01
-com.mcdonalds.android,McDonald'sEspaña-Ofertas,116,ES,2018-11-01
-com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,117,ES,2018-11-01
-com.colorswitch.switch2,ColorSwitch,118,ES,2018-11-01
-air.com.hypah.io.slither,slither.io,119,ES,2018-11-01
-com.purehub.mp3player,PureHub-FreeMusicPlayer,120,ES,2018-11-01
-es.bancosantander.apps,Santander,121,ES,2018-11-01
+com.crazylabs.sausage.run,走れ、ソーセージ、走れ！,77,ES,2018-11-01
+es.burgerking.android,BURGERKING®España,78,ES,2018-11-01
+com.ubercab,Uber,79,ES,2018-11-01
+com.booking,ホテル予約のブッキングドットコム,80,ES,2018-11-01
+com.amazon.avod.thirdpartyclient,Amazonプライム・ビデオ,81,ES,2018-11-01
+com.bigframes.color_road,ColorRoad!,82,ES,2018-11-01
+com.cabify.rider,Cabify,83,ES,2018-11-01
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),84,ES,2018-11-01
+com.microsoft.office.word,MicrosoftWord,85,ES,2018-11-01
+com.movistar.android.mimovistar.es,MiMovistar,86,ES,2018-11-01
+com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,87,ES,2018-11-01
+br.com.tapps.bidwars,BidWars-StorageAuctionsandPawnShopTycoon,88,ES,2018-11-01
+com.wiseplay,Wiseplay,89,ES,2018-11-01
+com.shazam.android,Shazam,90,ES,2018-11-01
+com.roblox.client,ROBLOX,91,ES,2018-11-01
+com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,92,ES,2018-11-01
+com.justeat.app.es,JustEat-Comidaadomicilio,93,ES,2018-11-01
+com.duolingo,Duolingo|英語を無料で学ぼう,94,ES,2018-11-01
+com.twitter.android,Twitter,95,ES,2018-11-01
+es.cm.android,Bankia,96,ES,2018-11-01
+com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,97,ES,2018-11-01
+com.differencetenderwhite.skirt,ブロックパズルジュエル,98,ES,2018-11-01
+com.mcdonalds.android,McDonald'sEspaña-Ofertas,99,ES,2018-11-01
+com.hbo.android.app,HBO,100,ES,2018-11-01
+com.google.android.apps.docs.editors.docs,Googleドキュメント,101,ES,2018-11-01
+me.pou.app,プーチッチPou,102,ES,2018-11-01
+com.reva.app.pelispluschromecast,PelisPLUSChromecast,103,ES,2018-11-01
+com.boo.boomoji,Boomoji-Your3DAvatar,104,ES,2018-11-01
+com.playgendary.tanks,TankStars,105,ES,2018-11-01
+com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,106,ES,2018-11-01
+com.amazon.dee.app,AmazonAlexa,107,ES,2018-11-01
+com.adobe.reader,AdobeAcrobatReader,108,ES,2018-11-01
+com.themausoft.wpsapp,WPSApp,109,ES,2018-11-01
+com.king.candycrushsaga,キャンディークラッシュ,110,ES,2018-11-01
+com.facebook.lite,FacebookLite,111,ES,2018-11-01
+com.badoo.mobile,Badoo-無料チャット&デートアプリ,112,ES,2018-11-01
+com.colorswitch.switch2,ColorSwitch,113,ES,2018-11-01
+air.com.hypah.io.slither,slither.io,114,ES,2018-11-01
+tw.mobileapp.qrcode.banner,QRコードリーダー,115,ES,2018-11-01
+com.android21buttons,21Buttons,116,ES,2018-11-01
+com.etec.snake_pixel,SnakePixel,117,ES,2018-11-01
+no.mobitroll.kahoot.android,Kahoot!,118,ES,2018-11-01
+com.google.android.apps.classroom,GoogleClassroom,119,ES,2018-11-01
+com.caixabankconsumer.mediamarktclubcard,MediaMarktClub,120,ES,2018-11-01
+com.pmg.speed,SpeedBall,121,ES,2018-11-01
 net.zedge.android,ZEDGE™着信音&壁紙,122,ES,2018-11-01
-com.hm.goe,H&M,123,ES,2018-11-01
-game.bubble.shooter.dragon.pop,バブルシューティング,124,ES,2018-11-01
-com.privalia.privalia,Privalia-Outletdemodaconofertasdehasta70%,125,ES,2018-11-01
+game.bubble.shooter.dragon.pop,バブルシューティング,123,ES,2018-11-01
+com.duapps.recorder,DURecorder–画面レコーダーおよびビデオエディター,124,ES,2018-11-01
+net.rention.mind.skillz,Skillz-LogicBrainGames,125,ES,2018-11-01
 com.playrix.homescapes,ホームスケイプ(Homescapes),126,ES,2018-11-01
-com.duapps.recorder,DURecorder–画面レコーダーおよびビデオエディター,127,ES,2018-11-01
-net.rention.mind.skillz,Skillz-LogicBrainGames,128,ES,2018-11-01
-com.pmg.speed,SpeedBall,129,ES,2018-11-01
-com.LoopGames.Domino,ドミノ,130,ES,2018-11-01
-coches.net,Coches.net-CompraventadeCochesdeOcasión,131,ES,2018-11-01
-com.waze,Waze-GPS、地図、渋滞情報、カーナビ,132,ES,2018-11-01
-com.ivoox.app,Podcast&RadioiVoox,133,ES,2018-11-01
+com.supertapx.lovedots,LoveBalls,127,ES,2018-11-01
+com.purehub.mp3player,PureHub-FreeMusicPlayer,128,ES,2018-11-01
+com.privalia.privalia,Privalia-Outletdemodaconofertasdehasta70%,129,ES,2018-11-01
+com.waze,Waze-GPS、地図、渋滞情報、カーナビ,130,ES,2018-11-01
+es.bancosantander.apps,Santander,131,ES,2018-11-01
+com.halloween.halloweenmakeup.halloweenmakeup,HalloweenPhotoEditor-ScaryMask,132,ES,2018-11-01
+com.LoopGames.Domino,ドミノ,133,ES,2018-11-01
 aup.baixar.musicas.gratis,AUPDownloadfreebrowser,134,ES,2018-11-01
-com.crazylabs.sausage.run,走れ、ソーセージ、走れ！,135,ES,2018-11-01
-com.supertapx.lovedots,LoveBalls,136,ES,2018-11-01
-com.anuntis.fotocasa,"Fotocasa-Alquiler,comprayventadeinmuebles",137,ES,2018-11-01
-com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,138,ES,2018-11-01
-com.microblink.photomath,Photomath,139,ES,2018-11-01
-com.pic.photoeditor,PhotoEditor-PhotoEffects&Filter&Sticker,140,ES,2018-11-01
-de.autodoc.gmbh,Autodoc—HighQualityAutoPartsatLowPrices,141,ES,2018-11-01
-com.cmplay.bricksnballs,ブリックツムツム,142,ES,2018-11-01
-com.makamakamaka.freemusicpalyer.video,MakaMusic-FreeMusicPlayerforYouTube,143,ES,2018-11-01
-com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),144,ES,2018-11-01
-de.zalando.mobile,Zalando–Shopping&Fashion,145,ES,2018-11-01
+com.ivoox.app,Podcast&RadioiVoox,135,ES,2018-11-01
+coches.net,Coches.net-CompraventadeCochesdeOcasión,136,ES,2018-11-01
+com.hm.goe,H&M,137,ES,2018-11-01
+com.kids.moon.games.happychicken.eggs,ハッピーチキンレイ卵ゲーピンクの豚のお気に入りのゲーム,138,ES,2018-11-01
+com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),139,ES,2018-11-01
+com.anuntis.fotocasa,"Fotocasa-Alquiler,comprayventadeinmuebles",140,ES,2018-11-01
+com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,141,ES,2018-11-01
+com.pic.photoeditor,PhotoEditor-PhotoEffects&Filter&Sticker,142,ES,2018-11-01
+com.cmplay.bricksnballs,ブリックツムツム,143,ES,2018-11-01
+tv.peel.app,PeelSmartRemort,144,ES,2018-11-01
+de.autodoc.gmbh,Autodoc—HighQualityAutoPartsatLowPrices,145,ES,2018-11-01
 com.miniclip.eightballpool,8BallPool,146,ES,2018-11-01
-aplicacion.tiempo,Weather14Days,147,ES,2018-11-01
-com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),148,ES,2018-11-01
-com.masomo.headball2,HeadBall2,149,ES,2018-11-01
-com.tranzmate,ムービット(Moovit):リアルタイムの交通時刻プランナー,150,ES,2018-11-01
-com.rockstargames.rdr2app,RDR2:Companion,151,ES,2018-11-01
-com.vialsoft.radarbot_free,Radarbot無料版:スピードカメラ検知&速度計,152,ES,2018-11-01
-com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,153,ES,2018-11-01
-com.orange.miorange,MiOrange,154,ES,2018-11-01
-com.tinder,Tinder®,155,ES,2018-11-01
-com.tencent.ig,PUBGMOBILE,156,ES,2018-11-01
-com.classdojo.android,ClassDojo,157,ES,2018-11-01
-tv.peel.app,PeelSmartRemort,158,ES,2018-11-01
-com.google.android.projection.gearhead,AndroidAuto-マップ、メディア、メッセージ、音声操作,159,ES,2018-11-01
-com.ea.gp.fifamobile,FIFAサッカー,160,ES,2018-11-01
-com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,161,ES,2018-11-01
-com.skype.raider,﻿Skype-無料のチャットとビデオ通話,162,ES,2018-11-01
-com.foranj.monsterfarm,モンスターファーム:おばけの村でハッピーハロウィン,163,ES,2018-11-01
-com.kids.moon.games.happychicken.eggs,ハッピーチキンレイ卵ゲーピンクの豚のお気に入りのゲーム,164,ES,2018-11-01
-com.supergame.ultrasharp.cutitdown,CutIt:BrainPuzzles,165,ES,2018-11-01
-offline.music.songs.free.music.player,FreeMusic-オン/オフライン音楽プレーヤー,166,ES,2018-11-01
-com.spilgames.OperateNow2,OperateNow:Hospital,167,ES,2018-11-01
-com.oneapp.max.cleaner.booster,無料クリーナー、アンチウイルス&キャッシュ削除-MAXCleaner,168,ES,2018-11-01
-com.turbochilli.rollingsky,ローリング・スカイ,169,ES,2018-11-01
-com.nexon.devcat.marvelbattlelines,MARVELBattleLines,170,ES,2018-11-01
-de.mdiener.rain.usa,雨アラーム,171,ES,2018-11-01
-air.com.spilgames.TrollFaceQuestHorror,TrollFaceQuestHorror,172,ES,2018-11-01
-com.atpc,ユーチューブ音楽ダウンロード無料YouTube,173,ES,2018-11-01
-com.nianticlabs.pokemongo,PokémonGO,174,ES,2018-11-01
-com.google.earth,GoogleEarth,175,ES,2018-11-01
-taxi.android.client,mytaxi–Bookfast&securetaxiswithatap,176,ES,2018-11-01
-com.mobimore.coloryourcall,カラーコール,177,ES,2018-11-01
+com.google.android.projection.gearhead,AndroidAuto-マップ、メディア、メッセージ、音声操作,147,ES,2018-11-01
+com.masomo.headball2,HeadBall2,148,ES,2018-11-01
+com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),149,ES,2018-11-01
+com.tencent.ig,PUBGMOBILE,150,ES,2018-11-01
+com.makamakamaka.freemusicpalyer.video,MakaMusic-FreeMusicPlayerforYouTube,151,ES,2018-11-01
+com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,152,ES,2018-11-01
+com.ea.gp.fifamobile,FIFAサッカー,153,ES,2018-11-01
+com.tranzmate,ムービット(Moovit):リアルタイムの交通時刻プランナー,154,ES,2018-11-01
+com.orange.miorange,MiOrange,155,ES,2018-11-01
+de.zalando.mobile,Zalando–Shopping&Fashion,156,ES,2018-11-01
+air.com.spilgames.TrollFaceQuestHorror,TrollFaceQuestHorror,157,ES,2018-11-01
+com.microblink.photomath,Photomath,158,ES,2018-11-01
+com.tinder,Tinder®,159,ES,2018-11-01
+com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,160,ES,2018-11-01
+com.turbochilli.rollingsky,ローリング・スカイ,161,ES,2018-11-01
+com.vialsoft.radarbot_free,Radarbot無料版:スピードカメラ検知&速度計,162,ES,2018-11-01
+com.classdojo.android,ClassDojo,163,ES,2018-11-01
+taxi.android.client,mytaxi–Bookfast&securetaxiswithatap,164,ES,2018-11-01
+aplicacion.tiempo,Weather14Days,165,ES,2018-11-01
+com.rockstargames.rdr2app,RDR2:Companion,166,ES,2018-11-01
+com.foranj.monsterfarm,モンスターファーム:おばけの村でハッピーハロウィン,167,ES,2018-11-01
+offline.music.songs.free.music.player,FreeMusic-オン/オフライン音楽プレーヤー,168,ES,2018-11-01
+com.skype.raider,﻿Skype-無料のチャットとビデオ通話,169,ES,2018-11-01
+com.supergame.ultrasharp.cutitdown,CutIt:BrainPuzzles,170,ES,2018-11-01
+com.spilgames.OperateNow2,OperateNow:Hospital,171,ES,2018-11-01
+com.nianticlabs.pokemongo,PokémonGO,172,ES,2018-11-01
+de.mdiener.rain.usa,雨アラーム,173,ES,2018-11-01
+com.gestmusic.ot2017,OT2018,174,ES,2018-11-01
+com.atpc,ユーチューブ音楽ダウンロード無料YouTube,175,ES,2018-11-01
+com.google.earth,GoogleEarth,176,ES,2018-11-01
+com.jetstartgames.chess,チェス,177,ES,2018-11-01
 kr.co.manhole.hujicam,HujiCam,178,ES,2018-11-01
-citamovil.saludresponde,SaludResponde,179,ES,2018-11-01
-com.ryanair.cheapflights,Ryanair-CheapestFares,180,ES,2018-11-01
-com.linkedin.android,LinkedIn,181,ES,2018-11-01
-com.jetstartgames.chess,チェス,182,ES,2018-11-01
-com.intsig.camscanner,CamScannerスキャンPDF作成,183,ES,2018-11-01
-com.gpower.pixelart,PixelArt-数字で色ぬり絵本,184,ES,2018-11-01
-es.eltiempo.weatherapp,Eltiempo.es,185,ES,2018-11-01
-com.microsoft.office.excel,MicrosoftExcel,186,ES,2018-11-01
-com.codeseed.labs.pencildrawing,PencilDrawingArt,187,ES,2018-11-01
-es.aemet,EltiempodeAEMET,188,ES,2018-11-01
-com.slot.maquina.bar.tragaperras.fbi.academy,FBIAcademy–MáquinaTragaperrasBar,189,ES,2018-11-01
-com.xmonetize.quizzland,Triviaonly.Freequizgame:QuizzLand,190,ES,2018-11-01
-com.Laxarus.TigerBall,Tigerball,191,ES,2018-11-01
-com.noxgroup.app.cleaner,NoxCleaner-キャッシュ除去・動作快適化・メモリーのクリーンアップやスマートな画像管理,192,ES,2018-11-01
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,193,ES,2018-11-01
-net.lovoo.android,LOVOO-LiveVideoChat,194,ES,2018-11-01
-com.ansangha.drparking4,駐車の達人4,195,ES,2018-11-01
-app.alpify,LocalizadorGPSfamiliarydepersonaspormóvil,196,ES,2018-11-01
-com.video.master,動画編集機能、動画のクロップ、映画ビデオ、音楽、エフェクト,197,ES,2018-11-01
-com.pixel.coloring.color.by.number,Pixel.ly3D,198,ES,2018-11-01
-com.paypal.android.p2pmobile,PayPal,199,ES,2018-11-01
-com.comuto,"BlaBlaCar,TrustedCarpooling",200,ES,2018-11-01
-com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,201,ES,2018-11-01
-com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,202,ES,2018-11-01
-com.microsoft.office.powerpoint,MicrosoftPowerPoint,203,ES,2018-11-01
-com.firsttouchgames.story,Score!Hero,204,ES,2018-11-01
-net.peakgames.amy,ToyBlast,205,ES,2018-11-01
-com.idealista.android,idealista,206,ES,2018-11-01
-tv.twitch.android.app,Twitch,207,ES,2018-11-01
-com.period.tracker.menstrual.cycle.cherry,PeriodCalendarCherry-TrackMenstrualCycle,208,ES,2018-11-01
-es.mediaset.gh14,GHVIP,209,ES,2018-11-01
-com.romwe,ROMWE-Women'sFashion,210,ES,2018-11-01
-com.azarlive.android,Azar-ビデオチャット、友達検索,211,ES,2018-11-01
-com.axlebolt.standoff2,Standoff2,212,ES,2018-11-01
-peliculas.gratis.online,PelículasenEspañolCompletas,213,ES,2018-11-01
-com.yazio.android,YAZIOカロリー計算、ダイエットサポートアプリ無料人気,214,ES,2018-11-01
-com.puzzlegame.puzzledom,Puzzledomパズルダムシンプルで頭が良くなるパズル,215,ES,2018-11-01
-es.mediamarkt.app,MediaMarkt,216,ES,2018-11-01
-com.dotc.latin.ime.tap,FlashKeyboardEmoji,217,ES,2018-11-01
-com.cookieapp.canalestvtdtespana,TVTDTEspaña,218,ES,2018-11-01
-org.acestream.media,AceStreamMedia,219,ES,2018-11-01
-com.pchansoft.gsv.tdt,TVGratisentumovil,220,ES,2018-11-01
-com.jobtoday.app,"JOBTODAY:FindJobs,BuildaCareer&HireStaff",221,ES,2018-11-01
-com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,222,ES,2018-11-01
-com.goeuro.rosie,"GoEuro:Trains,buses,flights",223,ES,2018-11-01
-com.color.call.flash.colorphone,PhoneColorScreen-ColorfulCallFlashThemes,224,ES,2018-11-01
+com.nexon.devcat.marvelbattlelines,MARVELBattleLines,179,ES,2018-11-01
+com.Laxarus.TigerBall,Tigerball,180,ES,2018-11-01
+com.mobimore.coloryourcall,カラーコール,181,ES,2018-11-01
+com.oneapp.max.cleaner.booster,無料クリーナー、アンチウイルス&キャッシュ削除-MAXCleaner,182,ES,2018-11-01
+com.ryanair.cheapflights,Ryanair-CheapestFares,183,ES,2018-11-01
+com.pixel.coloring.color.by.number,Pixel.ly3D,184,ES,2018-11-01
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,185,ES,2018-11-01
+com.ansangha.drparking4,駐車の達人4,186,ES,2018-11-01
+com.xmonetize.quizzland,Triviaonly.Freequizgame:QuizzLand,187,ES,2018-11-01
+com.cookieapp.canalestvtdtespana,TVTDTEspaña,188,ES,2018-11-01
+com.linkedin.android,LinkedIn,189,ES,2018-11-01
+net.lovoo.android,LOVOO-LiveVideoChat,190,ES,2018-11-01
+com.slot.maquina.bar.tragaperras.fbi.academy,FBIAcademy–MáquinaTragaperrasBar,191,ES,2018-11-01
+es.eltiempo.weatherapp,Eltiempo.es,192,ES,2018-11-01
+com.intsig.camscanner,CamScannerスキャンPDF作成,193,ES,2018-11-01
+com.firsttouchgames.story,Score!Hero,194,ES,2018-11-01
+com.microsoft.office.excel,MicrosoftExcel,195,ES,2018-11-01
+com.pchansoft.gsv.tdt,TVGratisentumovil,196,ES,2018-11-01
+com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,197,ES,2018-11-01
+citamovil.saludresponde,SaludResponde,198,ES,2018-11-01
+com.codeseed.labs.pencildrawing,PencilDrawingArt,199,ES,2018-11-01
+net.peakgames.amy,ToyBlast,200,ES,2018-11-01
+com.video.master,動画編集機能、動画のクロップ、映画ビデオ、音楽、エフェクト,201,ES,2018-11-01
+com.puzzlegame.puzzledom,Puzzledomパズルダムシンプルで頭が良くなるパズル,202,ES,2018-11-01
+es.aemet,EltiempodeAEMET,203,ES,2018-11-01
+com.azarlive.android,Azar-ビデオチャット、友達検索,204,ES,2018-11-01
+com.axlebolt.standoff2,Standoff2,205,ES,2018-11-01
+com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,206,ES,2018-11-01
+app.alpify,LocalizadorGPSfamiliarydepersonaspormóvil,207,ES,2018-11-01
+com.paypal.android.p2pmobile,PayPal,208,ES,2018-11-01
+peliculas.gratis.online,PelículasenEspañolCompletas,209,ES,2018-11-01
+com.comuto,"BlaBlaCar,TrustedCarpooling",210,ES,2018-11-01
+com.period.tracker.menstrual.cycle.cherry,PeriodCalendarCherry-TrackMenstrualCycle,211,ES,2018-11-01
+com.noxgroup.app.cleaner,NoxCleaner-キャッシュ除去・動作快適化・メモリーのクリーンアップやスマートな画像管理,212,ES,2018-11-01
+com.nordcurrent.sniperarena,SniperArena:PvPArmyShooter,213,ES,2018-11-01
+tv.twitch.android.app,Twitch,214,ES,2018-11-01
+com.romwe,ROMWE-Women'sFashion,215,ES,2018-11-01
+com.yazio.android,YAZIOカロリー計算、ダイエットサポートアプリ無料人気,216,ES,2018-11-01
+com.idealista.android,idealista,217,ES,2018-11-01
+com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,218,ES,2018-11-01
+com.microsoft.office.powerpoint,MicrosoftPowerPoint,219,ES,2018-11-01
+com.europosit.pixelcoloring,PixelArt:数字で塗り絵スケッチブック,220,ES,2018-11-01
+es.mediaset.gh14,GHVIP,221,ES,2018-11-01
+com.easybrain.sudoku.android,ナンプレ,222,ES,2018-11-01
+game.puzzle.blockpuzzle,BlockPuzzle,223,ES,2018-11-01
+com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,224,ES,2018-11-01
 com.sinyee.babybus.tailor,ベビーパンダのファッションドレスアップゲーム,225,ES,2018-11-01
-com.easybrain.sudoku.android,ナンプレ,226,ES,2018-11-01
-net.inverline.bancosabadell.officelocator.android,AppBancoSabadell.Tubancamóvil,227,ES,2018-11-01
-com.google.android.apps.photos,Googleフォト,228,ES,2018-11-01
-com.nordcurrent.sniperarena,SniperArena:PvPArmyShooter,229,ES,2018-11-01
-com.llollo.bipi,Bipi-Suscripciónacoches,230,ES,2018-11-01
-com.contextlogic.geek,Geek-スマートなショッピングを始めよう,231,ES,2018-11-01
-com.europosit.pixelcoloring,PixelArt:数字で塗り絵スケッチブック,232,ES,2018-11-01
-com.apple.qrcode.reader,QRコードリーダー&バーコードスキャナ,233,ES,2018-11-01
-de.smuttlewerk.fleetbattle,シーバトルゲーム-バトルシップ-レーダー作戦ゲーム,234,ES,2018-11-01
-net.peakgames.toonblast,ToonBlast,235,ES,2018-11-01
-game.puzzle.blockpuzzle,BlockPuzzle,236,ES,2018-11-01
-com.agminstruments.drumpadmachine,DrumPadMachine-ビートメーカー,237,ES,2018-11-01
-photo.editor.photoeditor.photoeditorpro,写真編集Pro,238,ES,2018-11-01
-com.miniclip.bowmasters,Bowmasters,239,ES,2018-11-01
-com.dropbox.android,Dropbox,240,ES,2018-11-01
+net.peakgames.toonblast,ToonBlast,226,ES,2018-11-01
+de.smuttlewerk.fleetbattle,シーバトルゲーム-バトルシップ-レーダー作戦ゲーム,227,ES,2018-11-01
+org.acestream.media,AceStreamMedia,228,ES,2018-11-01
+com.miniclip.bowmasters,Bowmasters,229,ES,2018-11-01
+com.billiards.city.pool.nation.club,ビリヤードシティ,230,ES,2018-11-01
+com.color.call.flash.colorphone,PhoneColorScreen-ColorfulCallFlashThemes,231,ES,2018-11-01
+com.goeuro.rosie,"GoEuro:Trains,buses,flights",232,ES,2018-11-01
+com.jobtoday.app,"JOBTODAY:FindJobs,BuildaCareer&HireStaff",233,ES,2018-11-01
+com.agminstruments.drumpadmachine,DrumPadMachine-ビートメーカー,234,ES,2018-11-01
+com.joyjourney.PianoWhiteGo,🎵ピアノホワイトゴー!™~ピアノゲームタイル🎵,235,ES,2018-11-01
+com.apple.qrcode.reader,QRコードリーダー&バーコードスキャナ,236,ES,2018-11-01
+photo.editor.photoeditor.photoeditorpro,写真編集Pro,237,ES,2018-11-01
+com.surpax.ledflashlight.panel,懐中電灯-ledライト,238,ES,2018-11-01
+com.google.android.apps.youtube.kids,YouTubeKids,239,ES,2018-11-01
+com.google.android.apps.photos,Googleフォト,240,ES,2018-11-01
 com.google.android.contacts,連絡帳,241,ES,2018-11-01
-com.indeed.android.jobsearch,Indeed求人検索-正社員の転職・学生バイト・パート・派遣・新卒就活　全部まとめて仕事探し,242,ES,2018-11-01
-com.discord,Discord-ゲーマー向けチャットシステム,243,ES,2018-11-01
-com.amazon.mp3,AmazonMusic,244,ES,2018-11-01
-com.block1010.shoot2048.free,ShootnMerge-reinventionoftheclassicpuzzle,245,ES,2018-11-01
-com.joyjourney.PianoWhiteGo,🎵ピアノホワイトゴー!™~ピアノゲームタイル🎵,246,ES,2018-11-01
-com.orange.es.orangetv,OrangeTV,247,ES,2018-11-01
-com.billiards.city.pool.nation.club,ビリヤードシティ,248,ES,2018-11-01
+com.contextlogic.geek,Geek-スマートなショッピングを始めよう,242,ES,2018-11-01
+com.dotc.latin.ime.tap,FlashKeyboardEmoji,243,ES,2018-11-01
+es.mediamarkt.app,MediaMarkt,244,ES,2018-11-01
+com.discord,Discord-ゲーマー向けチャットシステム,245,ES,2018-11-01
+net.inverline.bancosabadell.officelocator.android,AppBancoSabadell.Tubancamóvil,246,ES,2018-11-01
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,247,ES,2018-11-01
+com.camera.beautycam,ビューティーカメラ-自撮り編集,248,ES,2018-11-01
 com.dvloper.granny,Granny,249,ES,2018-11-01
-es.lfp.laligatv,LaLigaTV-OfficialsoccerchannelinHD,250,ES,2018-11-01
-com.inditex.zara,Zara,251,ES,2018-11-01
-es.aeat.pin24h,Cl@vePIN,252,ES,2018-11-01
-com.surpax.ledflashlight.panel,懐中電灯-ledライト,253,ES,2018-11-01
-es.lacaixa.hceicon2,CaixaBankPay:Pagospormóvil,254,ES,2018-11-01
-com.gmail.bulupe.Scale,Scale,255,ES,2018-11-01
-com.apalon.weatherradar.free,天気予報＆気象レーダー,256,ES,2018-11-01
-com.wordcross.plus.puzzle.es,ViajeDePalabra,257,ES,2018-11-01
-com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,258,ES,2018-11-01
-com.funcamerastudio.videomaker,VideoMaker—動画編集＆動画作成＆動画加工&音楽&魔法のビデオエディタ,259,ES,2018-11-01
-com.neonplay.casualsoccerkickandroid,SoccerKick,260,ES,2018-11-01
-com.nintendo.zara,SuperMarioRun,261,ES,2018-11-01
-balls.arcademaker.bricks.breaker.brounce.ballz.puzzle,BallsBricksBreaker2-PuzzleChallenge,262,ES,2018-11-01
-com.airbnb.android,Airbnb(エアビーアンドビー)世界の空部屋シェアサイト,263,ES,2018-11-01
-com.ebay.mobile,"Fashion&TechDeals-Shop,Sell&SavewitheBay",264,ES,2018-11-01
-com.google.android.apps.youtube.kids,YouTubeKids,265,ES,2018-11-01
-com.mobirix.throwball,ヒット＆ノックダウン,266,ES,2018-11-01
-com.a3.sgt,Atresplayer,267,ES,2018-11-01
-paint.by.number.pixel.art.coloring.drawing.puzzle,PaintByNumber-無料な塗り絵とパズルゲーム,268,ES,2018-11-01
-com.dramaton.slime,SuperSlimeSimulator-SatisfyingSlimeApp,269,ES,2018-11-01
-com.YovoGames.dentist,子供の医者：歯科医,270,ES,2018-11-01
-com.alegrium.cong2,"Cash,Inc.マネー・タップゲーム&ビジネスアドベンチャー",271,ES,2018-11-01
-com.canva.editor,Canva-無料の写真加工とグラフィックデザインツール,272,ES,2018-11-01
-com.gta.real.gangster.crime,RealGangsterCrime,273,ES,2018-11-01
-com.instasweet.retrocamera,InstaSweetRetro-VintagePhotosFilterCamera,274,ES,2018-11-01
-com.lemonmusicch.free,FreeMusicforYoutubePlayer-LemonTunes,275,ES,2018-11-01
-org.mozilla.firefox,Firefoxブラウザー高速&プライベート,276,ES,2018-11-01
-com.lionmobi.powerclean,PowerClean-最適化クリーナー,277,ES,2018-11-01
-com.gamma.scan,QR・バーコードスキャナー,278,ES,2018-11-01
-com.matchington.mansion,マッチングトン·マンション,279,ES,2018-11-01
-com.aim.racing,ExtremeCarDrivingSimulator,280,ES,2018-11-01
-multi.function.scientific.calculate.photomath.calculator,CalculatorPlus,281,ES,2018-11-01
-com.camera.beautycam,ビューティーカメラ-自撮り編集,282,ES,2018-11-01
-com.Sequin.Flip.Live.Wallpaper.App,スパンコールキラキラライブ壁紙,283,ES,2018-11-01
-com.pubgmafia.gtacrime.stickman.crimegangster,GrandStickManVegasMafiaCrimeFightToSurvive,284,ES,2018-11-01
-com.limebike,Lime-YourRideAnytime,285,ES,2018-11-01
+com.amazon.mp3,AmazonMusic,250,ES,2018-11-01
+com.gmail.bulupe.Scale,Scale,251,ES,2018-11-01
+com.dropbox.android,Dropbox,252,ES,2018-11-01
+com.indeed.android.jobsearch,Indeed求人検索-正社員の転職・学生バイト・パート・派遣・新卒就活　全部まとめて仕事探し,253,ES,2018-11-01
+com.dramaton.slime,SuperSlimeSimulator-SatisfyingSlimeApp,254,ES,2018-11-01
+com.orange.es.orangetv,OrangeTV,255,ES,2018-11-01
+com.llollo.bipi,Bipi-Suscripciónacoches,256,ES,2018-11-01
+com.telepizza,TelepizzaComidaaDomicilio,257,ES,2018-11-01
+com.YovoGames.dentist,子供の医者：歯科医,258,ES,2018-11-01
+com.nintendo.zara,SuperMarioRun,259,ES,2018-11-01
+es.lacaixa.hceicon2,CaixaBankPay:Pagospormóvil,260,ES,2018-11-01
+com.block1010.shoot2048.free,ShootnMerge-reinventionoftheclassicpuzzle,261,ES,2018-11-01
+com.mobirix.throwball,ヒット＆ノックダウン,262,ES,2018-11-01
+com.Sequin.Flip.Live.Wallpaper.App,スパンコールキラキラライブ壁紙,263,ES,2018-11-01
+es.lfp.laligatv,LaLigaTV-OfficialsoccerchannelinHD,264,ES,2018-11-01
+paint.by.number.pixel.art.coloring.drawing.puzzle,PaintByNumber-無料な塗り絵とパズルゲーム,265,ES,2018-11-01
+com.gta.real.gangster.crime,RealGangsterCrime,266,ES,2018-11-01
+com.inditex.zara,Zara,267,ES,2018-11-01
+com.neonplay.casualsoccerkickandroid,SoccerKick,268,ES,2018-11-01
+balls.arcademaker.bricks.breaker.brounce.ballz.puzzle,BallsBricksBreaker2-PuzzleChallenge,269,ES,2018-11-01
+com.apalon.weatherradar.free,天気予報＆気象レーダー,270,ES,2018-11-01
+com.freegame.mergeall,MergeAll,271,ES,2018-11-01
+com.playstation.knowledge,KnowledgeisPower,272,ES,2018-11-01
+com.funcamerastudio.videomaker,VideoMaker—動画編集＆動画作成＆動画加工&音楽&魔法のビデオエディタ,273,ES,2018-11-01
+com.ebay.mobile,"Fashion&TechDeals-Shop,Sell&SavewitheBay",274,ES,2018-11-01
+com.wordcross.plus.puzzle.es,ViajeDePalabra,275,ES,2018-11-01
+com.a3.sgt,Atresplayer,276,ES,2018-11-01
+es.aeat.pin24h,Cl@vePIN,277,ES,2018-11-01
+com.airbnb.android,Airbnb(エアビーアンドビー)世界の空部屋シェアサイト,278,ES,2018-11-01
+com.aim.racing,ExtremeCarDrivingSimulator,279,ES,2018-11-01
+com.alegrium.cong2,"Cash,Inc.マネー・タップゲーム&ビジネスアドベンチャー",280,ES,2018-11-01
+com.ubercab.eats,UberEats:地元で人気の料理をお届け,281,ES,2018-11-01
+com.instasweet.retrocamera,InstaSweetRetro-VintagePhotosFilterCamera,282,ES,2018-11-01
+puzzle.wood.block.cube.music.box,木製ブロック-オルゴール,283,ES,2018-11-01
+com.lemonmusicch.free,FreeMusicforYoutubePlayer-LemonTunes,284,ES,2018-11-01
+com.mobirix.airhockey,エアホッケーチャレンジ,285,ES,2018-11-01
 com.ohmgames.paperplane,PaperPlanePlanet,286,ES,2018-11-01
-com.halloween.halloweenmakeup.halloweenmakeup,HalloweenPhotoEditor-ScaryMask,287,ES,2018-11-01
-com.justteamup.matchapp,Matchapp,288,ES,2018-11-01
-org.madrid.citasanitaria,CitaSanitariaMadrid,289,ES,2018-11-01
-com.gestmusic.ot2017,OT2018,290,ES,2018-11-01
-puzzle.wood.block.cube.music.box,木製ブロック-オルゴール,291,ES,2018-11-01
-juntadeandalucia.ced.pasen,iPasen,292,ES,2018-11-01
-com.cleanmaster.mguard,CleanMasterー無料アンチウイルスとRAMクリーナー,293,ES,2018-11-01
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),294,ES,2018-11-01
-com.garbagetruck.city.trash.cleaningsimulator,GarbageTruck-CityTrashCleaningSimulator,295,ES,2018-11-01
-mobi.androapp.listaswiseplay.c9094,ListasWiseplay📺100%aldía,296,ES,2018-11-01
-com.ea.gp.simsmobile,TheSims シムズ ポケット,297,ES,2018-11-01
-com.sec.android.app.shealth,SHealth,298,ES,2018-11-01
-com.sec.android.easyMover,GalaxySmartSwitchMobile,299,ES,2018-11-01
-com.fintonic,Fintonic-FinanzasPersonales,300,ES,2018-11-01
-com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,301,ES,2018-11-01
-com.mobirix.airhockey,エアホッケーチャレンジ,302,ES,2018-11-01
-com.appcraft.unicorn,UNICORN-大人向け塗り絵本,303,ES,2018-11-01
-in.loop.hdmakeover,ホームデザインメイクオーバー,304,ES,2018-11-01
-com.quarzo.crosswords,Crosswords-Spanishversion(Crucigramas),305,ES,2018-11-01
-rtve.tablet.android,RTVEalacarta,306,ES,2018-11-01
-com.orange.bluu.jazztel,Jazztel,307,ES,2018-11-01
-com.google.android.apps.googleassistant,Googleアシスタント,308,ES,2018-11-01
-es.dia,ClubDIA:cuponesdeahorroyfolletosdeoferta,309,ES,2018-11-01
-com.amazon.kindle,Kindle電子書籍リーダー:人気小説や無料漫画、雑誌も多数,310,ES,2018-11-01
-com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,311,ES,2018-11-01
-com.freegame.mergeall,MergeAll,312,ES,2018-11-01
-com.lafourchette.lafourchette,TheFork-Restaurantsbookingandspecialoffers,313,ES,2018-11-01
-com.ubercab.eats,UberEats:地元で人気の料理をお届け,314,ES,2018-11-01
-com.rarlab.rar,RAR,315,ES,2018-11-01
-com.munrodev.crfmobile,"MiCarrefour:Cupones,Ahorro,Tiendas&Compra",316,ES,2018-11-01
-com.officetool.pdfreader2018.pdfviewer,PDFReader–PDFViewer2019,317,ES,2018-11-01
-man.fit.workout.routine.muscle.training,"ManFIT–MusclebuildingExercise,HomeWorkout",318,ES,2018-11-01
-com.mediapro.beinsports,beINCONNECTEspaña,319,ES,2018-11-01
-com.treemengames.pakoforever,PAKOForever,320,ES,2018-11-01
-de.kamibox.bacon,Bacon–TheGame,321,ES,2018-11-01
-com.gismart.realpianofree,ピアノ-ぴあの鍵盤リアル曲げーむ,322,ES,2018-11-01
-com.playstation.knowledge,KnowledgeisPower,323,ES,2018-11-01
-com.lemon.faceu.oversea,FaceU-あなたの美を引き出す,324,ES,2018-11-01
-com.lionmobi.battery,PowerBattery-節電、快速充電、電池計測&最適化,325,ES,2018-11-01
-com.yoigo.miyoigo,MiYoigo,326,ES,2018-11-01
-com.pdf.viewer.pdftool.reader.document,Android用のPDFReader,327,ES,2018-11-01
-com.firsttouchgames.dls3,DreamLeagueSoccer2018,328,ES,2018-11-01
-air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,329,ES,2018-11-01
-com.rero.ringotone,Ringotones,330,ES,2018-11-01
-com.magisto,Magisto-動画編集・作成アプリ,331,ES,2018-11-01
+rtve.tablet.android,RTVEalacarta,287,ES,2018-11-01
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),288,ES,2018-11-01
+com.canva.editor,Canva-無料の写真加工とグラフィックデザインツール,289,ES,2018-11-01
+org.mozilla.firefox,Firefoxブラウザー高速&プライベート,290,ES,2018-11-01
+com.lionmobi.powerclean,PowerClean-最適化クリーナー,291,ES,2018-11-01
+com.ea.gp.simsmobile,TheSims シムズ ポケット,292,ES,2018-11-01
+com.matchington.mansion,マッチングトン·マンション,293,ES,2018-11-01
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,294,ES,2018-11-01
+com.gamma.scan,QR・バーコードスキャナー,295,ES,2018-11-01
+com.limebike,Lime-YourRideAnytime,296,ES,2018-11-01
+com.appcraft.unicorn,UNICORN-大人向け塗り絵本,297,ES,2018-11-01
+com.garbagetruck.city.trash.cleaningsimulator,GarbageTruck-CityTrashCleaningSimulator,298,ES,2018-11-01
+multi.function.scientific.calculate.photomath.calculator,CalculatorPlus,299,ES,2018-11-01
+com.cleanmaster.mguard,CleanMasterー無料アンチウイルスとRAMクリーナー,300,ES,2018-11-01
+com.quarzo.crosswords,Crosswords-Spanishversion(Crucigramas),301,ES,2018-11-01
+mobi.androapp.listaswiseplay.c9094,ListasWiseplay📺100%aldía,302,ES,2018-11-01
+com.gismart.realpianofree,ピアノ-ぴあの鍵盤リアル曲げーむ,303,ES,2018-11-01
+org.madrid.citasanitaria,CitaSanitariaMadrid,304,ES,2018-11-01
+man.fit.workout.routine.muscle.training,"ManFIT–MusclebuildingExercise,HomeWorkout",305,ES,2018-11-01
+in.loop.hdmakeover,ホームデザインメイクオーバー,306,ES,2018-11-01
+es.caixabank.caixabanksign,CaixaBankSign,307,ES,2018-11-01
+com.justteamup.matchapp,Matchapp,308,ES,2018-11-01
+com.tfgco.apps.coloring.free.color.by.number,数字で塗り絵：無料塗り絵帳(ColorbyNumber),309,ES,2018-11-01
+de.kamibox.bacon,Bacon–TheGame,310,ES,2018-11-01
+com.doubletapsoftware.basketballbattle,BasketballBattle,311,ES,2018-11-01
+com.lafourchette.lafourchette,TheFork-Restaurantsbookingandspecialoffers,312,ES,2018-11-01
+com.sec.android.easyMover,GalaxySmartSwitchMobile,313,ES,2018-11-01
+com.google.android.apps.googleassistant,Googleアシスタント,314,ES,2018-11-01
+air.com.pixelstudio8.venom.angry.crash.rush.io.online,VenomAngryCrashyRushOnline,315,ES,2018-11-01
+com.lionmobi.battery,PowerBattery-節電、快速充電、電池計測&最適化,316,ES,2018-11-01
+com.fintonic,Fintonic-FinanzasPersonales,317,ES,2018-11-01
+com.orange.bluu.jazztel,Jazztel,318,ES,2018-11-01
+juntadeandalucia.ced.pasen,iPasen,319,ES,2018-11-01
+com.onavo.spaceship,ProtectFreeVPN+DataManager,320,ES,2018-11-01
+com.sec.android.app.shealth,SHealth,321,ES,2018-11-01
+zena.dominos,DominosPizza-VentaOnline,322,ES,2018-11-01
+com.rarlab.rar,RAR,323,ES,2018-11-01
+com.mediapro.beinsports,beINCONNECTEspaña,324,ES,2018-11-01
+com.instagram.boomerang,BoomerangfromInstagram,325,ES,2018-11-01
+es.dia,ClubDIA:cuponesdeahorroyfolletosdeoferta,326,ES,2018-11-01
+com.firsttouchgames.dls3,DreamLeagueSoccer2018,327,ES,2018-11-01
+com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,328,ES,2018-11-01
+com.pubgmafia.gtacrime.stickman.crimegangster,GrandStickManVegasMafiaCrimeFightToSurvive,329,ES,2018-11-01
+cast.video.screenmirroring.casttotv,CasttoTV-テレビキャストアプリ,330,ES,2018-11-01
+com.munrodev.crfmobile,"MiCarrefour:Cupones,Ahorro,Tiendas&Compra",331,ES,2018-11-01
 es.tempos21.travel,TravelClubApp,332,ES,2018-11-01
-com.edreams.travel,eDreams-航空券・ホテル・レンタカー,333,ES,2018-11-01
-com.onavo.spaceship,ProtectFreeVPN+DataManager,334,ES,2018-11-01
-com.iphonedroid.marca,MARCA-DiarioLíderDeportivo,335,ES,2018-11-01
-com.google.android.apps.docs.editors.slides,Googleスライド,336,ES,2018-11-01
-pedometer.stepcounter.calorieburner.pedometerforwalking,歩数計-無料のステップカウンター＆カロリー計算,337,ES,2018-11-01
-com.microsoft.office.onenote,MicrosoftOneNote,338,ES,2018-11-01
-cast.video.screenmirroring.casttotv,CasttoTV-テレビキャストアプリ,339,ES,2018-11-01
-com.imaginbank.app,imaginBank-Tubancamóvil,340,ES,2018-11-01
-com.sheddapp,Shedd,341,ES,2018-11-01
-com.telepizza,TelepizzaComidaaDomicilio,342,ES,2018-11-01
-com.femalefitness.workoutwoman.weightloss,SlimNOW-体重を減らすトレーニング,343,ES,2018-11-01
-air.com.games2win.internationalfashionstylist,InternationalFashionStylist:ModelDesignStudio,344,ES,2018-11-01
-com.tfgco.apps.coloring.free.color.by.number,数字で塗り絵：無料塗り絵帳(ColorbyNumber),345,ES,2018-11-01
-com.wizardgames.dinosbattleroyale,DinosRoyale-SavageMultiplayerBattleRoyale,346,ES,2018-11-01
-com.google.android.apps.fitness,GoogleFit:運動を記録して健康的な生活を,347,ES,2018-11-01
-es.vodafone.tvonline,VodafoneTV,348,ES,2018-11-01
-com.hicloud.android.clone,PhoneClone,349,ES,2018-11-01
-com.google.android.apps.walletnfcrel,GooglePay-これからのお財布,350,ES,2018-11-01
-com.ksmobile.launcher,CMLauncher3D-カスタマイズ可能、セキュリティ保護、効率的,351,ES,2018-11-01
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),352,ES,2018-11-01
-com.resultadosfutbol.mobile,BeSoccer-SoccerLiveScore,353,ES,2018-11-01
-com.instagram.layout,LayoutfromInstagram,354,ES,2018-11-01
-com.instagram.boomerang,BoomerangfromInstagram,355,ES,2018-11-01
-com.ray3d.shootsniper,ShootHunter-GunKiller,356,ES,2018-11-01
-com.streema.simpleradio,シンプルラジオ-無料のライブFMAMラジオ局,357,ES,2018-11-01
-net.sharewire.subastadeocio,Ubeo-Ofertas,358,ES,2018-11-01
-photocollage.photoeditor.collagemaker,写真コラージュ:画像加工&写真編集者,359,ES,2018-11-01
-com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キャプチャ・編集無料アプリ(モビゼン),360,ES,2018-11-01
-com.ketchapp.rider,Rider,361,ES,2018-11-01
-com.hp.printercontrol,HPSmart(HPAiORemote),362,ES,2018-11-01
-com.percent.mybest3,Unniedoll,363,ES,2018-11-01
-com.bestringtonesapps.freeringtonesforandroid,無料着信音Android™,364,ES,2018-11-01
-com.app.emotes.dances.fortnite,"DancesfromFortnite(Emotes,Skins,DailyShop)",365,ES,2018-11-01
-net.skyscanner.android.main,Skyscanner格安航空券検索,366,ES,2018-11-01
-air.com.lunime.gachalife,GachaLife,367,ES,2018-11-01
-com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,368,ES,2018-11-01
-com.hiblock.caller,CallerID-ラブリー電話内容表示・自動着信拒否・無料電話番号検索,369,ES,2018-11-01
-com.mo2o.vueling,Vueling-CheapFlights,370,ES,2018-11-01
-com.whatstracker.app,WhatsTracker,371,ES,2018-11-01
-com.vsco.cam,VSCO,372,ES,2018-11-01
-com.raghu.braingame,脳トレーナー,373,ES,2018-11-01
-com.dywx.larkplayer,LarkPlayer——YouTubeMusic&FreeMP3TopPlayer,374,ES,2018-11-01
-com.apusapps.launcher,APUSランチャー：テーマ、小型、ブースト,375,ES,2018-11-01
-com.doubletapsoftware.basketballbattle,BasketballBattle,376,ES,2018-11-01
-com.fundevs.app.mediaconverter,VideoMP3Converter,377,ES,2018-11-01
-io.voodoo.holeio,Hole.io,378,ES,2018-11-01
+com.amazon.kindle,Kindle電子書籍リーダー:人気小説や無料漫画、雑誌も多数,333,ES,2018-11-01
+com.ketchapp.rider,Rider,334,ES,2018-11-01
+com.officetool.pdfreader2018.pdfviewer,PDFReader–PDFViewer2019,335,ES,2018-11-01
+com.magisto,Magisto-動画編集・作成アプリ,336,ES,2018-11-01
+com.yoigo.miyoigo,MiYoigo,337,ES,2018-11-01
+air.com.lunime.gachalife,GachaLife,338,ES,2018-11-01
+com.instagram.layout,LayoutfromInstagram,339,ES,2018-11-01
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),340,ES,2018-11-01
+com.ray3d.shootsniper,ShootHunter-GunKiller,341,ES,2018-11-01
+com.treemengames.pakoforever,PAKOForever,342,ES,2018-11-01
+com.pdf.viewer.pdftool.reader.document,Android用のPDFReader,343,ES,2018-11-01
+photocollage.photoeditor.collagemaker,写真コラージュ:画像加工&写真編集者,344,ES,2018-11-01
+com.app.emotes.dances.fortnite,"DancesfromFortnite(Emotes,Skins,DailyShop)",345,ES,2018-11-01
+com.resultadosfutbol.mobile,BeSoccer-SoccerLiveScore,346,ES,2018-11-01
+air.com.games2win.internationalfashionstylist,InternationalFashionStylist:ModelDesignStudio,347,ES,2018-11-01
+com.rero.ringotone,Ringotones,348,ES,2018-11-01
+com.yodo1.rodeo.safari,RodeoStampede:SkyZooSafariスカイ・ズー・サファリ,349,ES,2018-11-01
+com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キャプチャ・編集無料アプリ(モビゼン),350,ES,2018-11-01
+com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,351,ES,2018-11-01
+es.vodafone.tvonline,VodafoneTV,352,ES,2018-11-01
+com.hicloud.android.clone,PhoneClone,353,ES,2018-11-01
+com.edreams.travel,eDreams-航空券・ホテル・レンタカー,354,ES,2018-11-01
+com.ksmobile.launcher,CMLauncher3D-カスタマイズ可能、セキュリティ保護、効率的,355,ES,2018-11-01
+com.femalefitness.workoutwoman.weightloss,SlimNOW-体重を減らすトレーニング,356,ES,2018-11-01
+com.google.android.apps.walletnfcrel,GooglePay-これからのお財布,357,ES,2018-11-01
+com.sheddapp,Shedd,358,ES,2018-11-01
+net.sharewire.subastadeocio,Ubeo-Ofertas,359,ES,2018-11-01
+com.raghu.braingame,脳トレーナー,360,ES,2018-11-01
+com.iphonedroid.marca,MARCA-DiarioLíderDeportivo,361,ES,2018-11-01
+com.percent.mybest3,Unniedoll,362,ES,2018-11-01
+com.carparking.challenge.parksimulator,PradoCarParkingChallenge,363,ES,2018-11-01
+com.imaginbank.app,imaginBank-Tubancamóvil,364,ES,2018-11-01
+pedometer.stepcounter.calorieburner.pedometerforwalking,歩数計-無料のステップカウンター＆カロリー計算,365,ES,2018-11-01
+com.dywx.larkplayer,LarkPlayer——YouTubeMusic&FreeMP3TopPlayer,366,ES,2018-11-01
+com.contextlogic.cute,Cute–ビューティーショッピング,367,ES,2018-11-01
+com.play.io.derby.car.racing.demolition,DerbyCarRacing,368,ES,2018-11-01
+com.ccl.emotesfbr,BAILESDEFBR,369,ES,2018-11-01
+com.wizardgames.dinosbattleroyale,DinosRoyale-SavageMultiplayerBattleRoyale,370,ES,2018-11-01
+com.hasbro.beybladesenterprise,BEYBLADEBURSTapp,371,ES,2018-11-01
+com.bestringtonesapps.freeringtonesforandroid,無料着信音Android™,372,ES,2018-11-01
+com.zuuks.truck.simulator.euro,TruckSimulator2018:Europe,373,ES,2018-11-01
+codematics.universal.tv.remote.control,ユニバーサルテレビのリモコン,374,ES,2018-11-01
+com.google.android.apps.fitness,GoogleFit:運動を記録して健康的な生活を,375,ES,2018-11-01
+com.tastypill.newbottle,ImpossibleBottleFlip,376,ES,2018-11-01
+com.streema.simpleradio,シンプルラジオ-無料のライブFMAMラジオ局,377,ES,2018-11-01
+ar.com.develup.pasapalabra,Pasapalabra,378,ES,2018-11-01
 stickmanwarriors.stickmanWar.online,StickmanWarriorsOnline:EpicWar,379,ES,2018-11-01
-com.zuuks.truck.simulator.euro,TruckSimulator2018:Europe,380,ES,2018-11-01
-com.maps.gps.places.location.address.routefinder.nearby.gpsmapslocationandnearby,無料のGPSナビゲーション、方向、ライブトラフィックマップ,381,ES,2018-11-01
-com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",382,ES,2018-11-01
-com.contextlogic.cute,Cute–ビューティーショッピング,383,ES,2018-11-01
-com.play.io.derby.car.racing.demolition,DerbyCarRacing,384,ES,2018-11-01
+com.vsco.cam,VSCO,380,ES,2018-11-01
+com.apps.security.master.antivirus.applock,MAXAppLock-プライバシーガード、アップロッカー,381,ES,2018-11-01
+com.microsoft.office.onenote,MicrosoftOneNote,382,ES,2018-11-01
+com.lemon.faceu.oversea,FaceU-あなたの美を引き出す,383,ES,2018-11-01
+com.google.android.apps.docs.editors.slides,Googleスライド,384,ES,2018-11-01
 com.amanotes.pamahelixtiles,HelixCrush,385,ES,2018-11-01
-com.paulaugustel.bomber,PlanetBomber!,386,ES,2018-11-01
-org.xbmc.kodi,Kodi,387,ES,2018-11-01
-codematics.universal.tv.remote.control,ユニバーサルテレビのリモコン,388,ES,2018-11-01
-com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ作成,389,ES,2018-11-01
-com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,390,ES,2018-11-01
-com.wordgame.words.connect,WordConnect,391,ES,2018-11-01
-com.callerscreen.color.phone.ringtone.flash,"ColorFlashLauncher-CallScreen,Themes",392,ES,2018-11-01
-ar.com.develup.pasapalabra,Pasapalabra,393,ES,2018-11-01
-com.yodo1.rodeo.safari,RodeoStampede:SkyZooSafariスカイ・ズー・サファリ,394,ES,2018-11-01
-com.dimico.painthit,PaintHit,395,ES,2018-11-01
-com.microsoft.launcher,MicrosoftLauncher,396,ES,2018-11-01
-com.teknasyon.photofont,Photofont,397,ES,2018-11-01
-com.ffgames.racingincar2,RacinginCar2,398,ES,2018-11-01
-com.carparking.challenge.parksimulator,PradoCarParkingChallenge,399,ES,2018-11-01
-com.apps.security.master.antivirus.applock,MAXAppLock-プライバシーガード、アップロッカー,400,ES,2018-11-01
-com.banana4apps.evolution,人類進化ゲームの人に贈る指輪の人類,401,ES,2018-11-01
-com.hasbro.beybladesenterprise,BEYBLADEBURSTapp,402,ES,2018-11-01
-com.scee.psxandroid,PlayStationApp,403,ES,2018-11-01
-com.estrongs.android.pop,ESファイルエクスプローラー,404,ES,2018-11-01
-com.sweetfuirt.candy,SweetFruitCandy,405,ES,2018-11-01
-www.ingdirect.nativeframe,INGEspaña.BancaMóvil,406,ES,2018-11-01
-com.tastypill.newbottle,ImpossibleBottleFlip,407,ES,2018-11-01
-air.com.bartbonte.black,black,408,ES,2018-11-01
-com.pof.android,魚のプレンティ,409,ES,2018-11-01
-com.avast.android.mobilesecurity,Avastアンチウイルス2018,410,ES,2018-11-01
-com.hp.android.printservice,HPプリントサービスプラグイン,411,ES,2018-11-01
-com.oxylane.android.decathlon,Decathlon,412,ES,2018-11-01
-com.miniclip.soccerstars,SoccerStars,413,ES,2018-11-01
-mega.privacy.android.app,MEGA,414,ES,2018-11-01
-com.casox.ConnectToMerge,ConnectthePops!,415,ES,2018-11-01
-com.google.android.apps.docs.editors.sheets,Googleスプレッドシート,416,ES,2018-11-01
-com.accuweather.android,AccuWeatherが提供する天気予報,417,ES,2018-11-01
-com.fusionprojects.edmodo,Edmodo,418,ES,2018-11-01
-com.x3m.tx4,TrialXtreme4,419,ES,2018-11-01
-com.ccl.emotesfbr,BAILESDEFBR,420,ES,2018-11-01
-com.ea.gp.fifaultimate,EASPORTS™FIFA19Companion,421,ES,2018-11-01
-de.motain.iliga,Onefootball-SoccerScores,422,ES,2018-11-01
-com.samsung.android.oneconnect,SmartThings,423,ES,2018-11-01
-air.com.CaringForPuppySalon,子犬のサロンのお手入れ,424,ES,2018-11-01
-com.adobe.scan.android,AdobeScan：PDFスキャナー、OCR,425,ES,2018-11-01
-com.ketchapp.rotator,Rotator,426,ES,2018-11-01
-com.addswhilessuffers.binds,BlockPuzzle-WoodLegend,427,ES,2018-11-01
-video.downloader.videodownloader,無料動画ダウンロード,428,ES,2018-11-01
-com.boomster.linegame,WeavetheLine,429,ES,2018-11-01
-com.topfreegames.bikeracefreeworld,バイクレース無料レースゲーム(BikeRace),430,ES,2018-11-01
-com.moonlab.unfold,Unfold—CreateStories,431,ES,2018-11-01
-com.thetrainline,TrainlineUK-TheLeadingTrainandBusapp,432,ES,2018-11-01
-com.appblockgames.freecraftexploration,MOD-MASTERforMinecraftPE(PocketEdition)Free,433,ES,2018-11-01
-com.maximolab.followeranalyzer,FollowerAnalyzer(Instagram),434,ES,2018-11-01
-com.alien.shooter.galaxy.attack,ギャラクシーアタック：エイリアンシューター,435,ES,2018-11-01
-com.rovio.baba,アングリーバード2(AngryBirds2),436,ES,2018-11-01
-com.firsttouchgames.smp,Score!Match,437,ES,2018-11-01
-org.iggymedia.periodtracker,Flo:生理トラッカー無料アプリで、月経や排卵サイクルを予測。妊活・避妊・セルフケアをサポート,438,ES,2018-11-01
-chimp.works.td4,PowerPainter,439,ES,2018-11-01
-com.mattel.barbiesparkleblastkids,バービー・ファッションクローゼット,440,ES,2018-11-01
-bubbleshooter.orig,バブルシューター:BubbleShooter,441,ES,2018-11-01
-com.greenteagames.dogracing3d,DogRun-PetDogSimulator,442,ES,2018-11-01
-com.boranuonline.idates,"iDates-Chats,Flirts,Dating,Love&Relations",443,ES,2018-11-01
-com.bruyere.android.wordsearch,WordSearch,444,ES,2018-11-01
-com.google.android.calendar,Googleカレンダー,445,ES,2018-11-01
-com.tekoia.sure.activities,SUREユニバーサルリモート,446,ES,2018-11-01
+com.alien.shooter.galaxy.attack,ギャラクシーアタック：エイリアンシューター,386,ES,2018-11-01
+io.voodoo.holeio,Hole.io,387,ES,2018-11-01
+com.mo2o.vueling,Vueling-CheapFlights,388,ES,2018-11-01
+com.wordgame.words.connect,WordConnect,389,ES,2018-11-01
+com.hp.printercontrol,HPSmart(HPAiORemote),390,ES,2018-11-01
+com.paulaugustel.bomber,PlanetBomber!,391,ES,2018-11-01
+com.dimico.painthit,PaintHit,392,ES,2018-11-01
+com.maps.gps.places.location.address.routefinder.nearby.gpsmapslocationandnearby,無料のGPSナビゲーション、方向、ライブトラフィックマップ,393,ES,2018-11-01
+net.skyscanner.android.main,Skyscanner格安航空券検索,394,ES,2018-11-01
+com.ffgames.racingincar2,RacinginCar2,395,ES,2018-11-01
+com.fundevs.app.mediaconverter,VideoMP3Converter,396,ES,2018-11-01
+com.miniclip.soccerstars,SoccerStars,397,ES,2018-11-01
+com.hiblock.caller,CallerID-ラブリー電話内容表示・自動着信拒否・無料電話番号検索,398,ES,2018-11-01
+com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ作成,399,ES,2018-11-01
+com.teknasyon.photofont,Photofont,400,ES,2018-11-01
+com.scee.psxandroid,PlayStationApp,401,ES,2018-11-01
+com.whatstracker.app,WhatsTracker,402,ES,2018-11-01
+com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",403,ES,2018-11-01
+com.banana4apps.evolution,人類進化ゲームの人に贈る指輪の人類,404,ES,2018-11-01
+com.rovio.baba,アングリーバード2(AngryBirds2),405,ES,2018-11-01
+org.xbmc.kodi,Kodi,406,ES,2018-11-01
+com.ketchapp.rotator,Rotator,407,ES,2018-11-01
+com.addswhilessuffers.binds,BlockPuzzle-WoodLegend,408,ES,2018-11-01
+com.microsoft.launcher,MicrosoftLauncher,409,ES,2018-11-01
+com.callerscreen.color.phone.ringtone.flash,"ColorFlashLauncher-CallScreen,Themes",410,ES,2018-11-01
+com.boomster.linegame,WeavetheLine,411,ES,2018-11-01
+com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,412,ES,2018-11-01
+com.topfreegames.bikeracefreeworld,バイクレース無料レースゲーム(BikeRace),413,ES,2018-11-01
+com.puzzles.game.halloweeen.one,FindTheDifferences-TheDetective,414,ES,2018-11-01
+com.sweetfuirt.candy,SweetFruitCandy,415,ES,2018-11-01
+com.estrongs.android.pop,ESファイルエクスプローラー,416,ES,2018-11-01
+com.pof.android,魚のプレンティ,417,ES,2018-11-01
+air.com.CaringForPuppySalon,子犬のサロンのお手入れ,418,ES,2018-11-01
+com.appblockgames.freecraftexploration,MOD-MASTERforMinecraftPE(PocketEdition)Free,419,ES,2018-11-01
+bubbleshooter.orig,バブルシューター:BubbleShooter,420,ES,2018-11-01
+com.zmobileapps.halloweenphotoeditor,ハロウィーンフォトエディタ-恐ろしいメイク,421,ES,2018-11-01
+mega.privacy.android.app,MEGA,422,ES,2018-11-01
+com.tekoia.sure.activities,SUREユニバーサルリモート,423,ES,2018-11-01
+com.oxylane.android.decathlon,Decathlon,424,ES,2018-11-01
+com.x3m.tx4,TrialXtreme4,425,ES,2018-11-01
+com.marketluck.bravoloto,Bravoloto:loteriegratuiteà1M€,426,ES,2018-11-01
+com.total.photostudio,TotalPhotoStudio,427,ES,2018-11-01
+air.com.bartbonte.black,black,428,ES,2018-11-01
+com.avast.android.mobilesecurity,Avastアンチウイルス2018,429,ES,2018-11-01
+com.boranuonline.idates,"iDates-Chats,Flirts,Dating,Love&Relations",430,ES,2018-11-01
+com.cmcm.lite,CMLite-ForLow-EndPhone,431,ES,2018-11-01
+com.samsung.android.oneconnect,SmartThings,432,ES,2018-11-01
+www.ingdirect.nativeframe,INGEspaña.BancaMóvil,433,ES,2018-11-01
+com.firsttouchgames.smp,Score!Match,434,ES,2018-11-01
+video.downloader.videodownloader,無料動画ダウンロード,435,ES,2018-11-01
+com.ea.gp.fifaultimate,EASPORTS™FIFA19Companion,436,ES,2018-11-01
+com.bruyere.android.wordsearch,WordSearch,437,ES,2018-11-01
+de.wetteronline.wetterapp,Weather&Radar-Free,438,ES,2018-11-01
+com.samsung.android.email.provider,GalaxyEメール,439,ES,2018-11-01
+com.greenteagames.dogracing3d,DogRun-PetDogSimulator,440,ES,2018-11-01
+com.cmplay.tiles2,ピアノタイル2™,441,ES,2018-11-01
+chimp.works.td4,PowerPainter,442,ES,2018-11-01
+de.motain.iliga,Onefootball-SoccerScores,443,ES,2018-11-01
+com.mattel.barbiesparkleblastkids,バービー・ファッションクローゼット,444,ES,2018-11-01
+com.thetrainline,TrainlineUK-TheLeadingTrainandBusapp,445,ES,2018-11-01
+com.casox.ConnectToMerge,ConnectthePops!,446,ES,2018-11-01
 com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,447,ES,2018-11-01
-game.puzzle.woodypuzzle,ウッディーパズル(WoodyPuzzle),448,ES,2018-11-01
-com.counter.terrorists.swat.attack,カウンターテロリストの撃墜,449,ES,2018-11-01
-zena.dominos,DominosPizza-VentaOnline,450,ES,2018-11-01
-com.cmplay.tiles2,ピアノタイル2™,451,ES,2018-11-01
-com.microsoft.skydrive,MicrosoftOneDrive,452,ES,2018-11-01
-es.mercadona.tienda,Mercadona,453,ES,2018-11-01
-com.google.android.apps.adm,FindMyDevice,454,ES,2018-11-01
-com.niksoftware.snapseed,Snapseed,455,ES,2018-11-01
-com.life360.android.safetymapd,Life360－子供の見守り、家族と位置情報共有アプリ,456,ES,2018-11-01
-es.mrcl.app.juasapp,Juasapp-ジョーク電話,457,ES,2018-11-01
-com.marketluck.bravoloto,Bravoloto:loteriegratuiteà1M€,458,ES,2018-11-01
-com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-TheOfficialGame,459,ES,2018-11-01
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,460,ES,2018-11-01
-com.mindsensegames.LogicPath,LogicPath,461,ES,2018-11-01
-com.xchange.JumpBall,JumpBallBlast,462,ES,2018-11-01
-com.ftt.boxingstar.gl.aos,ボクシングスター(BoxingStar),463,ES,2018-11-01
-com.halfbrick.fruitninjafree,FruitNinja®,464,ES,2018-11-01
-com.link.messages.sms,SMS+MMSメッセージ-GIFテキスト,465,ES,2018-11-01
+com.google.android.apps.docs.editors.sheets,Googleスプレッドシート,448,ES,2018-11-01
+com.moonlab.unfold,Unfold—CreateStories,449,ES,2018-11-01
+es.mrcl.app.juasapp,Juasapp-ジョーク電話,450,ES,2018-11-01
+com.counter.terrorists.swat.attack,カウンターテロリストの撃墜,451,ES,2018-11-01
+com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-TheOfficialGame,452,ES,2018-11-01
+com.hp.android.printservice,HPプリントサービスプラグイン,453,ES,2018-11-01
+com.ftt.boxingstar.gl.aos,ボクシングスター(BoxingStar),454,ES,2018-11-01
+com.adobe.scan.android,AdobeScan：PDFスキャナー、OCR,455,ES,2018-11-01
+com.accuweather.android,AccuWeatherが提供する天気予報,456,ES,2018-11-01
+com.life360.android.safetymapd,Life360－子供の見守り、家族と位置情報共有アプリ,457,ES,2018-11-01
+com.apusapps.launcher,APUSランチャー：テーマ、小型、ブースト,458,ES,2018-11-01
+com.maximolab.followeranalyzer,FollowerAnalyzer(Instagram),459,ES,2018-11-01
+com.fusionprojects.edmodo,Edmodo,460,ES,2018-11-01
+ir.remote.smg.tv,TV(Samsung)RemoteControl,461,ES,2018-11-01
+air.com.pinturillo2free.pinturillo2free,Pinturillo2,462,ES,2018-11-01
+org.iggymedia.periodtracker,Flo:生理トラッカー無料アプリで、月経や排卵サイクルを予測。妊活・避妊・セルフケアをサポート,463,ES,2018-11-01
+com.gameinsight.gobandroid,GunsofBoom,464,ES,2018-11-01
+com.zena.Fosters,Foster'sHollywood,465,ES,2018-11-01
 es.socialpoint.DragonCity,ドラゴンシティ:　育てて、進化させて、バトル！町を作ろう！,466,ES,2018-11-01
-com.qisiemoji.inputmethod,"KikaKeyboard-EmojiKeyboard,Emoticon,GIF",467,ES,2018-11-01
-com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,468,ES,2018-11-01
-de.wetteronline.wetterapp,Weather&Radar-Free,469,ES,2018-11-01
-air.com.peppapig.paintbox,PeppaPig:Paintbox,470,ES,2018-11-01
-com.itchmedia.ta3,BaseballBoy!,471,ES,2018-11-01
-com.apple.movetoios,MovetoiOS,472,ES,2018-11-01
-com.funlab.numbercoloring.pixelart,PixelArt-数字で塗り絵スケッチブック,473,ES,2018-11-01
-com.linkdesks.bubblegames.bubbleshooter,バブル伝説,474,ES,2018-11-01
-com.baretreemedia.lolstickers,L.O.L.SurpriseStickers,475,ES,2018-11-01
-ir.remote.smg.tv,TV(Samsung)RemoteControl,476,ES,2018-11-01
-com.piano.music_tiles,マジックピアノタイル2019：ポップソング-無料音楽ゲーム,477,ES,2018-11-01
-com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,478,ES,2018-11-01
-org.acestream.core,AceStreamEngine,479,ES,2018-11-01
-com.soundcloud.android,SoundCloud-音楽＆オーディオ,480,ES,2018-11-01
-com.otherguys.lindab,LindaBrown:InteractiveStory,481,ES,2018-11-01
-com.inditex.pullandbear,PULL&BEAR,482,ES,2018-11-01
-com.total.photostudio,TotalPhotoStudio,483,ES,2018-11-01
-com.mindmill.pipes.loops.plumber.puzzle,パズルゲーム:Linedoku,484,ES,2018-11-01
-com.nextdoor,Nextdoor-Localneighborhoodnews&classifieds,485,ES,2018-11-01
-com.samsung.android.email.provider,GalaxyEメール,486,ES,2018-11-01
-air.com.pinturillo2free.pinturillo2free,Pinturillo2,487,ES,2018-11-01
-com.antivirus,AVGアンチウイルス無料〜スマホセキュリティソフト〜,488,ES,2018-11-01
-com.ohmgames.chambouletout,KnockBalls,489,ES,2018-11-01
-com.mola.playspace.android.bingo,LocoBingobyPlayspace,490,ES,2018-11-01
-com.gameinsight.gobandroid,GunsofBoom,491,ES,2018-11-01
-es.treebit.decisionroulette,決定ルーレット,492,ES,2018-11-01
-com.melesta.coffeeshop,マイカフェ：レシピ＆ストーリー。レストラン経営ゲーム,493,ES,2018-11-01
-com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,494,ES,2018-11-01
-com.zena.Fosters,Foster'sHollywood,495,ES,2018-11-01
-com.pandoragames.finddifference3,間違い探し500レベル,496,ES,2018-11-01
-com.fingersoft.hcr2,HillClimbRacing2,497,ES,2018-11-01
-com.sega.sonicdash,SonicDash,498,ES,2018-11-01
+com.google.android.apps.adm,FindMyDevice,467,ES,2018-11-01
+com.google.android.calendar,Googleカレンダー,468,ES,2018-11-01
+es.treebit.decisionroulette,決定ルーレット,469,ES,2018-11-01
+com.funlab.numbercoloring.pixelart,PixelArt-数字で塗り絵スケッチブック,470,ES,2018-11-01
+com.piano.music_tiles,マジックピアノタイル2019：ポップソング-無料音楽ゲーム,471,ES,2018-11-01
+com.niksoftware.snapseed,Snapseed,472,ES,2018-11-01
+com.qisiemoji.inputmethod,"KikaKeyboard-EmojiKeyboard,Emoticon,GIF",473,ES,2018-11-01
+air.com.peppapig.paintbox,PeppaPig:Paintbox,474,ES,2018-11-01
+com.ohmgames.chambouletout,KnockBalls,475,ES,2018-11-01
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,476,ES,2018-11-01
+com.apple.movetoios,MovetoiOS,477,ES,2018-11-01
+com.mindsensegames.LogicPath,LogicPath,478,ES,2018-11-01
+es.mercadona.tienda,Mercadona,479,ES,2018-11-01
+com.baretreemedia.lolstickers,L.O.L.SurpriseStickers,480,ES,2018-11-01
+com.itchmedia.ta3,BaseballBoy!,481,ES,2018-11-01
+com.slimesmash.android,SlimeSimulatorGames,482,ES,2018-11-01
+com.microsoft.skydrive,MicrosoftOneDrive,483,ES,2018-11-01
+com.linkdesks.bubblegames.bubbleshooter,バブル伝説,484,ES,2018-11-01
+com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,485,ES,2018-11-01
+com.mindmill.pipes.loops.plumber.puzzle,パズルゲーム:Linedoku,486,ES,2018-11-01
+phone.cleaner.speed.booster.cache.clean.android.master,"PhoneCleaner-CacheClean,AndroidBoosterMaster",487,ES,2018-11-01
+game.puzzle.woodypuzzle,ウッディーパズル(WoodyPuzzle),488,ES,2018-11-01
+com.link.messages.sms,SMS+MMSメッセージ-GIFテキスト,489,ES,2018-11-01
+com.pandoragames.finddifference3,間違い探し500レベル,490,ES,2018-11-01
+com.xchange.JumpBall,JumpBallBlast,491,ES,2018-11-01
+com.pavahainc.zombiecamera,ZombieCamera,492,ES,2018-11-01
+com.fingersoft.hcr2,HillClimbRacing2,493,ES,2018-11-01
+vsin.t16_funny_photo,PhotoLab-加工写真アプリ,494,ES,2018-11-01
+com.otherguys.lindab,LindaBrown:InteractiveStory,495,ES,2018-11-01
+com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,496,ES,2018-11-01
+com.soundcloud.android,SoundCloud-音楽＆オーディオ,497,ES,2018-11-01
+com.slot.maquina.bar.tragaperras.perla.caribe.deluxe,LaPerlaDelCaribeDeluxe–TragaperrasGratis,498,ES,2018-11-01
 com.samsung.smartviewad,SamsungSmartView,499,ES,2018-11-01
-com.globalegrow.app.gearbest,GearBestOnlineShopping,500,ES,2018-11-01
-com.no.color,ナンバーカラーゲーム-ナンバーカラー,501,ES,2018-11-01
-com.alibaba.intl.android.apps.poseidon,Alibaba.com:オンラインB2B取引マーケットの大手運営会社,502,ES,2018-11-01
-phone.cleaner.speed.booster.cache.clean.android.master,"PhoneCleaner-CacheClean,AndroidBoosterMaster",503,ES,2018-11-01
-women.workout.female.fitness,女性のフィットネス-女性のためのワークアウト,504,ES,2018-11-01
-com.cryok.larva,Callrecorder,505,ES,2018-11-01
-pdf.tap.scanner,CameraScannerToPdf-TapScanner,506,ES,2018-11-01
-es.lfp.gi.main,LaLiga-SpanishFootballLeagueサッカー公式アプリ,507,ES,2018-11-01
-com.slot.maquina.bar.tragaperras.perla.caribe.deluxe,LaPerlaDelCaribeDeluxe–TragaperrasGratis,508,ES,2018-11-01
-com.pleasantapps.unfollowers,Unfollowers,509,ES,2018-11-01
-com.skgames.trafficrider,TrafficRider,510,ES,2018-11-01
-fr.two4tea.fightlist,FightList-PetitBac,511,ES,2018-11-01
-com.slimesmash.android,SlimeSimulatorGames,512,ES,2018-11-01
-com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,513,ES,2018-11-01
-com.radiofmapp.radioespanna,RadioEspañaFM,514,ES,2018-11-01
-com.gpp.beefactory,BeeFactory,515,ES,2018-11-01
-com.bestringtonesapps.bestringtonesfree,最高の無料リングトーン,516,ES,2018-11-01
-com.rsi,ruralvía,517,ES,2018-11-01
-com.moonactive.coinmaster,CoinMaster,518,ES,2018-11-01
-io.voodoo.stackjump,StackJump,519,ES,2018-11-01
-com.carrefour.carrefourPass,CarrefourPASSMóvil,520,ES,2018-11-01
-com.callershow.colorcaller,"ColorCall-CallScreenThemes,LEDFlash",521,ES,2018-11-01
-com.whatsapp.w4b,WhatsAppBusiness,522,ES,2018-11-01
-com.renfe.wsm,RenfeTicket,523,ES,2018-11-01
-com.marcanditasl.bnext,Bnext-TucuentasinBanco,524,ES,2018-11-01
-com.clue.android,Clue-生理サイクル予測アプリ,525,ES,2018-11-01
-com.bbva.bbvawallet,BBVAWalletEspaña.PagoMóvil,526,ES,2018-11-01
-com.wordreference,WordReference英和辞書,527,ES,2018-11-01
-com.google.android.keep,GoogleKeep-メモとリスト,528,ES,2018-11-01
-com.movistar.base,SmartWiFi–GestionaturouterMovistarfibra,529,ES,2018-11-01
-com.sec.android.app.sbrowser,SamsungInternetBrowser,530,ES,2018-11-01
-rge.tech.usuarios,SocialDrive,531,ES,2018-11-01
-uk.co.yakuto.TableTennisTouch,TableTennisTouch,532,ES,2018-11-01
-com.carzyspeed2.racingcar.turbo.free,CrazyforSpeed2,533,ES,2018-11-01
-com.holosfind.showroom,Showroomprive,534,ES,2018-11-01
-es.forovirgenes.apps.stickers,StickersForocoches,535,ES,2018-11-01
-com.supercell.hayday,ヘイ・デイ(HayDay),536,ES,2018-11-01
-com.baviux.voicechanger,エフェクト付きのボイスチェンジャー,537,ES,2018-11-01
-com.candyrufusgames.survivalcrafttrial,SurvivalcraftDemo,538,ES,2018-11-01
-com.supertapx.drawin,DrawIn,539,ES,2018-11-01
-com.prettysimple.criminalcaseandroid,クリミナルケース,540,ES,2018-11-01
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,500,ES,2018-11-01
+com.playmini.miniworld,MiniWorldBlockArt,501,ES,2018-11-01
+com.halfbrick.fruitninjafree,FruitNinja®,502,ES,2018-11-01
+com.mola.playspace.android.bingo,LocoBingobyPlayspace,503,ES,2018-11-01
+com.no.color,ナンバーカラーゲーム-ナンバーカラー,504,ES,2018-11-01
+com.melesta.coffeeshop,マイカフェ：レシピ＆ストーリー。レストラン経営ゲーム,505,ES,2018-11-01
+com.sega.sonicdash,SonicDash,506,ES,2018-11-01
+org.acestream.core,AceStreamEngine,507,ES,2018-11-01
+com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,508,ES,2018-11-01
+com.carzyspeed2.racingcar.turbo.free,CrazyforSpeed2,509,ES,2018-11-01
+com.inditex.pullandbear,PULL&BEAR,510,ES,2018-11-01
+com.lyrebirdstudio.montagenscolagem,"写真編集者-画像加工,写真編集&コラージュアプリ&フォトエディタコラージュメーカー",511,ES,2018-11-01
+fr.two4tea.fightlist,FightList-PetitBac,512,ES,2018-11-01
+com.skgames.trafficrider,TrafficRider,513,ES,2018-11-01
+com.alibaba.intl.android.apps.poseidon,Alibaba.com:オンラインB2B取引マーケットの大手運営会社,514,ES,2018-11-01
+com.chicfy,chicfy-comprayvendemoda.,515,ES,2018-11-01
+com.prettysimple.criminalcaseandroid,クリミナルケース,516,ES,2018-11-01
+com.playgendary.sportmasterstwo,Golfmasters-FunGolfGame,517,ES,2018-11-01
+com.candyrufusgames.survivalcrafttrial,SurvivalcraftDemo,518,ES,2018-11-01
+com.nextdoor,Nextdoor-Localneighborhoodnews&classifieds,519,ES,2018-11-01
+com.globalegrow.app.gearbest,GearBestOnlineShopping,520,ES,2018-11-01
+com.antivirus,AVGアンチウイルス無料〜スマホセキュリティソフト〜,521,ES,2018-11-01
+com.bestringtonesapps.bestringtonesfree,最高の無料リングトーン,522,ES,2018-11-01
+women.workout.female.fitness,女性のフィットネス-女性のためのワークアウト,523,ES,2018-11-01
+rge.tech.usuarios,SocialDrive,524,ES,2018-11-01
+com.generagames.soccerstarleaguesfootball,SoccerStar2018TopLeagues・ベストフットボールゲーム,525,ES,2018-11-01
+com.baviux.voicechanger,エフェクト付きのボイスチェンジャー,526,ES,2018-11-01
+uk.co.yakuto.TableTennisTouch,TableTennisTouch,527,ES,2018-11-01
+es.lfp.gi.main,LaLiga-SpanishFootballLeagueサッカー公式アプリ,528,ES,2018-11-01
+pdf.tap.scanner,CameraScannerToPdf-TapScanner,529,ES,2018-11-01
+com.callershow.colorcaller,"ColorCall-CallScreenThemes,LEDFlash",530,ES,2018-11-01
+com.best.photo.app.halloween.makeup,ハロウィーンの化粧-HalloweenMakeup,531,ES,2018-11-01
+es.kfc.spain,KFCEspaña–ofertascercadeti,532,ES,2018-11-01
+io.voodoo.stackjump,StackJump,533,ES,2018-11-01
+com.whatsapp.w4b,WhatsAppBusiness,534,ES,2018-11-01
+com.google.android.keep,GoogleKeep-メモとリスト,535,ES,2018-11-01
+com.duokan.phone.remotecontroller,"MiRemotecontroller-forTV,STB,ACandmore",536,ES,2018-11-01
+com.cryok.larva,Callrecorder,537,ES,2018-11-01
+com.turner.tooncup,トゥーンカップ2018-カートゥーンネットワークのサッカーゲーム,538,ES,2018-11-01
+com.emoji.keyboard.touchpal,"TouchPalEmojiKeyboard:AvatarMoji,3DTheme,GIFs",539,ES,2018-11-01
+com.flashcolorcall.theme.shiningphone,ColorCallFlash-ScreenThemes&ColorPhone,540,ES,2018-11-01
