@@ -1,11 +1,11 @@
 app_id,app_name,rank,country_code,date
-com.limebike,Lime-YourRideAnytime,1,NZ,2018-11-20
-com.mcdonalds.mobileapp,McDonald's,2,NZ,2018-11-20
+com.mcdonalds.mobileapp,McDonald's,1,NZ,2018-11-20
+com.limebike,Lime-YourRideAnytime,2,NZ,2018-11-20
 com.facebook.orca,Messenger,3,NZ,2018-11-20
-com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,4,NZ,2018-11-20
-com.escape.room.door.word.prison.puzzle.adventure,EscapeRoom:MysteryWord,5,NZ,2018-11-20
-com.netflix.mediaclient,Netflix,6,NZ,2018-11-20
-faceapp.facereading.horoscope.zodica.signs.astrology,"FaceSecret–FaceReading,BeautyScan,Horoscope",7,NZ,2018-11-20
+com.escape.room.door.word.prison.puzzle.adventure,EscapeRoom:MysteryWord,4,NZ,2018-11-20
+com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,5,NZ,2018-11-20
+faceapp.facereading.horoscope.zodica.signs.astrology,"FaceSecret–FaceReading,BeautyScan,Horoscope",6,NZ,2018-11-20
+com.netflix.mediaclient,Netflix,7,NZ,2018-11-20
 com.outfit7.mytalkingtom2,マイ・トーキング・トム2,8,NZ,2018-11-20
 com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,9,NZ,2018-11-20
 com.google.android.apps.youtube.music,YouTubeMusic,10,NZ,2018-11-20
@@ -16,17 +16,17 @@ com.ubercab,Uber,14,NZ,2018-11-20
 com.snapchat.android,Snapchat,15,NZ,2018-11-20
 com.revolverolver.fliptrickster,FlipTrickster-ParkourSimulator,16,NZ,2018-11-20
 com.whatsapp,WhatsAppMessenger,17,NZ,2018-11-20
-com.h8games.helixjump,HelixJump,18,NZ,2018-11-20
-com.ubercab.eats,UberEats:地元で人気の料理をお届け,19,NZ,2018-11-20
+com.ubercab.eats,UberEats:地元で人気の料理をお届け,18,NZ,2018-11-20
+com.h8games.helixjump,HelixJump,19,NZ,2018-11-20
 com.word.game.fun.puzzle.prison.escape.captain,WordsStory-AddictiveWordGame,20,NZ,2018-11-20
 com.abcgame.fallingball,FallingBall,21,NZ,2018-11-20
 com.zhiliaoapp.musically,TikTok,22,NZ,2018-11-20
 nz.co.tvnz.ondemand.phone.android,TVNZOnDemand,23,NZ,2018-11-20
-nz.co.trademe.trademe,TradeMe,24,NZ,2018-11-20
-nz.hwem.gaspy,Gaspy-NZFuelPrices,25,NZ,2018-11-20
+nz.hwem.gaspy,Gaspy-NZFuelPrices,24,NZ,2018-11-20
+nz.co.trademe.trademe,TradeMe,25,NZ,2018-11-20
 com.game5mobile.lineandwater,HappyGlass,26,NZ,2018-11-20
-com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,27,NZ,2018-11-20
-com.facebook.mlite,MessengerLite:無料通話とメッセージ,28,NZ,2018-11-20
+com.facebook.mlite,MessengerLite:無料通話とメッセージ,27,NZ,2018-11-20
+com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,28,NZ,2018-11-20
 com.google.android.apps.chromecast.app,GoogleHome,29,NZ,2018-11-20
 com.peoplefun.wordcross,Wordscapes,30,NZ,2018-11-20
 nz.co.vodafone.android.myaccount,MyVodafoneNewZealand,31,NZ,2018-11-20
@@ -37,24 +37,24 @@ com.jagex.oldscape.android,OldSchoolRuneScape,35,NZ,2018-11-20
 com.fws.plantsnap2,PlantSnap-植物や花、木などを識別します,36,NZ,2018-11-20
 io.hexargame.stringpaperio,String.io,37,NZ,2018-11-20
 com.microsoft.office.outlook,MicrosoftOutlook,38,NZ,2018-11-20
-com.roblox.client,ROBLOX,39,NZ,2018-11-20
-com.metservice.kryten,MetServiceNZWeather,40,NZ,2018-11-20
-com.custom.spillit,SpillIt!,41,NZ,2018-11-20
-nz.co.telecom.smartphone.android,SparkNZ,42,NZ,2018-11-20
-com.pmg.speed,SpeedBall,43,NZ,2018-11-20
-nz.co.anz.android.mobilebanking,ANZgoMoneyNewZealand,44,NZ,2018-11-20
+com.metservice.kryten,MetServiceNZWeather,39,NZ,2018-11-20
+nz.co.telecom.smartphone.android,SparkNZ,40,NZ,2018-11-20
+com.roblox.client,ROBLOX,41,NZ,2018-11-20
+com.custom.spillit,SpillIt!,42,NZ,2018-11-20
+nz.co.anz.android.mobilebanking,ANZgoMoneyNewZealand,43,NZ,2018-11-20
+com.pmg.speed,SpeedBall,44,NZ,2018-11-20
 com.riseup.game,RiseUp,45,NZ,2018-11-20
 com.bigframes.color_road,ColorRoad!,46,NZ,2018-11-20
-com.agminstruments.drumpadmachine,DrumPadMachine-ビートメーカー,47,NZ,2018-11-20
-com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で色ぬりえ,48,NZ,2018-11-20
-nz.co.caltex,CaltexNZ,49,NZ,2018-11-20
-com.pinterest,Pinterest（ピンタレスト）,50,NZ,2018-11-20
-com.bitstrips.imoji,Bitmoji-アバター絵文字,51,NZ,2018-11-20
-nz.co.airnz.mpass,AirNZmobileapp,52,NZ,2018-11-20
-com.tencent.ig,PUBGMOBILE,53,NZ,2018-11-20
-com.afterpaymobile,Afterpay,54,NZ,2018-11-20
+nz.co.caltex,CaltexNZ,47,NZ,2018-11-20
+com.agminstruments.drumpadmachine,DrumPadMachine-ビートメーカー,48,NZ,2018-11-20
+com.pinterest,Pinterest（ピンタレスト）,49,NZ,2018-11-20
+nz.co.airnz.mpass,AirNZmobileapp,50,NZ,2018-11-20
+com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で色ぬりえ,51,NZ,2018-11-20
+com.bitstrips.imoji,Bitmoji-アバター絵文字,52,NZ,2018-11-20
+com.afterpaymobile,Afterpay,53,NZ,2018-11-20
+bumperbattle.io.game,Beetles.io,54,NZ,2018-11-20
 com.mindy.grap1,StickmanHook,55,NZ,2018-11-20
-bumperbattle.io.game,Beetles.io,56,NZ,2018-11-20
+com.tencent.ig,PUBGMOBILE,56,NZ,2018-11-20
 es.socialpoint.MonsterLegends,MonsterLegends-ストラテジーRPGバトル戦争,57,NZ,2018-11-20
 com.audible.application,Audible(オーディブル)-本を聴こう,58,NZ,2018-11-20
 com.kiloo.subwaysurf,SubwaySurfers,59,NZ,2018-11-20
@@ -67,475 +67,475 @@ nz.co.kiwibank.mobile,KiwibankMobileBanking,65,NZ,2018-11-20
 nz.co.zenergy.loyaltycard.android,ZApp,66,NZ,2018-11-20
 com.booking,ホテル予約のブッキングドットコム,67,NZ,2018-11-20
 games.onebutton.golfbattle,GolfBattle,68,NZ,2018-11-20
-io.voodoo.paper2,Paper.io2,69,NZ,2018-11-20
-com.amazon.mShop.android.shopping,Amazonショッピングアプリ,70,NZ,2018-11-20
+com.amazon.mShop.android.shopping,Amazonショッピングアプリ,69,NZ,2018-11-20
+com.huge.slots.casino.vegas.android.avidly,DoubleWinSlots-FreeVegasCasinoGames,70,NZ,2018-11-20
 com.alibaba.aliexpresshd,AliExpress-スマートにお買い物して、より良い暮らしを,71,NZ,2018-11-20
-com.huge.slots.casino.vegas.android.avidly,DoubleWinSlots-FreeVegasCasinoGames,72,NZ,2018-11-20
-com.physics.sim.game.cat,HelloCats,73,NZ,2018-11-20
-com.colorswitch.switch2,ColorSwitch,74,NZ,2018-11-20
-com.gpg.emojicraft,EmojiCraft,75,NZ,2018-11-20
+io.voodoo.paper2,Paper.io2,72,NZ,2018-11-20
+com.daily.zodiac.signs.horoscope.palmistry,ZodiacSignsMaster-Palmistry&Horoscope2019,73,NZ,2018-11-20
+com.physics.sim.game.cat,HelloCats,74,NZ,2018-11-20
+com.adobe.scan.android,AdobeScan：PDFスキャナー、OCR,75,NZ,2018-11-20
 com.fungames.sniper3d,スナイパー３Dアサシン：無料射撃ゲーム(Sniper3D）,76,NZ,2018-11-20
-com.miniclip.eightballpool,8BallPool,77,NZ,2018-11-20
-com.facebook.lite,FacebookLite,78,NZ,2018-11-20
-com.daily.zodiac.signs.horoscope.palmistry,ZodiacSignsMaster-Palmistry&Horoscope2019,79,NZ,2018-11-20
-com.supergame.ultrasharp.cutitdown,CutIt:BrainPuzzles,80,NZ,2018-11-20
-com.adobe.scan.android,AdobeScan：PDFスキャナー、OCR,81,NZ,2018-11-20
+com.facebook.lite,FacebookLite,77,NZ,2018-11-20
+com.colorswitch.switch2,ColorSwitch,78,NZ,2018-11-20
+com.productmadness.lightninglink,LightningLinkカジノスロット,79,NZ,2018-11-20
+com.gpg.emojicraft,EmojiCraft,80,NZ,2018-11-20
+com.miniclip.eightballpool,8BallPool,81,NZ,2018-11-20
 com.playgendary.kickthebuddy,KicktheBuddy,82,NZ,2018-11-20
-com.productmadness.lightninglink,LightningLinkカジノスロット,83,NZ,2018-11-20
+com.supergame.ultrasharp.cutitdown,CutIt:BrainPuzzles,83,NZ,2018-11-20
 nz.co.asb.asbmobile,ASBMobileBanking,84,NZ,2018-11-20
-com.alien.shooter.galaxy.attack,ギャラクシーアタック：エイリアンシューター,85,NZ,2018-11-20
+com.emoticon.screen.home.launcher,INLauncher,85,NZ,2018-11-20
 com.airbnb.android,Airbnb(エアビーアンドビー)世界の空部屋シェアサイト,86,NZ,2018-11-20
-com.vova.android,Vova-GetFreebiesEasily,87,NZ,2018-11-20
+com.alien.shooter.galaxy.attack,ギャラクシーアタック：エイリアンシューター,87,NZ,2018-11-20
 com.ea.gp.candcwarzones,コマンド＆コンカー：ライバルCommand&Conquer:Rivals,88,NZ,2018-11-20
-net.peakgames.toonblast,ToonBlast,89,NZ,2018-11-20
-com.emoticon.screen.home.launcher,INLauncher,90,NZ,2018-11-20
-com.gamepig.rush,RollingBalls,91,NZ,2018-11-20
-com.playgendary.tom,TomboftheMask,92,NZ,2018-11-20
-com.google.android.apps.paidtasks,Googleアンケートモニター,93,NZ,2018-11-20
-com.foodstuffs.newworld,IshopNewWorld,94,NZ,2018-11-20
-tv.twitch.android.app,Twitch,95,NZ,2018-11-20
+com.gamepig.rush,RollingBalls,89,NZ,2018-11-20
+net.peakgames.toonblast,ToonBlast,90,NZ,2018-11-20
+com.foodstuffs.newworld,IshopNewWorld,91,NZ,2018-11-20
+com.vova.android,Vova-GetFreebiesEasily,92,NZ,2018-11-20
+com.google.android.apps.docs.editors.docs,Googleドキュメント,93,NZ,2018-11-20
+com.shazam.android,Shazam,94,NZ,2018-11-20
+com.playgendary.tom,TomboftheMask,95,NZ,2018-11-20
 com.productmadness.hovmobile,HeartofVegas:オンラインカジノスロットアプリ,96,NZ,2018-11-20
-com.callerscreen.color.phone.ringtone.flash,"ColorFlashLauncher-CallScreen,Themes",97,NZ,2018-11-20
-digital.appy.binny,Binny:YourAucklandRecyclingBuddy,98,NZ,2018-11-20
-com.sec.android.easyMover,GalaxySmartSwitchMobile,99,NZ,2018-11-20
-com.shazam.android,Shazam,100,NZ,2018-11-20
+digital.appy.binny,Binny:YourAucklandRecyclingBuddy,97,NZ,2018-11-20
+com.google.android.apps.paidtasks,Googleアンケートモニター,98,NZ,2018-11-20
+tv.twitch.android.app,Twitch,99,NZ,2018-11-20
+com.callerscreen.color.phone.ringtone.flash,"ColorFlashLauncher-CallScreen,Themes",100,NZ,2018-11-20
 com.fanatee.cody,CodyCross:CrosswordPuzzles,101,NZ,2018-11-20
-nz.co.thewarehouse.wow,TheWarehouse-ShopandSave,102,NZ,2018-11-20
-com.twodegreesmobile.twodegrees,2degrees,103,NZ,2018-11-20
+com.sec.android.easyMover,GalaxySmartSwitchMobile,102,NZ,2018-11-20
+nz.co.thewarehouse.wow,TheWarehouse-ShopandSave,103,NZ,2018-11-20
 com.adobe.lrmobile,AdobePhotoshopLightroomCC,104,NZ,2018-11-20
-com.google.android.apps.docs.editors.docs,Googleドキュメント,105,NZ,2018-11-20
-com.google.android.apps.translate,Google翻訳,106,NZ,2018-11-20
-com.soundcloud.android,SoundCloud-音楽＆オーディオ,107,NZ,2018-11-20
+com.twodegreesmobile.twodegrees,2degrees,105,NZ,2018-11-20
+com.soundcloud.android,SoundCloud-音楽＆オーディオ,106,NZ,2018-11-20
+com.google.android.apps.translate,Google翻訳,107,NZ,2018-11-20
 com.plarium.blast,ロストアイランド：ブラストアドベンチャー,108,NZ,2018-11-20
 com.swingman.game,SwingStar,109,NZ,2018-11-20
 tv.peel.mobile.app,PeelUniversalSmartTVRemoteControl,110,NZ,2018-11-20
-com.episodeinteractive.android.catalog,Episode-ChooseYourStory,111,NZ,2018-11-20
-com.discord,Discord-ゲーマー向けチャットシステム,112,NZ,2018-11-20
-com.surpax.ledflashlight.panel,懐中電灯-ledライト,113,NZ,2018-11-20
-br.com.tapps.bidwars,BidWars-StorageAuctionsandPawnShopTycoon,114,NZ,2018-11-20
-com.gpp.beefactory,BeeFactory,115,NZ,2018-11-20
-com.viber.voip,Viber無料通話＆メッセージアプリ,116,NZ,2018-11-20
-com.dvloper.granny,Granny,117,NZ,2018-11-20
-com.ketchapp.knifehit,KnifeHit,118,NZ,2018-11-20
-com.matchington.mansion,マッチングトン·マンション,119,NZ,2018-11-20
-com.tw.tycoon.casino,TycoonCasino：無料ラスベガス巨額パチンコ,120,NZ,2018-11-20
-air.com.lunime.gachalife,GachaLife,121,NZ,2018-11-20
-nz.govt.at.atmobile,ATMobile,122,NZ,2018-11-20
-nz.co.skytv.skyconrad,SKYGONZ,123,NZ,2018-11-20
-nz.co.westpac,WestpacOne(NZ)MobileBanking,124,NZ,2018-11-20
-au.com.seek,SEEKJobSearch,125,NZ,2018-11-20
-com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,126,NZ,2018-11-20
-com.getsomeheadspace.android,Headspace:Meditation&Mindfulness,127,NZ,2018-11-20
-com.reddit.frontpage,"Reddit:SocialNews,TrendingMemes&FunnyVideos",128,NZ,2018-11-20
-com.halfbrick.jetpackjoyride,JetpackJoyride,129,NZ,2018-11-20
-com.eyu.piano,DreamPianoTiles2018-MusicGame,130,NZ,2018-11-20
-com.best.photoeditor.beautyeditorpro,BeautyEditorPro,131,NZ,2018-11-20
-com.nianticlabs.pokemongo,PokémonGO,132,NZ,2018-11-20
+com.discord,Discord-ゲーマー向けチャットシステム,111,NZ,2018-11-20
+com.gpp.beefactory,BeeFactory,112,NZ,2018-11-20
+br.com.tapps.bidwars,BidWars-StorageAuctionsandPawnShopTycoon,113,NZ,2018-11-20
+com.tw.tycoon.casino,TycoonCasino：無料ラスベガス巨額パチンコ,114,NZ,2018-11-20
+com.surpax.ledflashlight.panel,懐中電灯-ledライト,115,NZ,2018-11-20
+com.episodeinteractive.android.catalog,Episode-ChooseYourStory,116,NZ,2018-11-20
+nz.govt.at.atmobile,ATMobile,117,NZ,2018-11-20
+com.matchington.mansion,マッチングトン·マンション,118,NZ,2018-11-20
+au.com.seek,SEEKJobSearch,119,NZ,2018-11-20
+com.dvloper.granny,Granny,120,NZ,2018-11-20
+com.viber.voip,Viber無料通話＆メッセージアプリ,121,NZ,2018-11-20
+nz.co.westpac,WestpacOne(NZ)MobileBanking,122,NZ,2018-11-20
+com.ketchapp.knifehit,KnifeHit,123,NZ,2018-11-20
+air.com.lunime.gachalife,GachaLife,124,NZ,2018-11-20
+com.getsomeheadspace.android,Headspace:Meditation&Mindfulness,125,NZ,2018-11-20
+com.halfbrick.jetpackjoyride,JetpackJoyride,126,NZ,2018-11-20
+nz.co.skytv.skyconrad,SKYGONZ,127,NZ,2018-11-20
+com.best.photoeditor.beautyeditorpro,BeautyEditorPro,128,NZ,2018-11-20
+com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,129,NZ,2018-11-20
+com.reddit.frontpage,"Reddit:SocialNews,TrendingMemes&FunnyVideos",130,NZ,2018-11-20
+com.eyu.piano,DreamPianoTiles2018-MusicGame,131,NZ,2018-11-20
+com.clearchannel.iheartradio.controller,"iHeartRadio-FreeMusic,Radio&Podcasts",132,NZ,2018-11-20
 com.fm.goplane,PlaneHit!,133,NZ,2018-11-20
-com.futureplay.battleground,BattlelandsRoyale,134,NZ,2018-11-20
-com.clearchannel.iheartradio.controller,"iHeartRadio-FreeMusic,Radio&Podcasts",135,NZ,2018-11-20
-com.king.candycrushsaga,キャンディークラッシュ,136,NZ,2018-11-20
+com.nianticlabs.pokemongo,PokémonGO,134,NZ,2018-11-20
+com.futureplay.battleground,BattlelandsRoyale,135,NZ,2018-11-20
+com.google.android.apps.walletnfcrel,GooglePay-これからのお財布,136,NZ,2018-11-20
 com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,137,NZ,2018-11-20
 nz.co.lightbox,LightboxNZ,138,NZ,2018-11-20
-com.crowdstar.covetfashion,CovetFashion-DressUpGame,139,NZ,2018-11-20
-air.com.hypah.io.slither,slither.io,140,NZ,2018-11-20
-com.google.android.apps.walletnfcrel,GooglePay-これからのお財布,141,NZ,2018-11-20
-com.differencetenderwhite.skirt,ブロックパズルジュエル,142,NZ,2018-11-20
-com.mediaworks.android,ThreeNow,143,NZ,2018-11-20
-com.appblockgames.freecraftexploration,MOD-MASTERforMinecraftPE(PocketEdition)Free,144,NZ,2018-11-20
-com.google.earth,GoogleEarth,145,NZ,2018-11-20
-com.application.zomato,Zomato-RestaurantFinderandFoodDeliveryApp,146,NZ,2018-11-20
-com.NikSanTech.FireDots3D,FireBalls3D,147,NZ,2018-11-20
-com.google.android.apps.photos,Googleフォト,148,NZ,2018-11-20
-com.adobe.reader,AdobeAcrobatReader,149,NZ,2018-11-20
-com.carnivallabs.flybuys,FlyBuysNZ,150,NZ,2018-11-20
-com.ea.gp.simsmobile,TheSims シムズ ポケット,151,NZ,2018-11-20
-com.banggood.client,Banggood-新規会員様を大募集！登録で10%OFFクーポンをGET,152,NZ,2018-11-20
-com.twitter.android,Twitter,153,NZ,2018-11-20
-com.pixelberrystudios.choices,Choices:StoriesYouPlay,154,NZ,2018-11-20
-com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,155,NZ,2018-11-20
-com.face.aasmartfuel,AASmartfuel,156,NZ,2018-11-20
-com.bumble.app,Bumble—デート。友達と会う。ネットワーク。,157,NZ,2018-11-20
-com.sonypicturestelevision.millionaire,MillionaireTrivia:WhoWantsToBeaMillionaire?,158,NZ,2018-11-20
-com.alibaba.intl.android.apps.poseidon,Alibaba.com:オンラインB2B取引マーケットの大手運営会社,159,NZ,2018-11-20
-com.recorder.video.magic.capture.gameplay,CaptureRecorder-ビデオエディタ、スクリーンレコーダー,160,NZ,2018-11-20
-nz.netproject.runaway,Runaway,161,NZ,2018-11-20
-com.google.android.apps.photos.scanner,フォトスキャンbyGoogleフォト,162,NZ,2018-11-20
-nz.co.bnz.droidbanking,BNZMobile,163,NZ,2018-11-20
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,164,NZ,2018-11-20
-com.olacabs.customer,"Olacabs-Taxi,Auto,CarRental,ShareBooking",165,NZ,2018-11-20
-sg.bigo.live,BIGOLIVE（ビゴライブ)‐SNS系ライブ配信,166,NZ,2018-11-20
-com.rubygames.slingdrift,SlingDrift,167,NZ,2018-11-20
-nz.co.stuff.android.news,Stuff.co.nz,168,NZ,2018-11-20
+com.king.candycrushsaga,キャンディークラッシュ,139,NZ,2018-11-20
+com.crowdstar.covetfashion,CovetFashion-DressUpGame,140,NZ,2018-11-20
+com.NikSanTech.FireDots3D,FireBalls3D,141,NZ,2018-11-20
+air.com.hypah.io.slither,slither.io,142,NZ,2018-11-20
+com.banggood.client,Banggood-新規会員様を大募集！登録で10%OFFクーポンをGET,143,NZ,2018-11-20
+com.adobe.reader,AdobeAcrobatReader,144,NZ,2018-11-20
+com.differencetenderwhite.skirt,ブロックパズルジュエル,145,NZ,2018-11-20
+com.google.earth,GoogleEarth,146,NZ,2018-11-20
+com.application.zomato,Zomato-RestaurantFinderandFoodDeliveryApp,147,NZ,2018-11-20
+com.twitter.android,Twitter,148,NZ,2018-11-20
+com.face.aasmartfuel,AASmartfuel,149,NZ,2018-11-20
+com.appblockgames.freecraftexploration,MOD-MASTERforMinecraftPE(PocketEdition)Free,150,NZ,2018-11-20
+com.mediaworks.android,ThreeNow,151,NZ,2018-11-20
+com.google.android.apps.photos,Googleフォト,152,NZ,2018-11-20
+com.ea.gp.simsmobile,TheSims シムズ ポケット,153,NZ,2018-11-20
+com.carnivallabs.flybuys,FlyBuysNZ,154,NZ,2018-11-20
+com.pixelberrystudios.choices,Choices:StoriesYouPlay,155,NZ,2018-11-20
+com.bumble.app,Bumble—デート。友達と会う。ネットワーク。,156,NZ,2018-11-20
+com.sonypicturestelevision.millionaire,MillionaireTrivia:WhoWantsToBeaMillionaire?,157,NZ,2018-11-20
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,158,NZ,2018-11-20
+nz.co.bnz.droidbanking,BNZMobile,159,NZ,2018-11-20
+com.alibaba.intl.android.apps.poseidon,Alibaba.com:オンラインB2B取引マーケットの大手運営会社,160,NZ,2018-11-20
+com.olacabs.customer,"Olacabs-Taxi,Auto,CarRental,ShareBooking",161,NZ,2018-11-20
+com.recorder.video.magic.capture.gameplay,CaptureRecorder-ビデオエディタ、スクリーンレコーダー,162,NZ,2018-11-20
+nz.co.stuff.android.news,Stuff.co.nz,163,NZ,2018-11-20
+sg.bigo.live,BIGOLIVE（ビゴライブ)‐SNS系ライブ配信,164,NZ,2018-11-20
+com.mediaworks.therock,NZRadio:rova-staytuned,165,NZ,2018-11-20
+com.playzeit.wordcheese,WordCross-WordCheese,166,NZ,2018-11-20
+com.google.android.apps.photos.scanner,フォトスキャンbyGoogleフォト,167,NZ,2018-11-20
+com.rubygames.slingdrift,SlingDrift,168,NZ,2018-11-20
 com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),169,NZ,2018-11-20
-com.playzeit.wordcheese,WordCross-WordCheese,170,NZ,2018-11-20
-com.supertapx.bigbigballer,BigBigBaller,171,NZ,2018-11-20
-com.king.candycrush4,キャンディークラッシュフレンズ,172,NZ,2018-11-20
-com.tencent.mm,WeChat,173,NZ,2018-11-20
-com.jellybtn.boardkings,BoardKings™️,174,NZ,2018-11-20
+com.jellybtn.boardkings,BoardKings™️,170,NZ,2018-11-20
+com.king.candycrush4,キャンディークラッシュフレンズ,171,NZ,2018-11-20
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,172,NZ,2018-11-20
+com.supertapx.bigbigballer,BigBigBaller,173,NZ,2018-11-20
+nz.netproject.runaway,Runaway,174,NZ,2018-11-20
 com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,175,NZ,2018-11-20
-com.gtarcade.eoa,EraofCelestials,176,NZ,2018-11-20
-com.mediaworks.therock,NZRadio:rova-staytuned,177,NZ,2018-11-20
+com.tencent.mm,WeChat,176,NZ,2018-11-20
+com.wallpaper.live.launcher,BlingLauncher-LiveWallpapers&Themes,177,NZ,2018-11-20
 com.skype.raider,﻿Skype-無料のチャットとビデオ通話,178,NZ,2018-11-20
-com.feo.feoapp,FEOResultsApp,179,NZ,2018-11-20
-com.fitbit.FitbitMobile,Fitbit,180,NZ,2018-11-20
-com.badoo.mobile,Badoo-無料チャット&デートアプリ,181,NZ,2018-11-20
-com.hitrock.hideonline,HideOnline,182,NZ,2018-11-20
-net.zedge.android,ZEDGE™着信音&壁紙,183,NZ,2018-11-20
-com.smule.singandroid,Smule-ナンバーワンの歌アプリ,184,NZ,2018-11-20
-com.contextlogic.geek,Geek-スマートなショッピングを始めよう,185,NZ,2018-11-20
-com.colorcall.colorphone.flash.dialer,ColorCall-ColorPhone&Flahsshow,186,NZ,2018-11-20
+com.fitbit.FitbitMobile,Fitbit,179,NZ,2018-11-20
+com.gtarcade.eoa,EraofCelestials,180,NZ,2018-11-20
+com.hitrock.hideonline,HideOnline,181,NZ,2018-11-20
+com.badoo.mobile,Badoo-無料チャット&デートアプリ,182,NZ,2018-11-20
+com.smule.singandroid,Smule-ナンバーワンの歌アプリ,183,NZ,2018-11-20
+com.contextlogic.geek,Geek-スマートなショッピングを始めよう,184,NZ,2018-11-20
+com.google.android.apps.authenticator2,Google認証システム,185,NZ,2018-11-20
+com.feo.feoapp,FEOResultsApp,186,NZ,2018-11-20
 com.nextbyteapps.selfcare,SkinnyMobile,187,NZ,2018-11-20
-com.productmadness.cashmancasino,CashmanCasinoSlot:無料カジノスロットゲーム,188,NZ,2018-11-20
-com.sec.android.app.shealth,SHealth,189,NZ,2018-11-20
-com.vialsoft.dttnzfreemium,NZDrivingTheoryTestFree,190,NZ,2018-11-20
+net.zedge.android,ZEDGE™着信音&壁紙,188,NZ,2018-11-20
+com.vialsoft.dttnzfreemium,NZDrivingTheoryTestFree,189,NZ,2018-11-20
+nz.co.trademe.property,TradeMeProperty,190,NZ,2018-11-20
 com.digthatgold.dtg,DigThatGold,191,NZ,2018-11-20
-com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,192,NZ,2018-11-20
-com.google.android.apps.authenticator2,Google認証システム,193,NZ,2018-11-20
-nz.co.trademe.property,TradeMeProperty,194,NZ,2018-11-20
+nz.co.wilson.phonegap,ParkMate,192,NZ,2018-11-20
+com.productmadness.cashmancasino,CashmanCasinoSlot:無料カジノスロットゲーム,193,NZ,2018-11-20
+com.sec.android.app.shealth,SHealth,194,NZ,2018-11-20
 triwin.casino.slots.fortune.gold,GoldFortuneCasino-無料マカオスロット,195,NZ,2018-11-20
-com.lotto.newzealandlottoresults,NewZealandLottoResults,196,NZ,2018-11-20
-com.playrix.homescapes,ホームスケイプ(Homescapes),197,NZ,2018-11-20
-com.buzzfeed.tasty,Tasty,198,NZ,2018-11-20
+com.colorcall.colorphone.flash.dialer,ColorCall-ColorPhone&Flahsshow,196,NZ,2018-11-20
+com.lotto.newzealandlottoresults,NewZealandLottoResults,197,NZ,2018-11-20
+com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),198,NZ,2018-11-20
 com.microsoft.office.onenote,MicrosoftOneNote,199,NZ,2018-11-20
-com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),200,NZ,2018-11-20
-com.pixel.coloring.color.by.number,Pixel.ly3D,201,NZ,2018-11-20
-com.crowdstar.covetHome,DesignHome,202,NZ,2018-11-20
-com.wallpaper.live.launcher,BlingLauncher-LiveWallpapers&Themes,203,NZ,2018-11-20
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,204,NZ,2018-11-20
-leagueofmonkeys.torquedrift,トルク・ドリフト,205,NZ,2018-11-20
-com.duolingo,Duolingo|英語を無料で学ぼう,206,NZ,2018-11-20
-nz.co.wilson.phonegap,ParkMate,207,NZ,2018-11-20
-com.playgendary.flipgun,FliptheGun-SimulatorGame,208,NZ,2018-11-20
-com.dropbox.android,Dropbox,209,NZ,2018-11-20
-com.google.android.apps.youtube.kids,YouTubeKids,210,NZ,2018-11-20
-com.playway.cms2017,CarMechanicSimulator18,211,NZ,2018-11-20
-com.lumoslabs.lumosity,Lumosity:#1脳トレゲーム・認知力トレーニングアプリ,212,NZ,2018-11-20
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),213,NZ,2018-11-20
-com.gramgames.mergedragons,マージドラゴン(MergeDragons!),214,NZ,2018-11-20
-com.google.android.videos,GooglePlayムービー＆TV,215,NZ,2018-11-20
-com.instagram.layout,LayoutfromInstagram,216,NZ,2018-11-20
-io.faceapp,FaceApp,217,NZ,2018-11-20
-com.myfitnesspal.android,MyFitnessPal,218,NZ,2018-11-20
-com.freevpnintouch,FreeVPN-BetternetVPNProxy&Wi-FiSecurity,219,NZ,2018-11-20
-com.google.android.music,GooglePlayミュージック,220,NZ,2018-11-20
-com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",221,NZ,2018-11-20
-com.redbull.bike2,BikeUnchained2,222,NZ,2018-11-20
-au.com.dominos.olo.android.app.nz,Domino's,223,NZ,2018-11-20
-com.kingsgroup.ww2,Zデー:ハーツオブヒーローズ,224,NZ,2018-11-20
-com.playtika.wsop.gp,WSOP無料ポーカー(WorldSeriesofPoker),225,NZ,2018-11-20
-com.samsung.android.oneconnect,SmartThings,226,NZ,2018-11-20
-com.imangi.templerun2,TempleRun2,227,NZ,2018-11-20
-com.bp.bpmenz,BPMeforfasterfuel&coffee,228,NZ,2018-11-20
-com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),229,NZ,2018-11-20
-nz.co.campermate,CamperMate,230,NZ,2018-11-20
-com.linkedin.android,LinkedIn,231,NZ,2018-11-20
-com.playgendary.sportmasters,Bouncemasters!,232,NZ,2018-11-20
-com.puzzlegame.puzzledom,Puzzledomパズルダムシンプルで頭が良くなるパズル,233,NZ,2018-11-20
+com.playrix.homescapes,ホームスケイプ(Homescapes),200,NZ,2018-11-20
+com.dropbox.android,Dropbox,201,NZ,2018-11-20
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,202,NZ,2018-11-20
+com.buzzfeed.tasty,Tasty,203,NZ,2018-11-20
+com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",204,NZ,2018-11-20
+com.duolingo,Duolingo|英語を無料で学ぼう,205,NZ,2018-11-20
+com.crowdstar.covetHome,DesignHome,206,NZ,2018-11-20
+com.playgendary.flipgun,FliptheGun-SimulatorGame,207,NZ,2018-11-20
+com.instagram.layout,LayoutfromInstagram,208,NZ,2018-11-20
+leagueofmonkeys.torquedrift,トルク・ドリフト,209,NZ,2018-11-20
+com.pixel.coloring.color.by.number,Pixel.ly3D,210,NZ,2018-11-20
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,211,NZ,2018-11-20
+com.freevpnintouch,FreeVPN-BetternetVPNProxy&Wi-FiSecurity,212,NZ,2018-11-20
+com.playway.cms2017,CarMechanicSimulator18,213,NZ,2018-11-20
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),214,NZ,2018-11-20
+com.lumoslabs.lumosity,Lumosity:#1脳トレゲーム・認知力トレーニングアプリ,215,NZ,2018-11-20
+com.google.android.apps.youtube.kids,YouTubeKids,216,NZ,2018-11-20
+com.myfitnesspal.android,MyFitnessPal,217,NZ,2018-11-20
+io.faceapp,FaceApp,218,NZ,2018-11-20
+com.bp.bpmenz,BPMeforfasterfuel&coffee,219,NZ,2018-11-20
+com.google.android.videos,GooglePlayムービー＆TV,220,NZ,2018-11-20
+com.redbull.bike2,BikeUnchained2,221,NZ,2018-11-20
+com.gramgames.mergedragons,マージドラゴン(MergeDragons!),222,NZ,2018-11-20
+com.linkedin.android,LinkedIn,223,NZ,2018-11-20
+com.security.xvpn.z35kb,X-VPN-FreeUnlimitedVPNProxy,224,NZ,2018-11-20
+com.google.android.music,GooglePlayミュージック,225,NZ,2018-11-20
+nz.co.campermate,CamperMate,226,NZ,2018-11-20
+com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),227,NZ,2018-11-20
+au.com.dominos.olo.android.app.nz,Domino's,228,NZ,2018-11-20
+com.instcoffee.instlife,InstLife,229,NZ,2018-11-20
+com.banana4apps.evolution,人類進化ゲームの人に贈る指輪の人類,230,NZ,2018-11-20
+com.playtika.wsop.gp,WSOP無料ポーカー(WorldSeriesofPoker),231,NZ,2018-11-20
+com.imangi.templerun2,TempleRun2,232,NZ,2018-11-20
+com.samsung.android.oneconnect,SmartThings,233,NZ,2018-11-20
 com.bestringtonesapps.freeringtonesforandroid,無料着信音Android™,234,NZ,2018-11-20
-com.miniclip.bowmasters,Bowmasters,235,NZ,2018-11-20
-com.dc.hwsj,GameofSultans,236,NZ,2018-11-20
-com.banana4apps.evolution,人類進化ゲームの人に贈る指輪の人類,237,NZ,2018-11-20
-com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),238,NZ,2018-11-20
-com.amazon.avod.thirdpartyclient,Amazonプライム・ビデオ,239,NZ,2018-11-20
-com.ebay.mobile,"Fashion&TechDeals-Shop,Sell&SavewitheBay",240,NZ,2018-11-20
-com.cmplay.bricksnballs,ブリックツムツム,241,NZ,2018-11-20
-com.microsoft.office.word,MicrosoftWord,242,NZ,2018-11-20
-com.msi.logogame,LogoGame:GuessBrandQuizロゴゲーム：ブランド当てクイズ,243,NZ,2018-11-20
-org.westpac.bank,WestpacMobileBanking,244,NZ,2018-11-20
-air.com.playtika.slotomania,Slotomania™-FreeSlots英語版,245,NZ,2018-11-20
-com.zepni.dog,MergeDogs,246,NZ,2018-11-20
-com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,247,NZ,2018-11-20
-com.emn8.mobilem8.nativeapp.bknz,BURGERKING®App-NewZealand,248,NZ,2018-11-20
-com.dts.freefireth,フリーファイア,249,NZ,2018-11-20
-com.google.android.apps.docs,Googleドライブ,250,NZ,2018-11-20
-com.appynation.puzzlepage,PuzzlePage,251,NZ,2018-11-20
-com.instcoffee.instlife,InstLife,252,NZ,2018-11-20
-me.pou.app,プーチッチPou,253,NZ,2018-11-20
-com.playstudios.popslots,POP!Slots－スロット無料カジノ,254,NZ,2018-11-20
-com.Sequin.Flip.Live.Wallpaper.App,スパンコールキラキラライブ壁紙,255,NZ,2018-11-20
-com.randomlogicgames.wordsearch,InfiniteWordSearchPuzzles,256,NZ,2018-11-20
-com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,257,NZ,2018-11-20
-com.microsoft.launcher,MicrosoftLauncher,258,NZ,2018-11-20
-com.mizo.police.airplane.transporter,警察面トランスポータゲーム,259,NZ,2018-11-20
-org.zwanoo.android.speedtest,Speedtest.net,260,NZ,2018-11-20
-com.google.android.apps.docs.editors.sheets,Googleスプレッドシート,261,NZ,2018-11-20
-com.google.android.projection.gearhead,AndroidAuto-マップ、メディア、メッセージ、音声操作,262,NZ,2018-11-20
-com.streema.simpleradio,シンプルラジオ-無料のライブFMAMラジオ局,263,NZ,2018-11-20
-com.toastmartinborough.app,ToastMartinborough,264,NZ,2018-11-20
-com.aim.racing,ExtremeCarDrivingSimulator,265,NZ,2018-11-20
-com.google.android.calendar,Googleカレンダー,266,NZ,2018-11-20
-nz.co.pizzahut,PizzaHutNewZealand,267,NZ,2018-11-20
-com.security.xvpn.z35kb,X-VPN-FreeUnlimitedVPNProxy,268,NZ,2018-11-20
-com.ea.games.r3_row,RealRacing3,269,NZ,2018-11-20
-jp.ne.ibis.ibispaintx.app,アイビスペイントX,270,NZ,2018-11-20
+org.westpac.bank,WestpacMobileBanking,235,NZ,2018-11-20
+com.miniclip.bowmasters,Bowmasters,236,NZ,2018-11-20
+com.playgendary.sportmasters,Bouncemasters!,237,NZ,2018-11-20
+com.kingsgroup.ww2,Zデー:ハーツオブヒーローズ,238,NZ,2018-11-20
+com.microsoft.office.word,MicrosoftWord,239,NZ,2018-11-20
+com.puzzlegame.puzzledom,Puzzledomパズルダムシンプルで頭が良くなるパズル,240,NZ,2018-11-20
+com.google.android.apps.docs.editors.sheets,Googleスプレッドシート,241,NZ,2018-11-20
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),242,NZ,2018-11-20
+com.cmplay.bricksnballs,ブリックツムツム,243,NZ,2018-11-20
+com.dc.hwsj,GameofSultans,244,NZ,2018-11-20
+com.amazon.avod.thirdpartyclient,Amazonプライム・ビデオ,245,NZ,2018-11-20
+com.ebay.mobile,"Fashion&TechDeals-Shop,Sell&SavewitheBay",246,NZ,2018-11-20
+com.msi.logogame,LogoGame:GuessBrandQuizロゴゲーム：ブランド当てクイズ,247,NZ,2018-11-20
+air.com.playtika.slotomania,Slotomania™-FreeSlots英語版,248,NZ,2018-11-20
+com.zepni.dog,MergeDogs,249,NZ,2018-11-20
+com.google.android.projection.gearhead,AndroidAuto-マップ、メディア、メッセージ、音声操作,250,NZ,2018-11-20
+com.emn8.mobilem8.nativeapp.bknz,BURGERKING®App-NewZealand,251,NZ,2018-11-20
+com.streema.simpleradio,シンプルラジオ-無料のライブFMAMラジオ局,252,NZ,2018-11-20
+com.google.android.calendar,Googleカレンダー,253,NZ,2018-11-20
+com.randomlogicgames.wordsearch,InfiniteWordSearchPuzzles,254,NZ,2018-11-20
+com.playstudios.popslots,POP!Slots－スロット無料カジノ,255,NZ,2018-11-20
+com.appynation.puzzlepage,PuzzlePage,256,NZ,2018-11-20
+com.microsoft.launcher,MicrosoftLauncher,257,NZ,2018-11-20
+com.dts.freefireth,フリーファイア,258,NZ,2018-11-20
+com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,259,NZ,2018-11-20
+com.yottagames.mafiawar,マフィア・シティ-極道風雲,260,NZ,2018-11-20
+com.aim.racing,ExtremeCarDrivingSimulator,261,NZ,2018-11-20
+com.mizo.police.airplane.transporter,警察面トランスポータゲーム,262,NZ,2018-11-20
+com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,263,NZ,2018-11-20
+com.google.android.apps.docs,Googleドライブ,264,NZ,2018-11-20
+org.zwanoo.android.speedtest,Speedtest.net,265,NZ,2018-11-20
+me.pou.app,プーチッチPou,266,NZ,2018-11-20
+com.Sequin.Flip.Live.Wallpaper.App,スパンコールキラキラライブ壁紙,267,NZ,2018-11-20
+com.duapps.recorder,DURecorder–画面レコーダーおよびビデオエディター,268,NZ,2018-11-20
+jp.ne.ibis.ibispaintx.app,アイビスペイントX,269,NZ,2018-11-20
+com.estoty.borntoclimb,RockyClimb,270,NZ,2018-11-20
 lemmingsatwork.quiz,クイズロゴゲーム,271,NZ,2018-11-20
-com.yottagames.mafiawar,マフィア・シティ-極道風雲,272,NZ,2018-11-20
-com.jetstartgames.chess,チェス,273,NZ,2018-11-20
-com.duapps.recorder,DURecorder–画面レコーダーおよびビデオエディター,274,NZ,2018-11-20
-de.kamibox.bacon,Bacon–TheGame,275,NZ,2018-11-20
-com.easybrain.sudoku.android,ナンプレ,276,NZ,2018-11-20
-com.imangi.templerun,TempleRun,277,NZ,2018-11-20
-com.musicstreaming.freemusic,FreeMusic,278,NZ,2018-11-20
-com.hicloud.android.clone,PhoneClone,279,NZ,2018-11-20
-com.yodo1.hangline,HangLine,280,NZ,2018-11-20
-com.calm.android,"Calm-Meditate,Sleep,Relax",281,NZ,2018-11-20
-com.bicycle.app,OnzO,282,NZ,2018-11-20
-com.estoty.borntoclimb,RockyClimb,283,NZ,2018-11-20
-com.clean.boost.file,SuperCleaner,284,NZ,2018-11-20
-org.videolan.vlc,VLCforAndroid,285,NZ,2018-11-20
-com.tubitv,TubiTV-無料テレビ＆映画,286,NZ,2018-11-20
-com.evertechsandbox,EvertechSandbox,287,NZ,2018-11-20
-com.flowerdev.jojosiwasonglyricsnewseries,JojoSiwa-AllSongandLyrics,288,NZ,2018-11-20
-com.homescreen.phone.theme,PopLauncher-BlackEmojis&Themes,289,NZ,2018-11-20
-fm.castbox.audiobook.radio.podcast,Castbox–無料の、素晴らしいPodcastのためのアプリ,290,NZ,2018-11-20
-com.kabam.marvelbattle,MARVELオールスターバトル,291,NZ,2018-11-20
-com.grabone.goapprn,GrabOne,292,NZ,2018-11-20
-com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,293,NZ,2018-11-20
-com.ovelin.guitartuna,無料　チューナー　GuitarTuna,294,NZ,2018-11-20
-com.ftt.boxingstar.gl.aos,ボクシングスター(BoxingStar),295,NZ,2018-11-20
-com.pic.photoeditor,PhotoEditor-PhotoEffects&Filter&Sticker,296,NZ,2018-11-20
-de.stocard.stocard,Stocard-ポイントカード,297,NZ,2018-11-20
-com.dramaton.slime,SuperSlimeSimulator-SatisfyingSlimeApp,298,NZ,2018-11-20
-com.alegrium.cong2,"Cash,Inc.マネー・タップゲーム&ビジネスアドベンチャー",299,NZ,2018-11-20
-com.fingersoft.hcr2,HillClimbRacing2,300,NZ,2018-11-20
-com.ink.jetstar.mobile.app,ジェットスター,301,NZ,2018-11-20
-com.detector.lie.game.prank,嘘発見器(ジョーク)joke,302,NZ,2018-11-20
-com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,303,NZ,2018-11-20
-com.playgendary.tanks,TankStars,304,NZ,2018-11-20
-com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,305,NZ,2018-11-20
-stickmanwarriors.stickmanWar.online,StickmanWarriorsOnline:EpicWar,306,NZ,2018-11-20
-com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,307,NZ,2018-11-20
-com.moonactive.coinmaster,CoinMaster,308,NZ,2018-11-20
-archery.elite.shooting.free.game.android,エリート射手,309,NZ,2018-11-20
-com.google.ar.core,ARCorebyGoogle,310,NZ,2018-11-20
-com.yahoo.mobile.client.android.mail,YahooMail–StayOrganized,311,NZ,2018-11-20
-com.BlackGames.MathRiddles,Math|RiddlesandPuzzlesMathGame,312,NZ,2018-11-20
-com.cmplay.tiles2,ピアノタイル2™,313,NZ,2018-11-20
-com.scee.psxandroid,PlayStationApp,314,NZ,2018-11-20
-com.digidust.elokence.akinator.freemium,Akinator,315,NZ,2018-11-20
-com.lemongame.klondike.solitaire,ソリティア,316,NZ,2018-11-20
+com.grabone.goapprn,GrabOne,272,NZ,2018-11-20
+com.ea.games.r3_row,RealRacing3,273,NZ,2018-11-20
+com.homescreen.phone.theme,PopLauncher-BlackEmojis&Themes,274,NZ,2018-11-20
+com.imangi.templerun,TempleRun,275,NZ,2018-11-20
+fm.castbox.audiobook.radio.podcast,Castbox–無料の、素晴らしいPodcastのためのアプリ,276,NZ,2018-11-20
+nz.co.pizzahut,PizzaHutNewZealand,277,NZ,2018-11-20
+com.toastmartinborough.app,ToastMartinborough,278,NZ,2018-11-20
+com.jetstartgames.chess,チェス,279,NZ,2018-11-20
+de.kamibox.bacon,Bacon–TheGame,280,NZ,2018-11-20
+com.yodo1.hangline,HangLine,281,NZ,2018-11-20
+com.samsung.android.email.provider,GalaxyEメール,282,NZ,2018-11-20
+org.videolan.vlc,VLCforAndroid,283,NZ,2018-11-20
+com.easybrain.sudoku.android,ナンプレ,284,NZ,2018-11-20
+com.azure.authenticator,MicrosoftAuthenticator,285,NZ,2018-11-20
+com.musicstreaming.freemusic,FreeMusic,286,NZ,2018-11-20
+com.clean.boost.file,SuperCleaner,287,NZ,2018-11-20
+de.stocard.stocard,Stocard-ポイントカード,288,NZ,2018-11-20
+com.bicycle.app,OnzO,289,NZ,2018-11-20
+com.hicloud.android.clone,PhoneClone,290,NZ,2018-11-20
+com.ink.jetstar.mobile.app,ジェットスター,291,NZ,2018-11-20
+com.evertechsandbox,EvertechSandbox,292,NZ,2018-11-20
+com.google.ar.core,ARCorebyGoogle,293,NZ,2018-11-20
+com.tubitv,TubiTV-無料テレビ＆映画,294,NZ,2018-11-20
+com.pic.photoeditor,PhotoEditor-PhotoEffects&Filter&Sticker,295,NZ,2018-11-20
+com.calm.android,"Calm-Meditate,Sleep,Relax",296,NZ,2018-11-20
+com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,297,NZ,2018-11-20
+com.flowerdev.jojosiwasonglyricsnewseries,JojoSiwa-AllSongandLyrics,298,NZ,2018-11-20
+com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,299,NZ,2018-11-20
+com.kabam.marvelbattle,MARVELオールスターバトル,300,NZ,2018-11-20
+com.playgendary.tanks,TankStars,301,NZ,2018-11-20
+note.idea.notepad.pro,"IdeaNote:OCRTextScanner,GTD,ColorNotes",302,NZ,2018-11-20
+com.moonactive.coinmaster,CoinMaster,303,NZ,2018-11-20
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,304,NZ,2018-11-20
+com.ovelin.guitartuna,無料　チューナー　GuitarTuna,305,NZ,2018-11-20
+com.detector.lie.game.prank,嘘発見器(ジョーク)joke,306,NZ,2018-11-20
+com.dramaton.slime,SuperSlimeSimulator-SatisfyingSlimeApp,307,NZ,2018-11-20
+air.au.whitech.mobile.imagine.fotofinish,Fotofinish,308,NZ,2018-11-20
+com.alegrium.cong2,"Cash,Inc.マネー・タップゲーム&ビジネスアドベンチャー",309,NZ,2018-11-20
+com.ftt.boxingstar.gl.aos,ボクシングスター(BoxingStar),310,NZ,2018-11-20
+com.fingersoft.hcr2,HillClimbRacing2,311,NZ,2018-11-20
+com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,312,NZ,2018-11-20
+com.BlackGames.MathRiddles,Math|RiddlesandPuzzlesMathGame,313,NZ,2018-11-20
+stickmanwarriors.stickmanWar.online,StickmanWarriorsOnline:EpicWar,314,NZ,2018-11-20
+com.yahoo.mobile.client.android.mail,YahooMail–StayOrganized,315,NZ,2018-11-20
+com.scee.psxandroid,PlayStationApp,316,NZ,2018-11-20
 com.lionmobi.battery,PowerBattery-節電、快速充電、電池計測&最適化,317,NZ,2018-11-20
-com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,318,NZ,2018-11-20
-com.mobivio.android.cutecut,CuteCUT-全機能動画編集,319,NZ,2018-11-20
-com.bycodec.offroad,[PROJECT:OFFROAD],320,NZ,2018-11-20
-com.azure.authenticator,MicrosoftAuthenticator,321,NZ,2018-11-20
-com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,322,NZ,2018-11-20
-slots.secretsauce.casino.games.free,CashFrenzyCasino-FreeSlots&CasinoGames,323,NZ,2018-11-20
-nz.co.zoomy.zoomy,Zoomy,324,NZ,2018-11-20
-com.sec.android.app.sbrowser,SamsungInternetBrowser,325,NZ,2018-11-20
-com.google.android.contacts,連絡帳,326,NZ,2018-11-20
-com.magisto,Magisto-動画編集・作成アプリ,327,NZ,2018-11-20
-com.ccl.emotesfbr,BAILESDEFBR,328,NZ,2018-11-20
-air.au.whitech.mobile.imagine.fotofinish,Fotofinish,329,NZ,2018-11-20
-com.bitmango.go.wheresmyavocadodrawlines,Where'sMyAvocado?Drawlines,330,NZ,2018-11-20
-com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,331,NZ,2018-11-20
-com.gameloft.android.ANMP.GloftDYHM,ディズニーマジックキングダムズ,332,NZ,2018-11-20
-com.samsung.android.email.provider,GalaxyEメール,333,NZ,2018-11-20
-com.apple.movetoios,MovetoiOS,334,NZ,2018-11-20
-nz.co.aa.roadcodequiz.android,AARoadCodeQuiz,335,NZ,2018-11-20
-zombie.survival.craft.z,LastDayonEarth:Survival,336,NZ,2018-11-20
-com.fgol.HungrySharkEvolution,ハングリーシャーク・エボリューション,337,NZ,2018-11-20
-com.voice.changer.effect,ボイスチェンジャー-SUPERボイスエフェクト,338,NZ,2018-11-20
-com.lilithgame.roc.gp,RiseofCivilizations,339,NZ,2018-11-20
-com.rocketjump.majormayhem2,MajorMayhem2-GunShootingAction,340,NZ,2018-11-20
-com.google.android.apps.tachyon,GoogleDuo-高品質のビデオ通話,341,NZ,2018-11-20
-com.tfgco.apps.coloring.free.color.by.number,数字で塗り絵：無料塗り絵帳(ColorbyNumber),342,NZ,2018-11-20
+com.cmplay.tiles2,ピアノタイル2™,318,NZ,2018-11-20
+archery.elite.shooting.free.game.android,エリート射手,319,NZ,2018-11-20
+nz.co.zoomy.zoomy,Zoomy,320,NZ,2018-11-20
+com.magisto,Magisto-動画編集・作成アプリ,321,NZ,2018-11-20
+com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,322,NZ,2018-11-20
+com.digidust.elokence.akinator.freemium,Akinator,323,NZ,2018-11-20
+slots.secretsauce.casino.games.free,CashFrenzyCasino-FreeSlots&CasinoGames,324,NZ,2018-11-20
+com.lemongame.klondike.solitaire,ソリティア,325,NZ,2018-11-20
+com.mobivio.android.cutecut,CuteCUT-全機能動画編集,326,NZ,2018-11-20
+com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,327,NZ,2018-11-20
+com.google.android.contacts,連絡帳,328,NZ,2018-11-20
+com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,329,NZ,2018-11-20
+com.bycodec.offroad,[PROJECT:OFFROAD],330,NZ,2018-11-20
+com.sec.android.app.sbrowser,SamsungInternetBrowser,331,NZ,2018-11-20
+nz.co.aa.roadcodequiz.android,AARoadCodeQuiz,332,NZ,2018-11-20
+com.ccl.emotesfbr,BAILESDEFBR,333,NZ,2018-11-20
+com.airnewzealand.android.grabaseat,Grabaseat,334,NZ,2018-11-20
+com.rocketjump.majormayhem2,MajorMayhem2-GunShootingAction,335,NZ,2018-11-20
+au.com.vodafone.dreamlabapp,DreamLab,336,NZ,2018-11-20
+com.bitmango.go.wheresmyavocadodrawlines,Where'sMyAvocado?Drawlines,337,NZ,2018-11-20
+com.lilithgame.roc.gp,RiseofCivilizations,338,NZ,2018-11-20
+com.apple.movetoios,MovetoiOS,339,NZ,2018-11-20
+com.infinite.shooting.galaxy.attack,インフィニティシューティング：銀河戦争,340,NZ,2018-11-20
+com.tfgco.apps.coloring.free.color.by.number,数字で塗り絵：無料塗り絵帳(ColorbyNumber),341,NZ,2018-11-20
+messengerchatapp.new17.update2017,メッセンジャー：オールインワンメッセージング＆ビデオ通話,342,NZ,2018-11-20
 com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),343,NZ,2018-11-20
-com.pixonic.wwr,WarRobots,344,NZ,2018-11-20
-com.infinite.shooting.galaxy.attack,インフィニティシューティング：銀河戦争,345,NZ,2018-11-20
-photocollage.photoeditor.collagemaker,写真コラージュ:画像加工&写真編集者,346,NZ,2018-11-20
-com.sirma.mobile.bible.android,聖書-音読聖書-全て無料,347,NZ,2018-11-20
-com.airnewzealand.android.grabaseat,Grabaseat,348,NZ,2018-11-20
-com.playgendary.sportmasterstwo,Golfmasters-FunGolfGame,349,NZ,2018-11-20
-com.rosegal,Rosegal:ShopFashionClothes,350,NZ,2018-11-20
-messengerchatapp.new17.update2017,メッセンジャー：オールインワンメッセージング＆ビデオ通話,351,NZ,2018-11-20
-com.samsung.android.app.watchmanager,GalaxyWearable(GearManager),352,NZ,2018-11-20
+com.sirma.mobile.bible.android,聖書-音読聖書-全て無料,344,NZ,2018-11-20
+com.fgol.HungrySharkEvolution,ハングリーシャーク・エボリューション,345,NZ,2018-11-20
+us.zoom.videomeetings,ZOOMCloudMeetings,346,NZ,2018-11-20
+com.gameloft.android.ANMP.GloftDYHM,ディズニーマジックキングダムズ,347,NZ,2018-11-20
+zombie.survival.craft.z,LastDayonEarth:Survival,348,NZ,2018-11-20
+com.google.android.apps.tachyon,GoogleDuo-高品質のビデオ通話,349,NZ,2018-11-20
+com.voice.changer.effect,ボイスチェンジャー-SUPERボイスエフェクト,350,NZ,2018-11-20
+photocollage.photoeditor.collagemaker,写真コラージュ:画像加工&写真編集者,351,NZ,2018-11-20
+com.rosegal,Rosegal:ShopFashionClothes,352,NZ,2018-11-20
 com.giphy.messenger,GIPHY-AnimatedGIFsSearchEngine,353,NZ,2018-11-20
-com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,354,NZ,2018-11-20
-messenger.chat.social.messenger,"MessengerforMessages,TextandVideoChat",355,NZ,2018-11-20
-invaders.os.galaxy.space.shooter.attack.classic,ファルコンスカッドー銀河系の守護者,356,NZ,2018-11-20
-com.castify,CasttoTV&Chromecast,357,NZ,2018-11-20
-com.yodo1.crossyroad,クロッシーロード,358,NZ,2018-11-20
-com.popreach.dumbways,DumbWaystoDieOriginal,359,NZ,2018-11-20
-com.logitech.ueboom,UEBOOM,360,NZ,2018-11-20
-com.huracan.chatstories,Thrill:chatbookwithshortstoriestoread,361,NZ,2018-11-20
-note.idea.notepad.pro,"IdeaNote:OCRTextScanner,GTD,ColorNotes",362,NZ,2018-11-20
-com.music.bgplayer,BGPlayer,363,NZ,2018-11-20
-com.motionvolt.flipbounce,FlipMaster,364,NZ,2018-11-20
-triwin.billionaire.casino.free,RichestSlotsCasino-無料マカオ・ジャックポット・スロット,365,NZ,2018-11-20
-com.life360.android.safetymapd,Life360－子供の見守り、家族と位置情報共有アプリ,366,NZ,2018-11-20
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,367,NZ,2018-11-20
-com.fengiiley.frlegends,FRLEGENDS,368,NZ,2018-11-20
-com.joytunes.simplypiano,SimplyPianobyJoyTunes,369,NZ,2018-11-20
-us.zoom.videomeetings,ZOOMCloudMeetings,370,NZ,2018-11-20
-at.ner.lepsWorld2,Lep'sWorld2🍀🍀,371,NZ,2018-11-20
-com.creative.sandbox.number.drawning.coloring,No.Draw-数字で塗り絵スケッチブック,372,NZ,2018-11-20
-com.titan.cd.gb,CreativeDestruction,373,NZ,2018-11-20
-com.pnixgames.minigolfking,MiniGolfKing-マルチプレイヤーゲーム,374,NZ,2018-11-20
-com.amazon.dee.app,AmazonAlexa,375,NZ,2018-11-20
-com.nordcurrent.murderinalps,MurderintheAlps,376,NZ,2018-11-20
-com.hyperbeard.axolochi,Axolochiうーぱっち,377,NZ,2018-11-20
-org.mozilla.firefox,Firefoxブラウザー高速&プライベート,378,NZ,2018-11-20
-com.apple.android.music,AppleMusic,379,NZ,2018-11-20
-net.rention.mind.skillz,Skillz-LogicBrainGames,380,NZ,2018-11-20
-com.google.android.apps.books,GooglePlayブックス,381,NZ,2018-11-20
-au.com.vodafone.dreamlabapp,DreamLab,382,NZ,2018-11-20
-com.edjing.edjingdjturntable,edjingMix:DJミュージックミキサーコンソール,383,NZ,2018-11-20
-com.amazon.kindle,Kindle電子書籍リーダー:人気小説や無料漫画、雑誌も多数,384,NZ,2018-11-20
-com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ作成,385,NZ,2018-11-20
-io.voodoo.dune,Dune!,386,NZ,2018-11-20
-air.com.officemax.magicmirror.ElfYourSelf,ElfYourself®ByOfficeDepot,387,NZ,2018-11-20
-com.google.android.apps.adm,端末を探す,388,NZ,2018-11-20
-com.smule.magicpiano,MagicPiano(マジックピアノ)bySmule,389,NZ,2018-11-20
-io.voodoo.holeio,Hole.io,390,NZ,2018-11-20
-com.funcamerastudio.videomaker,VideoMaker—動画編集＆動画作成＆動画加工&音楽&魔法のビデオエディタ,391,NZ,2018-11-20
-com.ketchapp.rider,Rider,392,NZ,2018-11-20
-com.microsoft.xboxone.smartglass,Xbox,393,NZ,2018-11-20
-com.ubercab.driver,UberDriver-ドライバー用,394,NZ,2018-11-20
-com.flytunes.video,FlyTunes-FreeMusicPlayer&YouTubeMusic,395,NZ,2018-11-20
-homeworkout.homeworkouts.noequipment,自宅トレーニング-器具は必要なし&筋トレ,396,NZ,2018-11-20
-nz.co.skytv.neontv,NEONNZ,397,NZ,2018-11-20
-com.lego.common.legolife,レゴライフレゴ公式のコミュニティアプリ,398,NZ,2018-11-20
-com.WildWorks.AnimalJamPlayWild,AnimalJam-PlayWild!,399,NZ,2018-11-20
-com.coldapp.at50rooms1,Escapegame:50rooms1,400,NZ,2018-11-20
-com.mwm.drum,Drums-リアルなドラムセット・ゲーム,401,NZ,2018-11-20
-com.scopely.yux,NewYAHTZEE®WithBuddiesDiceGame,402,NZ,2018-11-20
-com.google.android.apps.fitness,GoogleFit:運動を記録して健康的な生活を,403,NZ,2018-11-20
-game.bubble.shooter.dragon.pop,バブルシューティング,404,NZ,2018-11-20
-com.ram.transparentlivewallpaper,透明ライブ壁紙,405,NZ,2018-11-20
-com.mtvn.loudhouseapp,LoudHouse:UltimateTreehouse,406,NZ,2018-11-20
-com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,407,NZ,2018-11-20
-tw.mobileapp.qrcode.banner,QRコードリーダー,408,NZ,2018-11-20
-com.instagram.boomerang,BoomerangfromInstagram,409,NZ,2018-11-20
-com.nintendo.zara,SuperMarioRun,410,NZ,2018-11-20
-com.ea.gp.fifamobile,FIFAサッカー,411,NZ,2018-11-20
-com.androbaby.game2048,2048,412,NZ,2018-11-20
-com.ketchapp.policerunner,PoliceRunner,413,NZ,2018-11-20
-com.ovilex.flightsim2018,FlightSim2018,414,NZ,2018-11-20
-com.billiards.city.pool.nation.club,ビリヤードシティ,415,NZ,2018-11-20
-com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,416,NZ,2018-11-20
-com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),417,NZ,2018-11-20
-com.trivago,trivago:ホテル検索・料金比較アプリ,418,NZ,2018-11-20
-com.bagelcode.slots1,ClubVegasCasinoSlots-カジノスロットゲーム,419,NZ,2018-11-20
-keto.diet.weightloss.plan,KetoDietWeightlossPlan,420,NZ,2018-11-20
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,421,NZ,2018-11-20
-com.sec.app.samsungprintservice,SamsungPrintServicePlugin,422,NZ,2018-11-20
+com.playgendary.sportmasterstwo,Golfmasters-FunGolfGame,354,NZ,2018-11-20
+invaders.os.galaxy.space.shooter.attack.classic,ファルコンスカッドー銀河系の守護者,355,NZ,2018-11-20
+com.huracan.chatstories,Thrill:chatbookwithshortstoriestoread,356,NZ,2018-11-20
+com.popreach.dumbways,DumbWaystoDieOriginal,357,NZ,2018-11-20
+com.logitech.ueboom,UEBOOM,358,NZ,2018-11-20
+com.pixonic.wwr,WarRobots,359,NZ,2018-11-20
+messenger.chat.social.messenger,"MessengerforMessages,TextandVideoChat",360,NZ,2018-11-20
+com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,361,NZ,2018-11-20
+com.yodo1.crossyroad,クロッシーロード,362,NZ,2018-11-20
+com.samsung.android.app.watchmanager,GalaxyWearable(GearManager),363,NZ,2018-11-20
+com.castify,CasttoTV&Chromecast,364,NZ,2018-11-20
+com.life360.android.safetymapd,Life360－子供の見守り、家族と位置情報共有アプリ,365,NZ,2018-11-20
+com.music.bgplayer,BGPlayer,366,NZ,2018-11-20
+com.motionvolt.flipbounce,FlipMaster,367,NZ,2018-11-20
+at.ner.lepsWorld2,Lep'sWorld2🍀🍀,368,NZ,2018-11-20
+com.apple.android.music,AppleMusic,369,NZ,2018-11-20
+com.fengiiley.frlegends,FRLEGENDS,370,NZ,2018-11-20
+com.nordcurrent.murderinalps,MurderintheAlps,371,NZ,2018-11-20
+io.voodoo.dune,Dune!,372,NZ,2018-11-20
+org.mozilla.firefox,Firefoxブラウザー高速&プライベート,373,NZ,2018-11-20
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,374,NZ,2018-11-20
+com.creative.sandbox.number.drawning.coloring,No.Draw-数字で塗り絵スケッチブック,375,NZ,2018-11-20
+com.google.android.apps.books,GooglePlayブックス,376,NZ,2018-11-20
+com.titan.cd.gb,CreativeDestruction,377,NZ,2018-11-20
+com.amazon.kindle,Kindle電子書籍リーダー:人気小説や無料漫画、雑誌も多数,378,NZ,2018-11-20
+net.rention.mind.skillz,Skillz-LogicBrainGames,379,NZ,2018-11-20
+com.hyperbeard.axolochi,Axolochiうーぱっち,380,NZ,2018-11-20
+com.joytunes.simplypiano,SimplyPianobyJoyTunes,381,NZ,2018-11-20
+com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ作成,382,NZ,2018-11-20
+tw.mobileapp.qrcode.banner,QRコードリーダー,383,NZ,2018-11-20
+com.amazon.dee.app,AmazonAlexa,384,NZ,2018-11-20
+com.pnixgames.minigolfking,MiniGolfKing-マルチプレイヤーゲーム,385,NZ,2018-11-20
+com.nordvpn.android,VPN:高速&無制限のNordVPN–日本＋60カ国、期間限定無料,386,NZ,2018-11-20
+triwin.billionaire.casino.free,RichestSlotsCasino-無料マカオ・ジャックポット・スロット,387,NZ,2018-11-20
+com.scopely.yux,NewYAHTZEE®WithBuddiesDiceGame,388,NZ,2018-11-20
+com.edjing.edjingdjturntable,edjingMix:DJミュージックミキサーコンソール,389,NZ,2018-11-20
+air.com.officemax.magicmirror.ElfYourSelf,ElfYourself®ByOfficeDepot,390,NZ,2018-11-20
+homeworkout.homeworkouts.noequipment,自宅トレーニング-器具は必要なし&筋トレ,391,NZ,2018-11-20
+com.funcamerastudio.videomaker,VideoMaker—動画編集＆動画作成＆動画加工&音楽&魔法のビデオエディタ,392,NZ,2018-11-20
+com.smule.magicpiano,MagicPiano(マジックピアノ)bySmule,393,NZ,2018-11-20
+com.coldapp.at50rooms1,Escapegame:50rooms1,394,NZ,2018-11-20
+com.ubercab.driver,UberDriver-ドライバー用,395,NZ,2018-11-20
+com.flytunes.video,FlyTunes-FreeMusicPlayer&YouTubeMusic,396,NZ,2018-11-20
+game.bubble.shooter.dragon.pop,バブルシューティング,397,NZ,2018-11-20
+keto.diet.weightloss.plan,KetoDietWeightlossPlan,398,NZ,2018-11-20
+com.microsoft.xboxone.smartglass,Xbox,399,NZ,2018-11-20
+com.zaful,ZAFUL-MyFashionStory,400,NZ,2018-11-20
+io.voodoo.holeio,Hole.io,401,NZ,2018-11-20
+com.officetool.pdfreader2018.pdfviewer,PDFリーダー–PDFビューア2019,402,NZ,2018-11-20
+com.google.android.apps.adm,端末を探す,403,NZ,2018-11-20
+com.google.android.apps.fitness,GoogleFit:運動を記録して健康的な生活を,404,NZ,2018-11-20
+com.expressvpn.vpn,ExpressVPN–Android向けのベストVPN,405,NZ,2018-11-20
+nz.co.skytv.neontv,NEONNZ,406,NZ,2018-11-20
+com.ketchapp.rider,Rider,407,NZ,2018-11-20
+com.lego.common.legolife,レゴライフレゴ公式のコミュニティアプリ,408,NZ,2018-11-20
+com.ram.transparentlivewallpaper,透明ライブ壁紙,409,NZ,2018-11-20
+gr.pixelab.sketch,スケッチカメラ,410,NZ,2018-11-20
+com.appmind.radios.nz,RadioNewZealand-allNZradiostations,411,NZ,2018-11-20
+com.nintendo.zara,SuperMarioRun,412,NZ,2018-11-20
+com.Nobodyshot.kuboom,KUBOOM,413,NZ,2018-11-20
+com.ea.gp.fifamobile,FIFAサッカー,414,NZ,2018-11-20
+com.WildWorks.AnimalJamPlayWild,AnimalJam-PlayWild!,415,NZ,2018-11-20
+com.trivago,trivago:ホテル検索・料金比較アプリ,416,NZ,2018-11-20
+com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,417,NZ,2018-11-20
+com.mwm.drum,Drums-リアルなドラムセット・ゲーム,418,NZ,2018-11-20
+com.androbaby.game2048,2048,419,NZ,2018-11-20
+com.gpsroutefinder.mobile.location.tracker.gps.maps.locator.route.finder,GPS、地図、航行と道順,420,NZ,2018-11-20
+com.ovilex.flightsim2018,FlightSim2018,421,NZ,2018-11-20
+com.billiards.city.pool.nation.club,ビリヤードシティ,422,NZ,2018-11-20
 com.halfbrick.fruitninjafree,FruitNinja®,423,NZ,2018-11-20
-com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-ビデオエディター,424,NZ,2018-11-20
-com.Nobodyshot.kuboom,KUBOOM,425,NZ,2018-11-20
-com.officetool.pdfreader2018.pdfviewer,PDFリーダー–PDFビューア2019,426,NZ,2018-11-20
-com.gpsroutefinder.mobile.location.tracker.gps.maps.locator.route.finder,GPS、地図、航行と道順,427,NZ,2018-11-20
-gr.pixelab.sketch,スケッチカメラ,428,NZ,2018-11-20
-tv.peel.app,PeelSmartRemort,429,NZ,2018-11-20
-air.com.lunime.gachastudio,GachaStudio(AnimeDressUp),430,NZ,2018-11-20
-com.nordvpn.android,VPN:高速&無制限のNordVPN–日本＋60カ国、期間限定無料,431,NZ,2018-11-20
-com.hiblock.caller,CallerID-ラブリー電話内容表示・自動着信拒否・無料電話番号検索,432,NZ,2018-11-20
-com.expressvpn.vpn,ExpressVPN–Android向けのベストVPN,433,NZ,2018-11-20
-slots.unlimited.casino.games.free,SlotMachineGames-SlotsUnlimitedFreeCasino,434,NZ,2018-11-20
-women.workout.female.fitness,女性のフィットネス-女性のためのワークアウト,435,NZ,2018-11-20
-com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,436,NZ,2018-11-20
-com.crazylabs.sausage.run,走れ、ソーセージ、走れ！,437,NZ,2018-11-20
-com.zaful,ZAFUL-MyFashionStory,438,NZ,2018-11-20
-com.nzme.oneroof,OneRoofProperty,439,NZ,2018-11-20
-com.appmind.radios.nz,RadioNewZealand-allNZradiostations,440,NZ,2018-11-20
-com.atlogis.nzmaps.free,NewZealandTopoMapsFree,441,NZ,2018-11-20
-com.secretexit.turbodismount,TurboDismount™,442,NZ,2018-11-20
-com.mizo.police.robot.transformation2,警察ロボットの車のゲーム-警察の飛行機の輸送,443,NZ,2018-11-20
-com.microsoft.office.excel,MicrosoftExcel,444,NZ,2018-11-20
-com.tiramisu.driftmax2,DriftMaxPro-ドリフトゲーム,445,NZ,2018-11-20
-com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,446,NZ,2018-11-20
-com.playrix.township,タウンシップ(Township),447,NZ,2018-11-20
-org.iggymedia.periodtracker,Flo:生理トラッカー無料アプリで、月経や排卵サイクルを予測。妊活・避妊・セルフケアをサポート,448,NZ,2018-11-20
-com.europosit.pixelcoloring,PixelArt:数字で塗り絵スケッチブック,449,NZ,2018-11-20
+com.ketchapp.policerunner,PoliceRunner,424,NZ,2018-11-20
+com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),425,NZ,2018-11-20
+slots.unlimited.casino.games.free,SlotMachineGames-SlotsUnlimitedFreeCasino,426,NZ,2018-11-20
+com.microsoft.office.excel,MicrosoftExcel,427,NZ,2018-11-20
+com.instagram.boomerang,BoomerangfromInstagram,428,NZ,2018-11-20
+com.zyxwhite.qrcoderw,QRcodeRWScanner,429,NZ,2018-11-20
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,430,NZ,2018-11-20
+com.bagelcode.slots1,ClubVegasCasinoSlots-カジノスロットゲーム,431,NZ,2018-11-20
+com.mtvn.loudhouseapp,LoudHouse:UltimateTreehouse,432,NZ,2018-11-20
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,433,NZ,2018-11-20
+com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,434,NZ,2018-11-20
+com.pacificinteractive.HouseOfFun,フリー・スロットカジノ-HouseofFun™️ゲーム,435,NZ,2018-11-20
+com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-ビデオエディター,436,NZ,2018-11-20
+women.workout.female.fitness,女性のフィットネス-女性のためのワークアウト,437,NZ,2018-11-20
+com.sec.app.samsungprintservice,SamsungPrintServicePlugin,438,NZ,2018-11-20
+air.au.whitech.mobile.imagine.harveynormannz,HarveyNormanNZPhotocentre,439,NZ,2018-11-20
+com.mizo.police.robot.transformation2,警察ロボットの車のゲーム-警察の飛行機の輸送,440,NZ,2018-11-20
+com.nzme.oneroof,OneRoofProperty,441,NZ,2018-11-20
+tv.peel.app,PeelSmartRemort,442,NZ,2018-11-20
+com.criticalforceentertainment.criticalops,CriticalOps,443,NZ,2018-11-20
+com.scopely.wheeloffortune,WheelofFortune:FreePlay,444,NZ,2018-11-20
+slots.thunder.casino.dunder.com.thundercasino,ThunderSlots,445,NZ,2018-11-20
+air.com.lunime.gachastudio,GachaStudio(AnimeDressUp),446,NZ,2018-11-20
+com.waze,Waze-GPS、地図、渋滞情報、カーナビ,447,NZ,2018-11-20
+com.tiramisu.driftmax2,DriftMaxPro-ドリフトゲーム,448,NZ,2018-11-20
+com.supertapx.lovedots,LoveBalls,449,NZ,2018-11-20
 com.zya.ditty,Ditty,450,NZ,2018-11-20
-com.zyxwhite.qrcoderw,QRcodeRWScanner,451,NZ,2018-11-20
-com.supertapx.lovedots,LoveBalls,452,NZ,2018-11-20
-com.pacificinteractive.HouseOfFun,フリー・スロットカジノ-HouseofFun™️ゲーム,453,NZ,2018-11-20
-com.scopely.wheeloffortune,WheelofFortune:FreePlay,454,NZ,2018-11-20
-slots.thunder.casino.dunder.com.thundercasino,ThunderSlots,455,NZ,2018-11-20
-com.cmplay.dancingline,ダンシングライン（DancingLine）,456,NZ,2018-11-20
-air.au.whitech.mobile.imagine.harveynormannz,HarveyNormanNZPhotocentre,457,NZ,2018-11-20
-com.tongzhuo.tongzhuogame.international,"QwikMatch-Match,Chat,Play,Repeat!",458,NZ,2018-11-20
-junkyardtycoon.business.tycoon.game,日本語JunkYardTycoon-カービジネスシミュレーション,459,NZ,2018-11-20
-com.criticalforceentertainment.criticalops,CriticalOps,460,NZ,2018-11-20
-com.google.android.talk,ハングアウト,461,NZ,2018-11-20
-com.umonistudio.tile,ブラックタイルをたたけ！,462,NZ,2018-11-20
+com.hiblock.caller,CallerID-ラブリー電話内容表示・自動着信拒否・無料電話番号検索,451,NZ,2018-11-20
+com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,452,NZ,2018-11-20
+com.secretexit.turbodismount,TurboDismount™,453,NZ,2018-11-20
+com.crazylabs.sausage.run,走れ、ソーセージ、走れ！,454,NZ,2018-11-20
+com.playrix.township,タウンシップ(Township),455,NZ,2018-11-20
+org.iggymedia.periodtracker,Flo:生理トラッカー無料アプリで、月経や排卵サイクルを予測。妊活・避妊・セルフケアをサポート,456,NZ,2018-11-20
+com.scientificgames.monopolyslots,MONOPOLYSlots,457,NZ,2018-11-20
+nz.co.countdown.android.pickup,CountdownPickup,458,NZ,2018-11-20
+com.google.android.apps.navlite,GoogleMapsGo向けナビ,459,NZ,2018-11-20
+com.graph.weather.forecast.channel,天気,460,NZ,2018-11-20
+com.sillens.shapeupclub,"Lifesum-DietPlan,CalorieCounter&FoodDiary",461,NZ,2018-11-20
+com.europosit.pixelcoloring,PixelArt:数字で塗り絵スケッチブック,462,NZ,2018-11-20
 com.hp.android.printservice,HPプリントサービスプラグイン,463,NZ,2018-11-20
-com.kooapps.pictowordandroid,Pictoword：楽しいワードゲーム。オフラインでの脳トレゲーム。,464,NZ,2018-11-20
-nz.co.countdown.android.pickup,CountdownPickup,465,NZ,2018-11-20
-com.ketchapp.stack,Stack,466,NZ,2018-11-20
-com.waze,Waze-GPS、地図、渋滞情報、カーナビ,467,NZ,2018-11-20
-com.nbcuni.usie.fftakedown,Fast&FuriousTakedown,468,NZ,2018-11-20
-com.scientificgames.monopolyslots,MONOPOLYSlots,469,NZ,2018-11-20
-com.freshgames.escapealcatraz,EscapeAlcatraz,470,NZ,2018-11-20
-com.sillens.shapeupclub,"Lifesum-DietPlan,CalorieCounter&FoodDiary",471,NZ,2018-11-20
-com.google.android.apps.navlite,GoogleMapsGo向けナビ,472,NZ,2018-11-20
-com.lomotif.android,ローモーティフ(Lomotif)-ミュージックビデオ編集,473,NZ,2018-11-20
-com.motionvolt.flipdiving,FlipDiving,474,NZ,2018-11-20
-com.sega.sonicdash,SonicDash,475,NZ,2018-11-20
-com.google.android.youtube,YouTube,476,NZ,2018-11-20
-com.groupon,Groupon（グルーポン)毎日見たくなる、お得なクーポンアプリ,477,NZ,2018-11-20
-com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,478,NZ,2018-11-20
-com.lima.doodlejump,DoodleJump,479,NZ,2018-11-20
-com.axlebolt.standoff2,Standoff2,480,NZ,2018-11-20
-com.sephora.digital,SEPHORA-BeautyShopping,481,NZ,2018-11-20
-com.graph.weather.forecast.channel,天気,482,NZ,2018-11-20
-com.vtm.voicechanger,ボイスチェンジャー-面白いサウンドエフェクト,483,NZ,2018-11-20
-com.tastypill.newbottle,ImpossibleBottleFlip,484,NZ,2018-11-20
-com.lenovo.anyshare.gps,SHAREit-Transfer&Share,485,NZ,2018-11-20
-com.app.emotes.dances.fortnite,"DancesfromFortnite(Emotes,Skins,DailyShop)",486,NZ,2018-11-20
-es.socialpoint.DragonCity,ドラゴンシティ:　育てて、進化させて、バトル！町を作ろう！,487,NZ,2018-11-20
-com.messagingnew.allinone,社会メッセンジャー-無料携帯通話、ライブチャット,488,NZ,2018-11-20
-com.hellofresh.androidapp,HelloFresh-GetCooking,489,NZ,2018-11-20
-com.samsung.android.voc,GalaxyMembers,490,NZ,2018-11-20
-com.wb.headsup,HeadsUp!,491,NZ,2018-11-20
-com.boranuonline.idates,"iDates-Chats,Flirts,Dating,Love&Relations",492,NZ,2018-11-20
-com.nzherald.activities,NZHeraldNews,493,NZ,2018-11-20
-com.bigduckgames.flow,FlowFree,494,NZ,2018-11-20
-game.puzzle.blockpuzzle,BlockPuzzle,495,NZ,2018-11-20
-com.iart.chromecastapps,AppsforChromecast-YourChromecastGuide,496,NZ,2018-11-20
-dh3games.stupidtest,StupidTest-Howsmartareyou?,497,NZ,2018-11-20
-com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,498,NZ,2018-11-20
-com.supertapx.colortube,ColorTube,499,NZ,2018-11-20
-com.pic.mycamera,SelfieCamera - Filter&Sticker&PhotoEditor,500,NZ,2018-11-20
-com.paypal.android.p2pmobile,PayPal,501,NZ,2018-11-20
-nz.co.nzsale,Nzsale,502,NZ,2018-11-20
-com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,503,NZ,2018-11-20
-com.prankscreen.brokenscreen.crackedscreen,壊れた画面いたずらPrank,504,NZ,2018-11-20
-com.FDGEntertainment.redball4.gp,RedBall4,505,NZ,2018-11-20
-com.rovio.angrybirds,AngryBirdsClassic,506,NZ,2018-11-20
-com.tumblr,Tumblr,507,NZ,2018-11-20
-com.airgoat.goat,GOAT:Buy&SellSneakers,508,NZ,2018-11-20
-de.lotum.whatsinthefoto.us,4Pics1Word,509,NZ,2018-11-20
-com.mediocre.smashhit,SmashHit,510,NZ,2018-11-20
-triwin.slots.jackpot.grand,グランドジャックポットスロット-ポップラスベガスカジノ無料ゲーム,511,NZ,2018-11-20
-com.jds.binr,BendyinNightmareRun,512,NZ,2018-11-20
-com.google.android.keep,GoogleKeep-メモとリスト,513,NZ,2018-11-20
-air.com.spilgames.trollfacequesthorror2.scary.adventure,TrollFaceQuestHorror2:🎃ハロウィーンスペシャル🎃,514,NZ,2018-11-20
-com.neonplay.casualsoccerkickandroid,SoccerKick,515,NZ,2018-11-20
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),516,NZ,2018-11-20
+com.groupon,Groupon（グルーポン)毎日見たくなる、お得なクーポンアプリ,464,NZ,2018-11-20
+com.google.android.talk,ハングアウト,465,NZ,2018-11-20
+com.umonistudio.tile,ブラックタイルをたたけ！,466,NZ,2018-11-20
+com.lomotif.android,ローモーティフ(Lomotif)-ミュージックビデオ編集,467,NZ,2018-11-20
+com.sephora.digital,SEPHORA-BeautyShopping,468,NZ,2018-11-20
+com.cmplay.dancingline,ダンシングライン（DancingLine）,469,NZ,2018-11-20
+com.atlogis.nzmaps.free,NewZealandTopoMapsFree,470,NZ,2018-11-20
+com.ketchapp.stack,Stack,471,NZ,2018-11-20
+junkyardtycoon.business.tycoon.game,日本語JunkYardTycoon-カービジネスシミュレーション,472,NZ,2018-11-20
+com.motionvolt.flipdiving,FlipDiving,473,NZ,2018-11-20
+com.nzherald.activities,NZHeraldNews,474,NZ,2018-11-20
+com.samsung.android.voc,GalaxyMembers,475,NZ,2018-11-20
+com.messagingnew.allinone,社会メッセンジャー-無料携帯通話、ライブチャット,476,NZ,2018-11-20
+com.sec.android.app.voicenote,Galaxyボイスレコーダー,477,NZ,2018-11-20
+com.hellofresh.androidapp,HelloFresh-GetCooking,478,NZ,2018-11-20
+com.freshgames.escapealcatraz,EscapeAlcatraz,479,NZ,2018-11-20
+com.kooapps.pictowordandroid,Pictoword：楽しいワードゲーム。オフラインでの脳トレゲーム。,480,NZ,2018-11-20
+com.tongzhuo.tongzhuogame.international,"QwikMatch-Match,Chat,Play,Repeat!",481,NZ,2018-11-20
+com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,482,NZ,2018-11-20
+com.sega.sonicdash,SonicDash,483,NZ,2018-11-20
+com.lima.doodlejump,DoodleJump,484,NZ,2018-11-20
+com.axlebolt.standoff2,Standoff2,485,NZ,2018-11-20
+com.airgoat.goat,GOAT:Buy&SellSneakers,486,NZ,2018-11-20
+de.lotum.whatsinthefoto.us,4Pics1Word,487,NZ,2018-11-20
+com.pic.mycamera,SelfieCamera - Filter&Sticker&PhotoEditor,488,NZ,2018-11-20
+com.nbcuni.usie.fftakedown,Fast&FuriousTakedown,489,NZ,2018-11-20
+triwin.slots.jackpot.grand,グランドジャックポットスロット-ポップラスベガスカジノ無料ゲーム,490,NZ,2018-11-20
+net.skyscanner.android.main,Skyscanner格安航空券検索,491,NZ,2018-11-20
+com.lenovo.anyshare.gps,SHAREit-Transfer&Share,492,NZ,2018-11-20
+com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,493,NZ,2018-11-20
+es.socialpoint.DragonCity,ドラゴンシティ:　育てて、進化させて、バトル！町を作ろう！,494,NZ,2018-11-20
+com.paypal.android.p2pmobile,PayPal,495,NZ,2018-11-20
+no.mobitroll.kahoot.android,Kahoot!,496,NZ,2018-11-20
+com.google.android.youtube,YouTube,497,NZ,2018-11-20
+com.bigduckgames.flow,FlowFree,498,NZ,2018-11-20
+com.vtm.voicechanger,ボイスチェンジャー-面白いサウンドエフェクト,499,NZ,2018-11-20
+nz.co.nzsale,Nzsale,500,NZ,2018-11-20
+com.iart.chromecastapps,AppsforChromecast-YourChromecastGuide,501,NZ,2018-11-20
+com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,502,NZ,2018-11-20
+game.puzzle.blockpuzzle,BlockPuzzle,503,NZ,2018-11-20
+dh3games.stupidtest,StupidTest-Howsmartareyou?,504,NZ,2018-11-20
+com.app.emotes.dances.fortnite,"DancesfromFortnite(Emotes,Skins,DailyShop)",505,NZ,2018-11-20
+map.livestreetview,LiveStreetView-GlobalSatelliteEarthLiveMap,506,NZ,2018-11-20
+com.tastypill.newbottle,ImpossibleBottleFlip,507,NZ,2018-11-20
+com.microsoft.appmanager,スマホ同期管理アプリ,508,NZ,2018-11-20
+com.jds.binr,BendyinNightmareRun,509,NZ,2018-11-20
+com.boranuonline.idates,"iDates-Chats,Flirts,Dating,Love&Relations",510,NZ,2018-11-20
+com.neonplay.casualsoccerkickandroid,SoccerKick,511,NZ,2018-11-20
+com.google.android.apps.docs.editors.slides,Googleスライド,512,NZ,2018-11-20
+com.rovio.angrybirds,AngryBirdsClassic,513,NZ,2018-11-20
+com.google.android.keep,GoogleKeep-メモとリスト,514,NZ,2018-11-20
+leagueofmonkeys.torqueburnout,トルクバーンアウト,515,NZ,2018-11-20
+com.streema.podcast,ThePodcastApp-ポッドキャストプレーヤ,516,NZ,2018-11-20
 com.robtopx.geometrydashsubzero,GeometryDashSubZero,517,NZ,2018-11-20
-net.skyscanner.android.main,Skyscanner格安航空券検索,518,NZ,2018-11-20
+com.mediocre.smashhit,SmashHit,518,NZ,2018-11-20
 com.albane.holt,HoltSoundboardApp,519,NZ,2018-11-20
-com.sec.android.app.voicenote,Galaxyボイスレコーダー,520,NZ,2018-11-20
-com.imo.android.imoim,imoの無料ビデオ通話とチャット,521,NZ,2018-11-20
-com.dle.respawnables,Respawnables-スペシャルフォースFPS,522,NZ,2018-11-20
-com.ketchapp.skateflip,FlippySkate,523,NZ,2018-11-20
-map.livestreetview,LiveStreetView-GlobalSatelliteEarthLiveMap,524,NZ,2018-11-20
-com.apps.security.master.antivirus.applock,MAXAppLock-プライバシーガード、アップロッカー,525,NZ,2018-11-20
-leagueofmonkeys.torqueburnout,トルクバーンアウト,526,NZ,2018-11-20
-com.canva.editor,Canva-無料の写真加工とグラフィックデザインツール,527,NZ,2018-11-20
-com.ffgames.racingincar2,RacinginCar2,528,NZ,2018-11-20
-com.williamsinteractive.jackpotparty,JackpotPartySlots:カジノスロットゲーム,529,NZ,2018-11-20
-com.streema.podcast,ThePodcastApp-ポッドキャストプレーヤ,530,NZ,2018-11-20
-com.mobirix.connectfour,四目並べの王,531,NZ,2018-11-20
-com.playstation.mobilemessenger,PlayStationMessages-いつでもどこでも友達とつながっていよう,532,NZ,2018-11-20
-com.play.io.derby.car.racing.demolition,DerbyCarRacing,533,NZ,2018-11-20
-com.EvilChaotic.ModernWarplanes,ModernWarplanes:CombatAcesPvPSkiesWarfare,534,NZ,2018-11-20
-com.thunderlink.slots,ThunderJackpotSlotsCasino-FreeSlotGames,535,NZ,2018-11-20
-com.pixlr.express,Pixlr,536,NZ,2018-11-20
-com.junesoftware.maskgun,MaskGun®MultiplayerFPS-FreeShootingGame,537,NZ,2018-11-20
-nz.co.trademe.jobs,TradeMeJobs,538,NZ,2018-11-20
-com.winnersclub.empire88slots,LuckyTimeSlots:オンラインカジノスロット7773d,539,NZ,2018-11-20
-com.hp.printercontrol,HPSmart(HPAiORemote),540,NZ,2018-11-20
+kiwi.allgoods.tnslocal,"AllGoods-Sellfree,buylocal",520,NZ,2018-11-20
+com.thunderlink.slots,ThunderJackpotSlotsCasino-FreeSlotGames,521,NZ,2018-11-20
+com.wb.headsup,HeadsUp!,522,NZ,2018-11-20
+com.prankscreen.brokenscreen.crackedscreen,壊れた画面いたずらPrank,523,NZ,2018-11-20
+com.tumblr,Tumblr,524,NZ,2018-11-20
+com.FDGEntertainment.redball4.gp,RedBall4,525,NZ,2018-11-20
+com.winnersclub.empire88slots,LuckyTimeSlots:オンラインカジノスロット7773d,526,NZ,2018-11-20
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),527,NZ,2018-11-20
+com.cardinalblue.piccollage.google,PicCollage-コラージュ&写真加工,528,NZ,2018-11-20
+com.supertapx.colortube,ColorTube,529,NZ,2018-11-20
+com.playstation.mobilemessenger,PlayStationMessages-いつでもどこでも友達とつながっていよう,530,NZ,2018-11-20
+com.jewelblast.puzzlelegend,ジュエルブラスト-パズルの伝説,531,NZ,2018-11-20
+com.ffgames.racingincar2,RacinginCar2,532,NZ,2018-11-20
+nz.co.trademe.jobs,TradeMeJobs,533,NZ,2018-11-20
+com.expedia.bookings,エクスペディア-ホテル予約、格安航空券＆現地ツアー予約,534,NZ,2018-11-20
+com.EvilChaotic.ModernWarplanes,ModernWarplanes:CombatAcesPvPSkiesWarfare,535,NZ,2018-11-20
+com.canva.editor,Canva-無料の写真加工とグラフィックデザインツール,536,NZ,2018-11-20
+com.apps.security.master.antivirus.applock,MAXAppLock-プライバシーガード、アップロッカー,537,NZ,2018-11-20
+com.williamsinteractive.jackpotparty,JackpotPartySlots:カジノスロットゲーム,538,NZ,2018-11-20
+air.com.spilgames.trollfacequesthorror2.scary.adventure,TrollFaceQuestHorror2:🎃ハロウィーンスペシャル🎃,539,NZ,2018-11-20
+com.play.io.derby.car.racing.demolition,DerbyCarRacing,540,NZ,2018-11-20
