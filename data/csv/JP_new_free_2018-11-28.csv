@@ -1,7 +1,7 @@
 app_id,app_name,rank,country_code,date
 com.google.android.apps.youtube.music,YouTubeMusic,1,JP,2018-11-28
-com.square_enix.android_googleplay.mashirowitch,ましろウィッチ,2,JP,2018-11-28
-com.sega.idola,イドラファンタシースターサーガ,3,JP,2018-11-28
+com.sega.idola,イドラファンタシースターサーガ,2,JP,2018-11-28
+com.square_enix.android_googleplay.mashirowitch,ましろウィッチ,3,JP,2018-11-28
 com.sega.ron,龍が如くONLINE,4,JP,2018-11-28
 com.nexon.faith.japan,FAITH-フェイス,5,JP,2018-11-28
 jp.co.ponos.nekohopper,GO!GO!ネコホッピング,6,JP,2018-11-28
@@ -17,16 +17,16 @@ com.ubisoft.accovenant,アサシン　クリード　リベリオンAssassin'sCr
 jp.co.shueisha.mangamee,マンガMee,16,JP,2018-11-28
 jp.uuum.yadventure2,Yの冒険R,17,JP,2018-11-28
 com.dmm.games.aigisgp,千年戦争アイギスA【本格シミュレーションRPG】,18,JP,2018-11-28
-com.realsoccerleague.freesimulation.sportsgamegame,リアルサッカーリーグシミュレーションゲーム,19,JP,2018-11-28
-com.survivalaftertomorrow.deadshootinggame,明日の後の生存,20,JP,2018-11-28
-com.ten_sura_game,転生したらスライムだった件～魔国連邦創世記～,21,JP,2018-11-28
-com.fourwheel.furiousrace,4輪の激しいレース,22,JP,2018-11-28
+com.bbgame.dhhzl.jp.google,大航海ユートピア,19,JP,2018-11-28
+com.ten_sura_game,転生したらスライムだった件～魔国連邦創世記～,20,JP,2018-11-28
+com.realsoccerleague.freesimulation.sportsgamegame,リアルサッカーリーグシミュレーションゲーム,21,JP,2018-11-28
+com.survivalaftertomorrow.deadshootinggame,明日の後の生存,22,JP,2018-11-28
 com.mindy.grap1,StickmanHook,23,JP,2018-11-28
-com.navywarship.seabattlesimulationgame,サイレント軍艦ハンター,24,JP,2018-11-28
-com.bandainamcoent.blackcloverinfiniteknights,ブラッククローバー夢幻の騎士団,25,JP,2018-11-28
+com.fourwheel.furiousrace,4輪の激しいレース,24,JP,2018-11-28
+jp.fmmusic.song.musicplayer.musicfm,MusicFM,25,JP,2018-11-28
 com.Kamonosoukutsu.nunuko_tsudoi,脱出ゲームぬぬ子達の集い,26,JP,2018-11-28
-jp.fmmusic.song.musicplayer.musicfm,MusicFM,27,JP,2018-11-28
-com.bbgame.dhhzl.jp.google,大航海ユートピア,28,JP,2018-11-28
+com.navywarship.seabattlesimulationgame,サイレント軍艦ハンター,27,JP,2018-11-28
+com.bandainamcoent.blackcloverinfiniteknights,ブラッククローバー夢幻の騎士団,28,JP,2018-11-28
 jp.fg.precatus,プレカトゥスの天秤-本格マルチアングルRPG,29,JP,2018-11-28
 jp.co.alphagames.kyokou,虚構少女-E.G.O-,30,JP,2018-11-28
 jp.co.override.games.starry,スターリィパレット,31,JP,2018-11-28
@@ -37,505 +37,505 @@ jp.goodsapp.tour.arashi,5×20GoodsApp,35,JP,2018-11-28
 com.kuri.stress,ストレスチェッカー,36,JP,2018-11-28
 com.app.earthgame,Earth.io,37,JP,2018-11-28
 com.musiczplayer.zpro,MusicZPro–fmmusic、無料音楽プレーヤー、ミュージックfmダウンロード無料,38,JP,2018-11-28
-com.square_enix.android_googleplay.starwingnavi,星翼ナビ,39,JP,2018-11-28
-com.outfit7.mytalkingtom2,マイ・トーキング・トム2,40,JP,2018-11-28
-com.kuri.money,お金持ち潜在力診断,41,JP,2018-11-28
-com.xprodev.cutcam,CutCut-Cutout&PhotoBackgroundEditor,42,JP,2018-11-28
-com.sinyee.babybus.dailysafety,ベビーパンダの子ども安全,43,JP,2018-11-28
-com.takasimapon.Christmas2,脱出ゲームホワイトクリスマス2,44,JP,2018-11-28
-com.bitmango.go.onelinecurvedrawing,OneLine-CurveDrawing,45,JP,2018-11-28
-jp.co.redqueen.PRJ009,NMB48の麻雀てっぺんとったんで！,46,JP,2018-11-28
-jp.co.avexpictures.kakegurui,賭ケグルイ　チーティングアロード,47,JP,2018-11-28
-com.tocaboca.tocalifeworld,TocaLife:World,48,JP,2018-11-28
-tech.homura.escape_europeanroom,脱出ゲーム　アンティークルームの謎,49,JP,2018-11-28
-com.jdgames.p20n.googleplay,戦国布武【我が天下戦国編】,50,JP,2018-11-28
-com.YukihiroUesugi.TheStrongestGuild,最強のギルド-ギルド運営シミュレーションゲーム-,51,JP,2018-11-28
-online.offline.music.downloader.musicfm,"MusicFM-音楽物語,MusicBox",52,JP,2018-11-28
-com.kuri.konkura,今夜くらべてみました,53,JP,2018-11-28
+com.takasimapon.Christmas2,脱出ゲームホワイトクリスマス2,39,JP,2018-11-28
+com.square_enix.android_googleplay.starwingnavi,星翼ナビ,40,JP,2018-11-28
+com.xprodev.cutcam,CutCut-Cutout&PhotoBackgroundEditor,41,JP,2018-11-28
+com.outfit7.mytalkingtom2,マイ・トーキング・トム2,42,JP,2018-11-28
+com.kuri.money,お金持ち潜在力診断,43,JP,2018-11-28
+com.sinyee.babybus.dailysafety,ベビーパンダの子ども安全,44,JP,2018-11-28
+jp.co.redqueen.PRJ009,NMB48の麻雀てっぺんとったんで！,45,JP,2018-11-28
+com.bitmango.go.onelinecurvedrawing,OneLine-CurveDrawing,46,JP,2018-11-28
+com.tocaboca.tocalifeworld,TocaLife:World,47,JP,2018-11-28
+jp.co.avexpictures.kakegurui,賭ケグルイ　チーティングアロード,48,JP,2018-11-28
+com.YukihiroUesugi.TheStrongestGuild,最強のギルド-ギルド運営シミュレーションゲーム-,49,JP,2018-11-28
+jp.co.litalico.brushinghero,はみがき勇者,50,JP,2018-11-28
+com.jdgames.p20n.googleplay,戦国布武【我が天下戦国編】,51,JP,2018-11-28
+tech.homura.escape_europeanroom,脱出ゲーム　アンティークルームの謎,52,JP,2018-11-28
+online.offline.music.downloader.musicfm,"MusicFM-音楽物語,MusicBox",53,JP,2018-11-28
 jp.igames.sengo2,戦姫コレクション〜戦国乱舞の乙女たち〜,54,JP,2018-11-28
-com.escape.neat.no631bedroom,脱出ゲーム　1Bedroom,55,JP,2018-11-28
-com.kuri.menhera,XXメンヘラ診断XX–ココロの闇抱えてる？,56,JP,2018-11-28
-jp.co.ntt.lab.ev.eep.RDforumAutumn2,NTTR&Dフォーラム2018（秋）,57,JP,2018-11-28
-jp.co.duskin.dduetSpApp,ダスキンDDuetアプリ,58,JP,2018-11-28
-air.jp.funkyland.JigsawCrossword,ジグソークロスワード素敵なお部屋で探しもの,59,JP,2018-11-28
-com.bandai.tamagotchimeets,たまごっちみーつアプリ,60,JP,2018-11-28
-com.fire.balls.shooter,ShootBalls-Fire&BlastVoxel,61,JP,2018-11-28
-com.bitmango.go.linepuzzlepipeart,LinePuzzle:PipeArt,62,JP,2018-11-28
+com.kuri.menhera,XXメンヘラ診断XX–ココロの闇抱えてる？,55,JP,2018-11-28
+com.escape.neat.no631bedroom,脱出ゲーム　1Bedroom,56,JP,2018-11-28
+com.kuri.konkura,今夜くらべてみました,57,JP,2018-11-28
+air.jp.funkyland.JigsawCrossword,ジグソークロスワード素敵なお部屋で探しもの,58,JP,2018-11-28
+com.bitmango.go.linepuzzlepipeart,LinePuzzle:PipeArt,59,JP,2018-11-28
+jp.co.ntt.lab.ev.eep.RDforumAutumn2,NTTR&Dフォーラム2018（秋）,60,JP,2018-11-28
+jp.co.duskin.dduetSpApp,ダスキンDDuetアプリ,61,JP,2018-11-28
+com.bandai.tamagotchimeets,たまごっちみーつアプリ,62,JP,2018-11-28
 com.hyperbeard.tsuki,Tsukiツキの冒険,63,JP,2018-11-28
-com.kenrpg.app13,『懸賞RPG』でお小遣いGET！本格的なゲーム(RPG)を楽しみながら稼いだGを現金に交換できる！,64,JP,2018-11-28
-com.sinyee.babybus.superman,リトルパンダのヒーローバトルゲーム,65,JP,2018-11-28
-com.fengiiley.frlegends,FRLEGENDS,66,JP,2018-11-28
+com.AlignmentSharp.Escape101,ケープ君の脱出ゲーム,64,JP,2018-11-28
+com.fire.balls.shooter,ShootBalls-Fire&BlastVoxel,65,JP,2018-11-28
+com.kenrpg.app13,『懸賞RPG』でお小遣いGET！本格的なゲーム(RPG)を楽しみながら稼いだGを現金に交換できる！,66,JP,2018-11-28
 space.last_talk.app,チャットコミュニティー最後の砦ラストトーク,67,JP,2018-11-28
-com.kuri.kotonoha,【簡単】マジ卍若者!?ことば検定,68,JP,2018-11-28
-jp.sammynet.next.asn0068,パチスロディスクアップ【777NEXT】,69,JP,2018-11-28
-com.puzzles.game.fd.two,FindTheDifferences-HerSecret,70,JP,2018-11-28
-info.dotteam.official,地域密着型ソーシャルネットワークサービス「ドット」,71,JP,2018-11-28
-com.linepaycorp.pfms,LINE家計簿,72,JP,2018-11-28
-com.nissin.donbei,どん兵衛,73,JP,2018-11-28
-com.AlignmentSharp.Escape101,ケープ君の脱出ゲーム,74,JP,2018-11-28
-jp.mobaroid.escapeizakaya,海鮮居酒屋からの脱出,75,JP,2018-11-28
-com.zynga.wonkamatch,Wonkaキャンディワールド,76,JP,2018-11-28
-jp.hase.goonbk,トニーくんのバク宙し続ける男,77,JP,2018-11-28
-my.navigation.happy.pro,newboosterpro,78,JP,2018-11-28
-com.kuri.shikisai2,色彩チェック2,79,JP,2018-11-28
-jp.mec_markis.fukuokamomochi,マークイズ福岡ももちアプリ,80,JP,2018-11-28
-jp.co.onetapbuy.ipo,誰でもIPO-1株から新規上場株,81,JP,2018-11-28
-com.mansion.org,脱出ゲーム-豪邸からの脱出-新作脱出げーむ,82,JP,2018-11-28
-com.gp.footballgame.freekickmaster,フットボール,83,JP,2018-11-28
-life.nafco,ホームセンターナフコ,84,JP,2018-11-28
-isy.remilia.karisumai.mld,レミリアいじり　仮住まいのお嬢様　【東方】,85,JP,2018-11-28
+com.fengiiley.frlegends,FRLEGENDS,68,JP,2018-11-28
+com.sinyee.babybus.superman,リトルパンダのヒーローバトルゲーム,69,JP,2018-11-28
+com.linepaycorp.pfms,LINE家計簿,70,JP,2018-11-28
+jp.sammynet.next.asn0068,パチスロディスクアップ【777NEXT】,71,JP,2018-11-28
+com.puzzles.game.fd.two,FindTheDifferences-HerSecret,72,JP,2018-11-28
+jp.mobaroid.escapeizakaya,海鮮居酒屋からの脱出,73,JP,2018-11-28
+com.kuri.kotonoha,【簡単】マジ卍若者!?ことば検定,74,JP,2018-11-28
+info.dotteam.official,地域密着型ソーシャルネットワークサービス「ドット」,75,JP,2018-11-28
+com.nissin.donbei,どん兵衛,76,JP,2018-11-28
+com.joytea.citydunk,CityDunk:Freestyle,77,JP,2018-11-28
+com.zynga.wonkamatch,Wonkaキャンディワールド,78,JP,2018-11-28
+jp.hase.goonbk,トニーくんのバク宙し続ける男,79,JP,2018-11-28
+my.navigation.happy.pro,newboosterpro,80,JP,2018-11-28
+com.mansion.org,脱出ゲーム-豪邸からの脱出-新作脱出げーむ,81,JP,2018-11-28
+com.kuri.shikisai2,色彩チェック2,82,JP,2018-11-28
+jp.co.onetapbuy.ipo,誰でもIPO-1株から新規上場株,83,JP,2018-11-28
+jp.mec_markis.fukuokamomochi,マークイズ福岡ももちアプリ,84,JP,2018-11-28
+com.netmarble.knightsgb,KnightsChronicle,85,JP,2018-11-28
 com.mobirix.parkingking,駐車場の王,86,JP,2018-11-28
-com.netmarble.knightsgb,KnightsChronicle,87,JP,2018-11-28
-com.hoge2.test2,脱出ゲームRoomK1,88,JP,2018-11-28
-jp.co.capcom.captorejp,カプコンネットキャッチャーカプとれ,89,JP,2018-11-28
-com.whaleapp.resorthotel,ResortHotel:BayStory,90,JP,2018-11-28
-com.sec.android.japan.manual.sc02l,SC-02L取扱説明書,91,JP,2018-11-28
-jp.co.sej.sevennenga_app,セブン-イレブン年賀状2019,92,JP,2018-11-28
-jp.co.rensa.yuuuki.fortune,泣ける占い【継承400年霊媒占い師】結喜,93,JP,2018-11-28
-org.artsplanet.android.nukegestamp,無料スタンプ・猫の「抜け毛帽子」,94,JP,2018-11-28
-jp.hozdesign.STRIPE,脱出ゲームしましまハロウィン,95,JP,2018-11-28
-jp.co.litalico.brushinghero,はみがき勇者,96,JP,2018-11-28
-com.joytea.citydunk,CityDunk:Freestyle,97,JP,2018-11-28
-com.sixwaves.bombers,対戦！ミラクルボンバー,98,JP,2018-11-28
+isy.remilia.karisumai.mld,レミリアいじり　仮住まいのお嬢様　【東方】,87,JP,2018-11-28
+life.nafco,ホームセンターナフコ,88,JP,2018-11-28
+com.gp.footballgame.freekickmaster,フットボール,89,JP,2018-11-28
+com.hoge2.test2,脱出ゲームRoomK1,90,JP,2018-11-28
+com.whaleapp.resorthotel,ResortHotel:BayStory,91,JP,2018-11-28
+com.sixwaves.bombers,対戦！ミラクルボンバー,92,JP,2018-11-28
+jp.co.capcom.captorejp,カプコンネットキャッチャーカプとれ,93,JP,2018-11-28
+jp.co.sej.sevennenga_app,セブン-イレブン年賀状2019,94,JP,2018-11-28
+com.sec.android.japan.manual.sc02l,SC-02L取扱説明書,95,JP,2018-11-28
+jp.hozdesign.STRIPE,脱出ゲームしましまハロウィン,96,JP,2018-11-28
+jp.co.rensa.yuuuki.fortune,泣ける占い【継承400年霊媒占い師】結喜,97,JP,2018-11-28
+org.artsplanet.android.nukegestamp,無料スタンプ・猫の「抜け毛帽子」,98,JP,2018-11-28
 jp.tamarun.MemberApp,たまルンアプリ,99,JP,2018-11-28
 com.globall.kaihhi,Guideドッキリ神回避4,100,JP,2018-11-28
 com.seyeonsoft.lily,リリーストーリー,101,JP,2018-11-28
-free.tube2.music.online,無料の音楽,102,JP,2018-11-28
-com.nianticlabs.ingress.prime.qa,Scanner[REDACTED],103,JP,2018-11-28
+com.nianticlabs.ingress.prime.qa,Scanner[REDACTED],102,JP,2018-11-28
+free.tube2.music.online,無料の音楽,103,JP,2018-11-28
 com.chappytalk.ctalk,-友達作りアプリの決定版-無料登録のチャットアプリ「ChappyTalk」,104,JP,2018-11-28
 com.playwithgames.parking.simulator.island.road,ParkingIsland:MountainRoad,105,JP,2018-11-28
-com.manavis.mypage,Myマナビス,106,JP,2018-11-28
-jp.mbga.a12026378.lite,[モバ７]ディスクアップ,107,JP,2018-11-28
-com.freemusic.musicfm.musicbox.music.fm.stream.player,FM連続再生無料音楽アプリ！ダウンロード無料ユーチューブ音楽聴き放題MV:MusicF,108,JP,2018-11-28
-lab.janus.veilofdarkness,VeilOfDarkness:RoguelikeRPG,109,JP,2018-11-28
-li.yapp.app7D6CED27,UNDERARMOUR（アンダーアーマー）公式アプリ,110,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame515HoaryTigerRescueGame,BestEscapeGame515HoaryTigerRescueGame,111,JP,2018-11-28
-com.kuri.gestalt2,ゲシュタルト崩壊2,112,JP,2018-11-28
-com.nankaiigame.omoid,脱出ゲーム思い出の母校からの脱出,113,JP,2018-11-28
-com.Kamonosoukutsu.chotto_kyuukei,脱出ゲームちょっと休憩いかがですか,114,JP,2018-11-28
-com.EEJANAITeam.MoritomoSchool,森の友だち学園,115,JP,2018-11-28
-com.tradingview.tradingviewapp,TradingView,116,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames108RescueMyMagicBookGame,BestEscapeGames108RescueMyMagicBookGame,117,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame516BabyDuckRescueGame,BestEscapeGame516BabyDuckRescueGame,118,JP,2018-11-28
-jp.co.ginga.games.ros,おかずサーガ,119,JP,2018-11-28
-com.kuri.gochisou2,ごちそうパズル2,120,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames109GuzzlePandaRescueGame,BestEscapeGames109GuzzlePandaRescueGame,121,JP,2018-11-28
-jp.aoimizoguchi.KotoPuzzle,コトパズル,122,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame485PumpkinHalloweenEscapeGame,KaviEscapeGame485PumpkinHalloweenEscapeGame,123,JP,2018-11-28
-com.mackierx111.Garam,ROARDRIVE,124,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame514OwlStudentEscapeGame,BestEscapeGame514OwlStudentEscapeGame,125,JP,2018-11-28
-net.md883.cheese,Cheese,126,JP,2018-11-28
-jp.gl3inc.GudetamaQuest,ぐでたまクエスト,127,JP,2018-11-28
-com.mimos.flipbounce,フリップバウンス,128,JP,2018-11-28
-com.gemsblast.puzzlelegend,GemsBlast,129,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames107InfuriatedRhinocerosRescueGame,BestEscapeGames107InfuriatedRhinocerosRescue,130,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames105PinkyBirdEscapeGame,BestEscapeGames105PinkyBirdEscapeGame,131,JP,2018-11-28
-online.video.hd.videoplayer,動画プレーヤープロ-フルHD＆すべての形式と4K動画,132,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame486PigletRescueGame,KaviEscapeGame486PigletRescueGame,133,JP,2018-11-28
-com.forumvolumqtizd.superphonecooler,SuperPhoneCooler-CPUCooler&PhoneBooster,134,JP,2018-11-28
-jp.co.chuden.Dokonyan,どこニャン,135,JP,2018-11-28
-com.video.live.wall.paper.background.free,"Vallpaper-VideoLiveWallpapers,HDbackgrounds",136,JP,2018-11-28
-com.cloudflare.onedotonedotonedotone,1.1.1.1:Faster&SaferInternet,137,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame513BabyTortoiseRescueGame,BestEscapeGame513BabyTortoiseRescueGame,138,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames110WritingAntRescueGame,BestEscapeGames110WritingAntRescueGame,139,JP,2018-11-28
-com.finalcontract.jp.summoners.fate.fantasy,ファイナル・コントラクト-FantasyLegend,140,JP,2018-11-28
-jp.co.a_tm.android.plus_nekochan_no_bathtime,かわいい壁紙アイコン猫ちゃんのバスタイム無料,141,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame487CubDuckRescueGame,KaviEscapeGame487CubDuckRescueGame,142,JP,2018-11-28
-com.kuri.zekkei,世界の絶景パズル,143,JP,2018-11-28
-com.swayteam.maso.brickbreaker.swipeball.duel.card.bricks,ブリックポコポコ,144,JP,2018-11-28
-com.stripedepartment.android.apps.stdp,ストデパ（STRIPEDEPARTMENT）,145,JP,2018-11-28
-jp.hase.stack2,トニーくんのブロックつみつみ,146,JP,2018-11-28
-com.patentnhtzz.coolexpert,CoolingExpert-❄️CooldownCPU&📳OptimizePhone,147,JP,2018-11-28
+jp.gl3inc.GudetamaQuest,ぐでたまクエスト,106,JP,2018-11-28
+com.manavis.mypage,Myマナビス,107,JP,2018-11-28
+jp.co.rensa.kirishima.fortune,奇跡が起きる占い【MEGG】2019年版◆性格占い,108,JP,2018-11-28
+com.patentnhtzz.coolexpert,CoolingExpert-❄️CooldownCPU&📳OptimizePhone,109,JP,2018-11-28
+com.freemusic.musicfm.musicbox.music.fm.stream.player,FM連続再生無料音楽アプリ！ダウンロード無料ユーチューブ音楽聴き放題MV:MusicF,110,JP,2018-11-28
+jp.mbga.a12026378.lite,[モバ７]ディスクアップ,111,JP,2018-11-28
+lab.janus.veilofdarkness,VeilOfDarkness:RoguelikeRPG,112,JP,2018-11-28
+com.Kamonosoukutsu.chotto_kyuukei,脱出ゲームちょっと休憩いかがですか,113,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame515HoaryTigerRescueGame,BestEscapeGame515HoaryTigerRescueGame,114,JP,2018-11-28
+com.nankaiigame.omoid,脱出ゲーム思い出の母校からの脱出,115,JP,2018-11-28
+li.yapp.app7D6CED27,UNDERARMOUR（アンダーアーマー）公式アプリ,116,JP,2018-11-28
+com.kuri.gestalt2,ゲシュタルト崩壊2,117,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames109GuzzlePandaRescueGame,BestEscapeGames109GuzzlePandaRescueGame,118,JP,2018-11-28
+com.tradingview.tradingviewapp,TradingView,119,JP,2018-11-28
+com.EEJANAITeam.MoritomoSchool,森の友だち学園,120,JP,2018-11-28
+com.EEJANAITeam.MoritomoSchool,森の友だち学園,121,JP,2018-11-28
+jp.co.ginga.games.ros,おかずサーガ,122,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames108RescueMyMagicBookGame,BestEscapeGames108RescueMyMagicBookGame,123,JP,2018-11-28
+jp.aoimizoguchi.KotoPuzzle,コトパズル,124,JP,2018-11-28
+com.kuri.gochisou2,ごちそうパズル2,125,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame485PumpkinHalloweenEscapeGame,KaviEscapeGame485PumpkinHalloweenEscapeGame,126,JP,2018-11-28
+com.mimos.flipbounce,フリップバウンス,127,JP,2018-11-28
+net.md883.cheese,Cheese,128,JP,2018-11-28
+com.finalcontract.jp.summoners.fate.fantasy,ファイナル・コントラクト-FantasyLegend,129,JP,2018-11-28
+com.mackierx111.Garam,ROARDRIVE,130,JP,2018-11-28
+com.gemsblast.puzzlelegend,GemsBlast,131,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame514OwlStudentEscapeGame,BestEscapeGame514OwlStudentEscapeGame,132,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames107InfuriatedRhinocerosRescueGame,BestEscapeGames107InfuriatedRhinocerosRescue,133,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames110WritingAntRescueGame,BestEscapeGames110WritingAntRescueGame,134,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame486PigletRescueGame,KaviEscapeGame486PigletRescueGame,135,JP,2018-11-28
+online.video.hd.videoplayer,動画プレーヤープロ-フルHD＆すべての形式と4K動画,136,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames105PinkyBirdEscapeGame,BestEscapeGames105PinkyBirdEscapeGame,137,JP,2018-11-28
+com.swayteam.maso.brickbreaker.swipeball.duel.card.bricks,ブリックポコポコ,138,JP,2018-11-28
+com.forumvolumqtizd.superphonecooler,SuperPhoneCooler-CPUCooler&PhoneBooster,139,JP,2018-11-28
+com.video.live.wall.paper.background.free,"Vallpaper-VideoLiveWallpapers,HDbackgrounds",140,JP,2018-11-28
+jp.co.chuden.Dokonyan,どこニャン,141,JP,2018-11-28
+com.cloudflare.onedotonedotonedotone,1.1.1.1:Faster&SaferInternet,142,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame513BabyTortoiseRescueGame,BestEscapeGame513BabyTortoiseRescueGame,143,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame487CubDuckRescueGame,KaviEscapeGame487CubDuckRescueGame,144,JP,2018-11-28
+jp.co.a_tm.android.plus_nekochan_no_bathtime,かわいい壁紙アイコン猫ちゃんのバスタイム無料,145,JP,2018-11-28
+com.kuri.zekkei,世界の絶景パズル,146,JP,2018-11-28
+com.stripedepartment.android.apps.stdp,ストデパ（STRIPEDEPARTMENT）,147,JP,2018-11-28
 com.memoriesofleaves.org,脱出ゲーム-紅葉の思い出-新作脱出げーむ,148,JP,2018-11-28
-com.daimaru_matsuzakaya.passport,大丸東京店アプリ,149,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames106PerusalParrotEscapeGame,BestEscapeGames106PerusalParrotEscapeGame,150,JP,2018-11-28
-com.mytona.rh,レイヴンヒル-秘められた謎,151,JP,2018-11-28
-com.mhgames.touhougensouboueikiplus,東方幻想防衛記Plus-東方の放置ゲーム,152,JP,2018-11-28
-jp.ne.mkb.apps.kyokugen,メディア自粛の的中占い【極眼の姓名霊視占い師・美麗】名前占い,153,JP,2018-11-28
-jp.funai.nailprinter,PriNail,154,JP,2018-11-28
+com.mytona.rh,レイヴンヒル-秘められた謎,149,JP,2018-11-28
+jp.hase.stack2,トニーくんのブロックつみつみ,150,JP,2018-11-28
+jp.ne.mkb.apps.kyokugen,メディア自粛の的中占い【極眼の姓名霊視占い師・美麗】名前占い,151,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames106PerusalParrotEscapeGame,BestEscapeGames106PerusalParrotEscapeGame,152,JP,2018-11-28
+com.daimaru_matsuzakaya.passport,大丸東京店アプリ,153,JP,2018-11-28
+com.mhgames.touhougensouboueikiplus,東方幻想防衛記Plus-東方の放置ゲーム,154,JP,2018-11-28
 com.zoniworks.digstar,DIGSTAR,155,JP,2018-11-28
 air.com.kavigames.KaviEscapeGame484RoosterEscapeGame,KaviEscapeGame484RoosterEscapeGame,156,JP,2018-11-28
-com.playwithgames.snow.driver.car.winter,WinterSkiPark:SnowDriver,157,JP,2018-11-28
-com.gwtsz.tg,FXトレードソフト,158,JP,2018-11-28
-net.supleks.ramendatabase,ラーメンデータベース,159,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame512WhereIsTeddyBearGame,BestEscapeGame512WhereIsTeddyBearGame,160,JP,2018-11-28
-jp.atlas.procguide.mbsj2018,第41回日本分子生物学会年会(mbsj2018),161,JP,2018-11-28
-com.triexz.skyhorizon.android,蒼穹のミストアーク,162,JP,2018-11-28
-com.nikkei.ar,日経AR,163,JP,2018-11-28
+jp.atlas.procguide.mbsj2018,第41回日本分子生物学会年会(mbsj2018),157,JP,2018-11-28
+com.playwithgames.snow.driver.car.winter,WinterSkiPark:SnowDriver,158,JP,2018-11-28
+com.triexz.skyhorizon.android,蒼穹のミストアーク,159,JP,2018-11-28
+jp.funai.nailprinter,PriNail,160,JP,2018-11-28
+com.gwtsz.tg,FXトレードソフト,161,JP,2018-11-28
+net.supleks.ramendatabase,ラーメンデータベース,162,JP,2018-11-28
+biz.marbblechat.applicaation,出会系アプリのマーブル恋活チャットで恋人探し＆友達作りトーク,163,JP,2018-11-28
 jp.co.sharp.android.dlfont.NIS_MNA7S,セイビミナトB,164,JP,2018-11-28
-biz.marbblechat.applicaation,出会系アプリのマーブル恋活チャットで恋人探し＆友達作りトーク,165,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame512WhereIsTeddyBearGame,BestEscapeGame512WhereIsTeddyBearGame,165,JP,2018-11-28
 net.sp777town.gp.ps005c,[777TOWN]パチスロディスクアップ,166,JP,2018-11-28
-com.joshiki.montage,ならべて一般常識,167,JP,2018-11-28
+com.nikkei.ar,日経AR,167,JP,2018-11-28
 jp.Nekojyarashi.EscapeHelpTheCatMysteriousHouse,脱出ゲーム：白ネコの大冒険～不思議な館編～,168,JP,2018-11-28
 com.kumapps.androidapp.paintmusic2,PaintMusic2（かんたん作曲音楽シーケンサー）,169,JP,2018-11-28
-com.tygame.tapgame47,リア充撲滅2-落とし穴を作る脱出ゲーム,170,JP,2018-11-28
-moonbear.PocketBuild,PocketBuild,171,JP,2018-11-28
-com.easytech.android.ew6,欧陸戦争6:1804,172,JP,2018-11-28
-net.hakusenshae.comicvwdl2,白泉社e-net!,173,JP,2018-11-28
-jp.hozdesign.Stairs,脱出ゲーム非常階段,174,JP,2018-11-28
+com.joshiki.montage,ならべて一般常識,170,JP,2018-11-28
+com.tygame.tapgame47,リア充撲滅2-落とし穴を作る脱出ゲーム,171,JP,2018-11-28
+moonbear.PocketBuild,PocketBuild,172,JP,2018-11-28
+jp.hozdesign.Stairs,脱出ゲーム非常階段,173,JP,2018-11-28
+com.easytech.android.ew6,欧陸戦争6:1804,174,JP,2018-11-28
 net.testii.seikakutest,性格診断DX-自分のトリセツを作ろう！,175,JP,2018-11-28
-com.csj.android.LTGames,長生劫,176,JP,2018-11-28
-com.supersentai.alldxhenshinbelt,転生ベルト全ライダー,177,JP,2018-11-28
-jp.co.rensa.kirishima.fortune,奇跡が起きる占い【MEGG】2019年版◆性格占い,178,JP,2018-11-28
-jp.co.nichigas.mynicigas,マイニチガス,179,JP,2018-11-28
-jp.hase.jumpwall2,トニーくんの壁げりジャンプ２,180,JP,2018-11-28
-com.app.clusta2ch,究極の2chまとめClusta-無料の暇つぶしニュースアプリ,181,JP,2018-11-28
-jp.mediplat.sugisapo.eats,スギサポeats：食事を撮るだけ！かんたん食事記録,182,JP,2018-11-28
-jp.co.edia.purakano,マップラス＋カノジョ,183,JP,2018-11-28
-net.patolesoft.PatnetResort,パトネットリゾート【メダルゲーム】,184,JP,2018-11-28
-com.CloudMacaca.Flight,SkySurfing,185,JP,2018-11-28
-com.oneline.free1line.puzzle.game,一筆書きワンタッチで点をつなぐ,186,JP,2018-11-28
-info.nullhouse.literaturepuzzle,脳トレ！文学パズル,187,JP,2018-11-28
-com.gamespire.warships,WarshipsUniverse:NavalBattle,188,JP,2018-11-28
-com.gwtsz.td,FX投資ソフト,189,JP,2018-11-28
-supercleaner.clean.android.phone.master.cleaner.booster,SuperCleaner-DeepPhoneCleaner&RAMBooster,190,JP,2018-11-28
+net.hakusenshae.comicvwdl2,白泉社e-net!,176,JP,2018-11-28
+info.nullhouse.literaturepuzzle,脳トレ！文学パズル,177,JP,2018-11-28
+com.csj.android.LTGames,長生劫,178,JP,2018-11-28
+com.app.clusta2ch,究極の2chまとめClusta-無料の暇つぶしニュースアプリ,179,JP,2018-11-28
+com.supersentai.alldxhenshinbelt,転生ベルト全ライダー,180,JP,2018-11-28
+jp.co.nichigas.mynicigas,マイニチガス,181,JP,2018-11-28
+net.patolesoft.PatnetResort,パトネットリゾート【メダルゲーム】,182,JP,2018-11-28
+jp.hase.jumpwall2,トニーくんの壁げりジャンプ２,183,JP,2018-11-28
+info.nullhouse.literaturepuzzle,脳トレ！文学パズル,184,JP,2018-11-28
+jp.co.edia.purakano,マップラス＋カノジョ,185,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame489DebonairSquirrelEscapeGame,KaviEscapeGame489DebonairSquirrelEscapeGame,186,JP,2018-11-28
+com.CloudMacaca.Flight,SkySurfing,187,JP,2018-11-28
+com.oneline.free1line.puzzle.game,一筆書きワンタッチで点をつなぐ,188,JP,2018-11-28
+jp.mediplat.sugisapo.eats,スギサポeats：食事を撮るだけ！かんたん食事記録,189,JP,2018-11-28
+com.gamespire.warships,WarshipsUniverse:NavalBattle,190,JP,2018-11-28
 air.jp.globalgear.ice,氷のパズル　-シンプルな大人の脳トレ,191,JP,2018-11-28
-jp.co.rikuden.mieruka.hokulink,ほくリンク,192,JP,2018-11-28
+supercleaner.clean.android.phone.master.cleaner.booster,SuperCleaner-DeepPhoneCleaner&RAMBooster,192,JP,2018-11-28
 kisoft.christmastree,雪の多い木がアニメーション化,193,JP,2018-11-28
-jp.or.jpn_gym.kansen_navi,体操観戦ナビ,194,JP,2018-11-28
-com.camc.slither.io.snake.worm,スリザリオSlither:ヘビ＆ワームゲーム,195,JP,2018-11-28
-jp.co.toyota.myroute,myroute[マイルート],196,JP,2018-11-28
-net.jp.apps.saisin.rooopsin3,ロープの結び方～3dknots×縄の結び方×防災×サバイバル×魚釣りなどに～,197,JP,2018-11-28
-com.aeonbody_members,AEONBODY（イオンボディ）公式アプリ,198,JP,2018-11-28
-com.fraouza.affmamchitch,THEAMAZINGS-FrogGame,199,JP,2018-11-28
-com.appscreat.craftium,Craftium:Exploration&Survival,200,JP,2018-11-28
-com.kaibutsusangoku.jp,暴走魔王大戦争〜,201,JP,2018-11-28
-com.frogrobot.halloween,脱出ゲーム-ロリポップと監禁された幽霊-新作脱出げーむ,202,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame483WingedDragonEscapeGame,KaviEscapeGame483WingedDragonEscapeGame,203,JP,2018-11-28
-enka.music.hot1,昭和演歌名曲集-カラオケ人気曲,204,JP,2018-11-28
-io.aoxer.platformer.frisk,SuperFrisk,205,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames111RomanceDogEscapeGame,BestEscapeGames111RomanceDogEscapeGame,206,JP,2018-11-28
-com.cbasefintechlab.exchange,CROSSexchange-secureexchange-,207,JP,2018-11-28
-jp.rc.Pandog.Search,パンダと犬の〇〇を探せだよ！,208,JP,2018-11-28
-com.activision.callofduty.companion,CallofDutyCompanionApp,209,JP,2018-11-28
-com.gamehouse.dc3,ドクター・ケアズ―ファミリープラクティス,210,JP,2018-11-28
-air.EGDFindTheKingScepter,FindTheKingScepter,211,JP,2018-11-28
-com.c_rayon.dct,エネドリ,212,JP,2018-11-28
-com.walcode.balusmiras,天空のバルスミラス,213,JP,2018-11-28
-com.bitmango.go.wordsearchhiddenwords,WordSearch:HiddenWords,214,JP,2018-11-28
-com.starring.zgirls4.gp,Zgirls3:Furies,215,JP,2018-11-28
-com.danos.led.flashlight,BrightFlashlight-LEDLight,216,JP,2018-11-28
+com.gwtsz.td,FX投資ソフト,194,JP,2018-11-28
+jp.co.rikuden.mieruka.hokulink,ほくリンク,195,JP,2018-11-28
+com.camc.slither.io.snake.worm,スリザリオSlither:ヘビ＆ワームゲーム,196,JP,2018-11-28
+jp.co.toyota.myroute,myroute[マイルート],197,JP,2018-11-28
+jp.or.jpn_gym.kansen_navi,体操観戦ナビ,198,JP,2018-11-28
+net.jp.apps.saisin.rooopsin3,ロープの結び方～3dknots×縄の結び方×防災×サバイバル×魚釣りなどに～,199,JP,2018-11-28
+com.aeonbody_members,AEONBODY（イオンボディ）公式アプリ,200,JP,2018-11-28
+com.fraouza.affmamchitch,THEAMAZINGS-FrogGame,201,JP,2018-11-28
+com.appscreat.craftium,Craftium:Exploration&Survival,202,JP,2018-11-28
+com.frogrobot.halloween,脱出ゲーム-ロリポップと監禁された幽霊-新作脱出げーむ,203,JP,2018-11-28
+com.kaibutsusangoku.jp,暴走魔王大戦争〜,204,JP,2018-11-28
+enka.music.hot1,昭和演歌名曲集-カラオケ人気曲,205,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame483WingedDragonEscapeGame,KaviEscapeGame483WingedDragonEscapeGame,206,JP,2018-11-28
+air.EGDFindTheKingScepter,FindTheKingScepter,207,JP,2018-11-28
+io.aoxer.platformer.frisk,SuperFrisk,208,JP,2018-11-28
+com.cornago.stefano.lapse2,Lapse2:BeforeZero(Beta),209,JP,2018-11-28
+com.cbasefintechlab.exchange,CROSSexchange-secureexchange-,210,JP,2018-11-28
+com.activision.callofduty.companion,CallofDutyCompanionApp,211,JP,2018-11-28
+jp.rc.Pandog.Search,パンダと犬の〇〇を探せだよ！,212,JP,2018-11-28
+com.gamehouse.dc3,ドクター・ケアズ―ファミリープラクティス,213,JP,2018-11-28
+com.c_rayon.dct,エネドリ,214,JP,2018-11-28
+com.appbond.the100roomviii,Canyouescapethe100roomVIII,215,JP,2018-11-28
+com.starring.zgirls4.gp,Zgirls3:Furies,216,JP,2018-11-28
 com.applisto.appcloner.premium,AppClonerPremium&Add-ons,217,JP,2018-11-28
-com.cornago.stefano.lapse2,Lapse2:BeforeZero(Beta),218,JP,2018-11-28
-jp.co.duo7.vr.iriam,IRIAM（イリアム）,219,JP,2018-11-28
-com.appbond.the100roomviii,Canyouescapethe100roomVIII,220,JP,2018-11-28
-com.SuperAwesome.DragonVillageBlast,ドラゴンビレッジB-ドラゴン育成パズル,221,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame482ButterflyEscapeGame,KaviEscapeGame482ButterflyEscapeGame,222,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame489DebonairSquirrelEscapeGame,KaviEscapeGame489DebonairSquirrelEscapeGame,223,JP,2018-11-28
-com.melostudio.underpianomelo,UndertaleonPianoTiles,224,JP,2018-11-28
-jp.co.enrission.shirucafe,SHIRUCAFE,225,JP,2018-11-28
-enka.music.hot3,﻿五木ひろし演歌名曲集-カラオケ人気曲,226,JP,2018-11-28
-jp.ragoo.scr,サッカーカーニバルレボリューション,227,JP,2018-11-28
+com.bitmango.go.wordsearchhiddenwords,WordSearch:HiddenWords,218,JP,2018-11-28
+com.walcode.balusmiras,天空のバルスミラス,219,JP,2018-11-28
+com.SuperAwesome.DragonVillageBlast,ドラゴンビレッジB-ドラゴン育成パズル,220,JP,2018-11-28
+badboy.musicpool,無料音楽ダウンロード,221,JP,2018-11-28
+com.danos.led.flashlight,BrightFlashlight-LEDLight,222,JP,2018-11-28
+jp.co.duo7.vr.iriam,IRIAM（イリアム）,223,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame482ButterflyEscapeGame,KaviEscapeGame482ButterflyEscapeGame,224,JP,2018-11-28
+com.bubbleshooter.free.cat.pop.game,新しいバブルシューター,225,JP,2018-11-28
+f2game.gemsRoad.pirateDiamondPuzzle,宝石スワイプ,226,JP,2018-11-28
+enka.music.hot3,﻿五木ひろし演歌名曲集-カラオケ人気曲,227,JP,2018-11-28
 com.xchange.JumpBallX,JumpBallBlastⅡ,228,JP,2018-11-28
 com.appgoya.Courtyard,脱出ゲーム謎の中庭,229,JP,2018-11-28
-com.bubbleshooter.free.cat.pop.game,新しいバブルシューター,230,JP,2018-11-28
-com.wasticker.custom.emojis.stickerpack,WAStickerAppsAlbum:PersonalizedStickerMaker,231,JP,2018-11-28
-com.cuveyes.jp.spoby,SPOBY,232,JP,2018-11-28
-badboy.musicpool,無料音楽ダウンロード,233,JP,2018-11-28
-f2game.gemsRoad.pirateDiamondPuzzle,宝石スワイプ,234,JP,2018-11-28
-jp.co.a_tm.android.plus_italia_karano_tegami,ヴィンテージ壁紙アイコンイタリアからの手紙無料,235,JP,2018-11-28
-jp.co.reiji.shinkou,讃岐の修験者【真幸架堂架奈】霊視占い,236,JP,2018-11-28
-jp.co.tokyu.bunkamura,チェブラーシカとしぶやビンゴラリー,237,JP,2018-11-28
-pastudio.gemsswapgame.ResortDeluxeMatch3,リゾートデラックスマッチ3,238,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame511TurtleEscapeGame,BestEscapeGame511TurtleEscapeGame,239,JP,2018-11-28
-jp.advanscope.wificonnect,ads.コネクト,240,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames104VigorGiantEscapeGame,BestEscapeGames104VigorGiantEscapeGame,241,JP,2018-11-28
-jp.or.mcfh.MaternitySideReader2018.Android,改訂版・母子健康手帳副読本～妊娠、出産、育児に必携！母子手帳の副読本,242,JP,2018-11-28
-de.timagarnelenshop.pokexperience,PokeXperience,243,JP,2018-11-28
-enka.music.hot2,美空ひばり演歌名曲集-カラオケ人気曲,244,JP,2018-11-28
+jp.ragoo.scr,サッカーカーニバルレボリューション,230,JP,2018-11-28
+jp.co.enrission.shirucafe,SHIRUCAFE,231,JP,2018-11-28
+com.wasticker.custom.emojis.stickerpack,WAStickerAppsAlbum:PersonalizedStickerMaker,232,JP,2018-11-28
+jp.co.a_tm.android.plus_italia_karano_tegami,ヴィンテージ壁紙アイコンイタリアからの手紙無料,233,JP,2018-11-28
+jp.co.reiji.shinkou,讃岐の修験者【真幸架堂架奈】霊視占い,234,JP,2018-11-28
+com.cuveyes.jp.spoby,SPOBY,235,JP,2018-11-28
+jp.co.tokyu.bunkamura,チェブラーシカとしぶやビンゴラリー,236,JP,2018-11-28
+pastudio.gemsswapgame.ResortDeluxeMatch3,リゾートデラックスマッチ3,237,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame511TurtleEscapeGame,BestEscapeGame511TurtleEscapeGame,238,JP,2018-11-28
+jp.or.mcfh.MaternitySideReader2018.Android,改訂版・母子健康手帳副読本～妊娠、出産、育児に必携！母子手帳の副読本,239,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames104VigorGiantEscapeGame,BestEscapeGames104VigorGiantEscapeGame,240,JP,2018-11-28
+jp.advanscope.wificonnect,ads.コネクト,241,JP,2018-11-28
+de.timagarnelenshop.pokexperience,PokeXperience,242,JP,2018-11-28
+net.jp.apps.energymax.hpshindan,魔法学校組み分け儀式診断　forハリーポッター　あなたの寮は何タイプ？,243,JP,2018-11-28
+net.apps.jp.yoshikosakamoto.kinpurishindanrenew,相性診断forKing&Prince-キンプリ,244,JP,2018-11-28
 com.kwak.clean,クリーンユーフォン,245,JP,2018-11-28
-net.jp.apps.energymax.hpshindan,魔法学校組み分け儀式診断　forハリーポッター　あなたの寮は何タイプ？,246,JP,2018-11-28
-net.apps.jp.yoshikosakamoto.kinpurishindanrenew,相性診断forKing&Prince-キンプリ,247,JP,2018-11-28
+enka.music.hot2,美空ひばり演歌名曲集-カラオケ人気曲,246,JP,2018-11-28
+air.EGDTheMaskMonkeyRescue,TheMaskMonkeyRescue,247,JP,2018-11-28
 jp.game.app.ro.DarkStrider,ダークストライダー-ドット絵アクションRPG-,248,JP,2018-11-28
-air.EGDTheMaskMonkeyRescue,TheMaskMonkeyRescue,249,JP,2018-11-28
+com.free.fun.gnm,FreeMusicDownloaderFMDs,249,JP,2018-11-28
 documentsbyreaddle.pdfviewer.downlodmanager,DocumentsbyReaddleFileManagerDocumentsHelper,250,JP,2018-11-28
 angemona.frohalo.weencostum,TheAmazingRealϜrog,251,JP,2018-11-28
-jp.co.trialnet.quick,トライアルお買い物アプリ（公式）,252,JP,2018-11-28
-com.free.fun.gnm,FreeMusicDownloaderFMDs,253,JP,2018-11-28
-com.zloong.eu.jztkc,Novoland:TheCastleInTheSky,254,JP,2018-11-28
-com.rush.adv.rush.banana,FreeMinionBananaRush:BananaAdventure3D,255,JP,2018-11-28
-com.kianairline.paydayloans,PaydayAdvanceLoanOnline:BorrowMoney,256,JP,2018-11-28
-com.cherrypickgames.mybeautyfactory,MyBeautySpa:StarsandStories,257,JP,2018-11-28
-ru.crazypanda.Pirates,PirateTales:BattleforTreasure,258,JP,2018-11-28
-jp.baibai.fsmartballgame,ふつうのスマートボール無料のボールゲーム,259,JP,2018-11-28
-com.hd.fortnite.wallpapers.free,4kウルトラHdの壁紙バトルロイヤルフォートアート,260,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame481MongrelEscapeGame,KaviEscapeGame481MongrelEscapeGame,261,JP,2018-11-28
-com.bluecore.Determination2,DETERMINATION2,262,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames103CowBruteEscapeGame,BestEscapeGames103CowBruteEscapeGame,263,JP,2018-11-28
+com.cherrypickgames.mybeautyfactory,MyBeautySpa:StarsandStories,252,JP,2018-11-28
+jp.co.trialnet.quick,トライアルお買い物アプリ（公式）,253,JP,2018-11-28
+jp.baibai.fsmartballgame,ふつうのスマートボール無料のボールゲーム,254,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame481MongrelEscapeGame,KaviEscapeGame481MongrelEscapeGame,255,JP,2018-11-28
+com.zloong.eu.jztkc,Novoland:TheCastleInTheSky,256,JP,2018-11-28
+com.rush.adv.rush.banana,FreeMinionBananaRush:BananaAdventure3D,257,JP,2018-11-28
+com.hd.fortnite.wallpapers.free,4kウルトラHdの壁紙バトルロイヤルフォートアート,258,JP,2018-11-28
+com.kianairline.paydayloans,PaydayAdvanceLoanOnline:BorrowMoney,259,JP,2018-11-28
+legsworkout.slimlegs.fatburning.stronglegs,脂肪を燃やす美脚の運動:自宅で道具なし短時間エクササイズ、太ももが細くなる、脚痩せダイエット,260,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames103CowBruteEscapeGame,BestEscapeGames103CowBruteEscapeGame,261,JP,2018-11-28
+jp.co.a_tm.android.plus_lip_diamond,大人カワイイ壁紙アイコンLipDiamond無料,262,JP,2018-11-28
+ru.crazypanda.Pirates,PirateTales:BattleforTreasure,263,JP,2018-11-28
 com.zingzingzing.zinglike,ZingMp3MusicDownloadFree,264,JP,2018-11-28
-legsworkout.slimlegs.fatburning.stronglegs,脂肪を燃やす美脚の運動:自宅で道具なし短時間エクササイズ、太ももが細くなる、脚痩せダイエット,265,JP,2018-11-28
-jp.co.a_tm.android.plus_lip_diamond,大人カワイイ壁紙アイコンLipDiamond無料,266,JP,2018-11-28
-jp.ne.mkb.apps.manoli,神も恐れる的中占い【投影眼占い】人気占い師MANOLI,267,JP,2018-11-28
-com.imgn.pro.symmetry,SYMMETRYGO,268,JP,2018-11-28
-jp.co.sicis.app.toyoma,とよはし健康マイレージアプリ,269,JP,2018-11-28
-com.appcode.pixxxel,tipsforPixelGun3D,270,JP,2018-11-28
-lib.ject,麻雀天下布武,271,JP,2018-11-28
+jp.co.sicis.app.toyoma,とよはし健康マイレージアプリ,265,JP,2018-11-28
+com.appcode.pixxxel,tipsforPixelGun3D,266,JP,2018-11-28
+lib.ject,麻雀天下布武,267,JP,2018-11-28
+com.mofuya.smartrooma,脱出スマートルーム５,268,JP,2018-11-28
+com.imgn.pro.symmetry,SYMMETRYGO,269,JP,2018-11-28
+com.bluecore.Determination2,DETERMINATION2,270,JP,2018-11-28
+jp.ne.mkb.apps.manoli,神も恐れる的中占い【投影眼占い】人気占い師MANOLI,271,JP,2018-11-28
 jp.co.a_tm.android.plus_galaxy_tree,美しい壁紙アイコンGalaxyTree無料,272,JP,2018-11-28
-com.luckyblock.races.map,LuckyBlockRaceMapforMCPE,273,JP,2018-11-28
-jp.co.a_tm.android.plus_kawaii_wagashi,和風壁紙アイコンかわいい和菓子無料,274,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame510GodOfWineEscapeGame,BestEscapeGame510GodOfWineEscapeGame,275,JP,2018-11-28
-com.supertool.bright.led.flashlight,Flashlight-BrightestLEDFlashlight,276,JP,2018-11-28
-com.lilysuki.YOMIURI,ニュース速報：読売新聞（YOMIURIONLINE）,277,JP,2018-11-28
-com.seg_soft.WinterSound,冬の自然音～快適な睡眠のために～リラックス睡眠アプリ,278,JP,2018-11-28
-com.mofuya.smartrooma,脱出スマートルーム５,279,JP,2018-11-28
-com.hello.QuarterbackBoyHighSchool,QuarterbackBoy-HighSchool,280,JP,2018-11-28
-com.vinotinto.vinotintoplayer.desafiosybailesbattleroyale,BailesdeFortnite,281,JP,2018-11-28
-jp.ac.uec.chofusai2018.a68thchofufesappdroided,第68回調布祭アプリ,282,JP,2018-11-28
-jp.co.a_tm.android.plus_bluemoon,幻想壁紙アイコンブルー・ムーン無料,283,JP,2018-11-28
-com.totossoft.dkl,IdleDungeonKnights,284,JP,2018-11-28
-com.JellyfishSoft.EDQA,非常に危険なクエスト紹介所,285,JP,2018-11-28
-com.joytea.wakuwaku.google,わくわくファンタジー～はるかな世界の物語～,286,JP,2018-11-28
-com.downlaoder.videodownloader.freevideo.allvideo,新しいビデオダウンローダ2019年：ダウンローダマネージャーアプリ,287,JP,2018-11-28
-com.c_rayon.shishamo,ししゃモバ,288,JP,2018-11-28
-jp.showa_shell_dmp.shellpass,ShellPass-昭和シェル石油公式アプリ,289,JP,2018-11-28
+com.downlaoder.videodownloader.freevideo.allvideo,新しいビデオダウンローダ2019年：ダウンローダマネージャーアプリ,273,JP,2018-11-28
+com.seg_soft.WinterSound,冬の自然音～快適な睡眠のために～リラックス睡眠アプリ,274,JP,2018-11-28
+com.joytea.wakuwaku.google,わくわくファンタジー～はるかな世界の物語～,275,JP,2018-11-28
+com.luckyblock.races.map,LuckyBlockRaceMapforMCPE,276,JP,2018-11-28
+jp.co.a_tm.android.plus_kawaii_wagashi,和風壁紙アイコンかわいい和菓子無料,277,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame510GodOfWineEscapeGame,BestEscapeGame510GodOfWineEscapeGame,278,JP,2018-11-28
+com.kt.kpma,The1stKPMA,279,JP,2018-11-28
+com.lilysuki.YOMIURI,ニュース速報：読売新聞（YOMIURIONLINE）,280,JP,2018-11-28
+com.hello.QuarterbackBoyHighSchool,QuarterbackBoy-HighSchool,281,JP,2018-11-28
+jp.co.a_tm.android.plus_bluemoon,幻想壁紙アイコンブルー・ムーン無料,282,JP,2018-11-28
+com.supertool.bright.led.flashlight,Flashlight-BrightestLEDFlashlight,283,JP,2018-11-28
+com.vinotinto.vinotintoplayer.desafiosybailesbattleroyale,BailesdeFortnite,284,JP,2018-11-28
+jp.ac.uec.chofusai2018.a68thchofufesappdroided,第68回調布祭アプリ,285,JP,2018-11-28
+com.totossoft.dkl,IdleDungeonKnights,286,JP,2018-11-28
+com.bigfishgames.mcfbrokenhourgoog,アイテム探し-ミステリー事件簿：壊れた時間,287,JP,2018-11-28
+com.JellyfishSoft.EDQA,非常に危険なクエスト紹介所,288,JP,2018-11-28
+com.c_rayon.shishamo,ししゃモバ,289,JP,2018-11-28
 com.newsinlevels,EnglishNewsinLevels,290,JP,2018-11-28
-com.bigfishgames.mcfbrokenhourgoog,アイテム探し-ミステリー事件簿：壊れた時間,291,JP,2018-11-28
-com.vastserve.rickgames.dodgehill,DodgeHill,292,JP,2018-11-28
-com.putmenu.maleragifu,モレラオーダー,293,JP,2018-11-28
+com.vastserve.rickgames.dodgehill,DodgeHill,291,JP,2018-11-28
+jp.showa_shell_dmp.shellpass,ShellPass-昭和シェル石油公式アプリ,292,JP,2018-11-28
+com.oldsea2.murmur,murmur匿名つぶやき&悩み相談ストレス解消SNS,293,JP,2018-11-28
 com.sonymobile.themes.thefourelementswater,Xperia™TheFourElements-WaterTheme,294,JP,2018-11-28
-com.Yanderehighschool.senpaisimulator,GuidesforYandereHighSchool,295,JP,2018-11-28
-com.amwayglobal.atmosphere,アトモスフィアコネクト,296,JP,2018-11-28
+com.Goblinz.TrueFear2,TrueFear:ForsakenSoulsPart2,295,JP,2018-11-28
+com.Yanderehighschool.senpaisimulator,GuidesforYandereHighSchool,296,JP,2018-11-28
 air.com.bestescapegames.BestEscapeGames102CartoonVastCreatureEscapeGame,BestEscapeGames102CartoonVastCreatureEscape,297,JP,2018-11-28
-com.hikarigumi.momiji,紅葉八幡宮,298,JP,2018-11-28
+com.putmenu.maleragifu,モレラオーダー,298,JP,2018-11-28
 com.life.coool.lineoverlay.znt,ガイド計算（暫定版）　グリッド形式の罫線、ガイドラインを計算,299,JP,2018-11-28
-com.Goblinz.TrueFear2,TrueFear:ForsakenSoulsPart2,300,JP,2018-11-28
-jp.co.tnc.appMomochihama001,ももち浜ストア,301,JP,2018-11-28
-com.onedev.steveaoki,TWICE-YESorYES.,302,JP,2018-11-28
+jp.co.tnc.appMomochihama001,ももち浜ストア,300,JP,2018-11-28
+com.aim.ecds2.racing,RealCarDrivingExperience-Racinggame,301,JP,2018-11-28
+jp.co.tnc.appMomochihama001,ももち浜ストア,302,JP,2018-11-28
 jp.co.a_tm.android.plus_triple_ribbon,可愛い壁紙アイコンみっつのリボン無料,303,JP,2018-11-28
-com.mobile.xmeye.guge,XMEye,304,JP,2018-11-28
-paStudio.BabyPanda.cookiematch3,クッキー2019を押しつぶす,305,JP,2018-11-28
-com.paondp.dyctob,押忍！番長【大都吉宗CITYパチスロ】,306,JP,2018-11-28
-srrootage.activity,ScoreRepositoryRootage,307,JP,2018-11-28
-com.ariix.appdemo,ARIIXCONNECT,308,JP,2018-11-28
-zingfrog.adventurefrogmazing.forliving,Theamazings-Frog3D,309,JP,2018-11-28
-com.kt.kpma,The1stKPMA,310,JP,2018-11-28
-com.aim.ecds2.racing,RealCarDrivingExperience-Racinggame,311,JP,2018-11-28
-com.titan.tpfox,フォックスジグソーパズル,312,JP,2018-11-28
-com.az.boatraceaxis.appli,競艇予想アプリ【アクシズ】,313,JP,2018-11-28
-tokyo.difference.aimeasure,DIFFERENCEAI画像採寸アプリ,314,JP,2018-11-28
-jp.co.gakken.ouchiZemi,おうちゼミ　１～６年生の学習　本＋アプリで毎日楽しく勉強タイム！,315,JP,2018-11-28
-com.gamesallcheats.pixenguntips,TipsForPixelGun3D,316,JP,2018-11-28
-com.roadrampage.carracing.shootergames,RoadRampage:Racing&ShootingtoRevenge,317,JP,2018-11-28
-amasingfrogg.gamesimfro.easyjumpfrog,THEA­M­AZINGFROGGAME,318,JP,2018-11-28
-jp.lotogram.wawaji,クレーンゲーム-オンラインキャッチャー,319,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame480EndearingRatRescueGame,KaviEscapeGame480EndearingRatRescueGame,320,JP,2018-11-28
-com.my.awa,ArmoredWarfare:AssaultTanks&Armada!MMOstrategy,321,JP,2018-11-28
-enka.music.hot9,氷川きよし演歌名曲集-カラオケ人気曲,322,JP,2018-11-28
-com.miga.myvacation,Migaタウン:私の休み,323,JP,2018-11-28
-jp.co.suken.stdbviewer,StudyaidD.B.ビューア,324,JP,2018-11-28
-com.eyougame.darkll,다크레전드,325,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames101ChimpanzeesEscapeGame,BestEscapeGames101ChimpanzeesEscapeGame,326,JP,2018-11-28
-jp.smart_engineering.fmplapla.fmaozora,FMあおぞら,327,JP,2018-11-28
-jp.pingponginc.rallys,Rallys[ラリーズ]-卓球総合メディアアプリ,328,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame509FortunateGirlEscapeGame,BestEscapeGame509FortunateGirlEscapeGame,329,JP,2018-11-28
-com.coinbene.manbiwang,CoinBene,330,JP,2018-11-28
-io.mapgenie.rdr2map,MapGenie:RDR2,331,JP,2018-11-28
-msm.adventuremcpc.cr,CraftingAdventures,332,JP,2018-11-28
-net.yousai,服の作り方と型紙うさこの洋裁工房,333,JP,2018-11-28
-pastudio.cubetoyblast.PandaBabyCrushPuzzle,パンダおもちゃストア,334,JP,2018-11-28
+com.hikarigumi.momiji,紅葉八幡宮,304,JP,2018-11-28
+com.onedev.steveaoki,TWICE-YESorYES.,305,JP,2018-11-28
+srrootage.activity,ScoreRepositoryRootage,306,JP,2018-11-28
+com.mobile.xmeye.guge,XMEye,307,JP,2018-11-28
+jp.lotogram.wawaji,クレーンゲーム-オンラインキャッチャー,308,JP,2018-11-28
+tokyo.difference.aimeasure,DIFFERENCEAI画像採寸アプリ,309,JP,2018-11-28
+com.paondp.dyctob,押忍！番長【大都吉宗CITYパチスロ】,310,JP,2018-11-28
+com.titan.tpfox,フォックスジグソーパズル,311,JP,2018-11-28
+enka.music.hot9,氷川きよし演歌名曲集-カラオケ人気曲,312,JP,2018-11-28
+zingfrog.adventurefrogmazing.forliving,Theamazings-Frog3D,313,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame480EndearingRatRescueGame,KaviEscapeGame480EndearingRatRescueGame,314,JP,2018-11-28
+paStudio.BabyPanda.cookiematch3,クッキー2019を押しつぶす,315,JP,2018-11-28
+com.ariix.appdemo,ARIIXCONNECT,316,JP,2018-11-28
+com.gamesallcheats.pixenguntips,TipsForPixelGun3D,317,JP,2018-11-28
+com.roadrampage.carracing.shootergames,RoadRampage:Racing&ShootingtoRevenge,318,JP,2018-11-28
+com.az.boatraceaxis.appli,競艇予想アプリ【アクシズ】,319,JP,2018-11-28
+com.my.awa,ArmoredWarfare:AssaultTanks&Armada!MMOstrategy,320,JP,2018-11-28
+jp.co.gakken.ouchiZemi,おうちゼミ　１～６年生の学習　本＋アプリで毎日楽しく勉強タイム！,321,JP,2018-11-28
+com.eyougame.darkll,다크레전드,322,JP,2018-11-28
+amasingfrogg.gamesimfro.easyjumpfrog,THEA­M­AZINGFROGGAME,323,JP,2018-11-28
+com.miga.myvacation,Migaタウン:私の休み,324,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame509FortunateGirlEscapeGame,BestEscapeGame509FortunateGirlEscapeGame,325,JP,2018-11-28
+jp.co.suken.stdbviewer,StudyaidD.B.ビューア,326,JP,2018-11-28
+io.mapgenie.rdr2map,MapGenie:RDR2,327,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames101ChimpanzeesEscapeGame,BestEscapeGames101ChimpanzeesEscapeGame,328,JP,2018-11-28
+com.MonkeyBalance.BallUltimatess_titaniumpokerojo,ファイアレッド(emulator),329,JP,2018-11-28
+jp.smart_engineering.fmplapla.fmaozora,FMあおぞら,330,JP,2018-11-28
+jp.pingponginc.rallys,Rallys[ラリーズ]-卓球総合メディアアプリ,331,JP,2018-11-28
+net.yousai,服の作り方と型紙うさこの洋裁工房,332,JP,2018-11-28
+enka.music.hot8,﻿坂本冬美演歌名曲集-カラオケ人気曲,333,JP,2018-11-28
+com.coinbene.manbiwang,CoinBene,334,JP,2018-11-28
 com.paleblue.coloring_artbook,着色アートブック,335,JP,2018-11-28
-com.MonkeyBalance.BallUltimatess_titaniumpokerojo,ファイアレッド(emulator),336,JP,2018-11-28
-enka.music.hot8,﻿坂本冬美演歌名曲集-カラオケ人気曲,337,JP,2018-11-28
-com.Maxvip.GuildMaster,ギルドマスター,338,JP,2018-11-28
-com.codemasters.F1Mobile,F1MobileRacing,339,JP,2018-11-28
-com.spungegames.spungeracers,RevHeadsラリー,340,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame508RedFireDragonEscapeGame,BestEscapeGame508RedFireDragonEscapeGame,341,JP,2018-11-28
+msm.adventuremcpc.cr,CraftingAdventures,336,JP,2018-11-28
+com.Maxvip.GuildMaster,ギルドマスター,337,JP,2018-11-28
+com.studio32sec.TK,東洋経済オンライン-経済ニュースの新基準,338,JP,2018-11-28
+pastudio.cubetoyblast.PandaBabyCrushPuzzle,パンダおもちゃストア,339,JP,2018-11-28
+jp.co.willer.vodapp,WILLERTHEATER-高速バス車内で映画、お笑い、アニメが観られる！無料動画視聴アプリ,340,JP,2018-11-28
+jp.h13i32maru.trickle,Trickle,341,JP,2018-11-28
 com.vampire.tornadogame.twisterio,トルネードのヒーロー：トップioのゲーム,342,JP,2018-11-28
-com.tbs.vproject,バーサスNEXTファイト,343,JP,2018-11-28
-com.shortfunny.videosti.ktok,TiktokFunnyVideoAdvisor,344,JP,2018-11-28
-jp.nosh.nosh,nosh/ナッシュ,345,JP,2018-11-28
-jp.atlas.procguide.jcmi2018f,第38回医療情報学連合大会（JCMI2018）,346,JP,2018-11-28
-jp.h13i32maru.trickle,Trickle,347,JP,2018-11-28
-jp.boy.lab.passmanager,パスワード管理は指紋認証のパスマネージャー(PassManager),348,JP,2018-11-28
-com.sap.edit.pro,PipEdit,349,JP,2018-11-28
-com.dignitygames.boomblast,BoomBlast,350,JP,2018-11-28
-app.over.editor,Over:Edit&AddTexttoPhotos,351,JP,2018-11-28
-jp.co.willer.vodapp,WILLERTHEATER-高速バス車内で映画、お笑い、アニメが観られる！無料動画視聴アプリ,352,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames100SuperheroDogEscapeGame,BestEscapeGames100SuperheroDogEscapeGame,353,JP,2018-11-28
-jp.co.rensa.maia.fortune,英国霊能者公認【霊能占い師　maia】霊視占い,354,JP,2018-11-28
-com.studio32sec.TK,東洋経済オンライン-経済ニュースの新基準,355,JP,2018-11-28
-com.Bubibu.DeltaRuneUndertale,DeltarunePart1,356,JP,2018-11-28
-jp.co.live2love.shuttlesticker,ShuttleStickerforLINEスタンプ作成,357,JP,2018-11-28
-com.survivalcrafting.crafting.fashion.car.salon.makeover.spa.girls.craft.fun.free.driving.games.girls.racing.simulator,ガールズカークラフト：🏎️ガールズのためのレーシングゲームをプレイする,358,JP,2018-11-28
-jp.xbull.munch2018,MUNCH:外語祭グルメアプリ,359,JP,2018-11-28
-com.milliongamesnew.impossiabletracks2019,ImpossibleTracks2019,360,JP,2018-11-28
-net.jp.apps.saisin.kinpurin,相性診断forキンプリ～イケメンシリーズ×ジャニーズ×両想い～,361,JP,2018-11-28
-com.strange.imagebest1,よく見るとおかしい画像~放課後編~間違い探しゲーム,362,JP,2018-11-28
-com.marsvard.stickermakerforwhatsapp,Stickermaker,363,JP,2018-11-28
-jp.co.rensa.michiko.fortune,“この占い凄い”TV絶賛占い師【宇井美智子】,364,JP,2018-11-28
-jp.co.rensa.sakino.fortune,やっと会えた【秘蔵霊視占い】占い師響春,365,JP,2018-11-28
-com.gps.maps.appsence,Maps.Go-地図、方向、GPS、交通,366,JP,2018-11-28
-com.Funny.Beasts.BattleGangs,GangsWrestling:BeastsFightingGame,367,JP,2018-11-28
-jp.co.ciagram.adv.slg.beyondscarlet,【恋愛ゲーム無料女性向け人気】緋の彼方(あけのかなた),368,JP,2018-11-28
-com.fianess.jetcoaster2019,絶叫トレインコースター2019,369,JP,2018-11-28
-com.companyname.PolyUniversal,GofigureforChordElectronics,370,JP,2018-11-28
-jp.lpeg.dimension.player,DimensionPlayer,371,JP,2018-11-28
-com.spillcola.spillit,SpillCola,372,JP,2018-11-28
-f2game.sweetgems.jewelCrush,ファラオ・キング・ジュエルズ・クラッシュ,373,JP,2018-11-28
-com.wallpaper.studio.zhilin.snow16,ウィンタービレッジのビデオライブ壁紙,374,JP,2018-11-28
-com.mobirix.numcolking,数字で着色するの王,375,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame507FamousArtistsEscapeGame,BestEscapeGame507FamousArtistsEscapeGame,376,JP,2018-11-28
-com.twobeards.invisibleshadow,見えない影のオンライン,377,JP,2018-11-28
-com.messengerforall.messagingpro,スマートメッセンジャーアプリ-安全なチャット,378,JP,2018-11-28
-com.clova.wizball,Wizball(ウィズボール),379,JP,2018-11-28
-com.netabare.magic,ネタバレマジック手品のトリック大公開!クイズで分かるモテる手品,380,JP,2018-11-28
-com.diamond.art.color.by.number,Diamondart,381,JP,2018-11-28
-com.deishelon.emuifontmanager,FontManagerforHuawei/Honor/EMUI,382,JP,2018-11-28
-com.eastmoon.mergemon,マージモン-モンスター合体,383,JP,2018-11-28
-com.spheregamestudios.mergecity,MergeCity:idlebuildinggame,384,JP,2018-11-28
-air.jp.co.bizvalley.ohara.gyousei2019,資格の大原行政書士トレ問2019,385,JP,2018-11-28
-com.wallpaper.sam.tim997.snow5,冬の雪の夜HDライブ壁紙無料,386,JP,2018-11-28
-com.gamesallcheats.pixelgunv3,TipsForPixelGun3D2019,387,JP,2018-11-28
-com.sonymobile.themes.minimaldark,Xperia™MinimalDarkTheme,388,JP,2018-11-28
-net.joyplustech.android_mermaid26,MermaidSecrets26–SeaSecretsforMermaidPrincess,389,JP,2018-11-28
-com.gondoq.opa,FreeQ͘͘ooapp,390,JP,2018-11-28
-com.tbegames.and.best_monster_racing,RacingXtreme2:TopMonsterTruck&OffroadFun,391,JP,2018-11-28
-jp.co.tokyodome.tdpoint,東京ドームシティイルミネーションアプリ,392,JP,2018-11-28
-jp.co.a_tm.android.plus_pink_glitter,かわいい壁紙アイコンピンク・グリッター無料,393,JP,2018-11-28
-com.sagafun.solitaire,SolitaireGamesFree:SolitaireFunCardGames,394,JP,2018-11-28
-jp.co.strobolight.midotta,ミドッタ！-花・植物に関わる仕事のマッチングアプリ-,395,JP,2018-11-28
-com.hyperfame.bikestunts_racing2019free,バイクスタント無料2019-BikeStuntsFree2019,396,JP,2018-11-28
-com.datarecovery2019.restore.deleted.pictures.videos.recover.photos.files.contacts.images,削除された写真を復元する:画像のビデオを回復する,397,JP,2018-11-28
-glacierxd.glaciermusicplayer,無料音楽ダウンロード,398,JP,2018-11-28
-com.au.iroot,iRoot,399,JP,2018-11-28
-jp.atlas.procguide.jsa80tokyo,第80回日本臨床外科学会総会（JSA80）,400,JP,2018-11-28
-com.generagames.brixcandyblockblast,BRIX!BlockBlast,401,JP,2018-11-28
-com.aim.traffic.racing,CarInTraffic2018,402,JP,2018-11-28
-com.cookinggames.cooking2,CookingWorld料理ゲームフードレストランシェフ,403,JP,2018-11-28
-com.sclab.psychometrerAR,サイコメトラーAR,404,JP,2018-11-28
-jp.kokuseijoho.kokkaigiinyoran1811,国会議員要覧平成30年11月版,405,JP,2018-11-28
-com.easycodes.stickers,StickersforWhatsapp-WAStickerAppsStickers,406,JP,2018-11-28
-com.cakra99s.ADIDASWallpaperHD,🏳️‍🌈ADIDAS'WallpaperHD,407,JP,2018-11-28
-com.filter.image.camera,"PicMe-LiveSticker,BeautyFilter,SelfieCamera",408,JP,2018-11-28
-jp.co.yoshimoto.ganbareruyatorokko,ガンバレルーヤの暴走トロッコ,409,JP,2018-11-28
-jp.co.a_tm.android.plus_kenran_momiji,キレイな壁紙アイコン絢爛紅葉無料,410,JP,2018-11-28
-game.human.fall.falts.earth,GuideForHumanfallflats,411,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame506SnakeMonsterBoyEscapeGame,BestEscapeGame506SnakeMonsterBoyEscapeGame,412,JP,2018-11-28
-com.gtactiongames.stuntbiker3d,StuntBiker3D,413,JP,2018-11-28
-com.mobirix.classicsolitaire,ソリティア:クロンダイクの殿堂,414,JP,2018-11-28
-pl.idreams.Dino,クレイジーダイノパーク(CrazyDinoPark),415,JP,2018-11-28
-com.fb.fluid,FluidNavigationGestures,416,JP,2018-11-28
-com.Bullinzadu.EzrealMirror2,EzMirrorMatch2,417,JP,2018-11-28
-monopoly.business.empire.trade,MonopolyFree,418,JP,2018-11-28
-jp.ac.osaka_u.myhandai,マイハンダイアプリ,419,JP,2018-11-28
-jp.funup.monomy,monomy(モノミー)-モノづくりマーケットアプリ-,420,JP,2018-11-28
-pastudio.gemsswapgame.trumpTreasureAge,宝物時代を刻む,421,JP,2018-11-28
-com.nxl.app.kirbywallpapers,カービーの壁紙のHD,422,JP,2018-11-28
-santa.pop.bubble,BubblePopSanta,423,JP,2018-11-28
-com.ftxgames.cmdd,CriminalMinds:TheMobileGame,424,JP,2018-11-28
-animefree.watchanime.kissanime,AnimeTv-WatchAnimeOnlineFree,425,JP,2018-11-28
-com.unlimited.classic.sonic.advance,RetroClassicSonicAdvance,426,JP,2018-11-28
-jp.co.spiritek.nailStickerCreator,ネイルシールプリントforCanon,427,JP,2018-11-28
-online.whatsticker,WhatSticker-FreeStickerStoreforWhatsApp,428,JP,2018-11-28
-com.stanby.jp.yokohama,ハマを支える求人検索アプリbyスタンバイ,429,JP,2018-11-28
-com.sinyee.babybus.japanesesongs,BabyBus知育童謡アニメ--楽しく学ぶ！動画見放題！,430,JP,2018-11-28
-jp.co.rensa.haruko.fortune,東京で予約取れない占い【はるこ】運命占い,431,JP,2018-11-28
-com.shg.gianghohiepkhach,GIANGHỒHIỆPKHÁCHLỆNH,432,JP,2018-11-28
-jp.co.a_tm.android.plus_yeastken02,かわいい壁紙アイコンいーすとけん。～しばこっぺ＆とさあんこ～無料,433,JP,2018-11-28
-com.c0de_mattari.nitstamprally,NITStampRally,434,JP,2018-11-28
-com.cochaapp.bchannel,BusinessChannel,435,JP,2018-11-28
-com.nwg.stickman.neon.warriors.spiders,スティックマンネオンウォリアーズ：クモ,436,JP,2018-11-28
-com.future.know,FutureKnow:正確な占い,437,JP,2018-11-28
-com.kpop.art.pixel.coloring.book.polygon.love.gem,KpopIdolPixelColorArtBook,438,JP,2018-11-28
-jp.ibaraki.pref.kids.ipass_andoird,いばらき結婚応援パスポートiPASS,439,JP,2018-11-28
-com.dooskington.asteroidquest,AsteroidQuest!,440,JP,2018-11-28
-com.jewel.block.puzzle.game2d,BlockPuzzle:JewelGame2019,441,JP,2018-11-28
-com.turbousa.unblock.vpn1121,USATurboVPN-FreeVPNProxy&Wi-FiSecurity,442,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame479TotDragonRescueGame,KaviEscapeGame479TotDragonRescueGame,443,JP,2018-11-28
-com.orange.gamesforkids.coloring.princess,プリンセス-ぬりえの本やゲーム,444,JP,2018-11-28
-recover.formatted.sd.card.app,フォーマットされたSDカードを回復する,445,JP,2018-11-28
-bubbles.master,MasterBubbles,446,JP,2018-11-28
-com.kulasis,KULASIS,447,JP,2018-11-28
-com.doublejump.heliumproject,コスミックショーダウン(CosmicShowdown),448,JP,2018-11-28
-air.com.kavigames.KaviEscapeGame478RatVsCatEscapeGame,KaviEscapeGame478RatVsCatEscapeGame,449,JP,2018-11-28
-com.hello.SpaBeautyHall,SpaBeautyHall,450,JP,2018-11-28
-jp.co.osstech.jeidreader,IDリーダー(マイナンバーカード、運転免許証),451,JP,2018-11-28
-net.jp.apps.flatstay.ecokenteisikenmondai,eco検定（環境社会検定試験）～社会の中で率先して環境問題に取り組む“人づくり”～過去問・予想問題集,452,JP,2018-11-28
-com.skycap.Kids_Christmas_Jigsaw,KidsChristmasJigsawPuzzle,453,JP,2018-11-28
-com.playtoddlers.vacationhotelstories.free,VacationHotelStories,454,JP,2018-11-28
-com.sonymobile.themes.minimallight,Xperia™MinimalLightTheme,455,JP,2018-11-28
-enka.music.hot6,福田こうへい演歌名曲集-カラオケ人気曲,456,JP,2018-11-28
-com.christmas.snow.man.theme,クリスマススノーマンテーマ,457,JP,2018-11-28
-com.allies.kirbi.deathadventure,悪の死の土地でのカービーの怖い旅,458,JP,2018-11-28
-jp.trw.tsunavi,レース予想　TSU　NAVI,459,JP,2018-11-28
-mp4.downloader.video.fastvid2,Mp4Videodownloader:play&downloadmusic,460,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames97ConvivialSquirrelRescueGame,BestEscapeGames97ConvivialSquirrelRescue,461,JP,2018-11-28
-com.astragon.trucksimtwo,TruckSimulation19,462,JP,2018-11-28
-enka.music.hot10,山内惠介演歌名曲集-カラオケ人気曲,463,JP,2018-11-28
-jp.co.omron.healthcare.tensohj,オムロン低周波,464,JP,2018-11-28
-com.best.weather.forecast.network,天気予報,465,JP,2018-11-28
-com.realroadracing.speedchasinggame,リアルレーシングレーシング-エクストリームワイルドスピード,466,JP,2018-11-28
-com.panasonic.ais_pfdc_tvremote3_jp,PanasonicＴＶシェア,467,JP,2018-11-28
-com.livedoorp.japanese,Livedoorニュース,468,JP,2018-11-28
+com.sap.edit.pro,PipEdit,343,JP,2018-11-28
+com.tbs.vproject,バーサスNEXTファイト,344,JP,2018-11-28
+com.dignitygames.boomblast,BoomBlast,345,JP,2018-11-28
+com.codemasters.F1Mobile,F1MobileRacing,346,JP,2018-11-28
+com.spungegames.spungeracers,RevHeadsラリー,347,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame508RedFireDragonEscapeGame,BestEscapeGame508RedFireDragonEscapeGame,348,JP,2018-11-28
+jp.boy.lab.passmanager,パスワード管理は指紋認証のパスマネージャー(PassManager),349,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames100SuperheroDogEscapeGame,BestEscapeGames100SuperheroDogEscapeGame,350,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames96VictoriousAppleEscapeGame,BestEscapeGames96VictoriousAppleEscapeGame,351,JP,2018-11-28
+com.shortfunny.videosti.ktok,TiktokFunnyVideoAdvisor,352,JP,2018-11-28
+jp.nosh.nosh,nosh/ナッシュ,353,JP,2018-11-28
+jp.atlas.procguide.jcmi2018f,第38回医療情報学連合大会（JCMI2018）,354,JP,2018-11-28
+app.over.editor,Over:Edit&AddTexttoPhotos,355,JP,2018-11-28
+jp.co.rensa.maia.fortune,英国霊能者公認【霊能占い師　maia】霊視占い,356,JP,2018-11-28
+com.Bubibu.DeltaRuneUndertale,DeltarunePart1,357,JP,2018-11-28
+com.sonymobile.themes.minimaldark,Xperia™MinimalDarkTheme,358,JP,2018-11-28
+jp.co.ciagram.adv.slg.beyondscarlet,【恋愛ゲーム無料女性向け人気】緋の彼方(あけのかなた),359,JP,2018-11-28
+com.companyname.PolyUniversal,GofigureforChordElectronics,360,JP,2018-11-28
+jp.lpeg.dimension.player,DimensionPlayer,361,JP,2018-11-28
+jp.co.live2love.shuttlesticker,ShuttleStickerforLINEスタンプ作成,362,JP,2018-11-28
+com.gps.maps.appsence,Maps.Go-地図、方向、GPS、交通,363,JP,2018-11-28
+net.jp.apps.saisin.kinpurin,相性診断forキンプリ～イケメンシリーズ×ジャニーズ×両想い～,364,JP,2018-11-28
+com.strange.imagebest1,よく見るとおかしい画像~放課後編~間違い探しゲーム,365,JP,2018-11-28
+jp.co.strobolight.midotta,ミドッタ！-花・植物に関わる仕事のマッチングアプリ-,366,JP,2018-11-28
+com.survivalcrafting.crafting.fashion.car.salon.makeover.spa.girls.craft.fun.free.driving.games.girls.racing.simulator,ガールズカークラフト：🏎️ガールズのためのレーシングゲームをプレイする,367,JP,2018-11-28
+jp.xbull.munch2018,MUNCH:外語祭グルメアプリ,368,JP,2018-11-28
+com.milliongamesnew.impossiabletracks2019,ImpossibleTracks2019,369,JP,2018-11-28
+com.twobeards.invisibleshadow,見えない影のオンライン,370,JP,2018-11-28
+com.marsvard.stickermakerforwhatsapp,Stickermaker,371,JP,2018-11-28
+air.jp.co.bizvalley.ohara.gyousei2019,資格の大原行政書士トレ問2019,372,JP,2018-11-28
+jp.co.rensa.michiko.fortune,“この占い凄い”TV絶賛占い師【宇井美智子】,373,JP,2018-11-28
+com.clova.wizball,Wizball(ウィズボール),374,JP,2018-11-28
+jp.co.rensa.sakino.fortune,やっと会えた【秘蔵霊視占い】占い師響春,375,JP,2018-11-28
+com.wallpaper.studio.zhilin.snow16,ウィンタービレッジのビデオライブ壁紙,376,JP,2018-11-28
+com.Funny.Beasts.BattleGangs,GangsWrestling:BeastsFightingGame,377,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame490ScreamGirlRescueGame,KaviEscapeGame490ScreamGirlRescueGame,378,JP,2018-11-28
+com.spillcola.spillit,SpillCola,379,JP,2018-11-28
+com.eastmoon.mergemon,マージモン-モンスター合体,380,JP,2018-11-28
+f2game.sweetgems.jewelCrush,ファラオ・キング・ジュエルズ・クラッシュ,381,JP,2018-11-28
+com.diamond.art.color.by.number,Diamondart,382,JP,2018-11-28
+com.easycodes.stickers,StickersforWhatsapp-WAStickerAppsStickers,383,JP,2018-11-28
+com.wallpaper.sam.tim997.snow5,冬の雪の夜HDライブ壁紙無料,384,JP,2018-11-28
+com.mobirix.numcolking,数字で着色するの王,385,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame507FamousArtistsEscapeGame,BestEscapeGame507FamousArtistsEscapeGame,386,JP,2018-11-28
+com.messengerforall.messagingpro,スマートメッセンジャーアプリ-安全なチャット,387,JP,2018-11-28
+com.gondoq.opa,FreeQ͘͘ooapp,388,JP,2018-11-28
+com.deishelon.emuifontmanager,FontManagerforHuawei/Honor/EMUI,389,JP,2018-11-28
+com.au.iroot,iRoot,390,JP,2018-11-28
+com.spheregamestudios.mergecity,MergeCity:idlebuildinggame,391,JP,2018-11-28
+com.mobirix.classicsolitaire,ソリティア:クロンダイクの殿堂,392,JP,2018-11-28
+com.tbegames.and.best_monster_racing,RacingXtreme2:TopMonsterTruck&OffroadFun,393,JP,2018-11-28
+com.datarecovery2019.restore.deleted.pictures.videos.recover.photos.files.contacts.images,削除された写真を復元する:画像のビデオを回復する,394,JP,2018-11-28
+com.gamesallcheats.pixelgunv3,TipsForPixelGun3D2019,395,JP,2018-11-28
+net.joyplustech.android_mermaid26,MermaidSecrets26–SeaSecretsforMermaidPrincess,396,JP,2018-11-28
+jp.co.a_tm.android.plus_pink_glitter,かわいい壁紙アイコンピンク・グリッター無料,397,JP,2018-11-28
+com.cakra99s.ADIDASWallpaperHD,🏳️‍🌈ADIDAS'WallpaperHD,398,JP,2018-11-28
+com.hyperfame.bikestunts_racing2019free,バイクスタント無料2019-BikeStuntsFree2019,399,JP,2018-11-28
+com.fb.fluid,FluidNavigationGestures,400,JP,2018-11-28
+glacierxd.glaciermusicplayer,無料音楽ダウンロード,401,JP,2018-11-28
+jp.co.a_tm.android.plus_kenran_momiji,キレイな壁紙アイコン絢爛紅葉無料,402,JP,2018-11-28
+jp.co.tokyodome.tdpoint,東京ドームシティイルミネーションアプリ,403,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame506SnakeMonsterBoyEscapeGame,BestEscapeGame506SnakeMonsterBoyEscapeGame,404,JP,2018-11-28
+com.gtactiongames.stuntbiker3d,StuntBiker3D,405,JP,2018-11-28
+com.generagames.brixcandyblockblast,BRIX!BlockBlast,406,JP,2018-11-28
+pl.idreams.Dino,クレイジーダイノパーク(CrazyDinoPark),407,JP,2018-11-28
+com.sagafun.solitaire,SolitaireGamesFree:SolitaireFunCardGames,408,JP,2018-11-28
+photo.math.calculate.scan.solve.calculator.pro,CalculatorPro-MakestheCalculationEasier,409,JP,2018-11-28
+jp.funup.monomy,monomy(モノミー)-モノづくりマーケットアプリ-,410,JP,2018-11-28
+jp.atlas.procguide.jsa80tokyo,第80回日本臨床外科学会総会（JSA80）,411,JP,2018-11-28
+com.aim.traffic.racing,CarInTraffic2018,412,JP,2018-11-28
+com.cookinggames.cooking2,CookingWorld料理ゲームフードレストランシェフ,413,JP,2018-11-28
+com.sclab.psychometrerAR,サイコメトラーAR,414,JP,2018-11-28
+jp.kokuseijoho.kokkaigiinyoran1811,国会議員要覧平成30年11月版,415,JP,2018-11-28
+com.filter.image.camera,"PicMe-LiveSticker,BeautyFilter,SelfieCamera",416,JP,2018-11-28
+jp.co.yoshimoto.ganbareruyatorokko,ガンバレルーヤの暴走トロッコ,417,JP,2018-11-28
+game.human.fall.falts.earth,GuideForHumanfallflats,418,JP,2018-11-28
+com.ftxgames.cmdd,CriminalMinds:TheMobileGame,419,JP,2018-11-28
+monopoly.business.empire.trade,MonopolyFree,420,JP,2018-11-28
+santa.pop.bubble,BubblePopSanta,421,JP,2018-11-28
+com.stanby.jp.yokohama,ハマを支える求人検索アプリbyスタンバイ,422,JP,2018-11-28
+jp.co.rensa.haruko.fortune,東京で予約取れない占い【はるこ】運命占い,423,JP,2018-11-28
+animefree.watchanime.kissanime,AnimeTv-WatchAnimeOnlineFree,424,JP,2018-11-28
+recover.formatted.sd.card.app,フォーマットされたSDカードを回復する,425,JP,2018-11-28
+com.Bullinzadu.EzrealMirror2,EzMirrorMatch2,426,JP,2018-11-28
+com.unlimited.classic.sonic.advance,RetroClassicSonicAdvance,427,JP,2018-11-28
+jp.co.spiritek.nailStickerCreator,ネイルシールプリントforCanon,428,JP,2018-11-28
+pastudio.gemsswapgame.trumpTreasureAge,宝物時代を刻む,429,JP,2018-11-28
+com.kpop.art.pixel.coloring.book.polygon.love.gem,KpopIdolPixelColorArtBook,430,JP,2018-11-28
+com.hello.SpaBeautyHall,SpaBeautyHall,431,JP,2018-11-28
+online.whatsticker,WhatSticker-FreeStickerStoreforWhatsApp,432,JP,2018-11-28
+com.nxl.app.kirbywallpapers,カービーの壁紙のHD,433,JP,2018-11-28
+com.sinyee.babybus.japanesesongs,BabyBus知育童謡アニメ--楽しく学ぶ！動画見放題！,434,JP,2018-11-28
+com.shg.gianghohiepkhach,GIANGHỒHIỆPKHÁCHLỆNH,435,JP,2018-11-28
+jp.co.a_tm.android.plus_yeastken02,かわいい壁紙アイコンいーすとけん。～しばこっぺ＆とさあんこ～無料,436,JP,2018-11-28
+com.cochaapp.bchannel,BusinessChannel,437,JP,2018-11-28
+com.turbousa.unblock.vpn1121,USATurboVPN-FreeVPNProxy&Wi-FiSecurity,438,JP,2018-11-28
+com.orange.gamesforkids.coloring.princess,プリンセス-ぬりえの本やゲーム,439,JP,2018-11-28
+com.playtoddlers.vacationhotelstories.free,VacationHotelStories,440,JP,2018-11-28
+com.sonymobile.themes.minimallight,Xperia™MinimalLightTheme,441,JP,2018-11-28
+bubbles.master,MasterBubbles,442,JP,2018-11-28
+com.livedoorp.japanese,Livedoorニュース,443,JP,2018-11-28
+com.kulasis,KULASIS,444,JP,2018-11-28
+com.c0de_mattari.nitstamprally,NITStampRally,445,JP,2018-11-28
+com.sansu788.coloringbook,UndertaleSansColoringGame,446,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame478RatVsCatEscapeGame,KaviEscapeGame478RatVsCatEscapeGame,447,JP,2018-11-28
+com.nwg.stickman.neon.warriors.spiders,スティックマンネオンウォリアーズ：クモ,448,JP,2018-11-28
+com.future.know,FutureKnow:正確な占い,449,JP,2018-11-28
+jp.ibaraki.pref.kids.ipass_andoird,いばらき結婚応援パスポートiPASS,450,JP,2018-11-28
+com.dooskington.asteroidquest,AsteroidQuest!,451,JP,2018-11-28
+com.jewel.block.puzzle.game2d,BlockPuzzle:JewelGame2019,452,JP,2018-11-28
+com.astragon.trucksimtwo,TruckSimulation19,453,JP,2018-11-28
+jp.co.osstech.jeidreader,IDリーダー(マイナンバーカード、運転免許証),454,JP,2018-11-28
+air.com.kavigames.KaviEscapeGame479TotDragonRescueGame,KaviEscapeGame479TotDragonRescueGame,455,JP,2018-11-28
+com.best.weather.forecast.network,天気予報,456,JP,2018-11-28
+com.realroadracing.speedchasinggame,リアルレーシングレーシング-エクストリームワイルドスピード,457,JP,2018-11-28
+com.doublejump.heliumproject,コスミックショーダウン(CosmicShowdown),458,JP,2018-11-28
+enka.music.hot6,福田こうへい演歌名曲集-カラオケ人気曲,459,JP,2018-11-28
+com.christmas.snow.man.theme,クリスマススノーマンテーマ,460,JP,2018-11-28
+com.eventpilot.ash18,2018ASHAnnualMeeting&Expo,461,JP,2018-11-28
+com.allies.kirbi.deathadventure,悪の死の土地でのカービーの怖い旅,462,JP,2018-11-28
+jp.trw.tsunavi,レース予想　TSU　NAVI,463,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames97ConvivialSquirrelRescueGame,BestEscapeGames97ConvivialSquirrelRescue,464,JP,2018-11-28
+net.jp.apps.flatstay.ecokenteisikenmondai,eco検定（環境社会検定試験）～社会の中で率先して環境問題に取り組む“人づくり”～過去問・予想問題集,465,JP,2018-11-28
+enka.music.hot10,山内惠介演歌名曲集-カラオケ人気曲,466,JP,2018-11-28
+com.skycap.Kids_Christmas_Jigsaw,KidsChristmasJigsawPuzzle,467,JP,2018-11-28
+jp.tokuma.ryuseimei2018,下ヨシ子の「2018年あなたの流生命」,468,JP,2018-11-28
 com.nitrogames.howl,HeroesofWarland-PvPシューティングアリーナ,469,JP,2018-11-28
-net.joyplustech.android_mermaid25,MermaidSecrets25-MermaidPrincessOceanDiary,470,JP,2018-11-28
-com.eventpilot.ash18,2018ASHAnnualMeeting&Expo,471,JP,2018-11-28
-com.whoamia.haikyuuwallpapers,WallpapersforHaikyuuHD,472,JP,2018-11-28
-com.bts.btscall.call.btsidol,BTSVideoCall-CallWithBTSIdol,473,JP,2018-11-28
-com.popoko.jp.minesweeper,マインスイーパX,474,JP,2018-11-28
-air.EGDManRescueFromSpaceship,ManRescueFromSpaceship,475,JP,2018-11-28
-com.ns.unlimited.speed,UnlimitedSpeed,476,JP,2018-11-28
-jp.or.kansai_airport.gbc,GBC-会員専用アプリ,477,JP,2018-11-28
-com.easycodes.stickercreator,CreateStickersforWhatsapp-WAStickerApps,478,JP,2018-11-28
-jp.piole.himejiapp,ピオレ姫路,479,JP,2018-11-28
-com.superpoker.pokdeng,ป๊อกเด้งไทย,480,JP,2018-11-28
-com.sansu788.coloringbook,UndertaleSansColoringGame,481,JP,2018-11-28
-com.tutotoons.app.mybabyunicorn.free,MyBabyUnicorn-CuteRainbowPetCare&DressUp,482,JP,2018-11-28
-com.spill.it.free.spillit,SpillItBall,483,JP,2018-11-28
-vn.sohagame.sg225,TamSinhTamThếMobile,484,JP,2018-11-28
-jp.co.arcs_g.raraapp,アークスアプリ,485,JP,2018-11-28
-enka.music.hot5,ちあきなおみ演歌名曲集-カラオケ人気曲,486,JP,2018-11-28
-momotukian.makoto01,ASMRメイド真琴～炭酸水の音～,487,JP,2018-11-28
-jp.tokuma.ryuseimei2018,下ヨシ子の「2018年あなたの流生命」,488,JP,2018-11-28
-enka.music.hot4,島津亜矢演歌名曲集-カラオケ人気曲,489,JP,2018-11-28
-com.papri.gostop_daldal,달달맞고:고품질무료고스톱게임,490,JP,2018-11-28
-com.huawei.android.thememanager,Themes,491,JP,2018-11-28
-com.christmas.shiny.gift.tree,メリークリスマスシャイニーギフトツリー重力テーマ,492,JP,2018-11-28
-mobi.infolife.ezweather.livewallpaper.forecast.weather.widget.location,GlobalLiveWeatherForecastApp,493,JP,2018-11-28
-com.panasonic.ais_pfdc_tvremote3_gbl,PanasonicTVRemote3,494,JP,2018-11-28
-com.AuladiProApps.GundamWallpaperHD,Gundam'WallpaperHD,495,JP,2018-11-28
-com.ordermade.cj.grad.app,ブロック卒業式,496,JP,2018-11-28
-com.IoI.dollsx2,LOLSurprisePets™:SimulatorUnboxEggsDolls,497,JP,2018-11-28
-com.ponix.pakupon,パクポン-配置ディフェンスゲーム-,498,JP,2018-11-28
-com.yengshine.rdr2companion,RDR2のコンパニオン,499,JP,2018-11-28
-com.timuzgames.trainvscarracing,Trainv/sCarRacing,500,JP,2018-11-28
-com.libii.fashionmall,HighFashionShoppingGirl,501,JP,2018-11-28
-jp.co.fujifilm.kazoku,かぞくのきろく-FUJIFILM×OURHOME-,502,JP,2018-11-28
-com.christmas.santa.gift,クリスマスサンタのギフト重力のテーマ,503,JP,2018-11-28
-jp.atlas.procguide.jsnet2018,第34回NPO法人日本脳神経血管内治療学会学術総会(jsnet2018),504,JP,2018-11-28
-jp.valox.android.app.archivetool,圧縮解凍ツール,505,JP,2018-11-28
-com.guideapk.apureapp.newsse,APureApp-Libraryandinfo,506,JP,2018-11-28
-com.wallpaper.studio.hai.snow8,雪の夜の家ライブ壁紙無料,507,JP,2018-11-28
-com.reflected.lightmeter,フィルムカメラ用反射光式露出計（無料版）,508,JP,2018-11-28
-com.dxm.superCarRumble,ロボットウォーズ,509,JP,2018-11-28
-air.com.bestescapegame.BestEscapeGame505LeapMonkeyEscapeGame,BestEscapeGame505LeapMonkeyEscapeGame,510,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames98FuriousRhinocerosEscapeGame,BestEscapeGames98FuriousRhinocerosEscape,511,JP,2018-11-28
-com.gtactiongames.bikeracingwars,BikeWars,512,JP,2018-11-28
-air.com.bestescapegames.BestEscapeGames99DameRescueGame,BestEscapeGames99DameRescueGame,513,JP,2018-11-28
-li.yapp.appB9C8822C,Trecenti(トレセンテ)公式アプリ,514,JP,2018-11-28
+mp4.downloader.video.fastvid2,Mp4Videodownloader:play&downloadmusic,470,JP,2018-11-28
+com.wallpaper.studio.hai.snow8,雪の夜の家ライブ壁紙無料,471,JP,2018-11-28
+jp.co.omron.healthcare.tensohj,オムロン低周波,472,JP,2018-11-28
+com.dxm.superCarRumble,ロボットウォーズ,473,JP,2018-11-28
+air.EGDManRescueFromSpaceship,ManRescueFromSpaceship,474,JP,2018-11-28
+com.ns.unlimited.speed,UnlimitedSpeed,475,JP,2018-11-28
+com.panasonic.ais_pfdc_tvremote3_jp,PanasonicＴＶシェア,476,JP,2018-11-28
+com.tutotoons.app.mybabyunicorn.free,MyBabyUnicorn-CuteRainbowPetCare&DressUp,477,JP,2018-11-28
+net.joyplustech.android_mermaid25,MermaidSecrets25-MermaidPrincessOceanDiary,478,JP,2018-11-28
+com.guideapk.apureapp.newsse,APureApp-Libraryandinfo,479,JP,2018-11-28
+com.whoamia.haikyuuwallpapers,WallpapersforHaikyuuHD,480,JP,2018-11-28
+net.joyplustech.android_mermaid25,MermaidSecrets25-MermaidPrincessOceanDiary,481,JP,2018-11-28
+com.guideapk.apureapp.newsse,APureApp-Libraryandinfo,482,JP,2018-11-28
+com.whoamia.haikyuuwallpapers,WallpapersforHaikyuuHD,483,JP,2018-11-28
+enka.music.hot5,ちあきなおみ演歌名曲集-カラオケ人気曲,484,JP,2018-11-28
+com.bts.btscall.call.btsidol,BTSビデオコール-BTSアイドルで電話,485,JP,2018-11-28
+enka.music.hot4,島津亜矢演歌名曲集-カラオケ人気曲,486,JP,2018-11-28
+com.huawei.android.thememanager,Themes,487,JP,2018-11-28
+jp.or.kansai_airport.gbc,GBC-会員専用アプリ,488,JP,2018-11-28
+com.easycodes.stickercreator,CreateStickersforWhatsapp-WAStickerApps,489,JP,2018-11-28
+jp.piole.himejiapp,ピオレ姫路,490,JP,2018-11-28
+com.superpoker.pokdeng,ป๊อกเด้งไทย,491,JP,2018-11-28
+mobi.infolife.ezweather.livewallpaper.forecast.weather.widget.location,GlobalLiveWeatherForecastApp,492,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames99DameRescueGame,BestEscapeGames99DameRescueGame,493,JP,2018-11-28
+com.AuladiProApps.GundamWallpaperHD,Gundam'WallpaperHD,494,JP,2018-11-28
+com.IoI.dollsx2,LOLSurprisePets™:SimulatorUnboxEggsDolls,495,JP,2018-11-28
+com.ponix.pakupon,パクポン-配置ディフェンスゲーム-,496,JP,2018-11-28
+com.yengshine.rdr2companion,RDR2のコンパニオン,497,JP,2018-11-28
+com.spill.it.free.spillit,SpillItBall,498,JP,2018-11-28
+vn.sohagame.sg225,TamSinhTamThếMobile,499,JP,2018-11-28
+io.surviv.surviv_io_mobile,surviv.io-2DBattleRoyale,500,JP,2018-11-28
+jp.co.arcs_g.raraapp,アークスアプリ,501,JP,2018-11-28
+com.christmas.santa.gift,クリスマスサンタのギフト重力のテーマ,502,JP,2018-11-28
+com.wallpaper.studio.hai.snow9,スノーツリーナイトライブ壁紙無料,503,JP,2018-11-28
+jp.valox.android.app.archivetool,圧縮解凍ツール,504,JP,2018-11-28
+com.dxm.superCarRumble,ロボットウォーズ,505,JP,2018-11-28
+momotukian.makoto01,ASMRメイド真琴～炭酸水の音～,506,JP,2018-11-28
+air.com.bestescapegame.BestEscapeGame505LeapMonkeyEscapeGame,BestEscapeGame505LeapMonkeyEscapeGame,507,JP,2018-11-28
+com.papri.gostop_daldal,달달맞고:고품질무료고스톱게임,508,JP,2018-11-28
+air.com.bestescapegames.BestEscapeGames98FuriousRhinocerosEscapeGame,BestEscapeGames98FuriousRhinocerosEscape,509,JP,2018-11-28
+jp.himacs.newbusiness.glancer,10倍速の検索アプリ-glancer。素早く・知的に、でも簡単検索。,510,JP,2018-11-28
+net.apps.jp.yoshikosakamoto.kanjyu2018,クイズfor関西ジャニーズJr．,511,JP,2018-11-28
+com.christmas.shiny.gift.tree,メリークリスマスシャイニーギフトツリー重力テーマ,512,JP,2018-11-28
+com.panasonic.ais_pfdc_tvremote3_gbl,PanasonicTVRemote3,513,JP,2018-11-28
+com.ordermade.cj.grad.app,ブロック卒業式,514,JP,2018-11-28
 com.tiktokmuisc,TikTokMusic-TiktokSong,515,JP,2018-11-28
-com.ftrrsyhtwice.yesoryes,Twice-YesorYes,516,JP,2018-11-28
-com.xstudio.sniper3d.grand.shooting.arena.fps.app.free.games,スナイパー3Dエリートアサシン：FPS-無料シューティングゲーム,517,JP,2018-11-28
-com.morlia.tzwsen,IdleDynasty-10XGold,518,JP,2018-11-28
-io.surviv.surviv_io_mobile,surviv.io-2DBattleRoyale,519,JP,2018-11-28
-com.gamesallcheats.pixelgunv6,TipsForPixelGun3D,520,JP,2018-11-28
-backup.and.restore.deleted.videos,削除した動画のバックアップと復元,521,JP,2018-11-28
-com.gtactiongames.supercarracing2018,SupercarRacing2018,522,JP,2018-11-28
-com.ssk.left,Left【放置型RPG】,523,JP,2018-11-28
-vn.funtap.ngoalongtruyen,NgọaLongTruyện-TamQuốcChiến,524,JP,2018-11-28
+com.xstudio.sniper3d.grand.shooting.arena.fps.app.free.games,スナイパー3Dエリートアサシン：FPS-無料シューティングゲーム,516,JP,2018-11-28
+com.timuzgames.trainvscarracing,Trainv/sCarRacing,517,JP,2018-11-28
+com.libii.fashionmall,HighFashionShoppingGirl,518,JP,2018-11-28
+jp.co.fujifilm.kazoku,かぞくのきろく-FUJIFILM×OURHOME-,519,JP,2018-11-28
+jp.atlas.procguide.jsnet2018,第34回NPO法人日本脳神経血管内治療学会学術総会(jsnet2018),520,JP,2018-11-28
+com.gtactiongames.supercarracing2018,SupercarRacing2018,521,JP,2018-11-28
+com.launcher.theme.t211815522,クリスマスツリーのテーマ,522,JP,2018-11-28
+com.reflected.lightmeter,フィルムカメラ用反射光式露出計（無料版）,523,JP,2018-11-28
+com.muziksitemobil,音楽のダウンロード,524,JP,2018-11-28
 com.burn2rise.fallout76perks,MapGuideforFallout76,525,JP,2018-11-28
-com.bts.official.lightstickv3,BTSLightstick-TheNewestVer3,526,JP,2018-11-28
-jp.co.techsite.compassplus,コンパス＋（方位磁石　プラス）,527,JP,2018-11-28
-net.apps.jp.yoshikosakamoto.kanjyu2018,クイズfor関西ジャニーズJr．,528,JP,2018-11-28
-com.mychalle_kagawa,かがわ健康ポイント事業「マイチャレかがわ」,529,JP,2018-11-28
-com.launcher.theme.live.wallpapers.icon.hd.phone.screen.free,ランチャー-無料のテーマ＆ライブ壁紙,530,JP,2018-11-28
-paStudio.BabyPanda.toyCrushJourney,おもちゃのホームマッチ,531,JP,2018-11-28
-jp.atlas.procguide.jald27th,一般社団法人日本LD学会第27回大会（新潟）（JALD27th）,532,JP,2018-11-28
-org.artsplanet.android.nukegememo,待受にメモ・猫の「抜け毛帽子」かわいいメモ帳ウィジェット無料,533,JP,2018-11-28
-mii.thkk2,ホテル紅魔館改【東方放置貯蓄ゲー】,534,JP,2018-11-28
-com.wallpaper.studio.hai.snow9,スノーツリーナイトライブ壁紙無料,535,JP,2018-11-28
-us.primixod.twice,TwiceWallpapersKpop,536,JP,2018-11-28
-com.elixir.Real.Mom,VirtualMothersimulator:MomHappyFamilyGames,537,JP,2018-11-28
-com.crossfield.triangle,Triangle-Blockpuzzle-,538,JP,2018-11-28
-com.pianogame.tap.sansundertalepianotiles,SansUndertalePianoGame,539,JP,2018-11-28
-com.teltelfactory.watashinoyomiagetangochou,"わたしの読み上げ単語帳-暗記,学習,勉強の必須ツール-",540,JP,2018-11-28
+com.gtactiongames.bikeracingwars,BikeWars,526,JP,2018-11-28
+my_profile_tracker.view_myfb_profile,WhoVisitedMyFbProfile?,527,JP,2018-11-28
+com.mychalle_kagawa,かがわ健康ポイント事業「マイチャレかがわ」,528,JP,2018-11-28
+jp.co.toyo.securities.tradetool,東洋証券株アプリ,529,JP,2018-11-28
+li.yapp.appB9C8822C,Trecenti(トレセンテ)公式アプリ,530,JP,2018-11-28
+com.ftrrsyhtwice.yesoryes,Twice-YesorYes,531,JP,2018-11-28
+com.launcher.theme.live.wallpapers.icon.hd.phone.screen.free,ランチャー-無料のテーマ＆ライブ壁紙,532,JP,2018-11-28
+com.morlia.tzwsen,IdleDynasty-10XGold,533,JP,2018-11-28
+jp.co.hitachi_ap.washing_drive,日立洗濯機ビッグドラムアプリ,534,JP,2018-11-28
+com.gamesallcheats.pixelgunv6,TipsForPixelGun3D,535,JP,2018-11-28
+mii.thkk2,ホテル紅魔館改【東方放置貯蓄ゲー】,536,JP,2018-11-28
+backup.and.restore.deleted.videos,削除した動画のバックアップと復元,537,JP,2018-11-28
+us.primixod.twice,TwiceWallpapersKpop,538,JP,2018-11-28
+com.elixir.Real.Mom,VirtualMothersimulator:MomHappyFamilyGames,539,JP,2018-11-28
+com.akabane.houkaiB,伝説の作画崩壊～暇つぶしに伝説の作画崩壊やっとく？,540,JP,2018-11-28
