@@ -1,8 +1,8 @@
 app_id,app_name,rank,country_code,date
 com.mojang.minecrafttrialpe,MinecraftTrial,1,KR,2019-01-18
-com.playgendary.polyspherecoolgame,Polysphere,2,KR,2019-01-18
-com.ubj.waltzkr,헬릭스왈츠,3,KR,2019-01-18
-com.nexon.spw,스피릿위시,4,KR,2019-01-18
+com.nexon.spw,스피릿위시,2,KR,2019-01-18
+com.playgendary.polyspherecoolgame,Polysphere,3,KR,2019-01-18
+com.ubj.waltzkr,헬릭스왈츠,4,KR,2019-01-18
 com.kakaogames.friendsAdventure,프렌즈대모험,5,KR,2019-01-18
 com.hound13.hundredsoul,HundredSoul,6,KR,2019-01-18
 com.igg.android.mobileroyale,モバイル・ロワイヤル(MobileRoyale),7,KR,2019-01-18
@@ -16,526 +16,526 @@ air.jp.ne.hap.success,ミスターサクセス,14,KR,2019-01-18
 com.egggames.hw,블러디,15,KR,2019-01-18
 com.colorup.game,ColorBump3D,16,KR,2019-01-18
 com.xdg.and.qwq,非人類学園,17,KR,2019-01-18
-com.ssq.zhou.dg,SummonersForce,18,KR,2019-01-18
-com.deadwarfare.gungames,バトルランズサバイバル,19,KR,2019-01-18
-com.kr.krzdzj.google,탱크M,20,KR,2019-01-18
-com.duoyi.thko.gp,퍼즐와르르:신개념퍼즐RPG,21,KR,2019-01-18
-com.cityhunter.scarymini,極端なスピード,22,KR,2019-01-18
-com.gravity.HOD.aos,버스트(BURST),23,KR,2019-01-18
-com.zombiesurvivalbattle,バッドラックバッター,24,KR,2019-01-18
-com.mavo.proto,정령키우기,25,KR,2019-01-18
-com.bnet.galagarevenge.kr,갤러그리벤지(GalagaRevenge),26,KR,2019-01-18
-air.theflash.f2game.prettygirl88,SchoolPrettyGirl2,27,KR,2019-01-18
-net.nekoland.game222,리얼알피지Real!RPG,28,KR,2019-01-18
-com.newday.deviltower,데빌타워:하드코어방치형RPG,29,KR,2019-01-18
-com.newday.lovediary,짝사랑관찰일기,30,KR,2019-01-18
-com.hotheadgames.google.free.empire,~フォージドファンタジー~ForgedFantasy,31,KR,2019-01-18
-com.papri.gostop_1000,고스톱1000,32,KR,2019-01-18
-com.sinyee.babybus.zoo,リトルパンダのアニマルワールド,33,KR,2019-01-18
-find.difference.anime.fan.puzzle.spotthemall,FindtheDifference-AnimePuzzles,34,KR,2019-01-18
-com.sanctumstudio.eternalsenia2,永久のセニア-雨上がりの紫陽花-,35,KR,2019-01-18
-com.easybrain.chamy,Chamy-数字で塗り絵。数字で色を付ける塗り絵帳,36,KR,2019-01-18
-kr.co.wegames.mob.and,MaestroofBattlefield,37,KR,2019-01-18
-com.two.helix.halloween.superjump,HelixMonsterJump,38,KR,2019-01-18
-com.sinyee.babybus.manor,リトルパンダのドリームガーデン,39,KR,2019-01-18
-com.cocoplay.wedding.dance,ドリーム・ウェディングプランナー-花嫁のようなドレス&ダンス,40,KR,2019-01-18
-theflash.f2game.prettygirlsjumpjump,PrettyGirl'sJumpJump,41,KR,2019-01-18
-com.mountaingetter.hardgetover.hammermanhardgetover,TheHardGetOver-HammerPickMountainGetter2019,42,KR,2019-01-18
-com.pang.byshs.google1,별의소환사,43,KR,2019-01-18
-com.Seeplay.Banatoon2,BANATOON2:JurassicWorld!,44,KR,2019-01-18
-puzzlegame.tetris.wood.blockpuzzle.jigsaw,BlockPuzzle:Jigsaw,45,KR,2019-01-18
-com.happyjoy.glasspuzzles,GlassPuzzlesBrain,46,KR,2019-01-18
-com.cocoplay.first.kiss,ファーストラブ・キス-キューピッドのロマンスミッション,47,KR,2019-01-18
-com.makingaligwaygames.luckofthedraw,LuckoftheDraw,48,KR,2019-01-18
-com.sinyee.babybus.earthquakeIII,リトルパンダの地震救助,49,KR,2019-01-18
-com.bubbleshooter.games.blast.free.cat.pop,バブルシューター：無料猫ポップゲーム2019,50,KR,2019-01-18
-com.handceps.boxitsof,WhackingtheThief,51,KR,2019-01-18
-com.pang.ygss.google,신의아이들,52,KR,2019-01-18
-com.pingu.helix.jump.game,HelixColorJump,53,KR,2019-01-18
-com.cyberstep.getampedx,ゲットアンプドモバイル,54,KR,2019-01-18
-com.v2r.jewelmaker,JewelMaker,55,KR,2019-01-18
-com.donnienest.drilltheearth,땅파기:광석캐기노가다,56,KR,2019-01-18
-big.city.craft.castle.craft.creative.survival,オールドシティクラフト,57,KR,2019-01-18
+com.zombiesurvivalbattle,バッドラックバッター,18,KR,2019-01-18
+com.cityhunter.scarymini,極端なスピード,19,KR,2019-01-18
+com.ssq.zhou.dg,SummonersForce,20,KR,2019-01-18
+com.deadwarfare.gungames,バトルランズサバイバル,21,KR,2019-01-18
+com.gravity.HOD.aos,버스트(BURST),22,KR,2019-01-18
+com.kr.krzdzj.google,탱크M,23,KR,2019-01-18
+com.duoyi.thko.gp,퍼즐와르르:신개념퍼즐RPG,24,KR,2019-01-18
+com.bnet.galagarevenge.kr,갤러그리벤지(GalagaRevenge),25,KR,2019-01-18
+com.mavo.proto,정령키우기,26,KR,2019-01-18
+com.papri.gostop_1000,고스톱1000,27,KR,2019-01-18
+com.sinyee.babybus.zoo,リトルパンダのアニマルワールド,28,KR,2019-01-18
+air.theflash.f2game.prettygirl88,SchoolPrettyGirl2,29,KR,2019-01-18
+net.nekoland.game222,리얼알피지Real!RPG,30,KR,2019-01-18
+find.difference.anime.fan.puzzle.spotthemall,FindtheDifference-AnimePuzzles,31,KR,2019-01-18
+com.newday.deviltower,데빌타워:하드코어방치형RPG,32,KR,2019-01-18
+com.newday.lovediary,짝사랑관찰일기,33,KR,2019-01-18
+com.sanctumstudio.eternalsenia2,永久のセニア-雨上がりの紫陽花-,34,KR,2019-01-18
+com.hotheadgames.google.free.empire,~フォージドファンタジー~ForgedFantasy,35,KR,2019-01-18
+com.sinyee.babybus.manor,リトルパンダのドリームガーデン,36,KR,2019-01-18
+com.Seeplay.Banatoon2,BANATOON2:JurassicWorld!,37,KR,2019-01-18
+com.easybrain.chamy,Chamy-数字で塗り絵。数字で色を付ける塗り絵帳,38,KR,2019-01-18
+kr.co.wegames.mob.and,MaestroofBattlefield,39,KR,2019-01-18
+com.two.helix.halloween.superjump,HelixMonsterJump,40,KR,2019-01-18
+com.handceps.boxitsof,WhackingtheThief,41,KR,2019-01-18
+com.cocoplay.wedding.dance,ドリーム・ウェディングプランナー-花嫁のようなドレス&ダンス,42,KR,2019-01-18
+theflash.f2game.prettygirlsjumpjump,PrettyGirl'sJumpJump,43,KR,2019-01-18
+com.mountaingetter.hardgetover.hammermanhardgetover,TheHardGetOver-HammerPickMountainGetter2019,44,KR,2019-01-18
+com.pang.byshs.google1,별의소환사,45,KR,2019-01-18
+puzzlegame.tetris.wood.blockpuzzle.jigsaw,BlockPuzzle:Jigsaw,46,KR,2019-01-18
+com.pang.ygss.google,신의아이들,47,KR,2019-01-18
+com.cyberstep.getampedx,ゲットアンプドモバイル,48,KR,2019-01-18
+com.happyjoy.glasspuzzles,GlassPuzzlesBrain,49,KR,2019-01-18
+big.city.craft.castle.craft.creative.survival,オールドシティクラフト,50,KR,2019-01-18
+com.bubbleshooter.games.blast.free.cat.pop,バブルシューター：無料猫ポップゲーム2019,51,KR,2019-01-18
+com.makingaligwaygames.luckofthedraw,LuckoftheDraw,52,KR,2019-01-18
+com.cocoplay.first.kiss,ファーストラブ・キス-キューピッドのロマンスミッション,53,KR,2019-01-18
+com.sinyee.babybus.earthquakeIII,リトルパンダの地震救助,54,KR,2019-01-18
+com.pingu.helix.jump.game,HelixColorJump,55,KR,2019-01-18
+com.v2r.jewelmaker,JewelMaker,56,KR,2019-01-18
+com.donnienest.drilltheearth,땅파기:광석캐기노가다,57,KR,2019-01-18
 net.jungbobot.s1,붕괴3대백과,58,KR,2019-01-18
-com.junesoftware.maskgun,MaskGun®MultiplayerFPS-無料シューティングゲーム,59,KR,2019-01-18
-com.spcomes.jtfantasy,ジュエルテンプルファンタジー,60,KR,2019-01-18
-com.newday.hiddenmolang,몰랑이숨은그림찾기,61,KR,2019-01-18
-com.alienshooter.galaxy.attack2,GalaxyInvaders:AlienShooter,62,KR,2019-01-18
+com.moefantasy.zhanjianKorea1,전함소녀,59,KR,2019-01-18
+ragdoll.warriors.fighting,RagdollWarriors:CrazyFightingGame,60,KR,2019-01-18
+com.junesoftware.maskgun,MaskGun®MultiplayerFPS-無料シューティングゲーム,61,KR,2019-01-18
+com.spcomes.jtfantasy,ジュエルテンプルファンタジー,62,KR,2019-01-18
 com.twentysevengames.android.puzzle.wordsearchofgod,単語パズルの神2019:GodofWordSearchPuzzle,63,KR,2019-01-18
-com.idleplanegames.mergeplane2,MergeJet:ゲーム機飛行機を合体にとって,64,KR,2019-01-18
-com.thumb.eightclass.google,8클래스마법사의회귀,65,KR,2019-01-18
-com.outfit7.talkingtomfarts,TalkingTomFarts,66,KR,2019-01-18
-com.solo.scvGame,SCV키우기(방치형일꾼키우기),67,KR,2019-01-18
-com.nanoo.captainstar,タップ！キャプテンスター,68,KR,2019-01-18
-com.alei.oll.ppfcbtvs,CraftingGrind,69,KR,2019-01-18
-com.mayo.stack,공든탑이무너지랴!-캐치프라이즈,70,KR,2019-01-18
-com.lmgame.liangyunet.google,천둥삼국지,71,KR,2019-01-18
-com.healingjjam.foxtale,フォックステイル(FoxTale)-お絵かきロジック,72,KR,2019-01-18
-air.theflash.f2game.dinorobot68,DinoRobot-Troodon,73,KR,2019-01-18
-com.mj.blg.google,비룡잠호,74,KR,2019-01-18
-com.ruxbegame.antgame,위대한개미왕국,75,KR,2019-01-18
-com.poyinlet.eczen,미지의세계,76,KR,2019-01-18
-com.prison.gansters,GrandCrimeGangster,77,KR,2019-01-18
-mytown.beautycontest.free,MyTown:BeautyContest-FREE,78,KR,2019-01-18
-ragdoll.warriors.fighting,RagdollWarriors:CrazyFightingGame,79,KR,2019-01-18
-com.survivalcrafting.ship.yellow.craft.hotel.addicting.sea.games.mycraft.eden.exploration.lite.build.roblox.simulator.joy.city,ポートクラフト：ボートビルディングゲーム2018,80,KR,2019-01-18
-net.jungbobot.s1,붕괴3대백과,81,KR,2019-01-18
-com.joyfort.mergefish,MergeFish!,82,KR,2019-01-18
-com.nemo.runningpuppy,RunningPuppy,83,KR,2019-01-18
-com.mobirix.slideking2,自動車脱出,84,KR,2019-01-18
-com.feedgrow.oceanfish.sharkfish,feedandgrow-Mechafish,85,KR,2019-01-18
-com.kkangs.difference,FindthedifferenceTheKingofEyes,86,KR,2019-01-18
-com.ifun.micar,極速傳說THELEGENDOFSPEED,87,KR,2019-01-18
+com.mayo.stack,공든탑이무너지랴!-캐치프라이즈,64,KR,2019-01-18
+com.OSORIPD.PlanetRoyale,전투행성,65,KR,2019-01-18
+com.ccmg.planetoverlord,PlanetOverlord,66,KR,2019-01-18
+com.daerisoft.fruit,후르츠크러쉬:과일팡팡,67,KR,2019-01-18
+com.thumb.eightclass.google,8클래스마법사의회귀,68,KR,2019-01-18
+com.lmgame.liangyunet.google,천둥삼국지,69,KR,2019-01-18
+com.ruxbegame.antgame,위대한개미왕국,70,KR,2019-01-18
+com.kr.bdzc.google,돈의맛,71,KR,2019-01-18
+com.outfit7.talkingtomfarts,TalkingTomFarts,72,KR,2019-01-18
+com.alienshooter.galaxy.attack2,GalaxyInvaders:AlienShooter,73,KR,2019-01-18
+com.newday.hiddenmolang,몰랑이숨은그림찾기,74,KR,2019-01-18
+com.alei.oll.ppfcbtvs,CraftingGrind,75,KR,2019-01-18
+com.mj.blg.google,비룡잠호,76,KR,2019-01-18
+com.idleplanegames.mergeplane2,MergeJet:ゲーム機飛行機を合体にとって,77,KR,2019-01-18
+com.healingjjam.foxtale,フォックステイル(FoxTale)-お絵かきロジック,78,KR,2019-01-18
+com.solo.scvGame,SCV키우기(방치형일꾼키우기),79,KR,2019-01-18
+com.nanoo.captainstar,タップ！キャプテンスター,80,KR,2019-01-18
+com.prison.gansters,GrandCrimeGangster,81,KR,2019-01-18
+air.theflash.f2game.dinorobot68,DinoRobot-Troodon,82,KR,2019-01-18
+com.kkangs.difference,FindthedifferenceTheKingofEyes,83,KR,2019-01-18
+com.survivalcrafting.ship.yellow.craft.hotel.addicting.sea.games.mycraft.eden.exploration.lite.build.roblox.simulator.joy.city,ポートクラフト：ボートビルディングゲーム2018,84,KR,2019-01-18
+com.herogame.gplay.magicminecraft.mmorpg,Utopia:Origin-PlayinYourWay,85,KR,2019-01-18
+net.nekoland.game282,보스사냥RPG,86,KR,2019-01-18
+com.mobirix.slideking2,自動車脱出,87,KR,2019-01-18
 thinkcube.project304,EndlessBalls,88,KR,2019-01-18
-com.studio7775.BKBall,ナイフバトル（KnifeBattle）,89,KR,2019-01-18
-com.JinguStudio.Item,게임은장비빨:방치형RPG,90,KR,2019-01-18
-com.yangchaoyue.guo,BondofDestiny:ninjawar,91,KR,2019-01-18
-com.joywing.elga,엘가(ElementalGuardians),92,KR,2019-01-18
-com.OSORIPD.PlanetRoyale,전투행성,93,KR,2019-01-18
-com.mobirix.slidepuzzle,スライドパズルの王,94,KR,2019-01-18
-com.color.by.number.paint.ly.pixel.art,Paint.ly-数字で塗り絵，ぬり絵ゲーム,95,KR,2019-01-18
-com.coolgamapp.freegame.polysphere,Poly4u-3Dポリスフィアパズルゲーム,96,KR,2019-01-18
-games.fatlion.mars.yellow.craft.addicting.games.mycraft.nasa.rover.racing.space.exploration.lite.roblox.simulator.alien.building,火星クラフト：都市建築ゲーム2018,97,KR,2019-01-18
-com.cwovodio.cwordio,CrowdCityStickmanWarsSimulator,98,KR,2019-01-18
-com.graham.fgrow,FishFeedSimulatorKnowledge,99,KR,2019-01-18
-com.hyperfame.bus.simulator2019_free,バスシミュレータ2019-無料-BusSimulator2019-Free,100,KR,2019-01-18
-com.InusGames.EscapePrincess,던전탈출공주의모험-어드벤처탈출게임,101,KR,2019-01-18
-com.jointsoft.soulio,Soul.io:IOGameFREE,102,KR,2019-01-18
-com.paleblue.shotball,スティックマンノックダウン,103,KR,2019-01-18
-net.nekoland.game282,보스사냥RPG,104,KR,2019-01-18
-air.theflash.f2game.prettygirl87,WhiteChristmasPrettyGirl,105,KR,2019-01-18
-com.firestar.franchise,덕봉이프렌차이즈:김덕봉시리즈6,106,KR,2019-01-18
-com.apptist.boardgame,주류마블-술게임,107,KR,2019-01-18
-com.herogame.gplay.magicminecraft.mmorpg,Utopia:Origin-PlayinYourWay,108,KR,2019-01-18
-com.feedfishy.fishgrownx,3DFeedandGrow`draithfish:fishfrenzyworld!,109,KR,2019-01-18
-com.BIGBUGER.MadMage,수련의방:마법사키우기,110,KR,2019-01-18
+com.JinguStudio.Item,게임은장비빨:방치형RPG,89,KR,2019-01-18
+com.coolgamapp.freegame.polysphere,Poly4u-3Dポリスフィアパズルゲーム,90,KR,2019-01-18
+com.feedfishy.fishgrownx,3DFeedandGrow`draithfish:fishfrenzyworld!,91,KR,2019-01-18
+mytown.beautycontest.free,MyTown:BeautyContest-FREE,92,KR,2019-01-18
+eycom.jmcompany.joomingil,BigDaddy(HorrorAdventurePuzzleEscape),93,KR,2019-01-18
+com.joyfort.mergefish,MergeFish!,94,KR,2019-01-18
+com.nemo.runningpuppy,RunningPuppy,95,KR,2019-01-18
+com.firestar.franchise,덕봉이프렌차이즈:김덕봉시리즈6,96,KR,2019-01-18
+com.feedgrow.oceanfish.sharkfish,feedandgrow-Mechafish,97,KR,2019-01-18
+com.ifun.micar,極速傳說THELEGENDOFSPEED,98,KR,2019-01-18
+air.theflash.f2game.prettygirl87,WhiteChristmasPrettyGirl,99,KR,2019-01-18
+com.color.by.number.paint.ly.pixel.art,Paint.ly-数字で塗り絵，ぬり絵ゲーム,100,KR,2019-01-18
+com.guiacrowcity.khassra,CrowdCity-Thetrueexperiencecrowdguia2019,101,KR,2019-01-18
+com.apptist.boardgame,주류마블-술게임,102,KR,2019-01-18
+com.studio7775.BKBall,ナイフバトル（KnifeBattle）,103,KR,2019-01-18
+com.cwovodio.cwordio,CrowdCityStickmanWarsSimulator,104,KR,2019-01-18
+com.paleblue.shotball,スティックマンノックダウン,105,KR,2019-01-18
+com.freegame.crowdedtown,CrowdedTown,106,KR,2019-01-18
+com.yangchaoyue.guo,BondofDestiny:ninjawar,107,KR,2019-01-18
+com.escape.neat.no65christmasparty,逆脱出ゲーム　クリスマスパーティー,108,KR,2019-01-18
+com.joywing.elga,엘가(ElementalGuardians),109,KR,2019-01-18
+com.entermate.darkedent,다크에덴M(12),110,KR,2019-01-18
 com.TanApps.FindTheDifferences500_3,違いを探す：500レベルv2,111,KR,2019-01-18
-duynt.tienlenoffline.tienlen,TienLen-TiếnLênOffline,112,KR,2019-01-18
+com.mobirix.tttchamp,三目並べチャンピオン,112,KR,2019-01-18
 com.thrsi.fora,최강마스터,113,KR,2019-01-18
-com.haiku.adventure.escape.game.mystery.stories,AdventureEscapeMysteries,114,KR,2019-01-18
-com.mobirix.tttchamp,三目並べチャンピオン,115,KR,2019-01-18
-com.monszakyabb.inkmachindross,Bendy&TheMachineOfInk,116,KR,2019-01-18
-com.survivalcrafting.kingcraft.medieval.royal.castle.mycraft.medievalcraft.exploration.lite.build.roblox.simulator.adventure.go,キングクラフト：城の防衛と王国の建物,117,KR,2019-01-18
-com.escape.neat.no65christmasparty,逆脱出ゲーム　クリスマスパーティー,118,KR,2019-01-18
-com.pancake.and.milkshake.android,BunnyPancakeKittyMilkshake,119,KR,2019-01-18
-com.hahagame.linepuzzle,Cats:1Line-Fill-OneLinePuzzle,120,KR,2019-01-18
-com.footballfun.fantasysportsstrike,2019FootballFun,121,KR,2019-01-18
-com.entermate.darkedent,다크에덴M(12),122,KR,2019-01-18
-com.milliongamesnew.deerhunting2019,DeerHunting2019,123,KR,2019-01-18
-com.mikmok.amazingsimulatorfrogincity,AmazingSimulatorFrogInTheCityGuess,124,KR,2019-01-18
-com.tyou.sushe,寮に入れない-脱出ゲーム,125,KR,2019-01-18
-com.wars.stickmancity,CrowdPopularRunner,126,KR,2019-01-18
-com.osloalbet.fb,Fireboy&Watergirl:Elements,127,KR,2019-01-18
-aoneglobal.chocoapp.ip2,InfinitePuzzle2:Match-3,128,KR,2019-01-18
-org.cocos2dx.jamms.noel,脱出ゲームChristmasNightサンタクロースがやって来た,129,KR,2019-01-18
+com.mobirix.slidepuzzle,スライドパズルの王,114,KR,2019-01-18
+com.monszakyabb.inkmachindross,Bendy&TheMachineOfInk,115,KR,2019-01-18
+games.fatlion.mars.yellow.craft.addicting.games.mycraft.nasa.rover.racing.space.exploration.lite.roblox.simulator.alien.building,火星クラフト：都市建築ゲーム2018,116,KR,2019-01-18
+com.graham.fgrow,FishFeedSimulatorKnowledge,117,KR,2019-01-18
+com.cedar.tropical.forest.match3.story,TropicalForest:Match3Story,118,KR,2019-01-18
+com.hyperfame.bus.simulator2019_free,バスシミュレータ2019-無料-BusSimulator2019-Free,119,KR,2019-01-18
+com.InusGames.EscapePrincess,던전탈출공주의모험-어드벤처탈출게임,120,KR,2019-01-18
+com.jointsoft.soulio,Soul.io:.ioGamesFree,121,KR,2019-01-18
+com.survivalcrafting.kingcraft.medieval.royal.castle.mycraft.medievalcraft.exploration.lite.build.roblox.simulator.adventure.go,キングクラフト：城の防衛と王国の建物,122,KR,2019-01-18
+com.BIGBUGER.MadMage,수련의방:마법사키우기,123,KR,2019-01-18
+org.cocos2dx.jamms.noel,脱出ゲームChristmasNightサンタクロースがやって来た,124,KR,2019-01-18
+com.osloalbet.fb,Fireboy&Watergirl:Elements,125,KR,2019-01-18
+com.hahagame.linepuzzle,Cats:1Line-Fill-OneLinePuzzle,126,KR,2019-01-18
+com.haiku.adventure.escape.game.mystery.stories,AdventureEscapeMysteries,127,KR,2019-01-18
+com.playmobil.magic,PLAYMOBILCrystalPalace,128,KR,2019-01-18
+com.rocket.spacehunter,SpaceHunter:TheRevengeofAliensontheGalaxy,129,KR,2019-01-18
 com.anipgames.traproom,방탈출:함정,130,KR,2019-01-18
-com.freegame.crowdedtown,CrowdedTown,131,KR,2019-01-18
-kr.co.wegames.mob.and,MaestroofBattlefield,132,KR,2019-01-18
-com.playmobil.magic,PLAYMOBILCrystalPalace,133,KR,2019-01-18
-com.gtactiongames.bikevstrain,Bikevs.Train,134,KR,2019-01-18
-com.rocket.spacehunter,SpaceHunter:TheRevengeofAliensontheGalaxy,135,KR,2019-01-18
-com.libii.royalpuppy3,RoyalPuppyTeaParty,136,KR,2019-01-18
-com.tokyocoldstudio.flowergarden.manorBlossomCrush,魔女の花,137,KR,2019-01-18
-com.gfri.pianogfriendgame,PianoTilesGFRIENDGames,138,KR,2019-01-18
-com.timuzgames.bikestunts2019,BikeStunts2019,139,KR,2019-01-18
-com.vectorunit.cobalt.googleplay,BeachBuggyRacing2,140,KR,2019-01-18
-com.magic.music.tiles.piano.dream,ピアノタイル：ミュージック・音ゲー,141,KR,2019-01-18
-net.picturegames.spinshot,Spinshot,142,KR,2019-01-18
-com.abyssrainstudio.mylittlethings,힐링스노우볼키우기-마이리틀띵즈,143,KR,2019-01-18
-com.Bookpalcomics.Random,복불복게임모음,144,KR,2019-01-18
-rescue.bubble.bird,BirdBubbleRescue,145,KR,2019-01-18
-pop.ocean,OceanPop,146,KR,2019-01-18
-com.marco.sonnz,WhosYourDaddyKnowledge,147,KR,2019-01-18
-com.TeamPENROSE.BurgundyROSE,마법소녀버건디로즈,148,KR,2019-01-18
-com.beedrill.piecesmeat,SokobanMeat-Mazepuzzle–PushMeatMaze,149,KR,2019-01-18
-com.mondayoff.splashjump,SplashJump:SpringBoard,150,KR,2019-01-18
-com.OppanaGames.Lexus.Simulator,OffroadLXSimulator,151,KR,2019-01-18
-com.nexelon.bowlingclub,ボウリングクラブ3D：選手権,152,KR,2019-01-18
-org.imperiaonline.android.kakao,임페리아온라인,153,KR,2019-01-18
-com.bigjam.pixaw,Pixelartbybricks:Pixawpuzzle,154,KR,2019-01-18
-com.onepunchsoft.pingpongProject,탁구연습생,155,KR,2019-01-18
-com.guiacrowcity.khassra,CrowdCity-Thetrueexperiencecrowdguia2019,156,KR,2019-01-18
-com.Feelnside.AnimalAdventure,AnimalAdventure:DownhillRush,157,KR,2019-01-18
-com.cfagms.criminalfrogamazingsim,CriminalFrogAdventureAmazingSim,158,KR,2019-01-18
-com.winterrun.pororungame,뽀로로눈겨울모험,159,KR,2019-01-18
-com.nydev.deno_driver,Den-ODriver,160,KR,2019-01-18
-com.MonkeyBalance.BallUltimatess_titaniumpokerojo_b2,ファイアレッド(emulator),161,KR,2019-01-18
-com.cedar.tropical.forest.match3.story,TropicalForest:Match3Story,162,KR,2019-01-18
-com.studiotongtong.snaphero,PixelHeroAdventure,163,KR,2019-01-18
-com.byv.TheCatapult2,TheCatapult2,164,KR,2019-01-18
-com.g5e.solitairepg.android,ソリティアジャーニー：魔法のツアー,165,KR,2019-01-18
-com.mastergames.mysachunsungtwo,나의사천성2,166,KR,2019-01-18
-com.ifun.android.L3K,Love3Kingdoms:SexyRPG,167,KR,2019-01-18
-com.superbox.aos.jewelsgarden,JewelsGarden:ブラストパズルゲーム,168,KR,2019-01-18
-com.crazylabs.light.it.up,Light-ItUp,169,KR,2019-01-18
-com.siomojon.wreckitralph2.colorbynumber,WreckitRalph2-Colorbynumber,170,KR,2019-01-18
-com.OppanaGames.real.gangster.crime.simulator.free,RealGangsterCrimeSimulator,171,KR,2019-01-18
-com.nemo.zooDiary,ZooDiary,172,KR,2019-01-18
-com.v3.pingu.merge.plane,PlaneMerger,173,KR,2019-01-18
-com.brilliantgamez.extremebikestunts2019,エクストリームバイクスタント2019,174,KR,2019-01-18
-com.daerisoft.stsoul,ShutThePung:셧더펑슈팅RPG,175,KR,2019-01-18
-com.carxtech.carxdr2,CarXDriftRacing2,176,KR,2019-01-18
-com.RA.UDD,UltimateDerbyOnline-MadDemolitionMultiplayer,177,KR,2019-01-18
-com.mars.crazyballs,ColorRaceCrowd,178,KR,2019-01-18
-com.feed.simulator.fish,FEEDANDBATTLE:GROWFISH,179,KR,2019-01-18
-com.mechanicgames.design.home,デザイン家：家の装飾ゲーム,180,KR,2019-01-18
-com.mars.crazyballs,ColorRaceCrowd,181,KR,2019-01-18
-com.polyspheregame.colorbynumber,ポリスフィアロールパズル,182,KR,2019-01-18
-com.feed.simulator.fish,FEEDANDBATTLE:GROWFISH,183,KR,2019-01-18
-com.mechanicgames.design.home,デザイン家：家の装飾ゲーム,184,KR,2019-01-18
-com.HighScoreGames.NinjaHelix,JumpingNinjaHelix,185,KR,2019-01-18
-com.timuzgames.fpsteamwar,FPSShooter3D,186,KR,2019-01-18
-com.nav.game.merge.idle,MergePlaneIdle,187,KR,2019-01-18
-com.MooGames.SpeedQuiz,SpeedQuiz(스피드퀴즈),188,KR,2019-01-18
-com.Paincide.PsychopathTest,사이코패스테스트-3D공포심리테스트,189,KR,2019-01-18
-com.kwalagame.mergerWarriors,MergeWarriors-IdleLegionGame,190,KR,2019-01-18
-com.doublefun.block.blast.pet.rescue.pop.match3,ブロックブラストペットレスキュー,191,KR,2019-01-18
-com.timuzgames.carracing2019,CarRacing2019,192,KR,2019-01-18
-com.uplandpuzzles.jigsawpuzzles,JigsawPuzzlesHD,193,KR,2019-01-18
-com.items.puzzle,itemspuzzle,194,KR,2019-01-18
-jp.nicolet.mikazuki,脱出ゲームPotion,195,KR,2019-01-18
-com.ankama.kingcrusher,キング・クラッシャー,196,KR,2019-01-18
-com.globalfun.tj.google,Tom&Jerry:MouseMazeFREE,197,KR,2019-01-18
-com.Bronze,안시성디펜스,198,KR,2019-01-18
-com.kidsfoodinc.mermicorn.food.games,UnicornChef:MermaidMermicornGirlCookingGames,199,KR,2019-01-18
-com.codeer.wind,FROGWINDAmazing3D,200,KR,2019-01-18
-com.nemo.mergepet,TownshipOfPet,201,KR,2019-01-18
-com.ariados.block2048,2046+2BubbleShot:MergeNumber-BubbleMerge,202,KR,2019-01-18
-com.superbox.aos.pekomatch,ミルキーマッチ：ペコちゃんパズルゲーム,203,KR,2019-01-18
-com.vmobstudio.galaxyshooter.sky.captian.invaders,GalaxyShooterSkyInvaders,204,KR,2019-01-18
-com.weegoon.stickarcherymaster,StickarcheryMaster,205,KR,2019-01-18
-com.shg.sg224,CẩmYVệMobile,206,KR,2019-01-18
-com.v1.pingu.merge.plane,PlaneIdle,207,KR,2019-01-18
-cz.rostikgames.thepillar,ThePillar,208,KR,2019-01-18
-com.kr.bdzc.google,돈의맛,209,KR,2019-01-18
-com.obliqueline.madflyerio1,MADFLYER.io-BalloonAttack,210,KR,2019-01-18
-aingon.trickofmetalslug3,TrickofMetalSlug3,211,KR,2019-01-18
-net.beautysalongames.secret_high_ten,SecretHighSchool10:RescueBella,212,KR,2019-01-18
-com.my.space.justice,SpaceJustice–飛行機の宇宙飛行士,213,KR,2019-01-18
-com.xvd.head.advunture.game,CupheadBattle:CagneyCarnation,214,KR,2019-01-18
-com.MonkeyBalance.BallUltimatess_titaniumkof99,Kingofthefighter99',215,KR,2019-01-18
-com.zipper9.flipracer,フリップレーサー,216,KR,2019-01-18
-air.com.bestescapegames.BestEscapeGames140WarmGirlRescueGame,BestEscapeGames140WarmGirlRescueGame,217,KR,2019-01-18
-air.com.kavigames.KaviEscapeGame518HappyKangarooRescueGame,KaviEscapeGame518HappyKangarooRescueGame,218,KR,2019-01-18
-com.d201901111506.crowdcity,CrazyCity.io,219,KR,2019-01-18
-air.YouTestament,TheYouTestament:The2DComing,220,KR,2019-01-18
-com.game.pikachu.classic.codien,Pikachu2003classic,221,KR,2019-01-18
-air.com.bestescapegames.BestEscapeGames139ChirpyGirlEscapeGame,BestEscapeGames139ChirpyGirlEscapeGame,222,KR,2019-01-18
-com.junglecupheadadventure.games4u,JungleCupheadAdventure,223,KR,2019-01-18
-com.CobraMobileGaming.SurvivalForestCraft2,サバイバルフォレスト：サバイバーホームビルダー2,224,KR,2019-01-18
-cn.qz.pastel.avatarpro,PastelAvatarMaker2:MakeYourOwnPastelAvatar,225,KR,2019-01-18
-com.neongame.puzzlewings,パズルの翼：offlinematch3&freepuzzlegames,226,KR,2019-01-18
-walking.sportsapp.beststepwalker.stepwalker,StepWalker,227,KR,2019-01-18
-com.mildescape.thehappyescapenewyearsanta,脱出ゲーム　ハッピーエスケープ（新しい年のサンタさん）,228,KR,2019-01-18
-com.thelostisland,ロストアイランド,229,KR,2019-01-18
-com.beermoneygames.demolition3,DemolitionDerby3,230,KR,2019-01-18
-com.villette.joy,MovingDay,231,KR,2019-01-18
-com.timuzgames.trainsimulator2019,TrainSimulator2019,232,KR,2019-01-18
-com.metalshark.feeding.aventure,Feedthefish-andgrow,233,KR,2019-01-18
-com.shootblock.gun.plaguegame,デスクライミングレーシング,234,KR,2019-01-18
-com.infinity.equilibrium,Equilibrium,235,KR,2019-01-18
-com.touchgrind.Bmx.app,TouchgrindbmxII!,236,KR,2019-01-18
-com.bigcraft.survival.crafting.creative.building.edition,ビッグクラフト探検：新世代ゲーム,237,KR,2019-01-18
-com.hoh.zombie.gun.deadland,툼오브좀비헌터:데드랜드판타지,238,KR,2019-01-18
-com.gamemobile.kiemvu3D,KiếmVũ3D(Full),239,KR,2019-01-18
-com.MonkeyBalance.BallUltimatess_titaniumpokeesmeralda,エメラルド(エミュレータ),240,KR,2019-01-18
+com.footballfun.fantasysportsstrike,2019FootballFun,131,KR,2019-01-18
+com.milliongamesnew.deerhunting2019,DeerHunting2019,132,KR,2019-01-18
+com.mikmok.amazingsimulatorfrogincity,AmazingSimulatorFrogInTheCityGuess,133,KR,2019-01-18
+com.magic.music.tiles.piano.dream,ピアノタイル：ミュージック・音ゲー,134,KR,2019-01-18
+com.tyou.sushe,寮に入れない-脱出ゲーム,135,KR,2019-01-18
+com.marco.sonnz,WhosYourDaddyKnowledge,136,KR,2019-01-18
+com.wars.stickmancity,CrowdPopularRunner,137,KR,2019-01-18
+aoneglobal.chocoapp.ip2,InfinitePuzzle2:Match-3,138,KR,2019-01-18
+com.weegoon.stickarcherymaster,StickarcheryMaster,139,KR,2019-01-18
+com.gtactiongames.bikevstrain,Bikevs.Train,140,KR,2019-01-18
+pop.ocean,OceanPop,141,KR,2019-01-18
+com.libii.royalpuppy3,RoyalPuppyTeaParty,142,KR,2019-01-18
+com.tokyocoldstudio.flowergarden.manorBlossomCrush,魔女の花,143,KR,2019-01-18
+com.feed.simulator.fish,FEEDANDBATTLE:GROWFISH,144,KR,2019-01-18
+com.OppanaGames.Lexus.Simulator,OffroadLXSimulator,145,KR,2019-01-18
+com.timuzgames.bikestunts2019,BikeStunts2019,146,KR,2019-01-18
+com.daerisoft.stsoul,ShutThePung:셧더펑슈팅RPG,147,KR,2019-01-18
+com.abyssrainstudio.mylittlethings,힐링스노우볼키우기-마이리틀띵즈,148,KR,2019-01-18
+com.nexelon.bowlingclub,ボウリングクラブ3D：選手権,149,KR,2019-01-18
+com.nydev.deno_driver,Den-ODriver,150,KR,2019-01-18
+com.byv.TheCatapult2,TheCatapult2,151,KR,2019-01-18
+com.Feelnside.AnimalAdventure,AnimalAdventure:DownhillRush,152,KR,2019-01-18
+com.gfri.pianogfriendgame,PianoTilesGFRIENDGames,153,KR,2019-01-18
+com.MonkeyBalance.BallUltimatess_titaniumpokerojo_b2,ファイアレッド(emulator),154,KR,2019-01-18
+com.winterrun.pororungame,뽀로로눈겨울모험,155,KR,2019-01-18
+net.picturegames.spinshot,Spinshot,156,KR,2019-01-18
+com.Bookpalcomics.Random,복불복게임모음,157,KR,2019-01-18
+rescue.bubble.bird,BirdBubbleRescue,158,KR,2019-01-18
+com.studiotongtong.snaphero,PixelHeroAdventure,159,KR,2019-01-18
+com.yodo1.hanglinerescue,ハング・ライン：ザ・アドベンチャー,160,KR,2019-01-18
+com.siomojon.wreckitralph2.colorbynumber,WreckitRalph2-Colorbynumber,161,KR,2019-01-18
+com.TeamPENROSE.BurgundyROSE,마법소녀버건디로즈,162,KR,2019-01-18
+com.beedrill.piecesmeat,SokobanMeat-Mazepuzzle–PushMeatMaze,163,KR,2019-01-18
+com.mondayoff.splashjump,SplashJump:SpringBoard,164,KR,2019-01-18
+com.onepunchsoft.pingpongProject,탁구연습생,165,KR,2019-01-18
+com.bigjam.pixaw,Pixelartbybricks:Pixawpuzzle,166,KR,2019-01-18
+com.ankama.kingcrusher,キング・クラッシャー,167,KR,2019-01-18
+com.codeer.wind,FROGWINDAmazing3D,168,KR,2019-01-18
+com.ifun.android.L3K,Love3Kingdoms:SexyRPG,169,KR,2019-01-18
+com.carxtech.carxdr2,CarXDriftRacing2,170,KR,2019-01-18
+com.mondayoff.flatcube,FlatCube,171,KR,2019-01-18
+com.cfagms.criminalfrogamazingsim,CriminalFrogAdventureAmazingSim,172,KR,2019-01-18
+com.superbox.aos.jewelsgarden,JewelsGarden:ブラストパズルゲーム,173,KR,2019-01-18
+com.MooGames.SpeedQuiz,SpeedQuiz(스피드퀴즈),174,KR,2019-01-18
+com.games.tecdroid.freddyscarefriends,Freddy'sNightTerror:ScareYourFriends,175,KR,2019-01-18
+com.Paincide.PsychopathTest,사이코패스테스트-3D공포심리테스트,176,KR,2019-01-18
+com.xvd.head.advunture.game,CupheadBattle:CagneyCarnation,177,KR,2019-01-18
+com.g5e.solitairepg.android,ソリティアジャーニー：魔法のツアー,178,KR,2019-01-18
+com.doublefun.block.blast.pet.rescue.pop.match3,ブロックブラストペットレスキュー,179,KR,2019-01-18
+com.mastergames.mysachunsungtwo,나의사천성2,180,KR,2019-01-18
+com.nemo.zooDiary,ZooDiary,181,KR,2019-01-18
+com.v1.pingu.merge.plane,PlaneIdle,182,KR,2019-01-18
+com.RA.UDD,UltimateDerbyOnline-MadDemolitionMultiplayer,183,KR,2019-01-18
+com.kwalagame.mergerWarriors,MergeWarriors-IdleLegionGame,184,KR,2019-01-18
+com.brilliantgamez.extremebikestunts2019,エクストリームバイクスタント2019,185,KR,2019-01-18
+jp.nicolet.mikazuki,脱出ゲームPotion,186,KR,2019-01-18
+com.HighScoreGames.NinjaHelix,JumpingNinjaHelix,187,KR,2019-01-18
+com.OppanaGames.real.gangster.crime.simulator.free,RealGangsterCrimeSimulator,188,KR,2019-01-18
+com.infinity.equilibrium,Equilibrium,189,KR,2019-01-18
+aingon.trickofmetalslug3,TrickofMetalSlug3,190,KR,2019-01-18
+com.v3.pingu.merge.plane,PlaneMerger,191,KR,2019-01-18
+com.bigcraft.survival.crafting.creative.building.edition,ビッグクラフト探検：新世代ゲーム,192,KR,2019-01-18
+com.vmobstudio.galaxyshooter.sky.captian.invaders,GalaxyShooterSkyInvaders,193,KR,2019-01-18
+com.superbox.aos.pekomatch,ミルキーマッチ：ペコちゃんパズルゲーム,194,KR,2019-01-18
+air.YouTestament,TheYouTestament:The2DComing,195,KR,2019-01-18
+com.mars.crazyballs,ColorRaceCrowd,196,KR,2019-01-18
+cz.rostikgames.thepillar,ThePillar,197,KR,2019-01-18
+com.noblegames.dgking.g,던전왕,198,KR,2019-01-18
+com.nav.game.merge.idle,MergePlaneIdle,199,KR,2019-01-18
+com.MonkeyBalance.BallUltimatess_titaniumkof99,Kingofthefighter99',200,KR,2019-01-18
+com.beermoneygames.demolition3,DemolitionDerby3,201,KR,2019-01-18
+com.polyspheregame.colorbynumber,ポリスフィアロールパズル,202,KR,2019-01-18
+com.eyougame.mysh,永恆:宿命起源,203,KR,2019-01-18
+com.timuzgames.trainsimulator2019,TrainSimulator2019,204,KR,2019-01-18
+com.globalfun.tj.google,Tom&Jerry:MouseMazeFREE,205,KR,2019-01-18
+com.kidsfoodinc.mermicorn.food.games,UnicornChef:MermaidMermicornGirlCookingGames,206,KR,2019-01-18
+com.zipper9.flipracer,フリップレーサー,207,KR,2019-01-18
+com.timuzgames.carracing2019,CarRacing2019,208,KR,2019-01-18
+com.villette.joy,MovingDay,209,KR,2019-01-18
+com.uplandpuzzles.jigsawpuzzles,JigsawPuzzlesHD,210,KR,2019-01-18
+com.timuzgames.fpsteamwar,FPSShooter3D,211,KR,2019-01-18
+com.europosit.polygon2d.coloringpuzzle,POLYGON:数字で色ぬり,212,KR,2019-01-18
+com.obliqueline.madflyerio1,MADFLYER.io-BalloonAttack,213,KR,2019-01-18
+com.items.puzzle,itemspuzzle,214,KR,2019-01-18
+com.Bronze,안시성디펜스,215,KR,2019-01-18
+air.com.bestescapegames.BestEscapeGames140WarmGirlRescueGame,BestEscapeGames140WarmGirlRescueGame,216,KR,2019-01-18
+com.happymagenta.hitlight,HittheLight,217,KR,2019-01-18
+com.metalshark.feeding.aventure,Feedthefish-andgrow,218,KR,2019-01-18
+com.nemo.mergepet,TownshipOfPet,219,KR,2019-01-18
+com.loanthe.hongnhan,LoạnThếHồngNhan,220,KR,2019-01-18
+com.looneytoonsdash.looneytunesdash.bunnydash,LooneyBunny:SubwayPrincess,221,KR,2019-01-18
+com.mildescape.thehappyescapenewyearsanta,脱出ゲーム　ハッピーエスケープ（新しい年のサンタさん）,222,KR,2019-01-18
+air.com.bestescapegames.BestEscapeGames139ChirpyGirlEscapeGame,BestEscapeGames139ChirpyGirlEscapeGame,223,KR,2019-01-18
+com.ariados.block2048,2046+2BubbleShot:MergeNumber-BubbleMerge,224,KR,2019-01-18
+com.shg.sg224,CẩmYVệMobile,225,KR,2019-01-18
+cn.qz.pastel.avatarpro,PastelAvatarMaker2:MakeYourOwnPastelAvatar,226,KR,2019-01-18
+air.com.kavigames.KaviEscapeGame518HappyKangarooRescueGame,KaviEscapeGame518HappyKangarooRescueGame,227,KR,2019-01-18
+com.TreeSpider.EvilEye,EvilEye(悪の目),228,KR,2019-01-18
+fi.LinnamaEntertainment.siloairsoft,Silo'sAirsoftRoyale,229,KR,2019-01-18
+com.my.space.justice,SpaceJustice–飛行機の宇宙飛行士,230,KR,2019-01-18
+com.gamemobile.kiemvu3D,KiếmVũ3D(Full),231,KR,2019-01-18
+com.elenera.yansimuchol,HighSchoolSimulatorKnowledge,232,KR,2019-01-18
+com.littlebitgames.foodornot,FoodorNot!,233,KR,2019-01-18
+kirby.s.adventure.nes.old.game.school.emulator.n,kirbisSuperZvaigzne,234,KR,2019-01-18
+com.gofd.mafiamic,마피아게임사회보는앱/마사회/마피아게임/마피아/게임/마피아사회,235,KR,2019-01-18
+net.beautysalongames.secret_high_ten,SecretHighSchool10:RescueBella,236,KR,2019-01-18
+com.klopop.jigsawtwices,TwiceJigsawPuzzleGame,237,KR,2019-01-18
+walking.sportsapp.beststepwalker.stepwalker,StepWalker,238,KR,2019-01-18
+com.theappmedia.math.learning.game,LearnwithTrump:SchoolEducationandLearning,239,KR,2019-01-18
+com.d201901111506.crowdcity,CrazyCity.io,240,KR,2019-01-18
 com.theappmedia.math.learning.game,LearnwithTrump:SchoolEducationandLearning,241,KR,2019-01-18
-com.eyougame.mysh,永恆:宿命起源,242,KR,2019-01-18
-com.appon.kitchentycoon,CafeTycoon–Cooking&RestaurantSimulationgame,243,KR,2019-01-18
-air.com.kavigames.KaviEscapeGame517ToxicButterflyEscapeGame,KaviEscapeGame517ToxicButterflyEscapeGame,244,KR,2019-01-18
-pusuke.sfs2,スクールファイトシミュレーター２～オープンワールド型アクションゲーム～,245,KR,2019-01-18
-com.looneytoonsdash.looneytunesdash.bunnydash,LooneyBunny:SubwayPrincess,246,KR,2019-01-18
-com.funcube.loa,LegendofAce,247,KR,2019-01-18
-com.happymagenta.hitlight,HittheLight,248,KR,2019-01-18
-com.retroarts.evilhuntertycoon,이블헌터타이쿤,249,KR,2019-01-18
-com.yodo1.hanglinerescue,ハング・ライン：ザ・アドベンチャー,250,KR,2019-01-18
-com.mcu.game.mom.bad.food.free,엄마몰래불량식품먹기,251,KR,2019-01-18
-com.klopop.jigsawtwices,TwiceJigsawPuzzleGame,252,KR,2019-01-18
-com.trexgame.crazydrift,CrazyDrift-CrosstheCurve,253,KR,2019-01-18
-com.luckykat.kaijurush,怪獣ラッシュ,254,KR,2019-01-18
-com.sncompany.newtower,FantasyDefense,255,KR,2019-01-18
-com.fun.tasty.food.cooking.game,クッキング・ストーリークレイジー・キッチン・シェフ・レストラン・ゲーム,256,KR,2019-01-18
-com.pang.pacheon.google,파천일검-한국정통무협RPG,257,KR,2019-01-18
-com.pianoipan.twi,TwicePianoTIlesKpop,258,KR,2019-01-18
-mobi.vltk.vn,VõLâm1Mobile,259,KR,2019-01-18
-com.loanthe.hongnhan,LoạnThếHồngNhan,260,KR,2019-01-18
-gaon.RPaper,절대딱지키우기,261,KR,2019-01-18
-com.elementalcouple.icetemple,ElementalCouple:IceTemple,262,KR,2019-01-18
-com.gofd.mafiamic,마피아게임사회보는앱/마사회/마피아게임/마피아/게임/마피아사회,263,KR,2019-01-18
-kirby.s.adventure.nes.old.game.school.emulator.n,kirbisSuperZvaigzne,264,KR,2019-01-18
-com.dopaminit.mentosadventure,MentosAdventure,265,KR,2019-01-18
-com.multicraft.adventure.story,MulticraftAdventureStory,266,KR,2019-01-18
-com.playmobil.space,PLAYMOBILMarsMission,267,KR,2019-01-18
-com.elementalcouple.lovegames,ElementalCouple:LoveGamesIII,268,KR,2019-01-18
-com.djinnworks.ssk,StickmanSki,269,KR,2019-01-18
-com.wiplaygames.dontmakeitfall,Don'tMakeItFall!,270,KR,2019-01-18
-eycom.jmcompany.joomingil,BigDaddy(HorrorAdventurePuzzleEscape),271,KR,2019-01-18
-com.hgamesartworks.dinorexsim,DinosaurSimulatorJurassicSurvival,272,KR,2019-01-18
-com.gamtertainment.world.war2.defense.ww2,第2次世界大戦タワーディフェンスゲーム,273,KR,2019-01-18
-com.kirbyjungel.halstudio.superkirby,SuperkirbyAdventure,274,KR,2019-01-18
-com.europosit.polygon2d.coloringpuzzle,POLYGON:数字で色ぬり,275,KR,2019-01-18
-com.imult.cafe,FantasyPatrol:Cafe,276,KR,2019-01-18
-com.GrandCraft.Building,GrandCraft:ExploreCraftingandBuildingGames,277,KR,2019-01-18
-com.MasterCraft.Exploration,MasterCraft:SurvivalExplorationMaster,278,KR,2019-01-18
-com.gojyu.nrtyw,GangBeastsNarutoStory:ActionGame,279,KR,2019-01-18
-arcade.games.davkof98_titanium97,ArcadeKOF97,280,KR,2019-01-18
-aingon.walkthroughdragonballzbudokaitenkaichi3,WalkthroughDragonballZBudokaiTenkaichi3,281,KR,2019-01-18
-com.dyadgames.cookieswirlworld,CookieSwirlWorld,282,KR,2019-01-18
-com.findone.tu,Best워너원틀린그림찾기,283,KR,2019-01-18
-com.playbest.sgs,三國殺繁體版,284,KR,2019-01-18
-congthanh.xungde.mobi.dev,CôngThànhXưngĐếMobile,285,KR,2019-01-18
-com.indiside.schoolone,학교괴담下,286,KR,2019-01-18
-com.fq.oversea.jswl,劍舞紅塵,287,KR,2019-01-18
-blast.slime,SlimeBlast,288,KR,2019-01-18
-everyone.piano.connect.midi.keyboard,PianoConnect:MIDIKeyboard,289,KR,2019-01-18
-dbzzz.fightersaiyans.dbgames,DBSaiyanFighterSuperBattle,290,KR,2019-01-18
-com.RootJade.SlidingPuzzle,スライディングパズル：HamkyPoky,291,KR,2019-01-18
-com.TreeSpider.EvilEye,EvilEye(悪の目),292,KR,2019-01-18
-net.isitlove.blueswan,IsitLove?BlueSwanHospital-Chooseyourstory,293,KR,2019-01-18
-mu.origin.arena.miracle.mmorpg,(FreeDiamonds)MuOriginArena-Version8.0,294,KR,2019-01-18
-com.bug.bannyloonytoon,LooneyToons:Dash,295,KR,2019-01-18
-com.explorecrafte.survivalandnbuilding,ExploreCraft:SurvivalAndBuilding,296,KR,2019-01-18
-com.cuteandtinybabygames.cutetinyfoodtrucks.free,Cute&TinyFoodTrucks-CookingwithBabyPets,297,KR,2019-01-18
-com.maze.puzzle.minesweeper.frontier.sokoban.klotski.free,メイズフロンティア,298,KR,2019-01-18
-com.microcraft.survival.edition.original.crafting.building,MicroCraft:SurvivalEdition,299,KR,2019-01-18
-metal.dash.survival,StickShadow:WarFight-ShootingGames,300,KR,2019-01-18
-com.SimpleBuff.NumberMemory,[SimpleBUFF]TheBestNumbersMemory!,301,KR,2019-01-18
-com.mondayoff.flatcube,FlatCube,302,KR,2019-01-18
-com.pocketland.pixelart,"PixelBook:draw,createandcolorbynumbers",303,KR,2019-01-18
-com.elenera.yansimuchol,HighSchoolSimulatorKnowledge,304,KR,2019-01-18
-catorfish.game.schoolEx,학교탈출,305,KR,2019-01-18
-com.higame.tje1,EverlastingLineage,306,KR,2019-01-18
-com.icfun.game.whitecells,FightingCells,307,KR,2019-01-18
-com.endless.world.generation,NewExploration:BigCraft,308,KR,2019-01-18
-com.Bookpalcomics.PirateRoulette,복불복해적룰렛,309,KR,2019-01-18
-com.stickman.hello.stars,StickmanHelloStars,310,KR,2019-01-18
-com.NeufOctobre.InuTheShibaVirtualPet,かわいい柴犬あき-バーチャル子犬ゲーム,311,KR,2019-01-18
-com.ik.ecds2.racing.citydriving.NoLimitsDrive.aventador.realcardriving,RealCarDrivingWith3DDrivingSimulator,312,KR,2019-01-18
-com.MonkeyBalance.BallUltimatess_titaniumpokeesmeralda2,Coloso-エメラルド用エミュレータ,313,KR,2019-01-18
-com.onfiction.doll,세상에서가장슬픈인형,314,KR,2019-01-18
-com.frog.random.hammer.thegame,TheAmazlng🐸Frog🐸BeastBattleSimulator,315,KR,2019-01-18
-se.foglo.tmh,TheMuscleHustle:SlingshotWrestling,316,KR,2019-01-18
-com.mindmill.block.puzzle.games,BlockPuzzles,317,KR,2019-01-18
-com.mobi338.tamquoc,MTTamQuốc,318,KR,2019-01-18
-com.bigbrickgames.cooking.star.crazy.restaurant,料理スター🍳-狂ったキッチンレストランゲーム,319,KR,2019-01-18
-com.cuteandtinybabygames.cutetinytoys.free,"Cute&TinyToys-Doll,Dino,Car,Bear&Robot",320,KR,2019-01-18
-com.rahocom.rahoyoun,FlyPanda,321,KR,2019-01-18
-air.com.A8bgames.HappyPongalEscape,EscapeGames8B108,322,KR,2019-01-18
-com.some.game.helix.halloween.jump,HelixMonsterJump,323,KR,2019-01-18
-com.timuzgames.bikemaster2019,BikeMaster2019,324,KR,2019-01-18
-com.kingofsaiyan.dragonarena,TheKingofDragonArena,325,KR,2019-01-18
-com.bbtv.cwc,SpyNinjaNetwork-Chad&Vy,326,KR,2019-01-18
-com.indiside.Silueta1,"실루에타[쯔꾸르,어드벤처]",327,KR,2019-01-18
-com.candygame.slotmachine.coinmaster,SlotMachine:DailyCash,328,KR,2019-01-18
-com.dashgames.touneslooney,LooneyDash!Tunes,329,KR,2019-01-18
-com.codigames.idle.harbor.tycoon,IdleHarborTycoon-IncrementalClickerGame,330,KR,2019-01-18
-com.KinggotGames.PongPongAquarium,PongPongAquarium：子供向け英語学習ゲーム,331,KR,2019-01-18
-com.hunex_play.hsp825003gko,사랑하라오토메◆쉐어하우스이야기,332,KR,2019-01-18
-com.dixygames.cityBrawl,CrowdBrawl,333,KR,2019-01-18
-com.app.xTiltSquares,WorldHardestGame(TiltSensor),334,KR,2019-01-18
-air.odd1apps.EscapeGamesUnlimitedFun,EscapeGames:UnlimitedFun,335,KR,2019-01-18
-com.panda.carchase,CarChase2019,336,KR,2019-01-18
-free.game.bubble.bubbleshooter,BubbleShooterSimple,337,KR,2019-01-18
-com.ulugames.mxkr.google,스텔라M(19),338,KR,2019-01-18
-com.shopdgames.richard,리차드어드벤쳐해저대탐험!중독성강한게임,339,KR,2019-01-18
-com.pafumo.escape_six_keys,脱出ゲーム-6つのカギ,340,KR,2019-01-18
-com.realtunes.freemusic,RealTunes,341,KR,2019-01-18
-com.trendsofstrike.airplane.flight.pilot.simulator,飛行機のフライトパイロットシミュレータ2019-AirFlight,342,KR,2019-01-18
-com.amazing.random.hammer.thegame.gorf,NewAmazlngFrogGames🐸,343,KR,2019-01-18
-com.GoodBoyCompany.Game,초성퀴즈:강제로머리쓰게만드는두뇌개발게임,344,KR,2019-01-18
-com.hundred_doors_game.escape_from_school,100DoorsGames2019:EscapefromSchool,345,KR,2019-01-18
-com.swag.shooter.online.offline.free.fps.survival.shooting.battleground.war.gun.game,英雄的な銃撃,346,KR,2019-01-18
-com.ArckonArts.SarkarInfinite,SarkarInfinite,347,KR,2019-01-18
-com.BekoCan.BaldyInSchool,Baldy:InSchool,348,KR,2019-01-18
-com.byv.TheGunner,TheGunner:StickmanWeaponHero,349,KR,2019-01-18
-com.chinjaw.color_bump_3D_2019,Bumpcolor3D,350,KR,2019-01-18
-com.n58works.lostdooors,脱出ゲームLostDOOORS,351,KR,2019-01-18
-com.indiside.Projectkbh,프로젝트카브에트존[쯔꾸르],352,KR,2019-01-18
-com.GameNiceMob.Drunk,DRUNK,353,KR,2019-01-18
-com.nex.xquestarpg1,ArcaneQuestLegends-OfflineRPG,354,KR,2019-01-18
-com.poop.slime.surprise.unicorn.best.games,🌈PoopsieSlimeunicorn🦄Surprises!,355,KR,2019-01-18
-com.badoercar.car.craft.traffic.race.exploration.driving.run.crafting.and.building.blockcraft.minecraft.mcpe.multicraft,PrimeLocoCraft:Survivalin3MapsBigCity,356,KR,2019-01-18
-games.mini.sports.sumo.wrestling,相撲2019:ライブ相撲格闘ゲーム,357,KR,2019-01-18
-com.jiayougame.mljq,ドラゴンの台頭,358,KR,2019-01-18
-owdwars.infection,Infection-CrowdCity,359,KR,2019-01-18
-com.freeproemulatorandroidgames.ps2,FreeProPS2EmulatorGamesForAndroid2019,360,KR,2019-01-18
-com.endgames.grand.superhero.venomz.vs.spider.iron.hero.hunter,グランドスーパーヒーローVenomzVSスパイダーアイアンヒーローハンター,361,KR,2019-01-18
-com.kinkajoo.rummikubjunior,RummikubJr.,362,KR,2019-01-18
-com.flight.simulator_racinggames2019,フライトシミュレータ2019-フリーフライング-FlightSimulator2019,363,KR,2019-01-18
-com.soccer.puzzle,DreamLeague2019-SwitchSoccer,364,KR,2019-01-18
-com.ship.simulator.game2019,ShipSimulator2019,365,KR,2019-01-18
-jp.actkey.yukutoshi,脱出ゲームゆくとしくるとし,366,KR,2019-01-18
-com.messenger.Fight.Final,Arcade-FinalFight,367,KR,2019-01-18
-com.apptist.couplegame,"커플게임-술게임,복불복,소개팅",368,KR,2019-01-18
-com.utplus.tokidokipuzzle,tokidokifrenzies:Match3Puzzle,369,KR,2019-01-18
-air.com.A8bgames.YogaInstructorEscape,EscapeGames8B107,370,KR,2019-01-18
-com.matthew.games.freeminioadventurerun,FreeMinionRun:BananaRushAdventure,371,KR,2019-01-18
-air.com.littlebigsnake.littlebigsnake,LittleBigSnake,372,KR,2019-01-18
-kr.xconn.brickbreaker,BricksVSBalls,373,KR,2019-01-18
-air.com.bestescapegames.BestEscapeGames138CuddlyMonkeysEscapeGame,BestEscapeGames138CuddlyMonkeysEscapeGame,374,KR,2019-01-18
-com.trendsetter.furious.smash.car.hits.fast.impossible.stunts,激怒スマッシュ車のヒット数-高速インポッシブルスタント,375,KR,2019-01-18
-banpick.games.sichuan,麻雀コネクト-隠し画像,376,KR,2019-01-18
-com.mewpixelartgames.pokemoncoloringbynumbers,MewPixelArtGames-PokemonColoringByNumbers,377,KR,2019-01-18
-air.com.A8bgames.StickmanEscape,EscapeGames8B106,378,KR,2019-01-18
-com.Gametap.AirplaneFlySimulator,AirplaneFlySimulator,379,KR,2019-01-18
-com.tsgame.tengame,10Gamesin1:SmallSizeCollectionvictorygame,380,KR,2019-01-18
-com.waves.mahjongocean,MahjongOcean,381,KR,2019-01-18
-com.risk.power.fighting.rangers,PowerNinjaWarriors:StreetFightingGames,382,KR,2019-01-18
-com.PT.AsiaCupSoccer,‫فوتبالجامملتهایآسیا2019‬‎,383,KR,2019-01-18
-com.jjangcompany.fishking,켠김에낚시왕,384,KR,2019-01-18
-com.martil.wild.crocodile.simulator.attack.freegames,WildCrocodileAttackSimulator,385,KR,2019-01-18
-com.hgamesart.dinosaurbattlesimulator,BattleDinosaurClash,386,KR,2019-01-18
-com.kd.Kitchen,Kitchen Diary-UltimatePuzzleWords,387,KR,2019-01-18
-com.mustardgames.offroad.driving.games,オフロードジープ運転2019：4x4のオフロードシミュレータ,388,KR,2019-01-18
-com.tts.police.officer,仮想警官シミュレータ：警官と強盗,389,KR,2019-01-18
-poly.puzzle.puzzlegame.artistic.color.jigsaw.relax.free,PolyBlock-ArtbookofColor,390,KR,2019-01-18
-com.doubleJ.fallingball,FallingBall-concentrate!,391,KR,2019-01-18
-com.winwinsit.pianowinnermillion,PianoTilesWinnerGame-MILLION,392,KR,2019-01-18
-com.balls.rollingbump,BallsRollingBump,393,KR,2019-01-18
-com.bada.block.puzzle.game,BlockDeluxe-ClassicPuzzleGame,394,KR,2019-01-18
-air.com.A8bgames.JoyousBoyEscape,EscapeGames8B109,395,KR,2019-01-18
-com.croiod.gathercrowd,GATHERCrowdCityStickmanSimulator,396,KR,2019-01-18
-com.silver.parker,CarParker-Drive&Drift,397,KR,2019-01-18
-net.nekoland.game7,거울소녀온라인/카브에트온라인,398,KR,2019-01-18
-com.nemostudio.skywar,니칸내칸,399,KR,2019-01-18
-com.veraxen.jigsawpuzzlescollectionhd,ジグソーパズルコレクションHD-大人のためのパズル,400,KR,2019-01-18
-com.min.game.galaxy.shooter,SpaceShooterReloaded,401,KR,2019-01-18
-io.funboar.luckyblocks,LuckyBlockRaceforMCPE,402,KR,2019-01-18
-com.bookpalcomics.PunchMachine,복불복펀치머신,403,KR,2019-01-18
-com.freeps2emulator.forandroid,FreePS2Emulator2019,404,KR,2019-01-18
-ru.iamtagir.tla4,ThatLevelAgain4,405,KR,2019-01-18
-com.neonplay.casualbuca_android,Buca!,406,KR,2019-01-18
-com.jubrapps.Determination,DETERMINATION,407,KR,2019-01-18
-com.tg.schoolbusgame2019,SchoolBusGame2019,408,KR,2019-01-18
-driving.games.trucks.simulator.simulation.bus,3D運転ゲーム：バス、トラックシミュレータ2019,409,KR,2019-01-18
-com.beedrill.rollwool,SokobanSweetRollOfWool-PushMazePuzzle,410,KR,2019-01-18
-com.slices.cutpuzzle,SlicePuzzlesBumpBalls,411,KR,2019-01-18
-jp.hozdesign.MR3939CLASSIC2,脱出ゲームミスター3939クラシック2,412,KR,2019-01-18
-com.fpsshooter.battleroyale,BattleRoyale:FPSShooter,413,KR,2019-01-18
-com.mainmint.nonogramadventure,お絵かきロジックアドベンチャー,414,KR,2019-01-18
-com.hyazgaarguinaadgai.kinotaavar,Кинотаавар,415,KR,2019-01-18
-air.com.kavigames.KaviEscapeGame514LollipopGirlRescueGame,KaviEscapeGame514LollipopGirlRescueGame,416,KR,2019-01-18
-com.liveme.smashbrickz,SmashBrickz,417,KR,2019-01-18
-air.com.rorobrain.hangul1,우리말유희|단어만들기퍼즐,418,KR,2019-01-18
-com.spillabs.ColorSpinHit,BombIt!ColorBlast!💣💣💣,419,KR,2019-01-18
-com.hyper.bouncyio,Bouncy.io,420,KR,2019-01-18
-com.jump.ballingbar,HelixJumpBall,421,KR,2019-01-18
-com.gjj.trucksim3dpallettrans,TruckSimulator3D:PalletTransport,422,KR,2019-01-18
-com.findtw.tu,Best트와이스틀린그림찾기,423,KR,2019-01-18
-air.com.bestescapegame.BestEscapeGame539MythicalCreatureRescueGame,BestEscapeGame539MythicalCreatureRescueGame,424,KR,2019-01-18
-nebiogames.gmkr,GMKR,425,KR,2019-01-18
-com.fandrapp.Twice_MatchingGame,TWICEMatchingGame,426,KR,2019-01-18
-com.tts.house.desor,家のデザイン＆イメージチェンジのアイデア：家のデザインゲーム,427,KR,2019-01-18
-com.nanacrew.game.battlegroundquiz,배그치킨장학퀴즈,428,KR,2019-01-18
-com.frogrobot.escape2019,脱出ゲーム-NewYear年越し蕎麦-2019新作脱出げーむ,429,KR,2019-01-18
-com.big.find.mcpe.map.animals,ボタンが2019のおかしい動物MinigameMCPEだとわかってください,430,KR,2019-01-18
-freddyfrenetic.fnafpiano.freddy,PianoTiles-FreddyFnaf,431,KR,2019-01-18
-com.AlignmentSharp.Escape102,ケープ君の脱出ゲーム　2部屋目　夕闇に染まる運命の絆（注2）,432,KR,2019-01-18
-com.gamehouse.fab5,ファビュラス―アンジェラのトゥルー・カラーズ,433,KR,2019-01-18
-com.ynsgames.aos.paradisejewel,パラダイスジュエル,434,KR,2019-01-18
-com.dungeonGuardian.Acle,던전가디언,435,KR,2019-01-18
-com.dora.submanadventurerun,SubwayDoraemondash,436,KR,2019-01-18
-air.forestescapegames,ForestEscapeGames-25Games,437,KR,2019-01-18
-com.turtlegamez.fitngoa,フィット＆ゴー-形状マッチング,438,KR,2019-01-18
-com.cmy.ppy181214,ppy놀이터,439,KR,2019-01-18
-air.EqGirls1,EqGirls,440,KR,2019-01-18
-com.YovoGames.tapUp,タップジャンプ,441,KR,2019-01-18
-com.milliongames.dinosaurbattlesurvival2019,DinosaurBattleSurvival2019,442,KR,2019-01-18
-com.brilliantgamez.bus.parking.simulator,市内バス駐車場シミュレータ2019,443,KR,2019-01-18
-com.bgs.stickman.fps.shooter.rasstrel,スティックマンFPS：3Dシューティングゲーム,444,KR,2019-01-18
-air.CuteLittleAngelEscapeGame,最高の脱出151かわいい小さな天使脱出ゲーム,445,KR,2019-01-18
-com.lmstudios.stickman.mech.battle.simulator,スティックマンメカロボット：バトルシミュレータ,446,KR,2019-01-18
-com.shsoft.brain.dot.connect,"braindotconnect2019(두뇌게임,한붓그리기2,두뇌개발,치매예방)",447,KR,2019-01-18
-sp.piano10.tiles10.pianogames,PianoTiles10,448,KR,2019-01-18
-com.sharpen.myluna,MonsterStormApoiion,449,KR,2019-01-18
-com.crowdio.blockywars,CrowdPopular,450,KR,2019-01-18
-com.say69.gamebaidoithuong.tienlenmiennam,Say69-Cổnggamehoànggia,451,KR,2019-01-18
-com.einsware.chicken.maker,(モバイル)チキンメーカー,452,KR,2019-01-18
-com.emulat.mgame.vkn,ArcadeEmulator,453,KR,2019-01-18
-air.bwebmedia.dazzlingdivasdancepartydressup,DazzlingDivasDancePartyDressUp,454,KR,2019-01-18
-com.cookapps.magiccatmatch,MagicCatMatch:Swipe&BlastPuzzle,455,KR,2019-01-18
-com.SuperPower.RangersLegacy.GhafarIngame,SuperheroPowerRangersLegacy,456,KR,2019-01-18
-com.berry.lococraft,LocoCraft2019:survivalandcreative,457,KR,2019-01-18
-com.freegame.VehicleRecylinginc,VehicleRecyclingInc.,458,KR,2019-01-18
-com.FoxieGames.HorseRidingTales,HorseRidingTales-RideWithFriends,459,KR,2019-01-18
-air.com.kavigames.KaviEscapeGame513BairnRescueGame,KaviEscapeGame513BairnRescueGame,460,KR,2019-01-18
-com.dabaApps.FourDoors12,脱出ゲーム/よっつのドア12　EscapeGame/4Doors12,461,KR,2019-01-18
-com.eclectic.crane.simulator.game,極端な建設クレーンゲーム3D,462,KR,2019-01-18
-air.com.A8bgames.NewYearGiftEscape,EscapeGames8B101,463,KR,2019-01-18
-com.facebook.doors.mmcp.es,RoomEscape,464,KR,2019-01-18
-com.gs.farmertractor.farmingsimulator,新しいトラクター農業シミュレーター2019：ファーマーシム,465,KR,2019-01-18
-com.miimdevstd.rollingskyball,RollingSkyingBall,466,KR,2019-01-18
-air.ChristmasForestEscapeGame,クリスマスの森脱出ゲーム,467,KR,2019-01-18
-com.h.sub.tech.chungchu.chungchun,"청춘테크-광고없는라이브스코어,스포츠중계,토토,프로토,무료픽",468,KR,2019-01-18
-games.b4t.ludi.teentitansgo,JovensTitãsemAção!OHeróiévocê.,469,KR,2019-01-18
-com.bitfreegames.turnscape,Turnscape,470,KR,2019-01-18
-com.dopaminit.sodapop,스페이스서바이벌,471,KR,2019-01-18
-com.nankaiigame.gqest,脱出ゲームグランマリクエストからの脱出,472,KR,2019-01-18
-com.takasimapon.Hatuhinode,脱出ゲーム初日の出への脱出,473,KR,2019-01-18
-jp.co.product.kn.summerpockets,SummerPockets,474,KR,2019-01-18
-com.wb.goog.ellen.gameofgames,GameofGamestheGame,475,KR,2019-01-18
-air.com.kavigames.KaviEscapeGame515RescueLionessGame,KaviEscapeGame515RescueLionessGame,476,KR,2019-01-18
-com.tas.anti.terorist.attack.swat.police,Anti-TerroristCounterAttackSWATPolice3D,477,KR,2019-01-18
-com.devBand.BlockPuzzle,블록퍼즐,478,KR,2019-01-18
-net.beautysalongames.secret_high_eleven,SecretHighSchool11:BellavsIsabella,479,KR,2019-01-18
-balls.glow.bricks.breaker.brounce.ballz.puzzle.free,BricksBreaker-GlowBalls,480,KR,2019-01-18
-com.hytale.adventure,HytaleAdventure,481,KR,2019-01-18
-com.gamestycoon.tycoon.cooking.kitchen.food.restaurant.chef,CookingLover❤️Tycoon-CookingAdventureGame,482,KR,2019-01-18
-com.newbabyfungames.angelfullbodyspa,天使のフルボディスパ&女の子のためのドレスアップゲーム,483,KR,2019-01-18
-com.yildizgames.cardriving,CarDriving,484,KR,2019-01-18
-com.cookapps106.game027,SniperGrounds:OnlineShootingBattleArena,485,KR,2019-01-18
-com.cg.motobikegame,MotoBikeGame,486,KR,2019-01-18
-air.com.A8bgames.NewYear2019Escape,EscapeGames8B102,487,KR,2019-01-18
-com.Izakayastory.org,脱出ゲーム-居酒屋-新年会-新作脱出げーむ,488,KR,2019-01-18
-com.eyougame.myzx,明月之時,489,KR,2019-01-18
-com.ultimatehero.warriorsuniverse.battleofpower,Ultimateherowarriorsuniversebattleofpower,490,KR,2019-01-18
-bubble.shooter.cat.kitty.free,バブルシューター,491,KR,2019-01-18
-com.Blacksky.ChickenShooter,ChickenShooter2019:GalaxyAttackAlienSpace,492,KR,2019-01-18
-com.souzu.looseg,TreasureintheSands,493,KR,2019-01-18
-com.aminapps.pcbuilding19,PCBuildingSimulator:BuildYourownComputer!,494,KR,2019-01-18
-com.bluebunnygamer.BeatMasterVR,BeatMasterVR,495,KR,2019-01-18
-com.milliongames.bikestuntsextremechallenge,MotoStunts,496,KR,2019-01-18
-com.tbrix.holzzakmaster,홀짝마스터-홀짝게임,497,KR,2019-01-18
-air.com.bestescapegames.BestEscapeGames137HoopPlayingGirlRescueGame,BestEscapeGames137HoopPlayingGirlRescue,498,KR,2019-01-18
-com.appstudiosg.pianotapfairytail,ピアノのタイル-FairyTail,499,KR,2019-01-18
-com.figri.minigames,Mini-Games:NewArcade,500,KR,2019-01-18
-kr.widebrain.QuzipOX,퀴집:멀티플레이퀴즈게임,501,KR,2019-01-18
-com.mcu.game.mom.play.game.free,엄마몰래게임하기,502,KR,2019-01-18
-com.StudioWheel.AbnormalFree,나홀로외계인(베타),503,KR,2019-01-18
-com.Hotel.Monsters.AdventuresRun,HotelTransylvania:MonstersAdventuresRun,504,KR,2019-01-18
-air.fizizi.BurgerCookingGamesKidsRestaurant,バーガークッキングゲーム-キッズレストラン,505,KR,2019-01-18
-com.bookpalcomics.Racing,복불복경마,506,KR,2019-01-18
-com.TeamSalmon.ShineBright,シャインブライト-雨音癒しゲーム,507,KR,2019-01-18
-com.nora.DuneWarrior,砂丘の戦士,508,KR,2019-01-18
-com.tts.car.smash,不可能なトラックをスマッシュ：カースタントゲーム2019,509,KR,2019-01-18
-com.not.M,더메이션스(TheMations),510,KR,2019-01-18
-com.cakebuttonfantasy.laserdistancemeasure,LaserDistanceMeasure,511,KR,2019-01-18
-com.clusoft.ketris,뇌톡톡-단어퍼즐두뇌게임,512,KR,2019-01-18
-com.modoorock.backhwa,백화런닝맨(미션팜)New,513,KR,2019-01-18
-com.arare.asj,QuantumSpaceJourney,514,KR,2019-01-18
-air.ELSADressUp,❄CollegeGirlsPrincessMakeupDressupGame❤,515,KR,2019-01-18
-air.AsianCup2019UAE,AFCAsianCup2019UAE-Footballfreekick,516,KR,2019-01-18
-com.AdventureTimeGames.SnailBobMysteryPyramids,SnailBobrobbery:MysteryPyramids,517,KR,2019-01-18
-com.fire.boy.water.girl.rede.blue.teamwork.twoplayer.coolmatter.fire2,LuckyBoyandPrettyGirl-CrystalTempleMaze,518,KR,2019-01-18
-com.appsdevh.gemspixlgun,CheatForPixelGun3D,519,KR,2019-01-18
-os.uk.topfreegame.shooter.shooting.galaxyshooter.alienshooter.shooternumber.number,ShooterNumber-IdleShooter,520,KR,2019-01-18
-com.lococraft.craftingandbuilding,LocoCraft:CreativeAndSurvivalStoryMode,521,KR,2019-01-18
-com.game.soper.myapplication,벌칙게임(친구),522,KR,2019-01-18
-com.TyangProduction.AvoidLaser,레이저피하기,523,KR,2019-01-18
-com.songsari.go_owoli,가랏!오월이,524,KR,2019-01-18
-com.tekwid.humanfalloutflat,3DHumanArrowFlat:FALLAdventures,525,KR,2019-01-18
-com.imayi.dinopark2free,DinosaurPark2Free,526,KR,2019-01-18
-okinawa.harapeco.catPuzzle,CatPuzzleねこのパズルゲーム,527,KR,2019-01-18
-com.kangsabun.onetgames.onetpikachudeluxe,NEWOnet2019,528,KR,2019-01-18
-com.gameone.tlbb,天龍八部手機版-慕容世家來襲,529,KR,2019-01-18
-com.Studio.Dream.League.Soccer.Stars,サッカーリーグ2019-世界のサッカースター,530,KR,2019-01-18
-com.HOOME1995.Game5,スライムRPG,531,KR,2019-01-18
-com.maxcraft.max.craft.freshcraft.blockcraft.bigcraft.fortecraft.icecraft.livecraft.startcraft,マックスクラフト探査：クラフト＆ビルディングマックスクラフト探査：クラフト＆ビルディング,532,KR,2019-01-18
-com.cg.citycoachbus2019,CityCoachBus2019,533,KR,2019-01-18
-com.CrowdCityZombieSurvival,CrowdCity:ZombieSurvival,534,KR,2019-01-18
-com.endgames.spectra.acient.croft.raider.survival.craft.quest,スペクトル古代クロフトレイダー：サバイバルクラフトクエスト,535,KR,2019-01-18
-com.actiongames.snowbattleio,Snowbattle.io,536,KR,2019-01-18
-com.Manipolar.DontGo1444,Don'tgo1444,537,KR,2019-01-18
-com.freemod.bendycoloring,BendyColoring,538,KR,2019-01-18
-com.ttgmasters.puzzleforkids.littlepony,LittlePonyPuzzleforkids,539,KR,2019-01-18
-com.driving.freeracinggame,RacingFever3D:Speed,540,KR,2019-01-18
+com.d201901111506.crowdcity,CrazyCity.io,242,KR,2019-01-18
+com.devBand.BlockPuzzle,블록퍼즐,243,KR,2019-01-18
+mobi.vltk.vn,VõLâm1Mobile,244,KR,2019-01-18
+com.mcu.game.mom.bad.food.free,엄마몰래불량식품먹기,245,KR,2019-01-18
+pusuke.sfs2,スクールファイトシミュレーター２～オープンワールド型アクションゲーム～,246,KR,2019-01-18
+com.game.pikachu.classic.codien,Pikachu2003classic,247,KR,2019-01-18
+com.CobraMobileGaming.SurvivalForestCraft2,サバイバルフォレスト：サバイバーホームビルダー2,248,KR,2019-01-18
+com.neongame.puzzlewings,パズルの翼：offlinematch3&freepuzzlegames,249,KR,2019-01-18
+com.gamehouse.hm4gp,ハートの治療薬―医師の誓い,250,KR,2019-01-18
+net.isitlove.blueswan,IsitLove?BlueSwanHospital-Chooseyourstory,251,KR,2019-01-18
+com.explorecrafte.survivalandnbuilding,ExploreCraft:SurvivalAndBuilding,252,KR,2019-01-18
+com.shootblock.gun.plaguegame,デスクライミングレーシング,253,KR,2019-01-18
+com.trexgame.crazydrift,CrazyDrift-CrosstheCurve,254,KR,2019-01-18
+com.luckykat.kaijurush,怪獣ラッシュ,255,KR,2019-01-18
+com.hgamesartworks.dinorexsim,DinosaurSimulatorJurassicSurvival,256,KR,2019-01-18
+com.sncompany.newtower,FantasyDefense,257,KR,2019-01-18
+com.thelostisland,ロストアイランド,258,KR,2019-01-18
+com.panda.carchase,CarChase2019,259,KR,2019-01-18
+com.dopaminit.mentosadventure,MentosAdventure,260,KR,2019-01-18
+com.pang.pacheon.google,파천일검-한국정통무협RPG,261,KR,2019-01-18
+com.wiplaygames.dontmakeitfall,Don'tMakeItFall!,262,KR,2019-01-18
+com.fun.tasty.food.cooking.game,クッキング・ストーリークレイジー・キッチン・シェフ・レストラン・ゲーム,263,KR,2019-01-18
+com.funcube.loa,LegendofAce,264,KR,2019-01-18
+com.touchgrind.Bmx.app,TouchgrindbmxII!,265,KR,2019-01-18
+com.appon.kitchentycoon,CafeTycoon–Cooking&RestaurantSimulationgame,266,KR,2019-01-18
+com.some.game.helix.halloween.jump,HelixMonsterJump,267,KR,2019-01-18
+com.hoh.zombie.gun.deadland,툼오브좀비헌터:데드랜드판타지,268,KR,2019-01-18
+com.gojyu.nrtyw,GangBeastsNarutoStory:ActionGame,269,KR,2019-01-18
+arcade.games.davkof98_titanium97,ArcadeKOF97,270,KR,2019-01-18
+com.MonkeyBalance.BallUltimatess_titaniumpokeesmeralda,エメラルド(エミュレータ),271,KR,2019-01-18
+com.elementalcouple.icetemple,ElementalCouple:IceTemple,272,KR,2019-01-18
+banpick.games.sichuan,麻雀コネクト-隠し画像,273,KR,2019-01-18
+com.fq.oversea.jswl,劍舞紅塵,274,KR,2019-01-18
+air.com.kavigames.KaviEscapeGame517ToxicButterflyEscapeGame,KaviEscapeGame517ToxicButterflyEscapeGame,275,KR,2019-01-18
+com.RootJade.SlidingPuzzle,スライディングパズル：HamkyPoky,276,KR,2019-01-18
+com.retroarts.evilhuntertycoon,이블헌터타이쿤,277,KR,2019-01-18
+com.RetroBox.RPGtwozerofoureight,2048RPG,278,KR,2019-01-18
+mu.origin.arena.miracle.mmorpg,(FreeDiamonds)MuOriginArena-Version8.0,279,KR,2019-01-18
+com.chinjaw.color_bump_3D_2019,Bumpcolor3D,280,KR,2019-01-18
+com.maze.puzzle.minesweeper.frontier.sokoban.klotski.free,メイズフロンティア,281,KR,2019-01-18
+com.pianoipan.twi,TwicePianoTIlesKpop,282,KR,2019-01-18
+com.playmobil.space,PLAYMOBILMarsMission,283,KR,2019-01-18
+com.nemo.fruitspelling,つづりゲーム：FruitSpellingNinja,284,KR,2019-01-18
+com.bug.bannyloonytoon,LooneyToons:Dash,285,KR,2019-01-18
+com.apptist.couplegame,"커플게임-술게임,복불복,소개팅",286,KR,2019-01-18
+gaon.RPaper,절대딱지키우기,287,KR,2019-01-18
+se.foglo.tmh,TheMuscleHustle:SlingshotWrestling,288,KR,2019-01-18
+congthanh.xungde.mobi.dev,CôngThànhXưngĐếMobile,289,KR,2019-01-18
+com.indiside.schoolone,학교괴담下,290,KR,2019-01-18
+com.pocketland.pixelart,"PixelBook:draw,createandcolorbynumbers",291,KR,2019-01-18
+everyone.piano.connect.midi.keyboard,PianoConnect:MIDIKeyboard,292,KR,2019-01-18
+com.multicraft.adventure.story,MulticraftAdventureStory,293,KR,2019-01-18
+com.abcgame.musicrun,MusicRun,294,KR,2019-01-18
+com.elementalcouple.lovegames,ElementalCouple:LoveGamesIII,295,KR,2019-01-18
+com.nanacrew.game.battlegroundquiz,배그치킨장학퀴즈,296,KR,2019-01-18
+com.trendsofstrike.airplane.flight.pilot.simulator,飛行機のフライトパイロットシミュレータ2019-AirFlight,297,KR,2019-01-18
+com.ik.ecds2.racing.citydriving.NoLimitsDrive.aventador.realcardriving,RealCarDrivingWith3DDrivingSimulator,298,KR,2019-01-18
+com.onfiction.doll,세상에서가장슬픈인형,299,KR,2019-01-18
+com.timuzgames.bikemaster2019,BikeMaster2019,300,KR,2019-01-18
+com.codigames.idle.harbor.tycoon,IdleHarborTycoon-IncrementalClickerGame,301,KR,2019-01-18
+com.gamtertainment.world.war2.defense.ww2,第2次世界大戦タワーディフェンスゲーム,302,KR,2019-01-18
+com.indiside.Projectkbh,프로젝트카브에트존[쯔꾸르],303,KR,2019-01-18
+com.kirbyjungel.halstudio.superkirby,SuperkirbyAdventure,304,KR,2019-01-18
+metal.dash.survival,StickShadow:WarFight-ShootingGames,305,KR,2019-01-18
+air.AsianCup2019UAE,AFCAsianCup2019UAE-Footballfreekick,306,KR,2019-01-18
+com.imult.cafe,FantasyPatrol:Cafe,307,KR,2019-01-18
+com.GrandCraft.Building,GrandCraft:ExploreCraftingandBuildingGames,308,KR,2019-01-18
+com.MasterCraft.Exploration,MasterCraft:SurvivalExplorationMaster,309,KR,2019-01-18
+air.com.A8bgames.HappyPongalEscape,EscapeGames8B108,310,KR,2019-01-18
+com.artifexmundi.skyland.gp.free,スカイランド:山に眠る巨人,311,KR,2019-01-18
+com.dyadgames.cookieswirlworld,CookieSwirlWorld,312,KR,2019-01-18
+com.findone.tu,Best워너원틀린그림찾기,313,KR,2019-01-18
+com.higame.tje1,EverlastingLineage,314,KR,2019-01-18
+com.endgames.grand.superhero.venomz.vs.spider.iron.hero.hunter,グランドスーパーヒーローVenomzVSスパイダーアイアンヒーローハンター,315,KR,2019-01-18
+com.cuteandtinybabygames.cutetinytoys.free,"Cute&TinyToys-Doll,Dino,Car,Bear&Robot",316,KR,2019-01-18
+com.kinkajoo.rummikubjunior,RummikubJr.,317,KR,2019-01-18
+blast.slime,SlimeBlast,318,KR,2019-01-18
+dbzzz.fightersaiyans.dbgames,DBSaiyanFighterSuperBattle,319,KR,2019-01-18
+com.jubrapps.Determination,DETERMINATION,320,KR,2019-01-18
+com.cuteandtinybabygames.cutetinyfoodtrucks.free,Cute&TinyFoodTrucks-CookingwithBabyPets,321,KR,2019-01-18
+com.crowdio.blockywars,CrowdPopular,322,KR,2019-01-18
+com.microcraft.survival.edition.original.crafting.building,MicroCraft:SurvivalEdition,323,KR,2019-01-18
+com.SimpleBuff.NumberMemory,[SimpleBUFF]TheBestNumbersMemory!,324,KR,2019-01-18
+catorfish.game.schoolEx,학교탈출,325,KR,2019-01-18
+com.ulugames.mxkr.google,스텔라M(19),326,KR,2019-01-18
+com.icfun.game.whitecells,FightingCells,327,KR,2019-01-18
+com.shopdgames.richard,리차드어드벤쳐해저대탐험!중독성강한게임,328,KR,2019-01-18
+com.endless.world.generation,NewExploration:BigCraft,329,KR,2019-01-18
+com.Bookpalcomics.PirateRoulette,복불복해적룰렛,330,KR,2019-01-18
+com.rahocom.rahoyoun,FlyPanda,331,KR,2019-01-18
+com.stickman.hello.stars,StickmanHelloStars,332,KR,2019-01-18
+com.NeufOctobre.InuTheShibaVirtualPet,かわいい柴犬あき-バーチャル子犬ゲーム,333,KR,2019-01-18
+com.MonkeyBalance.BallUltimatess_titaniumpokeesmeralda2,Coloso-エメラルド用エミュレータ,334,KR,2019-01-18
+com.candygame.slotmachine.coinmaster,SlotMachine:DailyCash,335,KR,2019-01-18
+com.ArckonArts.SarkarInfinite,SarkarInfinite,336,KR,2019-01-18
+com.matthew.games.freeminioadventurerun,FreeMinionRun:BananaRushAdventure,337,KR,2019-01-18
+com.KinggotGames.PongPongAquarium,PongPongAquarium：子供向け英語学習ゲーム,338,KR,2019-01-18
+com.drawcoding.SuDragon,수룡이의수정이체험기,339,KR,2019-01-18
+com.einsware.chicken.maker,(モバイル)チキンメーカー,340,KR,2019-01-18
+com.mindmill.block.puzzle.games,BlockPuzzles,341,KR,2019-01-18
+com.dixygames.cityBrawl,CrowdBrawl,342,KR,2019-01-18
+com.freeproemulatorandroidgames.ps2,FreeProPS2EmulatorGamesForAndroid2019,343,KR,2019-01-18
+com.tsgame.tengame,10Gamesin1:SmallSizeCollectionvictorygame,344,KR,2019-01-18
+free.game.bubble.bubbleshooter,BubbleShooterSimple,345,KR,2019-01-18
+com.risk.power.fighting.rangers,PowerNinjaWarriors:StreetFightingGames,346,KR,2019-01-18
+com.mobi338.tamquoc,MTTamQuốc,347,KR,2019-01-18
+com.jjangcompany.fishking,켠김에낚시왕,348,KR,2019-01-18
+nebiogames.gmkr,GMKR,349,KR,2019-01-18
+com.flight.simulator_racinggames2019,フライトシミュレータ2019-フリーフライング-FlightSimulator2019,350,KR,2019-01-18
+poly.puzzle.puzzlegame.artistic.color.jigsaw.relax.free,PolyBlock-ArtbookofColor,351,KR,2019-01-18
+com.realtunes.freemusic,RealTunes,352,KR,2019-01-18
+net.beautysalongames.secret_high_eleven,SecretHighSchool11:BellavsIsabella,353,KR,2019-01-18
+com.croiod.gathercrowd,GATHERCrowdCityStickmanSimulator,354,KR,2019-01-18
+com.kingofsaiyan.dragonarena,TheKingofDragonArena,355,KR,2019-01-18
+com.bbtv.cwc,SpyNinjaNetwork-Chad&Vy,356,KR,2019-01-18
+com.indiside.Silueta1,"실루에타[쯔꾸르,어드벤처]",357,KR,2019-01-18
+com.swag.shooter.online.offline.free.fps.survival.shooting.battleground.war.gun.game,英雄的な銃撃,358,KR,2019-01-18
+com.bookpalcomics.PunchMachine,복불복펀치머신,359,KR,2019-01-18
+com.dashgames.touneslooney,LooneyDash!Tunes,360,KR,2019-01-18
+com.n58works.lostdooors,脱出ゲームLostDOOORS,361,KR,2019-01-18
+com.slices.cutpuzzle,SlicePuzzlesBumpBalls,362,KR,2019-01-18
+com.sharpen.myluna,MonsterStormApoiion,363,KR,2019-01-18
+com.fpsshooter.battleroyale,BattleRoyale:FPSShooter,364,KR,2019-01-18
+com.hunex_play.hsp825003gko,사랑하라오토메◆쉐어하우스이야기,365,KR,2019-01-18
+com.app.xTiltSquares,WorldHardestGame(TiltSensor),366,KR,2019-01-18
+air.odd1apps.EscapeGamesUnlimitedFun,EscapeGames:UnlimitedFun,367,KR,2019-01-18
+owdwars.infection,Infection-CrowdCity,368,KR,2019-01-18
+com.waves.mahjongocean,MahjongOcean,369,KR,2019-01-18
+com.FoxieGames.HorseRidingTales,HorseRidingTales-RideWithFriends,370,KR,2019-01-18
+com.hgamesart.dinosaurbattlesimulator,BattleDinosaurClash,371,KR,2019-01-18
+com.pafumo.escape_six_keys,脱出ゲーム-6つのカギ,372,KR,2019-01-18
+com.doubleJ.fallingball,FallingBall-concentrate!,373,KR,2019-01-18
+com.GoodBoyCompany.Game,초성퀴즈:강제로머리쓰게만드는두뇌개발게임,374,KR,2019-01-18
+com.ship.simulator.game2019,ShipSimulator2019,375,KR,2019-01-18
+jp.actkey.yukutoshi,脱出ゲームゆくとしくるとし,376,KR,2019-01-18
+com.gamehouse.fab5,ファビュラス―アンジェラのトゥルー・カラーズ,377,KR,2019-01-18
+com.messenger.Fight.Final,Arcade-FinalFight,378,KR,2019-01-18
+com.hundred_doors_game.escape_from_school,100DoorsGames2019:EscapefromSchool,379,KR,2019-01-18
+io.funboar.luckyblocks,LuckyBlockRaceforMCPE,380,KR,2019-01-18
+com.freeps2emulator.forandroid,FreePS2Emulator2019,381,KR,2019-01-18
+com.BekoCan.BaldyInSchool,Baldy:InSchool,382,KR,2019-01-18
+ru.iamtagir.tla4,ThatLevelAgain4,383,KR,2019-01-18
+air.EqGirls1,EqGirls,384,KR,2019-01-18
+com.byv.TheGunner,TheGunner:StickmanWeaponHero,385,KR,2019-01-18
+com.neonplay.casualbuca_android,Buca!,386,KR,2019-01-18
+com.lmstudios.stickman.mech.battle.simulator,スティックマンメカロボット：バトルシミュレータ,387,KR,2019-01-18
+com.tg.schoolbusgame2019,SchoolBusGame2019,388,KR,2019-01-18
+driving.games.trucks.simulator.simulation.bus,3D運転ゲーム：バス、トラックシミュレータ2019,389,KR,2019-01-18
+com.GameNiceMob.Drunk,DRUNK,390,KR,2019-01-18
+com.poop.slime.surprise.unicorn.best.games,🌈PoopsieSlimeunicorn🦄Surprises!,391,KR,2019-01-18
+games.mini.sports.sumo.wrestling,相撲2019:ライブ相撲格闘ゲーム,392,KR,2019-01-18
+com.jiayougame.mljq,ドラゴンの台頭,393,KR,2019-01-18
+com.Gametap.AirplaneFlySimulator,AirplaneFlySimulator,394,KR,2019-01-18
+com.onegame.strikefightersattack,StrikeFightersSquad:GalaxyAtackSpaceShooter,395,KR,2019-01-18
+com.spillabs.ColorSpinHit,BombIt!ColorBlast!💣💣💣,396,KR,2019-01-18
+com.dabaApps.FourDoors12,脱出ゲーム/よっつのドア12　EscapeGame/4Doors12,397,KR,2019-01-18
+com.hyper.bouncyio,Bouncy.io,398,KR,2019-01-18
+com.dopaminit.sodapop,스페이스서바이벌,399,KR,2019-01-18
+com.tts.police.officer,仮想警官シミュレータ：警官と強盗,400,KR,2019-01-18
+com.procare.microcraft.bigcrafting.adventures.exploration.sandboxes.survival,MicroCraft:BigCraftingAdventures,401,KR,2019-01-18
+com.soccer.puzzle,DreamLeague2019-SwitchSoccer,402,KR,2019-01-18
+com.Company.DuckBae,덕배의대모험,403,KR,2019-01-18
+com.itowngames.thedarkinternet,TheDarkInternet(SurvivalHorror),404,KR,2019-01-18
+air.com.A8bgames.JoyousBoyEscape,EscapeGames8B109,405,KR,2019-01-18
+com.silver.parker,CarParker-Drive&Drift,406,KR,2019-01-18
+com.minigamersclub.my.laundry.manager,私のランドリーショップマネージャー：汚れた服を洗う,407,KR,2019-01-18
+com.nemostudio.skywar,니칸내칸,408,KR,2019-01-18
+com.utplus.tokidokipuzzle,tokidokifrenzies:Match3Puzzle,409,KR,2019-01-18
+air.com.A8bgames.YogaInstructorEscape,EscapeGames8B107,410,KR,2019-01-18
+com.eyougame.myzx,明月之時,411,KR,2019-01-18
+com.cmy.ppy181214,ppy놀이터,412,KR,2019-01-18
+kr.xconn.brickbreaker,BricksVSBalls,413,KR,2019-01-18
+com.bluebunnygamer.BeatMasterVR,BeatMasterVR,414,KR,2019-01-18
+air.com.bestescapegames.BestEscapeGames137HoopPlayingGirlRescueGame,BestEscapeGames137HoopPlayingGirlRescue,415,KR,2019-01-18
+com.trendsetter.furious.smash.car.hits.fast.impossible.stunts,激怒スマッシュ車のヒット数-高速インポッシブルスタント,416,KR,2019-01-18
+jp.hozdesign.MR3939CLASSIC2,脱出ゲームミスター3939クラシック2,417,KR,2019-01-18
+com.mcu.game.mom.play.game.free,엄마몰래게임하기,418,KR,2019-01-18
+com.mewpixelartgames.pokemoncoloringbynumbers,MewPixelArtGames-PokemonColoringByNumbers,419,KR,2019-01-18
+com.StudioWheel.AbnormalFree,나홀로외계인(베타),420,KR,2019-01-18
+com.hyazgaarguinaadgai.kinotaavar,Кинотаавар,421,KR,2019-01-18
+air.com.A8bgames.StickmanEscape,EscapeGames8B106,422,KR,2019-01-18
+com.liveme.smashbrickz,SmashBrickz,423,KR,2019-01-18
+com.cuteandtinybabygames.cutetinychristmas.free,Cute&TinyChristmas-WinterDIYFunforKids,424,KR,2019-01-18
+air.com.rorobrain.hangul1,우리말유희|단어만들기퍼즐,425,KR,2019-01-18
+com.lococraft.craftingandbuilding,LocoCraft:CreativeAndSurvivalStoryMode,426,KR,2019-01-18
+com.tekwid.humanfalloutflat,3DHumanArrowFlat:FALLAdventures,427,KR,2019-01-18
+com.PT.AsiaCupSoccer,‫فوتبالجامملتهایآسیا2019‬‎,428,KR,2019-01-18
+com.martil.wild.crocodile.simulator.attack.freegames,WildCrocodileAttackSimulator,429,KR,2019-01-18
+air.com.bestescapegame.BestEscapeGame539MythicalCreatureRescueGame,BestEscapeGame539MythicalCreatureRescueGame,430,KR,2019-01-18
+com.kd.Kitchen,Kitchen Diary-UltimatePuzzleWords,431,KR,2019-01-18
+com.mustardgames.offroad.driving.games,オフロードジープ運転2019：4x4のオフロードシミュレータ,432,KR,2019-01-18
+com.alpha.comic.games.topsuperherogames.power.punch.street.fighting.game.kungfu.battle,SuperheroImmortalStreetFight3D,433,KR,2019-01-18
+com.winwinsit.pianowinnermillion,PianoTilesWinnerGame-MILLION,434,KR,2019-01-18
+com.balls.rollingbump,BallsRollingBump,435,KR,2019-01-18
+com.bada.block.puzzle.game,BlockDeluxe-ClassicPuzzleGame,436,KR,2019-01-18
+com.jmore.fswq.th,สู้ศึกพิชิตรัก-LoveDestiny,437,KR,2019-01-18
+com.percent.ghosthouse,SchoolAlone,438,KR,2019-01-18
+com.J_Lim.perfect_pitch_challenge_2_20f1,도전절대음감-Perfectpitchchallenge,439,KR,2019-01-18
+com.big.find.mcpe.map.animals,ボタンが2019のおかしい動物MinigameMCPEだとわかってください,440,KR,2019-01-18
+net.nekoland.game7,거울소녀온라인/카브에트온라인,441,KR,2019-01-18
+com.hytale.adventure,HytaleAdventure,442,KR,2019-01-18
+com.ketchapp.jellymerger,JellyMerger,443,KR,2019-01-18
+com.veraxen.jigsawpuzzlescollectionhd,ジグソーパズルコレクションHD-大人のためのパズル,444,KR,2019-01-18
+com.quizfactory.quizblog,블로그초성퀴즈,445,KR,2019-01-18
+com.min.game.galaxy.shooter,SpaceShooterReloaded,446,KR,2019-01-18
+air.forestescapegames,ForestEscapeGames-25Games,447,KR,2019-01-18
+bubble.shooter.cat.kitty.free,バブルシューター,448,KR,2019-01-18
+com.Blacksky.ChickenShooter,ChickenShooter2019:GalaxyAttackAlienSpace,449,KR,2019-01-18
+com.YovoGames.tapUp,タップジャンプ,450,KR,2019-01-18
+com.milliongames.dinosaurbattlesurvival2019,DinosaurBattleSurvival2019,451,KR,2019-01-18
+gam.dolls.surprise.jigsaw.puzzle,LOLSurpriseJigsawPuzzel,452,KR,2019-01-18
+com.shsoft.brain.dot.connect,"braindotconnect2019(두뇌게임,한붓그리기2,두뇌개발,치매예방)",453,KR,2019-01-18
+sp.piano10.tiles10.pianogames,PianoTiles10,454,KR,2019-01-18
+com.say69.gamebaidoithuong.tienlenmiennam,Say69-Cổnggamehoànggia,455,KR,2019-01-18
+com.mainmint.nonogramadventure,お絵かきロジックアドベンチャー,456,KR,2019-01-18
+com.TeamSalmon.ShineBright,シャインブライト-雨音癒しゲーム,457,KR,2019-01-18
+com.nora.DuneWarrior,砂丘の戦士,458,KR,2019-01-18
+com.cakebuttonfantasy.laserdistancemeasure,LaserDistanceMeasure,459,KR,2019-01-18
+com.arare.asj,QuantumSpaceJourney,460,KR,2019-01-18
+air.com.kavigames.KaviEscapeGame514LollipopGirlRescueGame,KaviEscapeGame514LollipopGirlRescueGame,461,KR,2019-01-18
+com.AdventureTimeGames.SnailBobMysteryPyramids,SnailBobrobbery:MysteryPyramids,462,KR,2019-01-18
+com.freegame.VehicleRecylinginc,VehicleRecyclingInc.,463,KR,2019-01-18
+com.fire.boy.water.girl.rede.blue.teamwork.twoplayer.coolmatter.fire2,LuckyBoyandPrettyGirl-CrystalTempleMaze,464,KR,2019-01-18
+air.com.kavigames.KaviEscapeGame513BairnRescueGame,KaviEscapeGame513BairnRescueGame,465,KR,2019-01-18
+mugen.anime.heroes.battle,UltraAnimeFight:StormBattle,466,KR,2019-01-18
+com.endgames.sniper.elite.assassin.fps.hitman.gun.shooting,スナイパーエリート3D暗殺者：FPSヒットマンガンシューティング,467,KR,2019-01-18
+okinawa.harapeco.catPuzzle,CatPuzzleねこのパズルゲーム,468,KR,2019-01-18
+com.gjj.trucksim3dpallettrans,TruckSimulator3D:PalletTransport,469,KR,2019-01-18
+com.findtw.tu,Best트와이스틀린그림찾기,470,KR,2019-01-18
+com.facebook.doors.mmcp.es,RoomEscape,471,KR,2019-01-18
+com.cg.citycoachbus2019,CityCoachBus2019,472,KR,2019-01-18
+com.endgames.spectra.acient.croft.raider.survival.craft.quest,スペクトル古代クロフトレイダー：サバイバルクラフトクエスト,473,KR,2019-01-18
+com.ultiox.forklifts,フォークリフトシミュレータリアルなゲーム,474,KR,2019-01-18
+com.nankaiigame.gqest,脱出ゲームグランマリクエストからの脱出,475,KR,2019-01-18
+com.takasimapon.Hatuhinode,脱出ゲーム初日の出への脱出,476,KR,2019-01-18
+com.ttgmasters.puzzleforkids.littlepony,LittlePonyPuzzleforkids,477,KR,2019-01-18
+com.fandrapp.Twice_MatchingGame,TWICEMatchingGame,478,KR,2019-01-18
+com.tts.house.desor,家のデザイン＆イメージチェンジのアイデア：家のデザインゲーム,479,KR,2019-01-18
+pop.bubble.wood,WoodBubblePop,480,KR,2019-01-18
+com.mulegendv3.razeteam,MuofLegendsV3.1,481,KR,2019-01-18
+jp.co.product.kn.summerpockets,SummerPockets,482,KR,2019-01-18
+com.wb.goog.ellen.gameofgames,GameofGamestheGame,483,KR,2019-01-18
+com.superbox.aos.brickbreaker,ブリックブレーカースペースアウトロー,484,KR,2019-01-18
+arcade.bubble,BubbleArcade,485,KR,2019-01-18
+com.frogrobot.escape2019,脱出ゲーム-NewYear年越し蕎麦-2019新作脱出げーむ,486,KR,2019-01-18
+com.mobge.Oddmar,Oddmar,487,KR,2019-01-18
+com.gameinsight.xmercs.gp,MercsofBoom,488,KR,2019-01-18
+com.kidsgames.spotit.finddifferences,FindtheDifferences2019-SpotitallGame,489,KR,2019-01-18
+com.SG.Unpluger,アンプラガー,490,KR,2019-01-18
+net.irobotfactory.pingpong,PingPongRobot(RobotFactory),491,KR,2019-01-18
+air.com.bestescapegame.BestEscapeGame537LadyBeetleEscapeGame,BestEscapeGame537LadyBeetleEscapeGame,492,KR,2019-01-18
+freddyfrenetic.fnafpiano.freddy,PianoTiles-FreddyFnaf,493,KR,2019-01-18
+com.yildizgames.cardriving,CarDriving,494,KR,2019-01-18
+com.AlignmentSharp.Escape102,ケープ君の脱出ゲーム　2部屋目　夕闇に染まる運命の絆（注2）,495,KR,2019-01-18
+athena.studio.woody.battle.block.puzzle.multiplayer,Woody™Battle:OnlineMultiplayerBlockPuzzle,496,KR,2019-01-18
+com.ynsgames.aos.paradisejewel,パラダイスジュエル,497,KR,2019-01-18
+hot.wheels.stunt.car.offroad.race.mtd,HotWheelsRaceoff-NewGame2019StuntRace,498,KR,2019-01-18
+com.dungeonGuardian.Acle,던전가디언,499,KR,2019-01-18
+com.turtlegamez.fitngoa,フィット＆ゴー-形状マッチング,500,KR,2019-01-18
+com.apptist.randomslot,"랜덤슬롯-술게임,친구,연인,복불복",501,KR,2019-01-18
+com.ultimatehero.warriorsuniverse.battleofpower,Ultimateherowarriorsuniversebattleofpower,502,KR,2019-01-18
+life.mvpsports.cristianoronaldo,Ronaldo:SoccerClash,503,KR,2019-01-18
+com.noin.strength,검장비강화키우기,504,KR,2019-01-18
+io.catx4.campingwithcats,고양고양이캠프,505,KR,2019-01-18
+com.brilliantgamez.bus.parking.simulator,市内バス駐車場シミュレータ2019,506,KR,2019-01-18
+com.milliongames.bikestuntsextremechallenge,MotoStunts,507,KR,2019-01-18
+air.CuteLittleAngelEscapeGame,最高の脱出151かわいい小さな天使脱出ゲーム,508,KR,2019-01-18
+com.charyusf.redball.redball4.volume3.bounceball.rolltheball,BallHero4-BounceBallVolume3,509,KR,2019-01-18
+com.beedrill.rollwool,SokobanSweetRollOfWool-PushMazePuzzle,510,KR,2019-01-18
+com.epicsandbox.mechanicgame,EpicCraft:MechanicSandbox,511,KR,2019-01-18
+com.emulat.mgame.vkn,ArcadeEmulator,512,KR,2019-01-18
+com.cookapps.magiccatmatch,MagicCatMatch:Swipe&BlastPuzzle,513,KR,2019-01-18
+com.SuperPower.RangersLegacy.GhafarIngame,SuperheroPowerRangersLegacy,514,KR,2019-01-18
+com.clusoft.ketris,뇌톡톡-단어퍼즐두뇌게임,515,KR,2019-01-18
+mobi.vinstudio.up,Up:BubbleShooterFreeGame,516,KR,2019-01-18
+com.berry.lococraft,LocoCraft2019:survivalandcreative,517,KR,2019-01-18
+com.kidgames.little.dentist,LittleDentist:KidsDentistGame,518,KR,2019-01-18
+air.ELSADressUp,❄CollegeGirlsPrincessMakeupDressupGame❤,519,KR,2019-01-18
+com.pocket2games.dinosaurgoencyclopedia,DinosaurGo:pocketencyclopedia,520,KR,2019-01-18
+os.uk.topfreegame.shooter.shooting.galaxyshooter.alienshooter.shooternumber.number,ShooterNumber-IdleShooter,521,KR,2019-01-18
+com.puzzle2048.merge.shooter,数字パズル2048無料そして数字ゲーム,522,KR,2019-01-18
+com.eclectic.crane.simulator.game,極端な建設クレーンゲーム3D,523,KR,2019-01-18
+com.gameone.tlbb,天龍八部手機版-慕容世家來襲,524,KR,2019-01-18
+air.com.A8bgames.NewYearGiftEscape,EscapeGames8B101,525,KR,2019-01-18
+com.HOOME1995.Game5,スライムRPG,526,KR,2019-01-18
+com.gs.farmertractor.farmingsimulator,新しいトラクター農業シミュレーター2019：ファーマーシム,527,KR,2019-01-18
+com.miimdevstd.rollingskyball,RollingSkyingBall,528,KR,2019-01-18
+air.ChristmasForestEscapeGame,クリスマスの森脱出ゲーム,529,KR,2019-01-18
+com.h.sub.tech.chungchu.chungchun,"청춘테크-광고없는라이브스코어,스포츠중계,토토,프로토,무료픽",530,KR,2019-01-18
+games.b4t.ludi.teentitansgo,JovensTitãsemAção!OHeróiévocê.,531,KR,2019-01-18
+com.bitfreegames.turnscape,Turnscape,532,KR,2019-01-18
+com.freemod.bendycoloring,BendyColoring,533,KR,2019-01-18
+air.com.bestescapegame.BestEscapeGame538SlothfulBeeRescueGame,BestEscapeGame538SlothfulBeeRescueGame,534,KR,2019-01-18
+com.fridaybox.polyroll,Polyrole-LowPolySpherePuzzleArtBook,535,KR,2019-01-18
+com.reboundcg.tennismanager,テニス・マネージャー2019,536,KR,2019-01-18
+kyraa.pixelarts.christmas.colorbynumbers,PixelArt:ChristmasColorByNumbers,537,KR,2019-01-18
+air.com.kavigames.KaviEscapeGame515RescueLionessGame,KaviEscapeGame515RescueLionessGame,538,KR,2019-01-18
+com.tas.anti.terorist.attack.swat.police,Anti-TerroristCounterAttackSWATPolice3D,539,KR,2019-01-18
+com.keeweed.pathofadventure,PathofAdventure-Text-basedroguelike,540,KR,2019-01-18
