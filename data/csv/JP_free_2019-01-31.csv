@@ -1,18 +1,18 @@
 app_id,app_name,rank,country_code,date
 com.kddi.android.newspass,ニュースパス　かんたん操作で無料ニュースがすぐ読める,1,JP,2019-01-31
 com.google.android.apps.youtube.music,YouTubeMusic,2,JP,2019-01-31
-jp.gocro.smartnews.android,スマートニュース-無料でニュースや天気・地震・エンタメ速報もすぐ届く満足度No.1ニュースアプリ,3,JP,2019-01-31
-jp.naver.line.android,LINE（ライン）-無料通話・メールアプリ,4,JP,2019-01-31
-jp.co.sej.app,セブン-イレブンアプリ,5,JP,2019-01-31
-com.ss.android.ugc.trill,TikTok,6,JP,2019-01-31
+jp.naver.line.android,LINE（ライン）-無料通話・メールアプリ,3,JP,2019-01-31
+jp.gocro.smartnews.android,スマートニュース-無料でニュースや天気・地震・エンタメ速報もすぐ届く満足度No.1ニュースアプリ,4,JP,2019-01-31
+com.ss.android.ugc.trill,TikTok,5,JP,2019-01-31
+jp.co.sej.app,セブン-イレブンアプリ,6,JP,2019-01-31
 jp.co.yahoo.android.yjtop,Yahoo!JAPAN　ニュースにスポーツ、検索、天気、PayPayまで。地震や大雨の防災情報も,7,JP,2019-01-31
-com.nttdocomo.android.dpoint,ｄポイントクラブ,8,JP,2019-01-31
+com.felicanetworks.mfm.main,おサイフケータイアプリ,8,JP,2019-01-31
 jp.nkdn2.ninkyo2,任侠伝　不良達のガチンコ喧嘩バトルRPG,9,JP,2019-01-31
-com.instagram.android,Instagram,10,JP,2019-01-31
-com.felicanetworks.mfm.main,おサイフケータイアプリ,11,JP,2019-01-31
-com.nttdocomo.android.mydocomo,Mydocomo-料金・通信量の確認,12,JP,2019-01-31
-jp.co.yahoo.gyao.android.app,GYAO!-無料動画アプリ,13,JP,2019-01-31
-com.twitter.android,Twitter,14,JP,2019-01-31
+com.nttdocomo.android.mydocomo,Mydocomo-料金・通信量の確認,10,JP,2019-01-31
+com.nttdocomo.android.dpoint,ｄポイントクラブ,11,JP,2019-01-31
+com.instagram.android,Instagram,12,JP,2019-01-31
+com.twitter.android,Twitter,13,JP,2019-01-31
+jp.co.yahoo.gyao.android.app,GYAO!-無料動画アプリ,14,JP,2019-01-31
 com.caracolu.alterego,ALTEREGO,15,JP,2019-01-31
 tw.mobileapp.qrcode.banner,QRコードリーダー,16,JP,2019-01-31
 com.amazon.mShop.android.shopping,Amazonショッピングアプリ,17,JP,2019-01-31
@@ -20,522 +20,522 @@ com.kouzoh.mercari,フリマアプリ「メルカリ」オークションより�
 com.supercell.brawlstars,ブロスタ,19,JP,2019-01-31
 tv.abema,AbemaTV-無料インターネットテレビ局-アニメやニュース、スポーツ見放題,20,JP,2019-01-31
 jp.ne.paypay.android.app,PayPay-QRコード・バーコードで支払うスマホアプリ,21,JP,2019-01-31
-jp.co.mcdonalds.android,マクドナルド-McDonald'sJapan,22,JP,2019-01-31
-com.sega.revolvers8,リボルバーズエイト-リアルタイムストラテジーゲーム,23,JP,2019-01-31
-com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,24,JP,2019-01-31
-com.google.android.play.games,GooglePlayゲーム,25,JP,2019-01-31
-com.linecorp.LGTMTM,LINE：ディズニーツムツム,26,JP,2019-01-31
-jp.co.lawson.android,ローソン,27,JP,2019-01-31
-com.musiczplayer.fm,MusicZ：FMMusic、FMミュージック、FM連続再生、無料音楽アプリ、ダウンロード無料,28,JP,2019-01-31
-com.jp.beauty,日替わり内室,29,JP,2019-01-31
-com.amazon.avod.thirdpartyclient,Amazonプライム・ビデオ,30,JP,2019-01-31
-jp.hamitv.hamiand1,民放公式テレビポータル「TVer（ティーバー）」,31,JP,2019-01-31
-com.kurashiru,クラシル料理のレシピや献立を動画で無料の料理レシピアプリ,32,JP,2019-01-31
-jp.co.ccc.Tsite,Tポイント,33,JP,2019-01-31
-com.kitkats.qrscanner,無料・QRコードリーダー、QRコード読み取りアプリ,34,JP,2019-01-31
-jp.co.rakuten.android,楽天市場いつでもポイント+1倍,35,JP,2019-01-31
-jp.co.fablic.fril,ラクマ（旧フリル）-満足度No.1楽天のフリマアプリ,36,JP,2019-01-31
+com.google.android.play.games,GooglePlayゲーム,22,JP,2019-01-31
+jp.co.lawson.android,ローソン,23,JP,2019-01-31
+com.linecorp.LGTMTM,LINE：ディズニーツムツム,24,JP,2019-01-31
+com.jp.beauty,日替わり内室,25,JP,2019-01-31
+com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,26,JP,2019-01-31
+jp.co.mcdonalds.android,マクドナルド-McDonald'sJapan,27,JP,2019-01-31
+jp.hamitv.hamiand1,民放公式テレビポータル「TVer（ティーバー）」,28,JP,2019-01-31
+jp.co.ccc.Tsite,Tポイント,29,JP,2019-01-31
+com.kitkats.qrscanner,無料・QRコードリーダー、QRコード読み取りアプリ,30,JP,2019-01-31
+com.musiczplayer.fm,MusicZ：FMMusic、FMミュージック、FM連続再生、無料音楽アプリ、ダウンロード無料,31,JP,2019-01-31
+com.huawei.hwdetectrepair,Smartdiagnosis,32,JP,2019-01-31
+com.sega.revolvers8,リボルバーズエイト-リアルタイムストラテジーゲーム,33,JP,2019-01-31
+com.amazon.avod.thirdpartyclient,Amazonプライム・ビデオ,34,JP,2019-01-31
+jp.co.fablic.fril,ラクマ（旧フリル）-満足度No.1楽天のフリマアプリ,35,JP,2019-01-31
+com.kurashiru,クラシル料理のレシピや献立を動画で無料の料理レシピアプリ,36,JP,2019-01-31
 com.amazon.mp3,AmazonMusic,37,JP,2019-01-31
 com.realracinggame.fundrive,デッドカーラン,38,JP,2019-01-31
 com.colorup.game,ColorBump3D,39,JP,2019-01-31
 jp.co.yahoo.android.apps.transit,Yahoo!乗換案内　無料の時刻表、運行情報、乗り換え検索,40,JP,2019-01-31
 com.puzzlegame.puzzledom,Puzzledomパズルダムシンプルで頭が良くなるパズル,41,JP,2019-01-31
-com.game5mobile.lineandwater,HappyGlass,42,JP,2019-01-31
-jp.co.yahoo.android.ymail,Yahoo!メール-安心で便利な公式メールアプリ,43,JP,2019-01-31
+jp.co.rakuten.android,楽天市場いつでもポイント+1倍,42,JP,2019-01-31
+com.game5mobile.lineandwater,HappyGlass,43,JP,2019-01-31
 com.gugu.music,YYMusic-FM連続再生｜WiFiなしギガ超節約、YouTube音楽・無料音楽を聴き放題,44,JP,2019-01-31
-com.sixwaves.sangokuhaouden,三国覇王戦記～乱世の系譜～,45,JP,2019-01-31
-com.escape.neat.no66hotspringinn,脱出ゲーム　温泉宿からの脱出,46,JP,2019-01-31
-com.sgames.steppypants,SteppyPants,47,JP,2019-01-31
-jp.radiko.Player,radiko.jpforAndroid（無料）,48,JP,2019-01-31
-com.game.kkiruk.myadorablecats,ねこはほんとかわいい,49,JP,2019-01-31
-com.buzzpia.aqua.launcher.buzzhome,壁紙アイコンきせかえ無料buzzHOME,50,JP,2019-01-31
-jp.co.yahoo.android.yshopping,Yahoo!ショッピング-アプリでお得で便利にお買い物,51,JP,2019-01-31
-jp.co.kodansha.android.magazinepocket,マガポケ-人気マンガが無料で読める、週刊少年マガジン公式コミックアプリ「マガジンポケット」,52,JP,2019-01-31
-com.maetimes.android.pokekara,Pokekara（ポケカラ）－完全無料カラオケ採点アプリ,53,JP,2019-01-31
-com.facebook.katana,Facebook,54,JP,2019-01-31
-com.facebook.orca,Messenger,55,JP,2019-01-31
-com.netease.ko,荒野行動-東京決戦,56,JP,2019-01-31
-com.gunosy.android,グノシーエンタメニュース・スポーツニュースも無料,57,JP,2019-01-31
-com.cookpad.android.activities,クックパッド-無料レシピ検索で料理・献立作りを楽しく！,58,JP,2019-01-31
+com.escape.neat.no66hotspringinn,脱出ゲーム　温泉宿からの脱出,45,JP,2019-01-31
+com.buzzpia.aqua.launcher.buzzhome,壁紙アイコンきせかえ無料buzzHOME,46,JP,2019-01-31
+com.sixwaves.sangokuhaouden,三国覇王戦記～乱世の系譜～,47,JP,2019-01-31
+jp.co.yahoo.android.yshopping,Yahoo!ショッピング-アプリでお得で便利にお買い物,48,JP,2019-01-31
+jp.co.kodansha.android.magazinepocket,マガポケ-人気マンガが無料で読める、週刊少年マガジン公式コミックアプリ「マガジンポケット」,49,JP,2019-01-31
+com.maetimes.android.pokekara,Pokekara（ポケカラ）－完全無料カラオケ採点アプリ,50,JP,2019-01-31
+com.ignm.bokuneko.jp,ぼくとネコ,51,JP,2019-01-31
+jp.co.yahoo.android.ymail,Yahoo!メール-安心で便利な公式メールアプリ,52,JP,2019-01-31
+com.facebook.katana,Facebook,53,JP,2019-01-31
+com.facebook.orca,Messenger,54,JP,2019-01-31
+com.gunosy.android,グノシーエンタメニュース・スポーツニュースも無料,55,JP,2019-01-31
+com.sgames.steppypants,SteppyPants,56,JP,2019-01-31
+jp.co.yahoo.android.ybrowser,Yahoo!ブラウザー：最適化&ブルーライト軽減,57,JP,2019-01-31
+com.netease.ko,荒野行動-東京決戦,58,JP,2019-01-31
 jp.lucra.android,LUCRA(ルクラ)-知りたいが見つかる女性向けアプリ,59,JP,2019-01-31
-jp.co.yahoo.android.ybrowser,Yahoo!ブラウザー：最適化&ブルーライト軽減,60,JP,2019-01-31
-jp.kakao.piccoma,ピッコマ-人気マンガが待てば無料の漫画アプリ,61,JP,2019-01-31
+jp.co.yahoo.android.weather.type1,Yahoo!天気-雨雲や台風の接近がわかる気象レーダー搭載の天気予報アプリ,60,JP,2019-01-31
+jp.radiko.Player,radiko.jpforAndroid（無料）,61,JP,2019-01-31
 barcode.scanner.qrcode.reader.flashlight,QRコードリーダー：QR＆バーコードをスキャンする,62,JP,2019-01-31
-me.zepeto.main,ZEPETO,63,JP,2019-01-31
-com.geishatokyo.snowballio,Snowball.io,64,JP,2019-01-31
-com.campmobile.snow,SNOW-ビューティー効果＆メイク機能付き自撮りカメラ,65,JP,2019-01-31
-jp.co.yahoo.android.weather.type1,Yahoo!天気-雨雲や台風の接近がわかる気象レーダー搭載の天気予報アプリ,66,JP,2019-01-31
-com.easybrain.sudoku.android,ナンプレ,67,JP,2019-01-31
-jp.co.yahoo.android.ysmarttool,節電と充電管理で電池長持ち＆容量スッキリYahoo!スマホ最適化ツール,68,JP,2019-01-31
-com.xprodev.cutcam,CutCut-画像編集&加工、画像切り取り、顔の変更、ステッカー&テキストエディタ,69,JP,2019-01-31
-com.google.android.apps.translate,Google翻訳,70,JP,2019-01-31
-jp.co.rakuten.pointclub.android,楽天ポイントクラブ–楽天ポイント管理アプリ,71,JP,2019-01-31
-com.moneyforward.android.app,家計簿マネーフォワードME　無料で、簡単に使えるお金の管理アプリ,72,JP,2019-01-31
-com.adamrocker.android.input.simeji,Simeji-日本語文字入力＆きせかえ・顔文字キーボード,73,JP,2019-01-31
-com.linecorp.linelive,LINELIVE-夢を叶えるライブ配信アプリ,74,JP,2019-01-31
-jp.shionhonda.Kumitaisou,組体操タワー崩し,75,JP,2019-01-31
-jp.co.granks.clipbox,Clipbox+,76,JP,2019-01-31
-com.playrix.homescapes,ホームスケイプ(Homescapes),77,JP,2019-01-31
-com.adobe.reader,AdobeAcrobatReader,78,JP,2019-01-31
-com.deadwarfare.gungames,バトルランズサバイバル,79,JP,2019-01-31
-com.yurukita.game,ゆる～いゲゲゲの鬼太郎妖怪ドタバタ大戦争,80,JP,2019-01-31
-com.nianticlabs.pokemongo,PokémonGO,81,JP,2019-01-31
-com.bigframes.color_road,ColorRoad!,82,JP,2019-01-31
-jp.co.yahoo.android.ysecurity,Yahoo!スマホセキュリティ無料のウイルス対策アプリ,83,JP,2019-01-31
-com.h8games.helixjump,HelixJump,84,JP,2019-01-31
-com.navitime.local.navitime,NAVITIME(ナビタイム)-地図，ナビ，乗換案内，経路検索，徒歩ルート検索，運行情報，時刻表,85,JP,2019-01-31
-jp.naver.linemanga.android,LINEマンガ-人気マンガが毎日読み放題の漫画アプリ,86,JP,2019-01-31
-jp.co.goodroid.grandpa,またおじいちゃんがいない-脱出ゲーム,87,JP,2019-01-31
-com.cmplay.bricksnballs,ブリックツムツム,88,JP,2019-01-31
-jp.sstouch.jiriri,Zeetle-連絡先を一括送信写真もクーポンも,89,JP,2019-01-31
-jp.co.yoozoo.sengokulove,成り上がり～華と武の戦国,90,JP,2019-01-31
-com.donki.majica,majica～ドン・キホーテグループの電子マネー公式アプリ～,91,JP,2019-01-31
-com.kddi.android.lams,MusicStorepoweredbyレコチョク,92,JP,2019-01-31
-com.amazon.kindle,Kindle電子書籍リーダー:人気小説や無料漫画、雑誌も多数,93,JP,2019-01-31
-jp.co.yahoo.android.apps.map,Yahoo!MAP-【無料】ヤフーのナビ、地図アプリ,94,JP,2019-01-31
-plus.music.box,無料で音楽聴き放題のアプリ！:MusicBoxPlus,95,JP,2019-01-31
-jp.co.ponos.battlecats,にゃんこ大戦争,96,JP,2019-01-31
-jp.dgeg.dragonegg2,ドラゴンエッグ仲間との出会い×友達対戦RPG,97,JP,2019-01-31
-com.nintendo.zara,SuperMarioRun,98,JP,2019-01-31
-com.spacegame.word.connect.jp,単語パズル-文字をつなげて遊ぶ脳トレゲーム,99,JP,2019-01-31
-jp.co.unbalance.android.othello_minna,みんなのオセロ無料の公式アプリ,100,JP,2019-01-31
-com.uniqlo.ja.catalogue,UNIQLOアプリ-ユニクロアプリ,101,JP,2019-01-31
-jp.leafnet.android.stampdeco,無料スタンプ使い放題★スタンプ@DECOR,102,JP,2019-01-31
-org.artsplanet.android.linestampcreators,無料スタンプ・スタンプる,103,JP,2019-01-31
-jp.co.skylark.app.gusto,すかいらーくアプリお得なクーポンが使える無料アプリ,104,JP,2019-01-31
-jp.co.matsukiyo.app,マツモトキヨシ公式アプリ,105,JP,2019-01-31
-com.crossfield.mahjong,麻雀闘龍-初心者から楽しめる無料麻雀ゲーム,106,JP,2019-01-31
-com.horoscope.palmmaster,占星術＆パームマスター/パームスキャナーとエージング,107,JP,2019-01-31
-live.free.tv_jp,無料テレビ視聴が見放題：ニュース、天気予報、見逃し番組、ドラマ、映画、アニメ(ワンセグ不要,108,JP,2019-01-31
-jp.aeonretail.aeon_okaimono,イオンお買物,109,JP,2019-01-31
-com.mangabang,マンガBANG！人気漫画が毎日読めるマンガアプリ,110,JP,2019-01-31
-jp.co.yahoo.android.yauction,ヤフオク!-ネットオークション、フリマアプリスマホでかんたんショッピング,111,JP,2019-01-31
-com.microsoft.office.excel,MicrosoftExcel,112,JP,2019-01-31
-jp.goodsmile.grandsummoners_android,グランドサマナーズ【超本格王道RPG-グラサマ】,113,JP,2019-01-31
-tv.every.delishkitchen,DELISHKITCHEN-無料レシピ動画で料理を楽しく・簡単に,114,JP,2019-01-31
-com.football.freegametime,おかしいボール,115,JP,2019-01-31
+jp.co.yahoo.android.ysmarttool,節電と充電管理で電池長持ち＆容量スッキリYahoo!スマホ最適化ツール,63,JP,2019-01-31
+me.zepeto.main,ZEPETO,64,JP,2019-01-31
+com.geishatokyo.snowballio,Snowball.io,65,JP,2019-01-31
+com.google.android.apps.translate,Google翻訳,66,JP,2019-01-31
+com.game.kkiruk.myadorablecats,ねこはほんとかわいい,67,JP,2019-01-31
+jp.co.rakuten.pointclub.android,楽天ポイントクラブ–楽天ポイント管理アプリ,68,JP,2019-01-31
+jp.kakao.piccoma,ピッコマ-人気マンガが待てば無料の漫画アプリ,69,JP,2019-01-31
+com.cookpad.android.activities,クックパッド-無料レシピ検索で料理・献立作りを楽しく！,70,JP,2019-01-31
+jp.co.yahoo.android.ysecurity,Yahoo!スマホセキュリティ無料のウイルス対策アプリ,71,JP,2019-01-31
+com.linecorp.linelive,LINELIVE-夢を叶えるライブ配信アプリ,72,JP,2019-01-31
+com.easybrain.sudoku.android,ナンプレ,73,JP,2019-01-31
+com.playrix.homescapes,ホームスケイプ(Homescapes),74,JP,2019-01-31
+com.moneyforward.android.app,家計簿マネーフォワードME　無料で、簡単に使えるお金の管理アプリ,75,JP,2019-01-31
+com.campmobile.snow,SNOW-ビューティー効果＆メイク機能付き自撮りカメラ,76,JP,2019-01-31
+com.deadwarfare.gungames,バトルランズサバイバル,77,JP,2019-01-31
+jp.co.yoozoo.sengokulove,成り上がり～華と武の戦国,78,JP,2019-01-31
+jp.naver.linemanga.android,LINEマンガ-人気マンガが毎日読み放題の漫画アプリ,79,JP,2019-01-31
+jp.co.goodroid.grandpa,またおじいちゃんがいない-脱出ゲーム,80,JP,2019-01-31
+com.kddi.android.lams,MusicStorepoweredbyレコチョク,81,JP,2019-01-31
+jp.co.granks.clipbox,Clipbox+,82,JP,2019-01-31
+com.amazon.kindle,Kindle電子書籍リーダー:人気小説や無料漫画、雑誌も多数,83,JP,2019-01-31
+com.adobe.reader,AdobeAcrobatReader,84,JP,2019-01-31
+com.adamrocker.android.input.simeji,Simeji-日本語文字入力＆きせかえ・顔文字キーボード,85,JP,2019-01-31
+com.xprodev.cutcam,CutCut-画像編集&加工、画像切り取り、顔の変更、ステッカー&テキストエディタ,86,JP,2019-01-31
+jp.co.yahoo.android.apps.map,Yahoo!MAP-【無料】ヤフーのナビ、地図アプリ,87,JP,2019-01-31
+jp.shionhonda.Kumitaisou,組体操タワー崩し,88,JP,2019-01-31
+com.navitime.local.navitime,NAVITIME(ナビタイム)-地図，ナビ，乗換案内，経路検索，徒歩ルート検索，運行情報，時刻表,89,JP,2019-01-31
+jp.co.ponos.battlecats,にゃんこ大戦争,90,JP,2019-01-31
+com.nintendo.zara,SuperMarioRun,91,JP,2019-01-31
+com.spacegame.word.connect.jp,単語パズル-文字をつなげて遊ぶ脳トレゲーム,92,JP,2019-01-31
+jp.co.unbalance.android.othello_minna,みんなのオセロ無料の公式アプリ,93,JP,2019-01-31
+jp.leafnet.android.stampdeco,無料スタンプ使い放題★スタンプ@DECOR,94,JP,2019-01-31
+com.uniqlo.ja.catalogue,UNIQLOアプリ-ユニクロアプリ,95,JP,2019-01-31
+org.artsplanet.android.linestampcreators,無料スタンプ・スタンプる,96,JP,2019-01-31
+com.nianticlabs.pokemongo,PokémonGO,97,JP,2019-01-31
+live.free.tv_jp,無料テレビ視聴が見放題：ニュース、天気予報、見逃し番組、ドラマ、映画、アニメ(ワンセグ不要,98,JP,2019-01-31
+jp.co.skylark.app.gusto,すかいらーくアプリお得なクーポンが使える無料アプリ,99,JP,2019-01-31
+com.bigframes.color_road,ColorRoad!,100,JP,2019-01-31
+com.speedbooster.optimizer,RAMMaster-MemoryOptimizer,101,JP,2019-01-31
+com.horoscope.palmmaster,占星術＆パームマスター/パームスキャナーとエージング,102,JP,2019-01-31
+jp.co.yahoo.android.yauction,ヤフオク!-ネットオークション、フリマアプリスマホでかんたんショッピング,103,JP,2019-01-31
+jp.aeonretail.aeon_okaimono,イオンお買物,104,JP,2019-01-31
+jp.goodsmile.grandsummoners_android,グランドサマナーズ【超本格王道RPG-グラサマ】,105,JP,2019-01-31
+tv.every.delishkitchen,DELISHKITCHEN-無料レシピ動画で料理を楽しく・簡単に,106,JP,2019-01-31
+com.cmplay.bricksnballs,ブリックツムツム,107,JP,2019-01-31
+com.playgendary.polyspherecoolgame,Polysphere,108,JP,2019-01-31
+jp.linecorp.linemusic.android,LINEMUSIC（ラインミュージック）-音楽を無料お試し聴き放題できる人気音楽アプリ,109,JP,2019-01-31
+com.football.freegametime,おかしいボール,110,JP,2019-01-31
+com.mangabang,マンガBANG！人気漫画が毎日読めるマンガアプリ,111,JP,2019-01-31
+jp.co.rakuten.kc.rakutencardapp.android,楽天カード：明細確認・家計簿レシート撮影アプリ。ATM検索も,112,JP,2019-01-31
+com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,113,JP,2019-01-31
+com.square_enix.android_googleplay.mangaup_jp,マンガＵＰ！スクエニの人気漫画が毎日読める漫画アプリ人気まんが・コミックが無料,114,JP,2019-01-31
+com.h8games.helixjump,HelixJump,115,JP,2019-01-31
 com.nttdocomo.keitai.payment,d払い－ｄポイントがたまる・つかえる！ドコモのスマホ決済,116,JP,2019-01-31
-com.ignm.bokuneko.jp,ぼくとネコ,117,JP,2019-01-31
-com.playgendary.polyspherecoolgame,Polysphere,118,JP,2019-01-31
-jp.co.rakuten.kc.rakutencardapp.android,楽天カード：明細確認・家計簿レシート撮影アプリ。ATM検索も,119,JP,2019-01-31
-jp.co.unisys.android.yamadamobile,ヤマダ電機　ケイタイde安心,120,JP,2019-01-31
-com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,121,JP,2019-01-31
-com.coke.cokeon,CokeONコカ・コーラ自販機がおトクに楽しくなるアプリ,122,JP,2019-01-31
-com.square_enix.android_googleplay.mangaup_jp,マンガＵＰ！スクエニの人気漫画が毎日読める漫画アプリ人気まんが・コミックが無料,123,JP,2019-01-31
-jp.linecorp.linemusic.android,LINEMUSIC（ラインミュージック）-音楽を無料お試し聴き放題できる人気音楽アプリ,124,JP,2019-01-31
-jp.co.fujifilm.ocneo_wifi,FUJIFILMおみせプリント（わいぷり）,125,JP,2019-01-31
-com.surpax.ledflashlight.panel,懐中電灯-ledライト,126,JP,2019-01-31
-jp.dreambrain.adiorama,ケンタッキーフライドチキン公式アプリ,127,JP,2019-01-31
-jp.co.fujixerox.mcopy,セブン-イレブンマルチコピー,128,JP,2019-01-31
-com.riseup.game,RiseUp,129,JP,2019-01-31
-jp.jmty.app2,地元でゆずりあい　ジモティー　掲載料0円手数料0円！無料で、ラクに、すぐに処分できる掲示板,130,JP,2019-01-31
-com.mindy.grap1,StickmanHook,131,JP,2019-01-31
-com.zongcai.mdcjp.android,社長の野望～人生の勝者に俺はなる～,132,JP,2019-01-31
-jp.nanaco.android,電子マネー「nanaco」,133,JP,2019-01-31
-easy.sudoku.puzzle.solver.free,ナンプレ-o(≧ω≦)o大人気無料数独アプリ！,134,JP,2019-01-31
-jp.co.rakuten.pointpartner.app,楽天ポイントカード-楽天スーパーポイントが使える！貯まる！,135,JP,2019-01-31
-mobi.abcmart.app,ABC-MARTアプリ,136,JP,2019-01-31
-com.coffeebeanventures.easyvoicerecorder,簡単ボイスレコーダー,137,JP,2019-01-31
-com.google.earth,GoogleEarth,138,JP,2019-01-31
-jp.hotpepper.android.beauty.hair,ヘア&ビューティーサロン検索/ホットペッパービューティー,139,JP,2019-01-31
-jp.co.yahoo.android.sports.sportsnavi,スポーツナビ‐野球/サッカー/ゴルフなど速報、ニュースが満載,140,JP,2019-01-31
-com.socialnmobile.dictapps.notepad.color.note,ColorNoteカラーノートメモ帳ノート付箋,141,JP,2019-01-31
-jp.co.akindo_sushiro.sushiroapp,スシロー,142,JP,2019-01-31
-air.jp.co.fujitv.fodviewer,FOD/フジテレビオンデマンド,143,JP,2019-01-31
-com.linecorp.LGBB2,LINEバブル2,144,JP,2019-01-31
-jp.or.jaf.digitalmembercard,JAFデジタル会員証,145,JP,2019-01-31
-jp.nicovideo.android,niconico(ニコニコ動画／ニコニコ生放送),146,JP,2019-01-31
-com.trendmicro.tmmspersonal.jp.googleplayversion,ウイルスバスターモバイル:スマホセキュリティ対策,147,JP,2019-01-31
-jp.co.yahoo.android.yqrcode,QRコード読み取りアプリYahoo!QRコードリーダー,148,JP,2019-01-31
-limia.jp.limia,DIY・インテリア・100均・暮らしのアイデア-LIMIA,149,JP,2019-01-31
-jp.co.yahoo.android.yfiler,容量スッキリYahoo!ファイルマネージャー,150,JP,2019-01-31
-game.puzzle.woodypuzzle,ウッディーパズル(WoodyPuzzle™),151,JP,2019-01-31
-jp.sugi.sugitomo,スギ薬局アプリ,152,JP,2019-01-31
-com.netflix.mediaclient,Netflix,153,JP,2019-01-31
-jp.co.fujixerox.np.photo,かんたんnetprint,154,JP,2019-01-31
-jp.gungho.pad,パズル＆ドラゴンズ,155,JP,2019-01-31
-jp.tokyodisneyresort.portalapp,TokyoDisneyResortApp,156,JP,2019-01-31
-com.microsoft.office.word,MicrosoftWord,157,JP,2019-01-31
-com.huawei.hwdetectrepair,Smartdiagnosis,158,JP,2019-01-31
-jp.wifishare.townwifi,フリーWiFi自動接続アプリ「タウンWiFi」日本中のフリーWiFiが使えます,159,JP,2019-01-31
-com.bestringtonesapps.freeringtonesforandroid,無料着信音Android™,160,JP,2019-01-31
-com.pubg.krmobile,PUBGMOBILE,161,JP,2019-01-31
-jp.co.nikko_data.japantaxi,JapanTaxi（旧:全国タクシー）：タクシーが呼べるアプリ。,162,JP,2019-01-31
-video.downloader.videodownloader,無料動画ダウンロード,163,JP,2019-01-31
-com.speedbooster.optimizer,RAMMaster-MemoryOptimizer,164,JP,2019-01-31
-jp.co.yahoo.android.ycalendar,Yahoo!カレンダー無料スケジュールアプリで管理,165,JP,2019-01-31
-com.wooga.sumikko_jp,すみっコぐらし〜パズルをするんです〜,166,JP,2019-01-31
-com.bandainamcoent.taikogp,太鼓の達人プラス★新曲取り放題！,167,JP,2019-01-31
-jp.happyon.android,Hulu/フールー,168,JP,2019-01-31
-com.yottagames.mafiawar,マフィア・シティ-極道風雲,169,JP,2019-01-31
-jp.co.yahoo.android.news,Yahoo!ニュース　地震などの災害速報と防災通知、エンタメ情報、24時間ライブの動画ニュースも無料,170,JP,2019-01-31
-com.vive.riderleague,Race.io,171,JP,2019-01-31
-io.voodoo.holeio,Hole.io,172,JP,2019-01-31
-com.EurekaStudio.skipschool,学校サボる!　-脱出ゲーム,173,JP,2019-01-31
-com.pinterest,Pinterest（ピンタレスト）,174,JP,2019-01-31
-com.NikSanTech.FireDots3D,FireBalls3D,175,JP,2019-01-31
-com.puzzlegamefree.blockpuzzle.gems.jewel,木ブロックパズル古典ゲーム2019無料〜暇つぶしに人気の面白いゲーム,176,JP,2019-01-31
-jp.co.yahoo.android.apps.navi,Yahoo!カーナビ-【無料ナビ】渋滞情報も地図も自動更新,177,JP,2019-01-31
-jp.glee.girl,放置少女〜百花繚乱の萌姫たち,178,JP,2019-01-31
-air.jp.globalgear.kaihi3,ドッキリ神回避3　-脱出ゲーム,179,JP,2019-01-31
-puzzle.wood.block.cube.music.box,木製ブロック-オルゴール,180,JP,2019-01-31
-jp.glee.girl,放置少女〜百花繚乱の萌姫たち,181,JP,2019-01-31
-puzzle.wood.block.cube.music.box,木製ブロック-オルゴール,182,JP,2019-01-31
-jp.co.sharp.printsystem,PrintSmash,183,JP,2019-01-31
-sharp.jp.android.shinsetsunohakuden,深雪の白田ライブ壁紙,184,JP,2019-01-31
-com.kddi.android.UtaPass,うたパス,185,JP,2019-01-31
-com.bandainamcogames.dbzdokkan,ドラゴンボールZドッカンバトル,186,JP,2019-01-31
-jp.wifishare.townwifi,フリーWiFi自動接続アプリ「タウンWiFi」日本中のフリーWiFiが使えます,187,JP,2019-01-31
-jp.co.dwango.seiga.manga.android,ニコニコ漫画-無料で雑誌やWEBの人気マンガが読める,188,JP,2019-01-31
-com.forwardworks.mingol,みんゴル,189,JP,2019-01-31
-com.gamestart.fill,頭が良くなる一筆書きパズルゲームFill,190,JP,2019-01-31
-jp.co.comic.mangaone,マンガワン-毎日更新！最新話まで全話読める無料漫画アプリ,191,JP,2019-01-31
-jp.co.koshidaka.manekinekoapp,カラオケまねきねこ,192,JP,2019-01-31
-com.Level5.YWP,妖怪ウォッチぷにぷに,193,JP,2019-01-31
-jp.ne.ibis.ibispaintx.app,アイビスペイントX,194,JP,2019-01-31
-epson.print,EpsoniPrint,195,JP,2019-01-31
-com.scee.psxandroid,PlayStationApp,196,JP,2019-01-31
-com.linecorp.LGPKPK,LINEポコポコ,197,JP,2019-01-31
-com.amanotes.beathopper,TilesHop:EDMRush!,198,JP,2019-01-31
-jp.fujitelecoms.app.docomoshop,ショップアプリforDS,199,JP,2019-01-31
-jp.ponta.myponta,Pontaカード(公式),200,JP,2019-01-31
-com.access_company.android.sh_jumpplus,少年ジャンプ＋最強人気オリジナルマンガや電子書籍、アニメ原作コミックが無料で毎日更新の漫画雑誌アプリ,201,JP,2019-01-31
-jp.goodsapp.tour.arashi,5×20GoodsApp,202,JP,2019-01-31
-io.voodoo.paper2,Paper.io2,203,JP,2019-01-31
-com.microsoft.office.outlook,MicrosoftOutlook,204,JP,2019-01-31
-com.wooga.sumikko_jp,すみっコぐらし〜パズルをするんです〜,205,JP,2019-01-31
-jp.co.nikko_data.japantaxi,JapanTaxi（旧:全国タクシー）：タクシーが呼べるアプリ。,206,JP,2019-01-31
-com.kddi.android.videopass,ビデオパス　アニメ/ドラマ見放題！,207,JP,2019-01-31
-com.booking,ホテル予約のブッキングドットコム,208,JP,2019-01-31
-com.bandainamcoent.taikogp,太鼓の達人プラス★新曲取り放題！,209,JP,2019-01-31
-com.ifc.speed.racing,SpeedCarDriftRacing,210,JP,2019-01-31
-com.square_enix.Android_dqmsuperlight,ドラゴンクエストモンスターズ　スーパーライト,211,JP,2019-01-31
-com.navitime.local.nttransfer,乗換ナビタイム-電車やバスの時刻表・運行情報プッシュ通知・新幹線予約ができる乗り換え案内【無料】,212,JP,2019-01-31
-jp.qricon.app_barcodereader,QR・バーコードリーダー　ICONIT（アイコニット）,213,JP,2019-01-31
-com.bentostudio.ballsvsblocks,SnakeVSBlock,214,JP,2019-01-31
-jp.naver.linecamera.android,LINECamera-写真編集＆オシャレ加工,215,JP,2019-01-31
-jp.unext.mediaplayer,U-NEXT／ユーネクスト：映画・ドラマ・アニメなど見放題,216,JP,2019-01-31
-air.jp.globalgear.kaihi3,ドッキリ神回避3　-脱出ゲーム,217,JP,2019-01-31
-com.nttdocomo.android.aic.piano,ピアノ上達はAIピアノコーチ　-人気の曲でピアノを演奏・練習できるピアノアプリ（無料楽譜あり）,218,JP,2019-01-31
-com.linecorp.b612.android,B612-いつもの毎日をもっと楽しく,219,JP,2019-01-31
-com.puzzlegamefree.blockpuzzle.gems.jewel,木ブロックパズル古典ゲーム2019無料〜暇つぶしに人気の面白いゲーム,220,JP,2019-01-31
-com.kakao.talk,カカオトーク-無料でグループ通話！高音質でつながる無料通話！,221,JP,2019-01-31
-jp.co.rakuten_bank.rakutenbank,楽天銀行-個人のお客様向けアプリ,222,JP,2019-01-31
-com.triexz.android.gretoria,グレントリア-眠レル竜ト暁ノ戦士ノ物語-,223,JP,2019-01-31
-jp.co.rakuten.pay,楽天ペイ–カード払いをアプリひとつで、楽天ポイントも使える,224,JP,2019-01-31
-jp.co.nitori,ニトリアプリ,225,JP,2019-01-31
-com.tayu.tau.pedometer,歩数計,226,JP,2019-01-31
-jp.co.mixi.monsterstrike,モンスターストライク,227,JP,2019-01-31
-com.snowcorp.soda.android,SODAソーダ-NaturalBeautyCamera,228,JP,2019-01-31
-com.nomonkeys.ballblast,BallBlast,229,JP,2019-01-31
-works.jubilee.timetree,TimeTree[タイムツリー]：家族や恋人、仕事仲間とカレンダーでスケジュール共有ができるアプリ,230,JP,2019-01-31
-jp.japanpost.post.direct_app_jp_bank.Android,ゆうちょダイレクト残高照会アプリ,231,JP,2019-01-31
-app.qrcode,【高速+無料】QRコード読み取りアプリ：QRコードリーダー読み取り無料人気,232,JP,2019-01-31
-jp.co.tokubai.android.bargain,トクバイ-無料チラシアプリ／スーパー掲載数No.1,233,JP,2019-01-31
-jp.co.ntv.movieplayer,日テレTADAby日テレオンデマンド,234,JP,2019-01-31
-air.jp.ne.hap.mom3,ママにゲーム隠された3-脱出ゲーム,235,JP,2019-01-31
-com.apple.android.music,AppleMusic,236,JP,2019-01-31
-jp.ameba,Ameba－無料でブログや話題の芸能ニュースをお届け！,237,JP,2019-01-31
-jp.co.family.familymart_app,ファミリーマートアプリ,238,JP,2019-01-31
-jp.or.nhk.news,NHKニュース・防災,239,JP,2019-01-31
-com.king.candycrush4,キャンディークラッシュフレンズ,240,JP,2019-01-31
-com.ksdenki,ケーズデンキあんしんパスポート,241,JP,2019-01-31
-jp.co.shueisha.mangamee,マンガMee,242,JP,2019-01-31
-com.alphainventor.filemanager,ファイルマネージャー,243,JP,2019-01-31
-com.puzzleclassic.brick.blockpuzzle.free,木ブロックパズル古典ゲーム2019無料,244,JP,2019-01-31
-com.cookies.ams,アーミーメン・ストライク：反撃,245,JP,2019-01-31
-com.google.android.apps.youtube.kids,YouTubeKids,246,JP,2019-01-31
-com.atpc,"音楽ダウンロード無料,ミュージックfm,ユーチューブ無料音楽アプリ,YouTube",247,JP,2019-01-31
-jp.co.rakuten.pay,楽天ペイ–カード払いをアプリひとつで、楽天ポイントも使える,248,JP,2019-01-31
-com.bandainamcoent.jpumb,ウルトラ怪獣バトルブリーダーズ,249,JP,2019-01-31
-works.jubilee.timetree,TimeTree[タイムツリー]：家族や恋人、仕事仲間とカレンダーでスケジュール共有ができるアプリ,250,JP,2019-01-31
-com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,251,JP,2019-01-31
-jp.co.ponos.nekohopper,GO!GO!ネコホッピング,252,JP,2019-01-31
-mbinc12.mb32b,無料音楽聴き放題！！無料の音楽プレーヤーアプリLITE(音楽ダウンロード無料MP3なし,253,JP,2019-01-31
-com.mobilesuica.msb.android,モバイルSuica　〜Suica電子マネー、定期券、Suicaグリーン券、新幹線をスマホで〜,254,JP,2019-01-31
-com.igenesoft.hide,隠れん坊オンライン,255,JP,2019-01-31
-jp.co.gu3.alchemist,誰ガ為のアルケミスト,256,JP,2019-01-31
-com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,257,JP,2019-01-31
-jp.co.rakuten.travel.andro,楽天トラベル-宿泊検索/宿泊予約,258,JP,2019-01-31
-jp.co.ana.android.tabidachi,ANA,259,JP,2019-01-31
-com.free.music.downloader.musicfm,MusicBox-MusicRadioFM音楽で聴き放題,260,JP,2019-01-31
-jp.kingsoft.pianotiles,ピアノタイルステージ-「ピアステ」,261,JP,2019-01-31
-jp.colopl.dpuzzle,ディズニーツムツムランド,262,JP,2019-01-31
-com.spacegame.basic3,ソリティア,263,JP,2019-01-31
-jp.go.nict.voicetra,VoiceTra(ボイストラ)-音声翻訳,264,JP,2019-01-31
-com.lipscosme.lips,LIPS(リップス)-コスメ・メイクのクチコミ検索アプリ,265,JP,2019-01-31
-com.COMICSMART.GANMA,GANMA!（ガンマ）-マンガ読み放題アプリ,266,JP,2019-01-31
-jp.co.planex.piyopiyo,ひよこボタン,267,JP,2019-01-31
-com.cygames.cycomi,サイコミ-Cygamesのオリジナル漫画（マンガ）コミックが読み放題,268,JP,2019-01-31
-jp.zozo.android.town,ファッション通販ZOZOTOWN,269,JP,2019-01-31
-jp.trilltrill.trill,TRILL(トリル)-女性のヘア、ファッション、コーディネート、ネイル、メイク、恋愛、美容,270,JP,2019-01-31
-com.streetbasketball.assosiationgame,私のボクシング,271,JP,2019-01-31
-jp.co.smbc.direct,三井住友銀行アプリ,272,JP,2019-01-31
-com.musicfm.android,FindAwesomeMusic&FMミュージック聴き放題無料音楽アプリ：MusicR,273,JP,2019-01-31
-com.snowcorp.soda.android,SODAソーダ-NaturalBeautyCamera,274,JP,2019-01-31
-com.matchington.mansion,マッチングトン·マンション,275,JP,2019-01-31
-com.skype.raider,﻿Skype-無料のチャットとビデオ通話,276,JP,2019-01-31
-com.discord,Discord-ゲーマー向けチャットシステム,277,JP,2019-01-31
-com.gorgeous.liteinternational,Ulikeユーライック-激盛れ楽撮りビューティーカメラ,278,JP,2019-01-31
-jp.co.smbc.smotp,パスワードカード,279,JP,2019-01-31
-com.dropbox.android,Dropbox,280,JP,2019-01-31
-com.peace.SilentCamera,無音カメラ[最高画質],281,JP,2019-01-31
-com.indeed.androidbaito,インディードバイト探し・パート・アルバイト求人アプリ,282,JP,2019-01-31
-com.ubercab.eats,UberEats:地元で人気の料理をお届け,283,JP,2019-01-31
-com.vive.riderleague,Race.io,284,JP,2019-01-31
-com.hyperspeed.rocketclean.pro,超高速クリーナー：ウィルス対策、電話クリーナー、携帯加速,285,JP,2019-01-31
-tw.mobileapp.qrcode.barcode.ultra,無料QRコードリーダー2in1,286,JP,2019-01-31
-jp.co.recruit.android.suumo,SUUMO（スーモ）賃貸・マンション・一戸建て・物件・不動産,287,JP,2019-01-31
-com.kakaku.tabelog,食べログお店探し・予約アプリ-ランキングとグルメな人の口コミから飲食店検索,288,JP,2019-01-31
-app.melon.icompass,コンパス,289,JP,2019-01-31
-jp.cg.kitinto,脳トレ無料パズル！1日5分で頭が良くなる大人の爽快キチント,290,JP,2019-01-31
-net.peakgames.toonblast,ToonBlast,291,JP,2019-01-31
-photoeditor.layout.collagemaker,コラージュメーカー:画像加工&写真編集者,292,JP,2019-01-31
-jp.co.hakusensha.mangapark,マンガPark-人気マンガが毎日更新全巻読み放題の漫画アプリ,293,JP,2019-01-31
-co.jp.itoyokado.chirashi.android,イトーヨーカドーアプリ,294,JP,2019-01-31
-com.ten_sura_game,転生したらスライムだった件～魔国連邦創世記～,295,JP,2019-01-31
-com.bandainamcoent.dblegends_jp,ドラゴンボールレジェンズ,296,JP,2019-01-31
-com.nintendo.zaca,どうぶつの森ポケットキャンプ,297,JP,2019-01-31
-net.muji.passport.android,MUJIpassport,298,JP,2019-01-31
-mb32j.fm.music.player.free.download,音楽アプリダウンロード無料:ミュージック聴き放題プレーヤーPRO(無料音楽ダウンロード不可),299,JP,2019-01-31
-com.internet.radio.fm.podcast,SmartRadioFM-無料音楽、インターネット・FMラジオ,300,JP,2019-01-31
-com.cygames.cycomi,サイコミ-Cygamesのオリジナル漫画（マンガ）コミックが読み放題,301,JP,2019-01-31
-jp.co.canon.bsd.ad.pixmaprint,CanonPRINTInkjet/SELPHY,302,JP,2019-01-31
-com.mobisystems.office,OfficeSuite+PDFEditor,303,JP,2019-01-31
-net.zexy.enmusubi,ゼクシィ縁結び,304,JP,2019-01-31
-jp.mynavi.tenshoku.tenshoku,マイナビ転職-正社員・仕事探し・転職アプリ,305,JP,2019-01-31
-com.crosswordbraingame,CrossWord,306,JP,2019-01-31
-jp.co.greenhouse.asken,ダイエットアプリ「あすけん」カロリー計算・食事記録・体重管理でダイエット,307,JP,2019-01-31
-jp.co.ntv.movieplayer,日テレTADAby日テレオンデマンド,308,JP,2019-01-31
-jp.co.smbc.smotp,パスワードカード,309,JP,2019-01-31
-com.toridoll.marugame.android,丸亀製麺,310,JP,2019-01-31
-wni.WeathernewsTouch.jp,ウェザーニュースタッチ天気・雨雲レーダー・台風の天気予報アプリ地震速報・災害情報付き,311,JP,2019-01-31
-fm.awa.liverpool,AWA-音楽ストリーミングサービス,312,JP,2019-01-31
-com.google.android.apps.youtube.kids,YouTubeKids,313,JP,2019-01-31
-com.no.color,No.Color-ナンバーカラーゲーム-ナンバーカラー,314,JP,2019-01-31
-net.townwork.recruit,バイトアプリ/バイト探しはタウンワーク,315,JP,2019-01-31
-jp.konami.prospia,プロ野球スピリッツA,316,JP,2019-01-31
-com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,317,JP,2019-01-31
-com.percent.mybest3,Unniedoll,318,JP,2019-01-31
-com.joytea.wakuwaku.google,わくわくファンタジー～はるかな世界の物語～,319,JP,2019-01-31
-jp.co.yahoo.android.ybackup,Yahoo!かんたんバックアップ-電話帳や写真を自動で保存,320,JP,2019-01-31
-com.mobilesuica.msb.android,モバイルSuica　〜Suica電子マネー、定期券、Suicaグリーン券、新幹線をスマホで〜,321,JP,2019-01-31
-com.sidefeed.TCViewer,ツイキャス・ビュワー-(ライブ動画とラジオの視聴アプリ）,322,JP,2019-01-31
-jp.smasai.android,スマホサイフ　ポイントカードおまとめアプリでTカードなど管理,323,JP,2019-01-31
-com.osharemaker,ジーユー,324,JP,2019-01-31
-com.summoner.jp,放置サモナー,325,JP,2019-01-31
-com.igenesoft.hide,隠れん坊オンライン,326,JP,2019-01-31
-com.triexz.android.gretoria,グレントリア-眠レル竜ト暁ノ戦士ノ物語-,327,JP,2019-01-31
-com.dena.mirrativ,ゲーム実況できるミラティブ！生放送でVTuberみたいになれる&画面録画,328,JP,2019-01-31
-app.melon.icompass,コンパス,329,JP,2019-01-31
-jp.mufg.bk.applisp.app,三菱ＵＦＪ銀行,330,JP,2019-01-31
-com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,331,JP,2019-01-31
-com.mobisystems.fileman,FileCommander-ファイルマネージャ,332,JP,2019-01-31
-com.google.android.contacts,連絡帳,333,JP,2019-01-31
-com.freestyle.speedchasingairborne,ミスターカードリフト,334,JP,2019-01-31
-com.google.android.apps.photos,Googleフォト,335,JP,2019-01-31
-com.link.messages.sms,SMS+MMSメッセージ-GIFテキスト,336,JP,2019-01-31
-jp.comico,comicoオリジナル漫画が毎日読めるマンガアプリコミコ,337,JP,2019-01-31
-com.capturerecorder.receditor.screenrecorder,画面録画内部音声そしてスクリーンショットイージー,338,JP,2019-01-31
-com.tunnel.roomclip,RoomClip部屋のインテリア・家具・DIYの写真を共有,339,JP,2019-01-31
-air.com.hypah.io.slither,slither.io,340,JP,2019-01-31
-jp.edy.edyapp,楽天Edy：ポイントがドンドン貯まる便利でお得な電子マネー,341,JP,2019-01-31
-com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,342,JP,2019-01-31
-jp.karaokekan.karakan.karakan,カラオケ館公式アプリ,343,JP,2019-01-31
-photoeditor.layout.collagemaker,コラージュメーカー:画像加工&写真編集者,344,JP,2019-01-31
-jp.co.capcom.snlifejp,スヌーピーライフ,345,JP,2019-01-31
-jp.wowma.app,Wowma!Wow!なイベント毎日開催!通販ショッピングアプリ,346,JP,2019-01-31
-com.nintendo.znma,NintendoみまもりSwitch,347,JP,2019-01-31
-com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),348,JP,2019-01-31
-com.puzzles.game.halloweeen.one,FindTheDifferences-TheDetective,349,JP,2019-01-31
-com.youdao.translator,DearTranslate翻訳—日本語翻訳dictionarytranslation,350,JP,2019-01-31
-losebellyfat.flatstomach.absworkout.fatburning,30日でお腹の脂肪を落とす―ペタンコお腹，お腹痩せ,351,JP,2019-01-31
-com.navitime.local.bus,バスNAVITIME-時刻表・乗り換え・路線バス・高速バス・接近情報を簡単検索,352,JP,2019-01-31
-jp.co.grmn.fxdemo,デモトレードとFX入門漫画で簡単投資デビューFXなび,353,JP,2019-01-31
-com.genkiorangesoft.showakayokyoku,昭和の歌謡曲完全無料,354,JP,2019-01-31
-us.mitene,家族アルバムみてね-子供の写真や動画を共有、整理アプリ,355,JP,2019-01-31
-com.appdonut.bm.brmet,的中率９７％！脳内心理診断,356,JP,2019-01-31
-jp.co.fincapp,人工知能がダイエットサポートFiNC,357,JP,2019-01-31
-com.google.android.apps.docs.editors.sheets,Googleスプレッドシート,358,JP,2019-01-31
-jp.co.jal.dom,JAL（国内線・国際線）,359,JP,2019-01-31
-com.aniplex.magireco,マギアレコード魔法少女まどかマギカ外伝,360,JP,2019-01-31
-jp.co.grmn.fxdemo,デモトレードとFX入門漫画で簡単投資デビューFXなび,361,JP,2019-01-31
-com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",362,JP,2019-01-31
-jp.co.imagineer.sumikkogurashi.sumisumi,すみすみ～まったりパズル～,363,JP,2019-01-31
-us.mitene,家族アルバムみてね-子供の写真や動画を共有、整理アプリ,364,JP,2019-01-31
-com.genkiorangesoft.showakayokyoku,昭和の歌謡曲完全無料,365,JP,2019-01-31
-com.appdonut.bm.brmet,的中率９７％！脳内心理診断,366,JP,2019-01-31
-com.google.android.apps.docs.editors.sheets,Googleスプレッドシート,367,JP,2019-01-31
-com.aniplex.magireco,マギアレコード魔法少女まどかマギカ外伝,368,JP,2019-01-31
-air.jp.globalgear.kaihi,ドッキリ神回避　-脱出ゲーム,369,JP,2019-01-31
-musicplayer.musicapps.music.mp3player,音楽プレーヤー-MP3プレーヤー,370,JP,2019-01-31
-com.genkiorangesoft.showapopularsongs,昭和の名曲完全無料,371,JP,2019-01-31
-com.deadshooter.evo.free.badmintongame,乱闘ボール3D,372,JP,2019-01-31
-faceapp.facereading.horoscope.zodica.signs.astrology,"FaceSecret–FaceReading,BeautyScan,Horoscope",373,JP,2019-01-31
-jp.co.withent.sevens,セブンズストーリー,374,JP,2019-01-31
-tv.kidsstar.app.PretendLand,無料知育ゲームアプリ｜ごっこランド,375,JP,2019-01-31
-com.linecorp.LGFARM,LINEブラウンファーム,376,JP,2019-01-31
-jp.wowma.app,Wowma!Wow!なイベント毎日開催!通販ショッピングアプリ,377,JP,2019-01-31
-com.bandainamcoent.huntergadv,HUNTER×HUNTERグリードアドベンチャー,378,JP,2019-01-31
-jp.co.pepperfs.android,いきなりステーキ公式アプリ,379,JP,2019-01-31
-com.square_enix.android_googleplay.khuxjp,KINGDOMHEARTSUnionχ[Cross],380,JP,2019-01-31
-jp.co.studyswitch.dictionaryippatsu,国語・英語一発検索辞書-無料の国語・英和・和英辞典アプリ,381,JP,2019-01-31
-com.duapps.recorder,DURecorder–画面レコーダーおよびビデオエディター,382,JP,2019-01-31
-com.crossfield.hanafuda,花札こいこい定番花札ゲーム-初心者でも楽しく遊べる-花鳥風月,383,JP,2019-01-31
-wni.WeathernewsTouch.jp,ウェザーニュースタッチ天気・雨雲レーダー・台風の天気予報アプリ地震速報・災害情報付き,384,JP,2019-01-31
-com.femalefitness.workoutwoman.weightloss,SlimNOW2019-女性のフィットネス・28日間ダイエット・エクササイズ,385,JP,2019-01-31
-com.google.android.apps.mapslite,GoogleMapsGo-ルート案内、交通情報、乗換案内,386,JP,2019-01-31
-com.apple.movetoios,MovetoiOS,387,JP,2019-01-31
-com.dencreak.dlcalculator,万能電卓：無料、多機能計算機,388,JP,2019-01-31
-com.tactosh.quiz,みんなで早押しクイズ-無料雑学オンラインクイズゲーム,389,JP,2019-01-31
-com.google.android.apps.books,GooglePlayブックス,390,JP,2019-01-31
-jp.main.iphone.listmusic.app,無料で音楽聴き放題！ListMusic,391,JP,2019-01-31
-xyz.tkapp.yumeijin_sindan,『有名人診断』顔をカメラで診断するアプリ！！,392,JP,2019-01-31
-com.mxt.simplememo,シンプルメモ帳,393,JP,2019-01-31
-jp.regolithstudio.hoshitomo,星トモ,394,JP,2019-01-31
-com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,395,JP,2019-01-31
-jp.edy.edyapp,楽天Edy：ポイントがドンドン貯まる便利でお得な電子マネー,396,JP,2019-01-31
-com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),397,JP,2019-01-31
-com.percent.mybest,Oppadoll,398,JP,2019-01-31
-com.EurekaStudio.skipwork,仕事サボる!　-脱出ゲーム,399,JP,2019-01-31
-com.gamestart.roll,頭が良くなるスライドパズルRoute,400,JP,2019-01-31
-org.mozilla.firefox,Firefoxブラウザー高速&プライベート,401,JP,2019-01-31
-com.supertapx.lovedots,LoveBalls,402,JP,2019-01-31
-com.realbyteapps.moneymanagerfree,らくな家計簿,403,JP,2019-01-31
-com.herogame.gplay.rpg.sangokushi.koei.mobile,新三國志：コーエーテクモゲームス完全監修,404,JP,2019-01-31
-com.sony.tvsideview.phone,ソニーのVideo&TVSideView,405,JP,2019-01-31
-co.spoonme,SPOON-ソーシャルラジオサービス,406,JP,2019-01-31
-jp.co.fincapp,人工知能がダイエットサポートFiNC,407,JP,2019-01-31
-com.machipopo.media17,17Live（イチナナ）-ライブ配信アプリ,408,JP,2019-01-31
-com.Level5.FantasyLifeOnline,ファンタジーライフオンライン,409,JP,2019-01-31
-jp.eure.android.pairs,Pairs-恋活・婚活・出会い探しマッチングアプリ-登録無料,410,JP,2019-01-31
-jp.co.canon.android.printservice.plugin,CanonPrintService,411,JP,2019-01-31
-jp.tanyu.SmartAlarmFree,スマートアラーム無料版（祝日対応の目覚まし時計）,412,JP,2019-01-31
-com.digidust.elokence.akinator.freemium,Akinator,413,JP,2019-01-31
-com.google.android.apps.docs.editors.docs,Googleドキュメント,414,JP,2019-01-31
-com.vincentlee.compass,デジタルコンパス,415,JP,2019-01-31
-jp.co.resona_gr.ss.SmartApp,りそなグループアプリ,416,JP,2019-01-31
-com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,417,JP,2019-01-31
-com.xvideostudio.videoeditor,動画編集はVideoShow-魔法のビデオエディタ,418,JP,2019-01-31
-jp.co.kura_corpo,くら寿司予約アプリProducedbyEPARK,419,JP,2019-01-31
-jp.co.rakuten.toolbar.raws,楽天ウェブ検索-楽天スーパーポイントが貯まる、稼げるアプリ,420,JP,2019-01-31
-com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,421,JP,2019-01-31
-com.eyu.piano,DreamPiano-MusicGame,422,JP,2019-01-31
-wood.blockpuzzle.puzzlegame.tetris,木ブロックパズル,423,JP,2019-01-31
-jp.co.yahoo.android.emg,防災速報-地震、津波、豪雨など、災害情報をいち早くお届け,424,JP,2019-01-31
-co.spoonme,SPOON-ソーシャルラジオサービス,425,JP,2019-01-31
-net.jp.sorairo.jrvs,人狼ジャッジメント,426,JP,2019-01-31
-com.companyname.CloudPokeMap,みんポケ-みんなで作る情報共有マップ,427,JP,2019-01-31
-com.mxt.simplememo,シンプルメモ帳,428,JP,2019-01-31
-air.jp.funkyland.JigsawCrossword,ジグソークロスワード素敵なお部屋で探しもの,429,JP,2019-01-31
-com.nintendo.znca,NintendoSwitchOnline,430,JP,2019-01-31
-tv.kidsstar.app.PretendLand,無料知育ゲームアプリ｜ごっこランド,431,JP,2019-01-31
-com.google.android.apps.books,GooglePlayブックス,432,JP,2019-01-31
-net.kotorinosu.treasure,脱出ゲームTheTREASURE,433,JP,2019-01-31
-jp.co.xing.karaokeplus,無料☆音程グラフ採点カラオケJOYSOUND＋,434,JP,2019-01-31
-com.nikkei.newspaper,日本経済新聞電子版【公式】／経済ニュースアプリ,435,JP,2019-01-31
-jp.konami.duellinks,遊戯王デュエルリンクス,436,JP,2019-01-31
-com.footballfun.fantasysportsstrike,2019FootballFun,437,JP,2019-01-31
-jp.eure.android.pairs,Pairs-恋活・婚活・出会い探しマッチングアプリ-登録無料,438,JP,2019-01-31
-com.vincentlee.compass,デジタルコンパス,439,JP,2019-01-31
-org.artsplanet.android.catlinestamp,猫スタンプ無料,440,JP,2019-01-31
-com.google.android.apps.mapslite,GoogleMapsGo-ルート案内、交通情報、乗換案内,441,JP,2019-01-31
-com.xvideostudio.videoeditor,動画編集はVideoShow-魔法のビデオエディタ,442,JP,2019-01-31
-com.gamestart.roll,頭が良くなるスライドパズルRoute,443,JP,2019-01-31
-jp.nhk.netradio,NHKラジオらじる★らじる,444,JP,2019-01-31
-jp.co.canon.android.printservice.plugin,CanonPrintService,445,JP,2019-01-31
-com.nhnpa.cps,#コンパス【戦闘摂理解析システム】,446,JP,2019-01-31
-com.adventure.skyticket,格安航空券skyticket国内・海外航空券をお得に予約,447,JP,2019-01-31
-xyz.tkapp.yumeijin_sindan,『有名人診断』顔をカメラで診断するアプリ！！,448,JP,2019-01-31
-jp.co.matchingagent.cocotsure,タップル誕生tapple-マッチングアプリ恋活婚活アプリ趣味で出会いを繋げる(登録無料),449,JP,2019-01-31
-name.choe.hanjahandwritingrecog,手書き漢字認識辞書,450,JP,2019-01-31
-jp.co.kuronekoyamato.KuronekoyamatoOfficialApp,クロネコヤマト公式アプリ,451,JP,2019-01-31
-com.fancyapp.qrcode.barcode.scanner.reader,無料QRバーコードリーダー,452,JP,2019-01-31
-com.youthhr.phonto,Phonto写真文字入れ,453,JP,2019-01-31
-com.nttdocomo.watchy,WATCHY無料動画レシピ・おでかけ・エンタメなど,454,JP,2019-01-31
-weather.forecast.barometer.storm.radar,天気予報-天気無料,455,JP,2019-01-31
-com.realbyteapps.moneymanagerfree,らくな家計簿,456,JP,2019-01-31
-com.biccamera.android.mobile,ビックカメラ,457,JP,2019-01-31
-jp.co.ana.anamile,ANAマイレージクラブ,458,JP,2019-01-31
-seitaApp.KumamonStamp,【無料】くまモンのスタンプだもん,459,JP,2019-01-31
-com.machipopo.media17,17Live（イチナナ）-ライブ配信アプリ,460,JP,2019-01-31
-com.dip.baitoru,バイトルアルバイト・バイト探し、パート・正社員の求人情報,461,JP,2019-01-31
-com.google.android.keep,GoogleKeep-メモとリスト,462,JP,2019-01-31
-com.herogame.gplay.rpg.sangokushi.koei.mobile,新三國志：コーエーテクモゲームス完全監修,463,JP,2019-01-31
-com.onavo.spaceship,"OnavoProtect,fromFacebook",464,JP,2019-01-31
-jp.co.homes.android3,賃貸・中古住宅・マンションの不動産情報LIFULLHOMES（ライフルホームズ）,465,JP,2019-01-31
-com.bubbleshooter.games.blast.free.cat.pop,バブルシューター：無料猫ポップゲーム2019,466,JP,2019-01-31
-com.linecorp.lineat.android,LINE@App(LINEat),467,JP,2019-01-31
-com.neowizgames.game.browndust.srpg.global,【新作】ブラウンダスト(BrownDust),468,JP,2019-01-31
-com.kddi.android.lismobookstore,ブックパス：コミック・雑誌・小説・実用書・写真集まで取扱う電子書籍サービス/無料も豊富！,469,JP,2019-01-31
-jp.co.aoyama_syouji.scout,洋服の青山アプリ,470,JP,2019-01-31
-com.shazam.android,Shazam,471,JP,2019-01-31
-com.yy.musicfm.tw,オフライン音楽プレイヤー無料音楽聴き放題のアプリ：Musicboxワイワイミュージック青,472,JP,2019-01-31
-com.jiubang.go.music,"GO音楽聴き放題-無料音楽2019,新着人気",473,JP,2019-01-31
-com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,474,JP,2019-01-31
-jp.regolithstudio.hoshitomo,星トモ,475,JP,2019-01-31
-jp.konami.pawapuroapp,実況パワフルプロ野球,476,JP,2019-01-31
-jp.planet12.AnimalTowerBattle,どうぶつタワーバトル-のんびり対戦ゲーム,477,JP,2019-01-31
-com.king.candycrushsaga,キャンディークラッシュ,478,JP,2019-01-31
-net.jalan.android,じゃらんビジネスにもレジャーにも宿泊・ホテル検索/予約アプリ,479,JP,2019-01-31
-com.officetool.pdfreader2018.pdfviewer,PDFリーダー–PDFビューア2019,480,JP,2019-01-31
-com.dena.a12020519,逆転オセロニア,481,JP,2019-01-31
-com.amazon.windowshop,Amazonタブレットアプリ,482,JP,2019-01-31
-jp.co.ofcr.cm00,クッキングママお料理しましょ！,483,JP,2019-01-31
-jp.customcast.cc2,カスタムキャスト,484,JP,2019-01-31
-com.supertapx.lovedots,LoveBalls,485,JP,2019-01-31
-jp.app.chatapp,暇チャット-ひまつぶしトークアプリの決定版,486,JP,2019-01-31
-com.media.bestrecorder.audiorecorder,ボイスレコーダー,487,JP,2019-01-31
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,488,JP,2019-01-31
-jp.co.geoonline.app,ゲオ　クーポンが貰える！ゲーム予約もできる！,489,JP,2019-01-31
-net.jp.sorairo.jrvs,人狼ジャッジメント,490,JP,2019-01-31
-jp.actkey.yukutoshi,脱出ゲームゆくとしくるとし,491,JP,2019-01-31
-com.google.android.apps.googleassistant,Googleアシスタント,492,JP,2019-01-31
-com.digitalchemy.calculator.freedecimal,計算機プラス無料,493,JP,2019-01-31
-jp.cocone.roomage,roomage（ルマージュ）:インテリアコーディネートアプリ,494,JP,2019-01-31
-com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,495,JP,2019-01-31
+plus.music.box,無料で音楽聴き放題のアプリ！:MusicBoxPlus,117,JP,2019-01-31
+jp.dgeg.dragonegg2,ドラゴンエッグ仲間との出会い×友達対戦RPG,118,JP,2019-01-31
+com.yurukita.game,ゆる～いゲゲゲの鬼太郎妖怪ドタバタ大戦争,119,JP,2019-01-31
+com.zongcai.mdcjp.android,社長の野望～人生の勝者に俺はなる～,120,JP,2019-01-31
+jp.co.rakuten.pointpartner.app,楽天ポイントカード-楽天スーパーポイントが使える！貯まる！,121,JP,2019-01-31
+mobi.abcmart.app,ABC-MARTアプリ,122,JP,2019-01-31
+com.speedbooster.optimizer,RAMMaster-MemoryOptimizer,123,JP,2019-01-31
+com.coffeebeanventures.easyvoicerecorder,簡単ボイスレコーダー,124,JP,2019-01-31
+jp.co.akindo_sushiro.sushiroapp,スシロー,125,JP,2019-01-31
+com.linecorp.LGBB2,LINEバブル2,126,JP,2019-01-31
+jp.co.yahoo.android.sports.sportsnavi,スポーツナビ‐野球/サッカー/ゴルフなど速報、ニュースが満載,127,JP,2019-01-31
+jp.sstouch.jiriri,Zeetle-連絡先を一括送信写真もクーポンも,128,JP,2019-01-31
+com.donki.majica,majica～ドン・キホーテグループの電子マネー公式アプリ～,129,JP,2019-01-31
+air.jp.co.fujitv.fodviewer,FOD/フジテレビオンデマンド,130,JP,2019-01-31
+com.trendmicro.tmmspersonal.jp.googleplayversion,ウイルスバスターモバイル:スマホセキュリティ対策,131,JP,2019-01-31
+jp.or.jaf.digitalmembercard,JAFデジタル会員証,132,JP,2019-01-31
+limia.jp.limia,DIY・インテリア・100均・暮らしのアイデア-LIMIA,133,JP,2019-01-31
+jp.co.yahoo.android.yqrcode,QRコード読み取りアプリYahoo!QRコードリーダー,134,JP,2019-01-31
+com.crossfield.mahjong,麻雀闘龍-初心者から楽しめる無料麻雀ゲーム,135,JP,2019-01-31
+com.coke.cokeon,CokeONコカ・コーラ自販機がおトクに楽しくなるアプリ,136,JP,2019-01-31
+com.netflix.mediaclient,Netflix,137,JP,2019-01-31
+jp.co.fujixerox.mcopy,セブン-イレブンマルチコピー,138,JP,2019-01-31
+jp.co.yahoo.android.yfiler,容量スッキリYahoo!ファイルマネージャー,139,JP,2019-01-31
+game.puzzle.woodypuzzle,ウッディーパズル(WoodyPuzzle™),140,JP,2019-01-31
+jp.sugi.sugitomo,スギ薬局アプリ,141,JP,2019-01-31
+jp.co.fujixerox.np.photo,かんたんnetprint,142,JP,2019-01-31
+jp.jmty.app2,地元でゆずりあい　ジモティー　掲載料0円手数料0円！無料で、ラクに、すぐに処分できる掲示板,143,JP,2019-01-31
+com.surpax.ledflashlight.panel,懐中電灯-ledライト,144,JP,2019-01-31
+jp.co.fujifilm.ocneo_wifi,FUJIFILMおみせプリント（わいぷり）,145,JP,2019-01-31
+jp.tokyodisneyresort.portalapp,TokyoDisneyResortApp,146,JP,2019-01-31
+jp.hotpepper.android.beauty.hair,ヘア&ビューティーサロン検索/ホットペッパービューティー,147,JP,2019-01-31
+com.microsoft.office.word,MicrosoftWord,148,JP,2019-01-31
+com.pubg.krmobile,PUBGMOBILE,149,JP,2019-01-31
+com.google.earth,GoogleEarth,150,JP,2019-01-31
+jp.nanaco.android,電子マネー「nanaco」,151,JP,2019-01-31
+jp.co.matsukiyo.app,マツモトキヨシ公式アプリ,152,JP,2019-01-31
+jp.co.unisys.android.yamadamobile,ヤマダ電機　ケイタイde安心,153,JP,2019-01-31
+jp.happyon.android,Hulu/フールー,154,JP,2019-01-31
+com.socialnmobile.dictapps.notepad.color.note,ColorNoteカラーノートメモ帳ノート付箋,155,JP,2019-01-31
+com.pinterest,Pinterest（ピンタレスト）,156,JP,2019-01-31
+jp.co.yahoo.android.news,Yahoo!ニュース　地震などの災害速報と防災通知、エンタメ情報、24時間ライブの動画ニュースも無料,157,JP,2019-01-31
+com.EurekaStudio.skipschool,学校サボる!　-脱出ゲーム,158,JP,2019-01-31
+jp.nicovideo.android,niconico(ニコニコ動画／ニコニコ生放送),159,JP,2019-01-31
+jp.co.yahoo.android.apps.navi,Yahoo!カーナビ-【無料ナビ】渋滞情報も地図も自動更新,160,JP,2019-01-31
+io.voodoo.holeio,Hole.io,161,JP,2019-01-31
+com.bestringtonesapps.freeringtonesforandroid,無料着信音Android™,162,JP,2019-01-31
+com.NikSanTech.FireDots3D,FireBalls3D,163,JP,2019-01-31
+jp.co.sharp.printsystem,PrintSmash,164,JP,2019-01-31
+puzzle.wood.block.cube.music.box,木製ブロック-オルゴール,165,JP,2019-01-31
+com.cmplay.tiles2,ピアノタイル2™,166,JP,2019-01-31
+jp.flipout.dictionarykanjiyomi,漢字読み方検索-手書き漢字読み方検索辞典,167,JP,2019-01-31
+com.bandainamcogames.dbzdokkan,ドラゴンボールZドッカンバトル,168,JP,2019-01-31
+sharp.jp.android.shinsetsunohakuden,深雪の白田ライブ壁紙,169,JP,2019-01-31
+jp.wifishare.townwifi,フリーWiFi自動接続アプリ「タウンWiFi」日本中のフリーWiFiが使えます,170,JP,2019-01-31
+com.riseup.game,RiseUp,171,JP,2019-01-31
+video.downloader.videodownloader,無料動画ダウンロード,172,JP,2019-01-31
+jp.co.comic.mangaone,マンガワン-毎日更新！最新話まで全話読める無料漫画アプリ,173,JP,2019-01-31
+jp.co.yahoo.android.ycalendar,Yahoo!カレンダー無料スケジュールアプリで管理,174,JP,2019-01-31
+com.forwardworks.mingol,みんゴル,175,JP,2019-01-31
+jp.ponta.myponta,Pontaカード(公式),176,JP,2019-01-31
+jp.ne.ibis.ibispaintx.app,アイビスペイントX,177,JP,2019-01-31
+jp.co.koshidaka.manekinekoapp,カラオケまねきねこ,178,JP,2019-01-31
+com.scee.psxandroid,PlayStationApp,179,JP,2019-01-31
+com.mindy.grap1,StickmanHook,180,JP,2019-01-31
+jp.ne.ibis.ibispaintx.app,アイビスペイントX,181,JP,2019-01-31
+com.mindy.grap1,StickmanHook,182,JP,2019-01-31
+com.linecorp.LGPKPK,LINEポコポコ,183,JP,2019-01-31
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),184,JP,2019-01-31
+com.access_company.android.sh_jumpplus,少年ジャンプ＋最強人気オリジナルマンガや電子書籍、アニメ原作コミックが無料で毎日更新の漫画雑誌アプリ,185,JP,2019-01-31
+jp.co.nikko_data.japantaxi,JapanTaxi（旧:全国タクシー）：タクシーが呼べるアプリ。,186,JP,2019-01-31
+io.voodoo.paper2,Paper.io2,187,JP,2019-01-31
+com.microsoft.office.outlook,MicrosoftOutlook,188,JP,2019-01-31
+jp.gungho.pad,パズル＆ドラゴンズ,189,JP,2019-01-31
+com.wooga.sumikko_jp,すみっコぐらし〜パズルをするんです〜,190,JP,2019-01-31
+com.yottagames.mafiawar,マフィア・シティ-極道風雲,191,JP,2019-01-31
+jp.glee.girl,放置少女〜百花繚乱の萌姫たち,192,JP,2019-01-31
+com.booking,ホテル予約のブッキングドットコム,193,JP,2019-01-31
+jp.co.aeon.credit.android.wallet,AEONWALLET,194,JP,2019-01-31
+com.bandainamcoent.taikogp,太鼓の達人プラス★新曲取り放題！,195,JP,2019-01-31
+com.square_enix.Android_dqmsuperlight,ドラゴンクエストモンスターズ　スーパーライト,196,JP,2019-01-31
+com.nflmanager.footballgame,フットボールヒーロー,197,JP,2019-01-31
+com.kddi.android.UtaPass,うたパス,198,JP,2019-01-31
+com.amanotes.beathopper,TilesHop:EDMRush!,199,JP,2019-01-31
+com.bentostudio.ballsvsblocks,SnakeVSBlock,200,JP,2019-01-31
+com.ifc.speed.racing,SpeedCarDriftRacing,201,JP,2019-01-31
+jp.naver.linecamera.android,LINECamera-写真編集＆オシャレ加工,202,JP,2019-01-31
+jp.pxv.android.manga,pixivコミック-みんなのマンガアプリ,203,JP,2019-01-31
+air.jp.globalgear.kaihi3,ドッキリ神回避3　-脱出ゲーム,204,JP,2019-01-31
+com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,205,JP,2019-01-31
+jp.co.rakuten_bank.rakutenbank,楽天銀行-個人のお客様向けアプリ,206,JP,2019-01-31
+com.puzzlegamefree.blockpuzzle.gems.jewel,木ブロックパズル古典ゲーム2019無料〜暇つぶしに人気の面白いゲーム,207,JP,2019-01-31
+com.google.android.apps.chromecast.app,GoogleHome,208,JP,2019-01-31
+jp.co.craftegg.band,バンドリ！ガールズバンドパーティ！,209,JP,2019-01-31
+jp.goodsapp.tour.arashi,5×20GoodsApp,210,JP,2019-01-31
+com.gamestart.fill,頭が良くなる一筆書きパズルゲームFill,211,JP,2019-01-31
+com.tayu.tau.pedometer,歩数計,212,JP,2019-01-31
+jp.co.nitori,ニトリアプリ,213,JP,2019-01-31
+jp.co.wnexco.android.ihighway,iHighway交通情報,214,JP,2019-01-31
+epson.print,EpsoniPrint,215,JP,2019-01-31
+com.kddi.android.videopass,ビデオパス　アニメ/ドラマ見放題！,216,JP,2019-01-31
+jp.co.mixi.monsterstrike,モンスターストライク,217,JP,2019-01-31
+jp.uuum.blueman0,青鬼オンライン,218,JP,2019-01-31
+app.qrcode,【高速+無料】QRコード読み取りアプリ：QRコードリーダー読み取り無料人気,219,JP,2019-01-31
+jp.co.tokubai.android.bargain,トクバイ-無料チラシアプリ／スーパー掲載数No.1,220,JP,2019-01-31
+jp.ameba,Ameba－無料でブログや話題の芸能ニュースをお届け！,221,JP,2019-01-31
+jp.co.family.familymart_app,ファミリーマートアプリ,222,JP,2019-01-31
+jp.or.nhk.news,NHKニュース・防災,223,JP,2019-01-31
+jp.co.dwango.seiga.manga.android,ニコニコ漫画-無料で雑誌やWEBの人気マンガが読める,224,JP,2019-01-31
+com.navitime.local.nttransfer,乗換ナビタイム-電車やバスの時刻表・運行情報プッシュ通知・新幹線予約ができる乗り換え案内【無料】,225,JP,2019-01-31
+com.puzzleclassic.brick.blockpuzzle.free,木ブロックパズル古典ゲーム2019無料,226,JP,2019-01-31
+jp.co.shueisha.mangamee,マンガMee,227,JP,2019-01-31
+com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,228,JP,2019-01-31
+com.bandainamcoent.jpumb,ウルトラ怪獣バトルブリーダーズ,229,JP,2019-01-31
+com.cookies.ams,アーミーメン・ストライク：反撃,230,JP,2019-01-31
+com.appdonut.bm.brmet,的中率９７％！脳内心理診断,231,JP,2019-01-31
+jp.unext.mediaplayer,U-NEXT／ユーネクスト：映画・ドラマ・アニメなど見放題,232,JP,2019-01-31
+com.alphainventor.filemanager,ファイルマネージャー,233,JP,2019-01-31
+com.ksdenki,ケーズデンキあんしんパスポート,234,JP,2019-01-31
+com.jins.sales,JINS-メガネをもっと便利に、楽しく、お得に。,235,JP,2019-01-31
+com.kakao.talk,カカオトーク-無料でグループ通話！高音質でつながる無料通話！,236,JP,2019-01-31
+jp.qricon.app_barcodereader,QR・バーコードリーダー　ICONIT（アイコニット）,237,JP,2019-01-31
+jp.co.rakuten.pay,楽天ペイ–カード払いをアプリひとつで、楽天ポイントも使える,238,JP,2019-01-31
+com.Level5.YWP,妖怪ウォッチぷにぷに,239,JP,2019-01-31
+jp.co.gu3.alchemist,誰ガ為のアルケミスト,240,JP,2019-01-31
+com.nttdocomo.android.aic.piano,ピアノ上達はAIピアノコーチ　-人気の曲でピアノを演奏・練習できるピアノアプリ（無料楽譜あり）,241,JP,2019-01-31
+jp.fujitelecoms.app.docomoshop,ショップアプリforDS,242,JP,2019-01-31
+com.apple.android.music,AppleMusic,243,JP,2019-01-31
+works.jubilee.timetree,TimeTree[タイムツリー]：家族や恋人、仕事仲間とカレンダーでスケジュール共有ができるアプリ,244,JP,2019-01-31
+mbinc12.mb32b,無料音楽聴き放題！！無料の音楽プレーヤーアプリLITE(音楽ダウンロード無料MP3なし,245,JP,2019-01-31
+com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,246,JP,2019-01-31
+jp.co.ponos.nekohopper,GO!GO!ネコホッピング,247,JP,2019-01-31
+jp.co.planex.piyopiyo,ひよこボタン,248,JP,2019-01-31
+com.lipscosme.lips,LIPS(リップス)-コスメ・メイクのクチコミ検索アプリ,249,JP,2019-01-31
+com.spacegame.basic3,ソリティア,250,JP,2019-01-31
+com.free.music.downloader.musicfm,MusicBox-MusicRadioFM音楽で聴き放題,251,JP,2019-01-31
+jp.colopl.dpuzzle,ディズニーツムツムランド,252,JP,2019-01-31
+com.COMICSMART.GANMA,GANMA!（ガンマ）-マンガ読み放題アプリ,253,JP,2019-01-31
+jp.go.nict.voicetra,VoiceTra(ボイストラ)-音声翻訳,254,JP,2019-01-31
+air.jp.ne.hap.mom3,ママにゲーム隠された3-脱出ゲーム,255,JP,2019-01-31
+jp.kingsoft.pianotiles,ピアノタイルステージ-「ピアステ」,256,JP,2019-01-31
+jp.trilltrill.trill,TRILL(トリル)-女性のヘア、ファッション、コーディネート、ネイル、メイク、恋愛、美容,257,JP,2019-01-31
+com.linecorp.b612.android,B612-いつもの毎日をもっと楽しく,258,JP,2019-01-31
+com.hyperspeed.rocketclean.pro,超高速クリーナー：ウィルス対策、電話クリーナー、携帯加速,259,JP,2019-01-31
+jp.zozo.android.town,ファッション通販ZOZOTOWN,260,JP,2019-01-31
+com.snowcorp.soda.android,SODAソーダ-NaturalBeautyCamera,261,JP,2019-01-31
+jp.japanpost.post.direct_app_jp_bank.Android,ゆうちょダイレクト残高照会アプリ,262,JP,2019-01-31
+jp.co.smbc.direct,三井住友銀行アプリ,263,JP,2019-01-31
+com.musicfm.android,FindAwesomeMusic&FMミュージック聴き放題無料音楽アプリ：MusicR,264,JP,2019-01-31
+com.skype.raider,﻿Skype-無料のチャットとビデオ通話,265,JP,2019-01-31
+com.matchington.mansion,マッチングトン·マンション,266,JP,2019-01-31
+com.discord,Discord-ゲーマー向けチャットシステム,267,JP,2019-01-31
+com.streetbasketball.assosiationgame,私のボクシング,268,JP,2019-01-31
+com.peace.SilentCamera,無音カメラ[最高画質],269,JP,2019-01-31
+com.gorgeous.liteinternational,Ulikeユーライック-激盛れ楽撮りビューティーカメラ,270,JP,2019-01-31
+jp.co.recruit.android.suumo,SUUMO（スーモ）賃貸・マンション・一戸建て・物件・不動産,271,JP,2019-01-31
+com.atpc,"音楽ダウンロード無料,ミュージックfm,ユーチューブ無料音楽アプリ,YouTube",272,JP,2019-01-31
+net.peakgames.toonblast,ToonBlast,273,JP,2019-01-31
+jp.cg.kitinto,脳トレ無料パズル！1日5分で頭が良くなる大人の爽快キチント,274,JP,2019-01-31
+tw.mobileapp.qrcode.barcode.ultra,無料QRコードリーダー2in1,275,JP,2019-01-31
+jp.co.hakusensha.mangapark,マンガPark-人気マンガが毎日更新全巻読み放題の漫画アプリ,276,JP,2019-01-31
+com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,277,JP,2019-01-31
+jp.co.rakuten.travel.andro,楽天トラベル-宿泊検索/宿泊予約,278,JP,2019-01-31
+com.king.candycrush4,キャンディークラッシュフレンズ,279,JP,2019-01-31
+com.vive.riderleague,Race.io,280,JP,2019-01-31
+co.jp.itoyokado.chirashi.android,イトーヨーカドーアプリ,281,JP,2019-01-31
+com.bandainamcoent.dblegends_jp,ドラゴンボールレジェンズ,282,JP,2019-01-31
+com.ten_sura_game,転生したらスライムだった件～魔国連邦創世記～,283,JP,2019-01-31
+jp.mynavi.tenshoku.tenshoku,マイナビ転職-正社員・仕事探し・転職アプリ,284,JP,2019-01-31
+com.cygames.cycomi,サイコミ-Cygamesのオリジナル漫画（マンガ）コミックが読み放題,285,JP,2019-01-31
+mb32j.fm.music.player.free.download,音楽アプリダウンロード無料:ミュージック聴き放題プレーヤーPRO(無料音楽ダウンロード不可),286,JP,2019-01-31
+jp.co.ana.android.tabidachi,ANA,287,JP,2019-01-31
+com.nttdocomo.android.voicetranslation,はなして翻訳,288,JP,2019-01-31
+com.nomonkeys.ballblast,BallBlast,289,JP,2019-01-31
+net.muji.passport.android,MUJIpassport,290,JP,2019-01-31
+com.internet.radio.fm.podcast,SmartRadioFM-無料音楽、インターネット・FMラジオ,291,JP,2019-01-31
+jp.co.canon.bsd.ad.pixmaprint,CanonPRINTInkjet/SELPHY,292,JP,2019-01-31
+com.google.android.apps.walletnfcrel,GooglePay-これからのお財布,293,JP,2019-01-31
+jp.co.ntv.movieplayer,日テレTADAby日テレオンデマンド,294,JP,2019-01-31
+com.crosswordbraingame,CrossWord,295,JP,2019-01-31
+com.toridoll.marugame.android,丸亀製麺,296,JP,2019-01-31
+jp.co.smbc.smotp,パスワードカード,297,JP,2019-01-31
+jp.grenge.pocolondungeons,ポコロンダンジョンズ,298,JP,2019-01-31
+com.google.android.apps.youtube.kids,YouTubeKids,299,JP,2019-01-31
+com.no.color,No.Color-ナンバーカラーゲーム-ナンバーカラー,300,JP,2019-01-31
+jp.grenge.pocolondungeons,ポコロンダンジョンズ,301,JP,2019-01-31
+jp.co.greenhouse.asken,ダイエットアプリ「あすけん」カロリー計算・食事記録・体重管理でダイエット,302,JP,2019-01-31
+com.indeed.androidbaito,インディードバイト探し・パート・アルバイト求人アプリ,303,JP,2019-01-31
+jp.konami.prospia,プロ野球スピリッツA,304,JP,2019-01-31
+com.sidefeed.TCViewer,ツイキャス・ビュワー-(ライブ動画とラジオの視聴アプリ）,305,JP,2019-01-31
+net.townwork.recruit,バイトアプリ/バイト探しはタウンワーク,306,JP,2019-01-31
+com.sugapps.android.diagnosis.inthebrain,脳内診断,307,JP,2019-01-31
+com.mobilesuica.msb.android,モバイルSuica　〜Suica電子マネー、定期券、Suicaグリーン券、新幹線をスマホで〜,308,JP,2019-01-31
+com.igenesoft.hide,隠れん坊オンライン,309,JP,2019-01-31
+com.ddre.yamikore,恋愛ゲーム「病み彼女これくしょん」,310,JP,2019-01-31
+jp.smasai.android,スマホサイフ　ポイントカードおまとめアプリでTカードなど管理,311,JP,2019-01-31
+com.osharemaker,ジーユー,312,JP,2019-01-31
+com.link.messages.sms,SMS+MMSメッセージ-GIFテキスト,313,JP,2019-01-31
+com.triexz.android.gretoria,グレントリア-眠レル竜ト暁ノ戦士ノ物語-,314,JP,2019-01-31
+com.google.android.contacts,連絡帳,315,JP,2019-01-31
+com.dena.mirrativ,ゲーム実況できるミラティブ！生放送でVTuberみたいになれる&画面録画,316,JP,2019-01-31
+com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,317,JP,2019-01-31
+app.melon.icompass,コンパス,318,JP,2019-01-31
+jp.mufg.bk.applisp.app,三菱ＵＦＪ銀行,319,JP,2019-01-31
+jp.co.crooz.shoplistapp,ファッション通販ショッピングSHOPLIST-ショップリスト,320,JP,2019-01-31
+jp.gr.java_conf.kinu026.notepad,メモ帳,321,JP,2019-01-31
+com.mobisystems.fileman,FileCommander-ファイルマネージャ,322,JP,2019-01-31
+com.mobisystems.office,OfficeSuite+PDFEditor,323,JP,2019-01-31
+com.freestyle.speedchasingairborne,ミスターカードリフト,324,JP,2019-01-31
+jp.comico,comicoオリジナル漫画が毎日読めるマンガアプリコミコ,325,JP,2019-01-31
+com.dropbox.android,Dropbox,326,JP,2019-01-31
+com.capturerecorder.receditor.screenrecorder,画面録画内部音声そしてスクリーンショットイージー,327,JP,2019-01-31
+com.nintendo.zaca,どうぶつの森ポケットキャンプ,328,JP,2019-01-31
+photoeditor.layout.collagemaker,コラージュメーカー:画像加工&写真編集者,329,JP,2019-01-31
+losebellyfat.flatstomach.absworkout.fatburning,30日でお腹の脂肪を落とす―ペタンコお腹，お腹痩せ,330,JP,2019-01-31
+air.com.hypah.io.slither,slither.io,331,JP,2019-01-31
+jp.mnoji.app,ノジマ,332,JP,2019-01-31
+net.zexy.enmusubi,ゼクシィ縁結び,333,JP,2019-01-31
+com.kakaku.tabelog,食べログお店探し・予約アプリ-ランキングとグルメな人の口コミから飲食店検索,334,JP,2019-01-31
+jp.karaokekan.karakan.karakan,カラオケ館公式アプリ,335,JP,2019-01-31
+jp.co.capcom.snlifejp,スヌーピーライフ,336,JP,2019-01-31
+com.google.android.apps.docs.editors.sheets,Googleスプレッドシート,337,JP,2019-01-31
+com.youdao.translator,DearTranslate翻訳—日本語翻訳dictionarytranslation,338,JP,2019-01-31
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),339,JP,2019-01-31
+com.aniplex.fategrandorder,Fate/GrandOrder,340,JP,2019-01-31
+jp.co.grmn.fxdemo,デモトレードとFX入門漫画で簡単投資デビューFXなび,341,JP,2019-01-31
+com.aniplex.magireco,マギアレコード魔法少女まどかマギカ外伝,342,JP,2019-01-31
+com.genkiorangesoft.showakayokyoku,昭和の歌謡曲完全無料,343,JP,2019-01-31
+us.mitene,家族アルバムみてね-子供の写真や動画を共有、整理アプリ,344,JP,2019-01-31
+jp.wowma.app,Wowma!Wow!なイベント毎日開催!通販ショッピングアプリ,345,JP,2019-01-31
+com.femalefitness.workoutwoman.weightloss,SlimNOW2019-女性のフィットネス・28日間ダイエット・エクササイズ,346,JP,2019-01-31
+jp.co.jal.dom,JAL（国内線・国際線）,347,JP,2019-01-31
+com.ubercab.eats,UberEats:地元で人気の料理をお届け,348,JP,2019-01-31
+air.jp.globalgear.kaihi,ドッキリ神回避　-脱出ゲーム,349,JP,2019-01-31
+com.deadshooter.evo.free.badmintongame,乱闘ボール3D,350,JP,2019-01-31
+com.bandainamcoent.huntergadv,HUNTER×HUNTERグリードアドベンチャー,351,JP,2019-01-31
+com.crossfield.hanafuda,花札こいこい定番花札ゲーム-初心者でも楽しく遊べる-花鳥風月,352,JP,2019-01-31
+jp.co.pepperfs.android,いきなりステーキ公式アプリ,353,JP,2019-01-31
+is.with.ignis.bigfive,性格診断・心理テストの究極系【超性格分析】恋愛の相性も心理学で解明-メンタリストDaiGo監修アプリ,354,JP,2019-01-31
+com.square_enix.android_googleplay.khuxjp,KINGDOMHEARTSUnionχ[Cross],355,JP,2019-01-31
+jp.tkgl,三国ドライブ　三国武将×リアルタイム対戦RPG,356,JP,2019-01-31
+jp.co.studyswitch.dictionaryippatsu,国語・英語一発検索辞書-無料の国語・英和・和英辞典アプリ,357,JP,2019-01-31
+com.tunnel.roomclip,RoomClip部屋のインテリア・家具・DIYの写真を共有,358,JP,2019-01-31
+wni.WeathernewsTouch.jp,ウェザーニュースタッチ天気・雨雲レーダー・台風の天気予報アプリ地震速報・災害情報付き,359,JP,2019-01-31
+fm.awa.liverpool,AWA-音楽ストリーミングサービス,360,JP,2019-01-31
+jp.co.pepperfs.android,いきなりステーキ公式アプリ,361,JP,2019-01-31
+com.deadshooter.evo.free.badmintongame,乱闘ボール3D,362,JP,2019-01-31
+com.crossfield.hanafuda,花札こいこい定番花札ゲーム-初心者でも楽しく遊べる-花鳥風月,363,JP,2019-01-31
+com.square_enix.android_googleplay.RSRS,ロマンシングサガリ･ユニバース,364,JP,2019-01-31
+com.tunnel.roomclip,RoomClip部屋のインテリア・家具・DIYの写真を共有,365,JP,2019-01-31
+com.dencreak.dlcalculator,万能電卓：無料、多機能計算機,366,JP,2019-01-31
+fm.awa.liverpool,AWA-音楽ストリーミングサービス,367,JP,2019-01-31
+jp.main.iphone.listmusic.app,無料で音楽聴き放題！ListMusic,368,JP,2019-01-31
+faceapp.facereading.horoscope.zodica.signs.astrology,"FaceSecret–FaceReading,BeautyScan,Horoscope",369,JP,2019-01-31
+jp.co.unbalance.gree_tesou,ザ・手相-カメラで占う本格手相占い,370,JP,2019-01-31
+com.tactosh.quiz,みんなで早押しクイズ-無料雑学オンラインクイズゲーム,371,JP,2019-01-31
+com.apple.movetoios,MovetoiOS,372,JP,2019-01-31
+jp.co.yahoo.android.ybackup,Yahoo!かんたんバックアップ-電話帳や写真を自動で保存,373,JP,2019-01-31
+jp.edy.edyapp,楽天Edy：ポイントがドンドン貯まる便利でお得な電子マネー,374,JP,2019-01-31
+com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,375,JP,2019-01-31
+com.netease.idv.googleplay,IdentityV,376,JP,2019-01-31
+com.mobilewaronline.wwr,ワールドウォーライジング,377,JP,2019-01-31
+jp.co.fincapp,人工知能がダイエットサポートFiNC,378,JP,2019-01-31
+com.genkiorangesoft.showapopularsongs,昭和の名曲完全無料,379,JP,2019-01-31
+com.google.android.inputmethod.japanese,Google日本語入力,380,JP,2019-01-31
+com.Level5.FantasyLifeOnline,ファンタジーライフオンライン,381,JP,2019-01-31
+jp.oliviaashley.WorldMaker,東京ツクール-街づくり×パズル,382,JP,2019-01-31
+com.google.android.apps.docs.editors.docs,Googleドキュメント,383,JP,2019-01-31
+jp.co.cave.dvbjp,デビルブック,384,JP,2019-01-31
+com.navitime.local.bus,バスNAVITIME-時刻表・乗り換え・路線バス・高速バス・接近情報を簡単検索,385,JP,2019-01-31
+com.digidust.elokence.akinator.freemium,Akinator,386,JP,2019-01-31
+com.cherinbo.callrecorder,電話録音アプリ-自動通話レコーダー:CherinboACR,387,JP,2019-01-31
+com.nintendo.znma,NintendoみまもりSwitch,388,JP,2019-01-31
+jp.co.resona_gr.ss.SmartApp,りそなグループアプリ,389,JP,2019-01-31
+jp.co.kura_corpo,くら寿司予約アプリProducedbyEPARK,390,JP,2019-01-31
+jp.co.sony.swish,MySonyアプリ,391,JP,2019-01-31
+com.adobe.scan.android,AdobeScan：PDFスキャナー、OCR,392,JP,2019-01-31
+musicplayer.musicapps.music.mp3player,音楽プレーヤー-MP3プレーヤー,393,JP,2019-01-31
+com.satosofthouse.alarmtube,好きな曲を目覚ましに(YouTube)-アラームチューブ無料,394,JP,2019-01-31
+com.summoner.jp,放置サモナー,395,JP,2019-01-31
+com.playgendary.tanks,TankStars,396,JP,2019-01-31
+jp.uxdesigntokyo.utasuma,採点カラオケ歌い放題-うたスマMovie,397,JP,2019-01-31
+com.puzzles.game.halloweeen.one,FindTheDifferences-TheDetective,398,JP,2019-01-31
+com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,399,JP,2019-01-31
+com.duapps.recorder,DURecorder–画面レコーダーおよびビデオエディター,400,JP,2019-01-31
+jp.co.imagineer.sumikkogurashi.sumisumi,すみすみ～まったりパズル～,401,JP,2019-01-31
+com.linecorp.LGFARM,LINEブラウンファーム,402,JP,2019-01-31
+jp.co.recruit.rikunabinext,転職ならリクナビNEXT求人/仕事探しができる転職アプリ,403,JP,2019-01-31
+jp.co.nttdocomo.dtv,dTV映画、ドラマ、アニメならディーティービー,404,JP,2019-01-31
+com.hecorat.screenrecorder.free,AZスクリーンレコーダー,405,JP,2019-01-31
+chimp.works.td4,PowerPainter,406,JP,2019-01-31
+jp.co.shogakukan.sunday_webry,サンデーうぇぶり-人気マンガ・ウェブまんがが無料コインで読める漫画アプリ,407,JP,2019-01-31
+com.oni.oni,鬼から電話　子育てシーンに役立つサポートアプリ,408,JP,2019-01-31
+co.spoonme,SPOON-ソーシャルラジオサービス,409,JP,2019-01-31
+com.sony.tvsideview.phone,ソニーのVideo&TVSideView,410,JP,2019-01-31
+jp.co.yahoo.android.emg,防災速報-地震、津波、豪雨など、災害情報をいち早くお届け,411,JP,2019-01-31
+org.mozilla.firefox,Firefoxブラウザー高速&プライベート,412,JP,2019-01-31
+com.eyu.piano,DreamPiano-MusicGame,413,JP,2019-01-31
+com.companyname.CloudPokeMap,みんポケ-みんなで作る情報共有マップ,414,JP,2019-01-31
+com.nikkei.newspaper,日本経済新聞電子版【公式】／経済ニュースアプリ,415,JP,2019-01-31
+net.kotorinosu.treasure,脱出ゲームTheTREASURE,416,JP,2019-01-31
+com.mxt.simplememo,シンプルメモ帳,417,JP,2019-01-31
+com.google.android.apps.books,GooglePlayブックス,418,JP,2019-01-31
+tv.kidsstar.app.PretendLand,無料知育ゲームアプリ｜ごっこランド,419,JP,2019-01-31
+com.microsoft.office.powerpoint,MicrosoftPowerPoint,420,JP,2019-01-31
+jp.konami.duellinks,遊戯王デュエルリンクス,421,JP,2019-01-31
+com.vincentlee.compass,デジタルコンパス,422,JP,2019-01-31
+jp.eure.android.pairs,Pairs-恋活・婚活・出会い探しマッチングアプリ-登録無料,423,JP,2019-01-31
+jp.co.matchingagent.cocotsure,タップル誕生tapple-マッチングアプリ恋活婚活アプリ趣味で出会いを繋げる(登録無料),424,JP,2019-01-31
+jp.tanyu.SmartAlarmFree,スマートアラーム無料版（祝日対応の目覚まし時計）,425,JP,2019-01-31
+jp.co.xing.karaokeplus,無料☆音程グラフ採点カラオケJOYSOUND＋,426,JP,2019-01-31
+com.adventure.skyticket,格安航空券skyticket国内・海外航空券をお得に予約,427,JP,2019-01-31
+com.xvideostudio.videoeditor,動画編集はVideoShow-魔法のビデオエディタ,428,JP,2019-01-31
+com.gamestart.roll,頭が良くなるスライドパズルRoute,429,JP,2019-01-31
+org.artsplanet.android.catlinestamp,猫スタンプ無料,430,JP,2019-01-31
+weather.forecast.barometer.storm.radar,天気予報-天気無料,431,JP,2019-01-31
+com.google.android.apps.mapslite,GoogleMapsGo-ルート案内、交通情報、乗換案内,432,JP,2019-01-31
+jp.co.mos.MosBurger,モスバーガー,433,JP,2019-01-31
+jp.co.canon.android.printservice.plugin,CanonPrintService,434,JP,2019-01-31
+air.jp.globalgear.chicken,たまごひよこチキン,435,JP,2019-01-31
+com.nttdocomo.watchy,WATCHY無料動画レシピ・おでかけ・エンタメなど,436,JP,2019-01-31
+jp.nhk.netradio,NHKラジオらじる★らじる,437,JP,2019-01-31
+com.epson.mobilephone.android.epsonprintserviceplugin,Epson印刷サービスプラグイン,438,JP,2019-01-31
+jp.co.kuronekoyamato.KuronekoyamatoOfficialApp,クロネコヤマト公式アプリ,439,JP,2019-01-31
+name.choe.hanjahandwritingrecog,手書き漢字認識辞書,440,JP,2019-01-31
+com.fancyapp.qrcode.barcode.scanner.reader,無料QRバーコードリーダー,441,JP,2019-01-31
+com.footballfun.fantasysportsstrike,2019FootballFun,442,JP,2019-01-31
+com.realbyteapps.moneymanagerfree,らくな家計簿,443,JP,2019-01-31
+com.onavo.spaceship,"OnavoProtect,fromFacebook",444,JP,2019-01-31
+xyz.tkapp.yumeijin_sindan,『有名人診断』顔をカメラで診断するアプリ！！,445,JP,2019-01-31
+jp.co.rakuten.toolbar.raws,楽天ウェブ検索-楽天スーパーポイントが貯まる、稼げるアプリ,446,JP,2019-01-31
+seitaApp.KumamonStamp,【無料】くまモンのスタンプだもん,447,JP,2019-01-31
+com.king.bubblewitch3,バブルウィッチ3,448,JP,2019-01-31
+jp.co.ana.anamile,ANAマイレージクラブ,449,JP,2019-01-31
+com.machipopo.media17,17Live（イチナナ）-ライブ配信アプリ,450,JP,2019-01-31
+com.google.android.keep,GoogleKeep-メモとリスト,451,JP,2019-01-31
+com.dip.baitoru,バイトルアルバイト・バイト探し、パート・正社員の求人情報,452,JP,2019-01-31
+com.nhnpa.cps,#コンパス【戦闘摂理解析システム】,453,JP,2019-01-31
+com.percent.mybest,Oppadoll,454,JP,2019-01-31
+com.bubbleshooter.games.blast.free.cat.pop,バブルシューター：無料猫ポップゲーム2019,455,JP,2019-01-31
+jp.co.homes.android3,賃貸・中古住宅・マンションの不動産情報LIFULLHOMES（ライフルホームズ）,456,JP,2019-01-31
+com.yy.musicfm.tw,オフライン音楽プレイヤー無料音楽聴き放題のアプリ：Musicboxワイワイミュージック青,457,JP,2019-01-31
+com.herogame.gplay.rpg.sangokushi.koei.mobile,新三國志：コーエーテクモゲームス完全監修,458,JP,2019-01-31
+com.kddi.android.lismobookstore,ブックパス：コミック・雑誌・小説・実用書・写真集まで取扱う電子書籍サービス/無料も豊富！,459,JP,2019-01-31
+com.handycloset.android.photolayers,PhotoLayers:合成写真・背景透明化,460,JP,2019-01-31
+com.linecorp.lineat.android,LINE@App(LINEat),461,JP,2019-01-31
+com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,462,JP,2019-01-31
+com.jiubang.go.music,"GO音楽聴き放題-無料音楽2019,新着人気",463,JP,2019-01-31
+com.tinder,Tinder,464,JP,2019-01-31
+com.game5mobile.popular,PopularWars,465,JP,2019-01-31
+com.officetool.pdfreader2018.pdfviewer,PDFリーダー–PDFビューア2019,466,JP,2019-01-31
+jp.regolithstudio.hoshitomo,星トモ,467,JP,2019-01-31
+net.jalan.android,じゃらんビジネスにもレジャーにも宿泊・ホテル検索/予約アプリ,468,JP,2019-01-31
+com.king.candycrushsaga,キャンディークラッシュ,469,JP,2019-01-31
+jp.co.withent.sevens,セブンズストーリー,470,JP,2019-01-31
+jp.customcast.cc2,カスタムキャスト,471,JP,2019-01-31
+com.handycloset.android.eraser,背景透明化:写真切り取り,472,JP,2019-01-31
+com.nintendo.znca,NintendoSwitchOnline,473,JP,2019-01-31
+com.EurekaStudio.skipwork,仕事サボる!　-脱出ゲーム,474,JP,2019-01-31
+com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),475,JP,2019-01-31
+com.pixel.art.coloring.by.number,TapColor数字に従って色ぬり,476,JP,2019-01-31
+wood.blockpuzzle.puzzlegame.tetris,木ブロックパズル,477,JP,2019-01-31
+jp.co.ohsho.app,餃子の王将公式アプリ,478,JP,2019-01-31
+com.soundcloud.android,SoundCloud-音楽＆オーディオ,479,JP,2019-01-31
+jp.app.chatapp,暇チャット-ひまつぶしトークアプリの決定版,480,JP,2019-01-31
+com.apalon.myclockfree,私の目覚まし時計無料,481,JP,2019-01-31
+air.jp.funkyland.JigsawCrossword,ジグソークロスワード素敵なお部屋で探しもの,482,JP,2019-01-31
+com.dena.a12020519,逆転オセロニア,483,JP,2019-01-31
+com.crossfield.tabletennis3d,卓球3Dどこでもピンポン卓球ゲーム,484,JP,2019-01-31
+com.Round1,Round1お得なクーポン毎週配信！,485,JP,2019-01-31
+com.media.bestrecorder.audiorecorder,ボイスレコーダー,486,JP,2019-01-31
+jp.co.ofcr.cm00,クッキングママお料理しましょ！,487,JP,2019-01-31
+com.supertapx.lovedots,LoveBalls,488,JP,2019-01-31
+com.google.android.apps.googleassistant,Googleアシスタント,489,JP,2019-01-31
+com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,490,JP,2019-01-31
+com.digitalchemy.calculator.freedecimal,計算機プラス無料,491,JP,2019-01-31
+net.jp.sorairo.jrvs,人狼ジャッジメント,492,JP,2019-01-31
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,493,JP,2019-01-31
+jp.co.geoonline.app,ゲオ　クーポンが貰える！ゲーム予約もできる！,494,JP,2019-01-31
+jp.actkey.yukutoshi,脱出ゲームゆくとしくるとし,495,JP,2019-01-31
 numberplace.ohte,ナンプレde懸賞-完全無料で懸賞応募数独パズル3000問以上脳トレや暇つぶしに,496,JP,2019-01-31
-jp.co.johospace.backup,JSバックアップ,497,JP,2019-01-31
-com.wawagame.app.ttnl2,天天脳力——無料クラシックタングラム、一筆書き、うっとうしい蛇などのゲームを含んだパズルホーム,498,JP,2019-01-31
-com.seyeonsoft.pastel,パステルガール,499,JP,2019-01-31
-net.zaim.android,家計簿Zaimレシート・銀行カード対応が無料の簡単人気アプリ,500,JP,2019-01-31
-com.dmm.app.movieplayer,DMM動画プレイヤー,501,JP,2019-01-31
-com.Level5.YSG2,妖怪三国志国盗りウォーズ,502,JP,2019-01-31
-qrcodereader.barcodereader.codescanner,QRコードリーダー,503,JP,2019-01-31
-jp.co.sony.swish,MySonyアプリ,504,JP,2019-01-31
-net.kentaku.eheya_kentaku,大東建託-賃貸のお部屋探しアプリ（マンション/アパート）,505,JP,2019-01-31
-com.soundcloud.android,SoundCloud-音楽＆オーディオ,506,JP,2019-01-31
-com.sakura_apps.kk,家計簿カケイ～シンプルで簡単、無料の人気アプリ,507,JP,2019-01-31
-jp.txcom.vplayer.free,テレ東動画byネットもテレ東,508,JP,2019-01-31
-leaf.green.midori,翠-midori-,509,JP,2019-01-31
+com.youthhr.phonto,Phonto写真文字入れ,497,JP,2019-01-31
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,498,JP,2019-01-31
+jp.cocone.roomage,roomage（ルマージュ）:インテリアコーディネートアプリ,499,JP,2019-01-31
+com.dmm.app.movieplayer,DMM動画プレイヤー,500,JP,2019-01-31
+leaf.green.midori,翠-midori-,501,JP,2019-01-31
+net.kentaku.eheya_kentaku,大東建託-賃貸のお部屋探しアプリ（マンション/アパート）,502,JP,2019-01-31
+com.sakura_apps.kk,家計簿カケイ～シンプルで簡単、無料の人気アプリ,503,JP,2019-01-31
+com.wawagame.app.ttnl2,天天脳力——無料クラシックタングラム、一筆書き、うっとうしい蛇などのゲームを含んだパズルホーム,504,JP,2019-01-31
+com.Level5.YSG2,妖怪三国志国盗りウォーズ,505,JP,2019-01-31
+jp.co.johospace.backup,JSバックアップ,506,JP,2019-01-31
+qrcodereader.barcodereader.codescanner,QRコードリーダー,507,JP,2019-01-31
+com.withprize.cross,クロスワードde懸賞-楽しく脳トレ賞品も貰えて一石三鳥暇つぶしに最適,508,JP,2019-01-31
+com.seyeonsoft.pastel,パステルガール,509,JP,2019-01-31
 com.google.android.apps.fitness,GoogleFit:運動を記録して健康的な生活を,510,JP,2019-01-31
-com.genkiorangesoft.enkabest,演歌ベスト完全無料,511,JP,2019-01-31
-com.playgendary.kickthebuddy,KicktheBuddy,512,JP,2019-01-31
-jp.co.rakuten_sec.ispeed,iSPEED株取引・株価・投資情報-楽天証券の株アプリ,513,JP,2019-01-31
-jp.shimacolle,しまコレ,514,JP,2019-01-31
-com.withprize.cross,クロスワードde懸賞-楽しく脳トレ賞品も貰えて一石三鳥暇つぶしに最適,515,JP,2019-01-31
+jp.shimacolle,しまコレ,511,JP,2019-01-31
+jp.txcom.vplayer.free,テレ東動画byネットもテレ東,512,JP,2019-01-31
+com.genkiorangesoft.enkabest,演歌ベスト完全無料,513,JP,2019-01-31
+jp.co.plala.osaka,大阪チャンネル/お笑い・NMB48の番組が見放題,514,JP,2019-01-31
+jp.co.rakuten_sec.ispeed,iSPEED株取引・株価・投資情報-楽天証券の株アプリ,515,JP,2019-01-31
 com.microsoft.skydrive,MicrosoftOneDrive,516,JP,2019-01-31
-jp.gmomedia.android.prcm,画像加工と画像検索-プリ画像♥byGMO,517,JP,2019-01-31
-jp.co.plala.osaka,大阪チャンネル/お笑い・NMB48の番組が見放題,518,JP,2019-01-31
-com.deadshooter.evo.free.badmintongame,乱闘ボール3D,519,JP,2019-01-31
-com.instagram.layout,LayoutfromInstagram,520,JP,2019-01-31
-com.biccamera.android.mobile,ビックカメラ,521,JP,2019-01-31
-jp.co.asobism_castleanddragon,城とドラゴン,522,JP,2019-01-31
-com.linecorp.LGPOP3,LINEPOPショコラ,523,JP,2019-01-31
-com.indeed.android.jobsearch,Indeed求人検索-正社員の転職・学生バイト・パート・派遣・新卒就活　全部まとめて仕事探し,524,JP,2019-01-31
-com.cjin.pokegenie.standard,PokeGenie-自動個体値IV計算機,525,JP,2019-01-31
-com.japan.sento_onsen_map,銭湯･温泉･日帰り温泉　レビュー情報共有マップ,526,JP,2019-01-31
-jp.co.arttec.satbox.droperaser,大反響！消しゴム落とし【暇つぶし無料人気ゲーム】,527,JP,2019-01-31
-com.nifty.myhome.rent,賃貸物件検索有名な不動産会社の賃貸物件をまとめて検索,528,JP,2019-01-31
-jp.co.mti.android.lunalunalite,ルナルナ：無料で生理/排卵日予測　生理日管理アプリ,529,JP,2019-01-31
-com.shazam.android,Shazam,530,JP,2019-01-31
-jp.co.rakuten.recipe,楽天レシピ人気料理と簡単献立いつでも無料レシピ検索,531,JP,2019-01-31
-com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),532,JP,2019-01-31
-com.os.block.puzzle.pirate.odyssey,ブロックパズル-テトリス,533,JP,2019-01-31
-com.sonymobile.sketch,スケッチ,534,JP,2019-01-31
-jp.planet12.AnimalTowerBattle,どうぶつタワーバトル-のんびり対戦ゲーム,535,JP,2019-01-31
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),536,JP,2019-01-31
-jp.gr.java_conf.siranet.idphoto,証明写真アプリ,537,JP,2019-01-31
-com.superbox.aos.sweetfruit,フルーツマスター:マッチ3パズル,538,JP,2019-01-31
-com.vespainteractive.KingsRaid,キングスレイド,539,JP,2019-01-31
+com.japan.sento_onsen_map,銭湯･温泉･日帰り温泉　レビュー情報共有マップ,517,JP,2019-01-31
+com.staminatech.online575,五七五オンライン,518,JP,2019-01-31
+com.playgendary.kickthebuddy,KicktheBuddy,519,JP,2019-01-31
+jp.gmomedia.android.prcm,画像加工と画像検索-プリ画像♥byGMO,520,JP,2019-01-31
+com.indeed.android.jobsearch,Indeed求人検索-正社員の転職・学生バイト・パート・派遣・新卒就活　全部まとめて仕事探し,521,JP,2019-01-31
+jp.co.mti.android.lunalunalite,ルナルナ：無料で生理/排卵日予測　生理日管理アプリ,522,JP,2019-01-31
+com.sonymobile.sketch,スケッチ,523,JP,2019-01-31
+com.instagram.layout,LayoutfromInstagram,524,JP,2019-01-31
+jp.co.asobism_castleanddragon,城とドラゴン,525,JP,2019-01-31
+com.nifty.myhome.rent,賃貸物件検索有名な不動産会社の賃貸物件をまとめて検索,526,JP,2019-01-31
+com.linecorp.LGPOP3,LINEPOPショコラ,527,JP,2019-01-31
+com.os.block.puzzle.pirate.odyssey,ブロックパズル-テトリス,528,JP,2019-01-31
+com.shazam.android,Shazam,529,JP,2019-01-31
+com.vespainteractive.KingsRaid,キングスレイド,530,JP,2019-01-31
+com.biccamera.android.mobile,ビックカメラ,531,JP,2019-01-31
+jp.co.rakuten.recipe,楽天レシピ人気料理と簡単献立いつでも無料レシピ検索,532,JP,2019-01-31
+jp.planet12.AnimalTowerBattle,どうぶつタワーバトル-のんびり対戦ゲーム,533,JP,2019-01-31
+jp.co.arttec.satbox.droperaser,大反響！消しゴム落とし【暇つぶし無料人気ゲーム】,534,JP,2019-01-31
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),535,JP,2019-01-31
+com.eyefilter.nightmode.bluelightfilter,目の保護ーーブルーライト軽減あなたの不眠を解消します,536,JP,2019-01-31
+com.duolingo,Duolingo|英語を無料で学ぼう,537,JP,2019-01-31
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),538,JP,2019-01-31
+com.superbox.aos.sweetfruit,フルーツマスター:マッチ3パズル,539,JP,2019-01-31
 com.studioHU.BeatCraft,BeatCraft,540,JP,2019-01-31
