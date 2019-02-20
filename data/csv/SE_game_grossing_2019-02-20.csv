@@ -1,7 +1,7 @@
 app_id,app_name,rank,country_code,date
 com.moonactive.coinmaster,CoinMaster,1,SE,2019-02-20
-com.droidhang.ad,アイデル・ヒーローズ～IdleHeroes～,2,SE,2019-02-20
-com.king.candycrushsaga,キャンディークラッシュ,3,SE,2019-02-20
+com.king.candycrushsaga,キャンディークラッシュ,2,SE,2019-02-20
+com.droidhang.ad,アイデル・ヒーローズ～IdleHeroes～,3,SE,2019-02-20
 com.nianticlabs.pokemongo,PokémonGO,4,SE,2019-02-20
 com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,5,SE,2019-02-20
 com.king.candycrushsodasaga,キャンディークラッシュソーダ,6,SE,2019-02-20
@@ -9,12 +9,12 @@ com.playrix.homescapes,ホームスケイプ(Homescapes),7,SE,2019-02-20
 com.funplus.kingofavalon,キング・オブ・アバロン:ドラゴン戦争(KoA),8,SE,2019-02-20
 com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),9,SE,2019-02-20
 com.lilithgame.roc.gp,RiseofCivilizations,10,SE,2019-02-20
-com.supercell.hayday,ヘイ・デイ(HayDay),11,SE,2019-02-20
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),12,SE,2019-02-20
-com.plarium.vikings,ヴァイキングス：ウォー・オブ・クラン,13,SE,2019-02-20
-com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,14,SE,2019-02-20
-com.gramgames.mergedragons,マージドラゴン(MergeDragons!),15,SE,2019-02-20
-com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,16,SE,2019-02-20
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),11,SE,2019-02-20
+com.supercell.hayday,ヘイ・デイ(HayDay),12,SE,2019-02-20
+com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,13,SE,2019-02-20
+com.gramgames.mergedragons,マージドラゴン(MergeDragons!),14,SE,2019-02-20
+com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,15,SE,2019-02-20
+com.plarium.vikings,ヴァイキングス：ウォー・オブ・クラン,16,SE,2019-02-20
 com.roblox.client,ROBLOX,17,SE,2019-02-20
 com.n3twork.legendary,Legendary:GameofHeroes,18,SE,2019-02-20
 com.wb.goog.got.conquest,ゲーム・オブ・スローンズ：コンクエスト,19,SE,2019-02-20
@@ -27,11 +27,11 @@ com.com2us.smon.normal.freefull.google.kr.android.common,サマナーズウォ�
 com.king.farmheroessaga,ファームヒーロー,26,SE,2019-02-20
 com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),27,SE,2019-02-20
 com.stove.epic7.google,EpicSeven,28,SE,2019-02-20
-com.yottagames.mafiawar,マフィア・シティ-極道風雲,29,SE,2019-02-20
-com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),30,SE,2019-02-20
-com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),31,SE,2019-02-20
-com.zynga.livepoker,Zyngaポーカー,32,SE,2019-02-20
-com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),33,SE,2019-02-20
+com.epicactiononline.ffxv.ane,ファイナルファンタジー15:新たなる王国(FinalFantasyXV),29,SE,2019-02-20
+com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),30,SE,2019-02-20
+com.zynga.livepoker,Zyngaポーカー,31,SE,2019-02-20
+com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),32,SE,2019-02-20
+com.yottagames.mafiawar,マフィア・シティ-極道風雲,33,SE,2019-02-20
 com.king.bubblewitch3,バブルウィッチ3,34,SE,2019-02-20
 com.supercell.brawlstars,ブロスタ,35,SE,2019-02-20
 com.tencent.ig,PUBGMOBILE,36,SE,2019-02-20
@@ -43,82 +43,82 @@ com.pixelberrystudios.choices,Choices:StoriesYouPlay,41,SE,2019-02-20
 com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,42,SE,2019-02-20
 net.wooga.junes_journey_hidden_object_mystery_game,June'sJourney-HiddenObjects,43,SE,2019-02-20
 com.rovio.baba,アングリーバード2(AngryBirds2),44,SE,2019-02-20
-com.playrix.township,タウンシップ(Township),45,SE,2019-02-20
-com.crowdstar.covetHome,DesignHome,46,SE,2019-02-20
-com.hcg.cok.gp,クラッシュオブキングス:奇跡降臨,47,SE,2019-02-20
-com.bigfishgames.jackpotcityslotsf2pgoogle,ジャックポットマジックスロットカジノアプリ,48,SE,2019-02-20
-com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),49,SE,2019-02-20
-com.plarium.raidlegends,RAID:ShadowLegends（Unreleased）,50,SE,2019-02-20
-com.innogames.foeandroid,ForgeofEmpires,51,SE,2019-02-20
-com.mojang.minecraftpe,Minecraft,52,SE,2019-02-20
-com.foxnextgames.m3,MARVELストライクフォース,53,SE,2019-02-20
-com.scopely.startrek,StarTrek™FleetCommand,54,SE,2019-02-20
+com.crowdstar.covetHome,DesignHome,45,SE,2019-02-20
+com.hcg.cok.gp,クラッシュオブキングス:奇跡降臨,46,SE,2019-02-20
+com.bigfishgames.jackpotcityslotsf2pgoogle,ジャックポットマジックスロットカジノアプリ,47,SE,2019-02-20
+com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),48,SE,2019-02-20
+com.plarium.raidlegends,RAID:ShadowLegends（Unreleased）,49,SE,2019-02-20
+com.innogames.foeandroid,ForgeofEmpires,50,SE,2019-02-20
+com.mojang.minecraftpe,Minecraft,51,SE,2019-02-20
+com.scopely.startrek,StarTrek™FleetCommand,52,SE,2019-02-20
+com.playrix.township,タウンシップ(Township),53,SE,2019-02-20
+com.jellybtn.cashkingmobile,PirateKings™️,54,SE,2019-02-20
 com.mars.avgchapters,Chapters:InteractiveStories,55,SE,2019-02-20
-com.kingsgroup.ww2,Zデー:ハーツオブヒーローズ,56,SE,2019-02-20
-com.jellybtn.cashkingmobile,PirateKings™️,57,SE,2019-02-20
-com.elex.nikkigp,LoveNikki-DressUPQueen,58,SE,2019-02-20
-com.plarium.blast,ロストアイランド：ブラストアドベンチャー,59,SE,2019-02-20
-com.droidhen.dungeon,ダンジョン＆ヒーローズ,60,SE,2019-02-20
-com.kabam.marvelbattle,MARVELオールスターバトル,61,SE,2019-02-20
-com.igg.castleclash,CastleClash:BraveSquads,62,SE,2019-02-20
-com.mars.avgchapters,Chapters:InteractiveStories,63,SE,2019-02-20
-com.ludia.jw2,JurassicWorldアライブ!,64,SE,2019-02-20
-com.plarium.blast,ロストアイランド：ブラストアドベンチャー,65,SE,2019-02-20
-com.mobile.legends,モバイル·レジェンド:BangBang,66,SE,2019-02-20
-com.nextgames.android.ourworld,ウォーキング・デッド：我らの世界,67,SE,2019-02-20
+com.elex.nikkigp,LoveNikki-DressUPQueen,56,SE,2019-02-20
+com.plarium.blast,ロストアイランド：ブラストアドベンチャー,57,SE,2019-02-20
+com.foxnextgames.m3,MARVELストライクフォース,58,SE,2019-02-20
+com.droidhen.dungeon,ダンジョン＆ヒーローズ,59,SE,2019-02-20
+com.mobile.legends,モバイル·レジェンド:BangBang,60,SE,2019-02-20
+com.nextgames.android.ourworld,ウォーキング・デッド：我らの世界,61,SE,2019-02-20
+net.peakgames.amy,ToyBlast,62,SE,2019-02-20
+com.kingsgroup.ww2,Zデー:ハーツオブヒーローズ,63,SE,2019-02-20
+com.king.petrescuesaga,ペットレスキュー,64,SE,2019-02-20
+com.igg.castleclash,CastleClash:BraveSquads,65,SE,2019-02-20
+com.ludia.jw2,JurassicWorldアライブ!,66,SE,2019-02-20
+com.tap4fun.brutalage_test,BrutalAge:HordeInvasion,67,SE,2019-02-20
 com.playkot.ageofmagic,AgeofMagic,68,SE,2019-02-20
-com.tap4fun.brutalage_test,BrutalAge:HordeInvasion,69,SE,2019-02-20
+com.kabam.marvelbattle,MARVELオールスターバトル,69,SE,2019-02-20
 com.tensquaregames.letsfish2,FishingClash:簡単釣りゲーム。究極のスポーツフィッシングシミュレーター,70,SE,2019-02-20
 com.dc.hwsj,GameofSultans,71,SE,2019-02-20
-com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,72,SE,2019-02-20
-com.naturalmotion.customstreetracer2,CSRRacing2,73,SE,2019-02-20
-com.miniclip.eightballpool,8BallPool,74,SE,2019-02-20
-com.king.candycrushjellysaga,キャンディークラッシュゼリー,75,SE,2019-02-20
-in.loop.hdmakeover,ホームデザインメイクオーバー,76,SE,2019-02-20
-com.huuuge.casino.slots,Huuugeカジノ™オンラインスロット、世界で1000万人が遊ぶラスベガスSlotsとカジノゲーム,77,SE,2019-02-20
-com.camelgames.superking,WarandOrder,78,SE,2019-02-20
-com.geewa.smashingfour,SmashingFour,79,SE,2019-02-20
-eu.nordeus.topeleven.android,TopElevenファンタジーサッカーマネージャー,80,SE,2019-02-20
-com.gtarcade.eoa,EraofCelestials,81,SE,2019-02-20
-com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),82,SE,2019-02-20
-com.special.warship,戦艦ファイナル-最後の戦い（最後の海戦を舞台にしたSLGの最高傑作）,83,SE,2019-02-20
-com.zlongame.un.mhmnz,Langrisser,84,SE,2019-02-20
-com.jellybtn.boardkings,BoardKings™️,85,SE,2019-02-20
-com.machinezone.gow,ゲーム・オブ・ウォー【GameofWar】,86,SE,2019-02-20
-com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,87,SE,2019-02-20
-com.Seriously.BestFiends,BestFiends-無料のパズルゲーム,88,SE,2019-02-20
-com.game.idle.fantasy,TrialsofHeroes:英雄の試練,89,SE,2019-02-20
-com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,90,SE,2019-02-20
-zombie.survival.craft.z,地球最後の日：サバイバル,91,SE,2019-02-20
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),92,SE,2019-02-20
-com.nexters.herowars,HeroWars,93,SE,2019-02-20
-com.ea.gp.fifamobile,FIFAサッカー,94,SE,2019-02-20
-com.episodeinteractive.android.catalog,Episode-ChooseYourStory,95,SE,2019-02-20
-com.scopely.headshot,ウォーキング・デッドサバイバルへの道,96,SE,2019-02-20
-air.com.sgn.cookiejam.gp,クッキージャム,97,SE,2019-02-20
-net.supertreat.solitaire,Solitaire-GrandHarvest,98,SE,2019-02-20
-net.playq.charmking,CharmKing,99,SE,2019-02-20
-com.zynga.FarmVille2CountryEscape,FarmVille2:のんびり農場生活,100,SE,2019-02-20
-com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,101,SE,2019-02-20
-com.eastsidegames.trailerparkboys,TrailerParkBoys:GreasyMoney,102,SE,2019-02-20
-com.igg.android.mobileroyale,モバイルロワイヤルMMORPG-ファンタジーキングダムのバトル戦略,103,SE,2019-02-20
-com.YoStarEN.AzurLane,AzurLane,104,SE,2019-02-20
-com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,105,SE,2019-02-20
-com.gtarcade.lod,LegacyofDiscord-FuriousWings,106,SE,2019-02-20
+com.miniclip.eightballpool,8BallPool,72,SE,2019-02-20
+com.king.candycrushjellysaga,キャンディークラッシュゼリー,73,SE,2019-02-20
+com.huuuge.casino.slots,Huuugeカジノ™オンラインスロット、世界で1000万人が遊ぶラスベガスSlotsとカジノゲーム,74,SE,2019-02-20
+com.camelgames.superking,WarandOrder,75,SE,2019-02-20
+com.geewa.smashingfour,SmashingFour,76,SE,2019-02-20
+com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,77,SE,2019-02-20
+eu.nordeus.topeleven.android,TopElevenファンタジーサッカーマネージャー,78,SE,2019-02-20
+com.blizzard.wtcg.hearthstone,ハースストーン(Hearthstone),79,SE,2019-02-20
+com.naturalmotion.customstreetracer2,CSRRacing2,80,SE,2019-02-20
+com.special.warship,戦艦ファイナル-最後の戦い（最後の海戦を舞台にしたSLGの最高傑作）,81,SE,2019-02-20
+in.loop.hdmakeover,ホームデザインメイクオーバー,82,SE,2019-02-20
+com.gtarcade.eoa,EraofCelestials,83,SE,2019-02-20
+com.jellybtn.boardkings,BoardKings™️,84,SE,2019-02-20
+com.zlongame.un.mhmnz,Langrisser,85,SE,2019-02-20
+com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,86,SE,2019-02-20
+com.machinezone.gow,ゲーム・オブ・ウォー【GameofWar】,87,SE,2019-02-20
+com.game.idle.fantasy,TrialsofHeroes:英雄の試練,88,SE,2019-02-20
+com.Seriously.BestFiends,BestFiends-無料のパズルゲーム,89,SE,2019-02-20
+zombie.survival.craft.z,地球最後の日：サバイバル,90,SE,2019-02-20
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),91,SE,2019-02-20
+com.nexters.herowars,HeroWars,92,SE,2019-02-20
+com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,93,SE,2019-02-20
+air.com.sgn.cookiejam.gp,クッキージャム,94,SE,2019-02-20
+net.supertreat.solitaire,Solitaire-GrandHarvest,95,SE,2019-02-20
+com.zynga.FarmVille2CountryEscape,FarmVille2:のんびり農場生活,96,SE,2019-02-20
+com.igg.android.mobileroyale,モバイルロワイヤルMMORPG-ファンタジーキングダムのバトル戦略,97,SE,2019-02-20
+com.YoStarEN.AzurLane,AzurLane,98,SE,2019-02-20
+com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,99,SE,2019-02-20
+com.episodeinteractive.android.catalog,Episode-ChooseYourStory,100,SE,2019-02-20
+com.scopely.headshot,ウォーキング・デッドサバイバルへの道,101,SE,2019-02-20
+com.ea.gp.fifamobile,FIFAサッカー,102,SE,2019-02-20
+com.gtarcade.lod,LegacyofDiscord-FuriousWings,103,SE,2019-02-20
+net.playq.charmking,CharmKing,104,SE,2019-02-20
+com.king.pyramidsolitairesaga,ピラミッドソリティア－PyramidSolitaire,105,SE,2019-02-20
+com.eastsidegames.trailerparkboys,TrailerParkBoys:GreasyMoney,106,SE,2019-02-20
 es.socialpoint.MonsterLegends,MonsterLegends-ストラテジーRPGバトル戦争,107,SE,2019-02-20
 com.crowdstar.covetfashion,CovetFashion-DressUpGame,108,SE,2019-02-20
 com.GF.apcguscn.hwyad.google,RoyalChaos–EnterADreamlikeKingdomofRomance,109,SE,2019-02-20
 air.com.buffalo_studios.newflashbingo,BingoBlitz™️-BingoGames,110,SE,2019-02-20
-com.spacegame.homedesign,マイホーム　デザインドリーム,111,SE,2019-02-20
-com.brokenreality.bigcapitalist3.android,TheBigCapitalist3,112,SE,2019-02-20
-com.babilgames.androidstrike,StrikeofNations:EmpireofSteel|WorldWarMMO,113,SE,2019-02-20
-com.fungames.battletanksbeta,戦争兵器-無料3D戦車ゲーム-WarMachines,114,SE,2019-02-20
-com.cmplay.bricksnballs,ブリックツムツム,115,SE,2019-02-20
-com.gameloft.android.ANMP.GloftDYHM,ディズニーマジックキングダムズ,116,SE,2019-02-20
-com.westbund.heros.en,TaptapHeroes：放置戦略系RPG,117,SE,2019-02-20
-com.pacificinteractive.HouseOfFun,フリー・スロットカジノ-HouseofFun™️ゲーム,118,SE,2019-02-20
-com.fridaysgames.godsandglory,Wargamingが送るファンタジーMMOストラテジーゲーム！栄光を掴む覚悟は良いか！,119,SE,2019-02-20
-es.socialpoint.DragonCity,ドラゴンシティ:　育てて、進化させて、バトル！町を作ろう！,120,SE,2019-02-20
+com.babilgames.androidstrike,StrikeofNations:EmpireofSteel|WorldWarMMO,111,SE,2019-02-20
+com.fungames.battletanksbeta,戦争兵器-無料3D戦車ゲーム-WarMachines,112,SE,2019-02-20
+com.gameloft.android.ANMP.GloftDYHM,ディズニーマジックキングダムズ,113,SE,2019-02-20
+com.westbund.heros.en,TaptapHeroes：放置戦略系RPG,114,SE,2019-02-20
+com.pacificinteractive.HouseOfFun,フリー・スロットカジノ-HouseofFun™️ゲーム,115,SE,2019-02-20
+com.fridaysgames.godsandglory,Wargamingが送るファンタジーMMOストラテジーゲーム！栄光を掴む覚悟は良いか！,116,SE,2019-02-20
+com.netmarble.lin2ws,Lineage2:Revolution,117,SE,2019-02-20
+com.nkm.kp.hh,ハイパーヒーローズ(HyperHeroes:Marble-LikeRPG),118,SE,2019-02-20
+com.brokenreality.bigcapitalist3.android,TheBigCapitalist3,119,SE,2019-02-20
+and.onemt.war.ar,‫انتقامالسلاطين‬‎,120,SE,2019-02-20
 jp.konami.duellinks,遊戯王デュエルリンクス,121,SE,2019-02-20
 com.bushiroad.en.bangdreamgbp,BanGDream!GirlsBandParty!,122,SE,2019-02-20
 com.melesta.coffeeshop,マイカフェ：レシピ＆ストーリー。レストラン経営ゲーム,123,SE,2019-02-20
@@ -179,186 +179,186 @@ com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,177,
 com.playtika.caesarscasino,CaesarsSlots:FreeSlotMachinesandCasinoGames,178,SE,2019-02-20
 com.iposedon.bricksbreakerballs,BricksBallCrusher,179,SE,2019-02-20
 com.ea.gp.candcwarzones,コマンド＆コンカー™：ライバルPVP,180,SE,2019-02-20
-com.playtika.caesarscasino,CaesarsSlots:FreeSlotMachinesandCasinoGames,181,SE,2019-02-20
-com.iposedon.bricksbreakerballs,BricksBallCrusher,182,SE,2019-02-20
-com.ea.gp.candcwarzones,コマンド＆コンカー™：ライバルPVP,183,SE,2019-02-20
-com.topgamesinc.evony,エボニー-王の帰還,184,SE,2019-02-20
-com.kongregate.mobile.bitheroes.google,BitHeroes,185,SE,2019-02-20
+org.nanobit.mystory,MyStory:ChooseYourOwnPath,181,SE,2019-02-20
+com.topgamesinc.evony,エボニー-王の帰還,182,SE,2019-02-20
+com.funplus.familyfarm,にじいろ牧場,183,SE,2019-02-20
+com.kongregate.mobile.bitheroes.google,BitHeroes,184,SE,2019-02-20
+com.dts.freefireth,GarenaFreeFire,185,SE,2019-02-20
 com.bethsoft.falloutshelter,FalloutShelter,186,SE,2019-02-20
 com.panoramik.mightyparty,MightyParty:HeroesClash,187,SE,2019-02-20
 com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,188,SE,2019-02-20
 com.ftt.msleague_gl,モンスタースーパーリーグ,189,SE,2019-02-20
-com.gameinsight.gplay.mmanor,MysteryManor:hiddenobjects,190,SE,2019-02-20
-com.panzerdog.tacticool,Tacticool-5対5のシューティングバトル,191,SE,2019-02-20
-com.Poio.ReadlingsVowels,Poio,192,SE,2019-02-20
-com.pocketgems.android.dragon,WarDragons,193,SE,2019-02-20
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,194,SE,2019-02-20
-com.hutchgames.cccg,TopDrives–車のカードレーシング,195,SE,2019-02-20
-com.playstudios.popslots,POP!Slots－スロット無料カジノ,196,SE,2019-02-20
-com.square_enix.android_googleplay.DFFOperaOmnian,DISSIDIAFINALFANTASYOPERAOMNIA,197,SE,2019-02-20
-com.rovio.dream,アングリーバードドリームブラスト,198,SE,2019-02-20
-com.weplaydots.twodotsandroid,TwoDots,199,SE,2019-02-20
-com.playtika.wsop.gp,WSOP無料ポーカー(WorldSeriesofPoker),200,SE,2019-02-20
-com.atomic.moguls.hockey2018,FranchiseHockey2018,201,SE,2019-02-20
-jp.goodsmile.grandsummonersglobal_android,GrandSummoners,202,SE,2019-02-20
-com.masomo.headball2,HeadBall2,203,SE,2019-02-20
-com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,204,SE,2019-02-20
-com.unitedfun.prod.apollo,かわいくきがえてファッションショー❤CocoPPaPlay,205,SE,2019-02-20
-com.murka.slotsera,SlotsEra-最高のオンラインカジノスロットマシン,206,SE,2019-02-20
-com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,207,SE,2019-02-20
-com.williamsinteractive.jackpotparty,JackpotPartySlots:カジノスロットゲーム,208,SE,2019-02-20
-org.nanobit.hollywood,HollywoodStory,209,SE,2019-02-20
-net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,210,SE,2019-02-20
-com.igg.android.conquerors,‫الفاتحون:العصرالذهبي‬‎,211,SE,2019-02-20
-com.linegames.dcglobal,DestinyChild,212,SE,2019-02-20
-com.glu.stardomkim,KIMKARDASHIAN:HOLLYWOOD,213,SE,2019-02-20
-com.nttsolmare.game.android.munef,LoveTangle-otomegame/datingsim,214,SE,2019-02-20
-com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,215,SE,2019-02-20
-com.goodgamestudios.bigfarmmobileharvest,BigFarm:MobileHarvest|農場ゲーム無料-牧場-ファーム,216,SE,2019-02-20
-com.supercell.boombeach,ブーム・ビーチ(BoomBeach),217,SE,2019-02-20
-com.ubisoft.dragonfire,SouthPark:PhoneDestroyer™,218,SE,2019-02-20
-se.ace.fishinc,HookedInc:FisherTycoon,219,SE,2019-02-20
-com.qiiwi.backpacker,"Backpacker™-Trivia,QuizGame",220,SE,2019-02-20
-com.rtsoft.growtopia,Growtopia,221,SE,2019-02-20
-jp.gree.modernwar,ModernWarbyGREE,222,SE,2019-02-20
-com.socialquantum.acityint,メガポリス(Megapolis),223,SE,2019-02-20
-com.joycrit.unitedfront,UnitedFront：ModernWarStrategyMMO,224,SE,2019-02-20
-and.onemt.boe.tr,TheGreatOttomans-ImperialHarem,225,SE,2019-02-20
-com.wooga.pearlsperil,ミステリー・トラベラー　〜ウォレス家の遺産とキケンな恋〜,226,SE,2019-02-20
-com.vizorinteractive.zombiesettlersv2,ZombieCastaways,227,SE,2019-02-20
-com.mobilewaronline.wwr,ワールドウォーライジング,228,SE,2019-02-20
-com.tap4fun.kings_empire,王者の帝国,229,SE,2019-02-20
-com.ea.games.simsfreeplay_row,TheSimsFreePlay,230,SE,2019-02-20
-com.miHoYo.bh3global,HonkaiImpact3rd,231,SE,2019-02-20
-com.innogames.elvenar,Elvenar,232,SE,2019-02-20
-com.bandainamcoent.dblegends_ww,DRAGONBALLLEGENDS,233,SE,2019-02-20
-net.mantisshrimp.warlords,WarlordsofAternum,234,SE,2019-02-20
-air.com.moviestarplanet.roboblastplanet,BlockStarPlanet,235,SE,2019-02-20
-com.dgame.zombies,ゾンビストライク：ラストウォーSRPG,236,SE,2019-02-20
-com.ea.game.simpsons4_row,TheSimpsons™:TappedOut,237,SE,2019-02-20
-com.evogames.slavsforvk,実りの地,238,SE,2019-02-20
-com.scopely.whiplash,WWEChampions-無料パズルRPGゲーム,239,SE,2019-02-20
-com.disruptorbeam.StarTrekTimelines,StarTrekTimelines-StrategyRPG&SpaceBattles,240,SE,2019-02-20
-com.dgame.zombies,ゾンビストライク：ラストウォーSRPG,241,SE,2019-02-20
-com.ea.game.simpsons4_row,TheSimpsons™:TappedOut,242,SE,2019-02-20
-com.rovio.abmatch3,アングリーバードマッチ(AngryBirdsMatch),243,SE,2019-02-20
-com.scopely.whiplash,WWEChampions-無料パズルRPGゲーム,244,SE,2019-02-20
-air.com.innogames.staemme,TribalWars,245,SE,2019-02-20
-com.gamegos.mobile.manorcafe,ManorCafe,246,SE,2019-02-20
-com.strawdogstudios.simonscatcrunchtime,Simon’sCat-CrunchTime!,247,SE,2019-02-20
-net.wooga.tropicats_tropical_cats_puzzle_paradise,Tropicats:FreeMatch3onaCatsTropicalIsland,248,SE,2019-02-20
-com.kiloo.subwaysurf,SubwaySurfers,249,SE,2019-02-20
-com.king.blossomblast,ブロッサム・ブラスト,250,SE,2019-02-20
-com.g5e.hiddencity.android,HiddenCity:アイテム探しアドベンチャー,251,SE,2019-02-20
-com.and.riseofthekings,ライズオブキングス,252,SE,2019-02-20
-com.netmarble.mherosgb,マーベル・フューチャーファイト,253,SE,2019-02-20
-com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,254,SE,2019-02-20
-air.com.streamience.jaramba,"Jaramba-Stava,räknaochlek",255,SE,2019-02-20
-com.mobirix.swipebrick2,ブリックスブレーカークエスト,256,SE,2019-02-20
-com.Cheritz.MysticMessenger,MysticMessenger,257,SE,2019-02-20
-com.aqupepgames.projectpepe,LooneyTunes™ワールド・オブ・メイヘム-アクションRPG,258,SE,2019-02-20
-com.kongregate.mobile.adventurecommunist.google,AdVentureCommunist,259,SE,2019-02-20
-com.ucool.herohd,ヒーローズチャージ(ヒロチャ)HD,260,SE,2019-02-20
-com.doubleugames.take5,Take5FreeSlots–RealVegasCasino,261,SE,2019-02-20
-ru.crazypanda.MMOStrategy,StellarAge:MMO戦略,262,SE,2019-02-20
-com.selfawaregames.acecasino,BigFishCasino：本場ラスベガスのカジノ＆スロットマシンをプレイ,263,SE,2019-02-20
-com.vtc.kiemthetruyenky,KiếmThếTruyềnKỳ,264,SE,2019-02-20
-jp.co.cybird.appli.android.sgk.en,IkemenSengoku:OtomeGame,265,SE,2019-02-20
-com.alien.shooter.galaxy.attack,ギャラクシーアタック：エイリアンシューター,266,SE,2019-02-20
-air.MSPMobile,MovieStarPlanet,267,SE,2019-02-20
-com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,268,SE,2019-02-20
-com.kabam.evd,ElvesvsDwarves,269,SE,2019-02-20
-com.im30.ROE.gp,RiseofEmpire,270,SE,2019-02-20
-com.ubisoft.accovenant,アサシン　クリード　リベリオンAssassin'sCreedRebellion,271,SE,2019-02-20
-air.com.sgn.cookiejamblast.gp,クッキージャム・ブラスト,272,SE,2019-02-20
-com.pacific.wildlands,Stormfall:SagaofSurvival,273,SE,2019-02-20
-com.kabam.underworldandroid,アンダーワールド・エンパイア,274,SE,2019-02-20
-com.king.diamonddiariessaga,ダイヤモンドダイアリー,275,SE,2019-02-20
-com.netease.chiji,RulesofSurvival,276,SE,2019-02-20
-com.rumbleentertainment.alliance,Alliance:HeroesoftheSpire,277,SE,2019-02-20
-com.swagmasha.genres,"LoveSick:lovestar,queen,vampirerelationships",278,SE,2019-02-20
-com.pnixgames.minigolfking,ミニゴルフキング-マルチプレイヤーゲーム,279,SE,2019-02-20
-com.scientificgames.monopolyslots,MONOPOLYSlots,280,SE,2019-02-20
-com.voltage.lovestruck.ggl.en,LovestruckChooseYourRomance,281,SE,2019-02-20
-com.sgn.geniesandgems.gp,マジックジュエル,282,SE,2019-02-20
-com.strawdogstudios.simonscatpoptime,Simon'sCat-PopTime,283,SE,2019-02-20
-com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,284,SE,2019-02-20
-com.TironiumTech.IdlePlanetMiner,IdlePlanetMiner,285,SE,2019-02-20
-us.kick9.k3000000013.c3101000001,SoulHunters,286,SE,2019-02-20
-com.awem.cradleofempires.andr,CradleofEmpiresMatch-3Game,287,SE,2019-02-20
-com.catdaddy.cat22,WWESuperCard-マルチプレイヤーカード対戦ゲーム,288,SE,2019-02-20
-com.godzilab.idlerpg,突撃クラッシュ-放置系RPG,289,SE,2019-02-20
-air.com.spicerackmedia.bingoshowdown,BingoShowdown-ビンゴゲーム–BingoLive,290,SE,2019-02-20
-com.igg.clashoflords2,ClashofLords2:GuildCastle,291,SE,2019-02-20
-net.isitlove.mysteryspell.sebastian,Is-itLove?Sebastian-Adventure&Romance,292,SE,2019-02-20
-com.userjoy.LetsVegasSlots,Let'sVegasSlots,293,SE,2019-02-20
-com.ea.games.r3_row,RealRacing3,294,SE,2019-02-20
-com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),295,SE,2019-02-20
-com.nixhydragames.thearcana,TheArcana-AMysticRomance,296,SE,2019-02-20
-com.boundless.jawaker,"JawakerTrix,Tarneeb,Baloot&More",297,SE,2019-02-20
-com.zynga.FarmVilleTropicEscape,FarmVille:TropicEscape,298,SE,2019-02-20
-com.ludia.dragon3,Dragons:TitanUprising,299,SE,2019-02-20
-com.igg.pokerdeluxe,TexasHoldEmPokerDeluxe,300,SE,2019-02-20
-com.zynga.FarmVilleTropicEscape,FarmVille:TropicEscape,301,SE,2019-02-20
-com.ludia.dragon3,Dragons:TitanUprising,302,SE,2019-02-20
-com.evilclicker.evilclicker,IdleEvil—Clicker&Simulator,303,SE,2019-02-20
-com.igg.pokerdeluxe,TexasHoldEmPokerDeluxe,304,SE,2019-02-20
-com.huuuge.jomhd,カジノAdventures-無料スロット,305,SE,2019-02-20
-com.gmf.ftyx,HeroDash,306,SE,2019-02-20
-com.king.shufflecatcards,ShuffleCats,307,SE,2019-02-20
-com.rovio.blast,アングリーバードブラスト,308,SE,2019-02-20
-com.gotogames.funbridge,FunBridge,309,SE,2019-02-20
-com.kog.grandchaseglobal,グランドチェイス-次元の追跡者-,310,SE,2019-02-20
-com.nintendo.zaca,どうぶつの森ポケットキャンプ,311,SE,2019-02-20
-com.plarium.throne,Throne:KingdomatWar,312,SE,2019-02-20
-com.playgendary.tanks,TankStars,313,SE,2019-02-20
-com.goldtowngames.worldhockeymanager,WorldHockeyManager,314,SE,2019-02-20
-com.sunborn.girlsfrontline.en,Girls'Frontline,315,SE,2019-02-20
-com.gameloft.android.ANMP.GloftPOHM,MYLITTLEPONY～マジックプリンセス,316,SE,2019-02-20
-com.kamagames.pokerist,テキサス・ホールデム－Pokerist,317,SE,2019-02-20
-com.plarium.stormfallrob,ストームフォール・バルーアの復活「Stormfall」,318,SE,2019-02-20
-com.ubisoft.horsehaven.adventures,ホースヘイブンワールドアドベンチャー,319,SE,2019-02-20
-com.bigblueparrot.pokerfriends,PokerHeat™:テキサスホールデムポーカー,320,SE,2019-02-20
-com.ngame.allstar.eu,ArenaofValor:5v5ArenaGame,321,SE,2019-02-20
-com.aokgame.dbp,IronWarship:Battle,322,SE,2019-02-20
-com.wb.shadowofwar,シャドウ・オブ・ウォー,323,SE,2019-02-20
-com.playshoo.texaspoker.romania,ArtrixPoker,324,SE,2019-02-20
-com.creativemobile.zc,ドリーム動物園：動物家族,325,SE,2019-02-20
-com.bandainamcoent.ninjavoltage_app,NARUTOXBORUTONINJAVOLTAGE,326,SE,2019-02-20
-com.aladinfun.island.android,SmashIsland-Superwheel！,327,SE,2019-02-20
-com.iugome.lilknights,Knights&Dragons-ActionRPG,328,SE,2019-02-20
-com.gamebeartech.nova,ノヴァ帝国,329,SE,2019-02-20
-com.mgs.sniper1,SniperStrike–FPS3DShootingGame,330,SE,2019-02-20
-com.legacy.titans.diacord.mu.eternal.origin.blade,LegacyofDestiny-MostfairandromanticMMORPG,331,SE,2019-02-20
-com.game.candywitch.cookie.stars.free,キャンディーウィッチ,332,SE,2019-02-20
-dk.tactile.cookiecatspop,CookieCatsPop,333,SE,2019-02-20
-com.gameloft.android.ANMP.Gloft5DHM,DarkQuest5（ダーククエスト5）ハクスラRPG,334,SE,2019-02-20
-com.ea.gp.nbamobile,NBALIVEMobileBasketball,335,SE,2019-02-20
-net.peakgames.ginrummyplus,GinRummyPlus,336,SE,2019-02-20
-com.gameinsight.airport,AirportCity,337,SE,2019-02-20
-and.onemt.war.en,RevengeofSultans,338,SE,2019-02-20
-com.upjers.zoo2animalpark,Zoo2:AnimalPark,339,SE,2019-02-20
-com.glu.zbs,LefttoSurvive:PvPゾンビシューティング,340,SE,2019-02-20
-com.firsttouchgames.smp,Score!Match,341,SE,2019-02-20
-net.wooga.bubbleisland2,BubbleIsland2,342,SE,2019-02-20
-com.firsttouchgames.story,Score!Hero,343,SE,2019-02-20
-com.two31play.mahjongcity,MahjongCityTours,344,SE,2019-02-20
-air.com.bitrhymes.bingo,BingoBash:BingoandSlotビンゴゲームとスロットアプリ,345,SE,2019-02-20
-com.gta.nslm2,LeagueofAngels-ParadiseLand,346,SE,2019-02-20
-es.socialpoint.chefparadise,クッキング・タウン(TastyTown),347,SE,2019-02-20
-com.purplekiwii.mb,史上最高のマッチ3パズルゲーム！,348,SE,2019-02-20
-air.mobile.hookbang.packrat,PackRatCardCollectingGame,349,SE,2019-02-20
-com.disruptorbeam.StarTrekTimelines,StarTrekTimelines-StrategyRPG&SpaceBattles,350,SE,2019-02-20
-com.skypeople.finalbladegb,FINALBLADE,351,SE,2019-02-20
-com.langqi.myshoppingmall,DesignMyRoom,352,SE,2019-02-20
-com.plarium.zoo,FamilyZoo:TheStory,353,SE,2019-02-20
-com.outerminds.tubular,PewDiePie'sTuberSimulator,354,SE,2019-02-20
-com.beesquare.almostahero,AlmostaHero-IdleRPGClicker,355,SE,2019-02-20
-com.netease.onmyoji.gb,Onmyoji,356,SE,2019-02-20
+com.panzerdog.tacticool,Tacticool-5対5のシューティングバトル,190,SE,2019-02-20
+com.Poio.ReadlingsVowels,Poio,191,SE,2019-02-20
+com.pocketgems.android.dragon,WarDragons,192,SE,2019-02-20
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,193,SE,2019-02-20
+com.hutchgames.cccg,TopDrives–車のカードレーシング,194,SE,2019-02-20
+com.playstudios.popslots,POP!Slots－スロット無料カジノ,195,SE,2019-02-20
+com.square_enix.android_googleplay.DFFOperaOmnian,DISSIDIAFINALFANTASYOPERAOMNIA,196,SE,2019-02-20
+com.rovio.dream,アングリーバードドリームブラスト,197,SE,2019-02-20
+com.weplaydots.twodotsandroid,TwoDots,198,SE,2019-02-20
+com.playtika.wsop.gp,WSOP無料ポーカー(WorldSeriesofPoker),199,SE,2019-02-20
+com.atomic.moguls.hockey2018,FranchiseHockey2018,200,SE,2019-02-20
+jp.goodsmile.grandsummonersglobal_android,GrandSummoners,201,SE,2019-02-20
+com.masomo.headball2,HeadBall2,202,SE,2019-02-20
+com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,203,SE,2019-02-20
+com.unitedfun.prod.apollo,かわいくきがえてファッションショー❤CocoPPaPlay,204,SE,2019-02-20
+com.murka.slotsera,SlotsEra-最高のオンラインカジノスロットマシン,205,SE,2019-02-20
+com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,206,SE,2019-02-20
+com.williamsinteractive.jackpotparty,JackpotPartySlots:カジノスロットゲーム,207,SE,2019-02-20
+org.nanobit.hollywood,HollywoodStory,208,SE,2019-02-20
+net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,209,SE,2019-02-20
+com.igg.android.conquerors,‫الفاتحون:العصرالذهبي‬‎,210,SE,2019-02-20
+com.linegames.dcglobal,DestinyChild,211,SE,2019-02-20
+com.glu.stardomkim,KIMKARDASHIAN:HOLLYWOOD,212,SE,2019-02-20
+com.nttsolmare.game.android.munef,LoveTangle-otomegame/datingsim,213,SE,2019-02-20
+com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,214,SE,2019-02-20
+com.goodgamestudios.bigfarmmobileharvest,BigFarm:MobileHarvest|農場ゲーム無料-牧場-ファーム,215,SE,2019-02-20
+com.supercell.boombeach,ブーム・ビーチ(BoomBeach),216,SE,2019-02-20
+com.ubisoft.dragonfire,SouthPark:PhoneDestroyer™,217,SE,2019-02-20
+se.ace.fishinc,HookedInc:FisherTycoon,218,SE,2019-02-20
+com.qiiwi.backpacker,"Backpacker™-Trivia,QuizGame",219,SE,2019-02-20
+com.rtsoft.growtopia,Growtopia,220,SE,2019-02-20
+jp.gree.modernwar,ModernWarbyGREE,221,SE,2019-02-20
+com.socialquantum.acityint,メガポリス(Megapolis),222,SE,2019-02-20
+com.joycrit.unitedfront,UnitedFront：ModernWarStrategyMMO,223,SE,2019-02-20
+and.onemt.boe.tr,TheGreatOttomans-ImperialHarem,224,SE,2019-02-20
+com.wooga.pearlsperil,ミステリー・トラベラー　〜ウォレス家の遺産とキケンな恋〜,225,SE,2019-02-20
+com.vizorinteractive.zombiesettlersv2,ZombieCastaways,226,SE,2019-02-20
+com.mobilewaronline.wwr,ワールドウォーライジング,227,SE,2019-02-20
+com.tap4fun.kings_empire,王者の帝国,228,SE,2019-02-20
+com.ea.games.simsfreeplay_row,TheSimsFreePlay,229,SE,2019-02-20
+com.miHoYo.bh3global,HonkaiImpact3rd,230,SE,2019-02-20
+com.innogames.elvenar,Elvenar,231,SE,2019-02-20
+net.mantisshrimp.warlords,WarlordsofAternum,232,SE,2019-02-20
+air.com.moviestarplanet.roboblastplanet,BlockStarPlanet,233,SE,2019-02-20
+com.dgame.zombies,ゾンビストライク：ラストウォーSRPG,234,SE,2019-02-20
+com.ea.game.simpsons4_row,TheSimpsons™:TappedOut,235,SE,2019-02-20
+com.evogames.slavsforvk,実りの地,236,SE,2019-02-20
+com.bandainamcoent.dblegends_ww,DRAGONBALLLEGENDS,237,SE,2019-02-20
+com.scopely.whiplash,WWEChampions-無料パズルRPGゲーム,238,SE,2019-02-20
+com.gameinsight.gplay.mmanor,MysteryManor:hiddenobjects,239,SE,2019-02-20
+com.strawdogstudios.simonscatcrunchtime,Simon’sCat-CrunchTime!,240,SE,2019-02-20
+net.wooga.tropicats_tropical_cats_puzzle_paradise,Tropicats:FreeMatch3onaCatsTropicalIsland,241,SE,2019-02-20
+com.kiloo.subwaysurf,SubwaySurfers,242,SE,2019-02-20
+com.backflipstudios.transformersearthwars,トランスフォーマー：アースウォーズ,243,SE,2019-02-20
+com.king.blossomblast,ブロッサム・ブラスト,244,SE,2019-02-20
+com.g5e.hiddencity.android,HiddenCity:アイテム探しアドベンチャー,245,SE,2019-02-20
+com.netmarble.mherosgb,マーベル・フューチャーファイト,246,SE,2019-02-20
+com.tap4fun.reignofwar,インベーション,247,SE,2019-02-20
+com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,248,SE,2019-02-20
+com.Cheritz.MysticMessenger,MysticMessenger,249,SE,2019-02-20
+com.aqupepgames.projectpepe,LooneyTunes™ワールド・オブ・メイヘム-アクションRPG,250,SE,2019-02-20
+com.kongregate.mobile.adventurecommunist.google,AdVentureCommunist,251,SE,2019-02-20
+com.doubleugames.take5,Take5FreeSlots–RealVegasCasino,252,SE,2019-02-20
+ru.crazypanda.MMOStrategy,StellarAge:MMO戦略,253,SE,2019-02-20
+com.rovio.abmatch3,アングリーバードマッチ(AngryBirdsMatch),254,SE,2019-02-20
+com.vtc.kiemthetruyenky,KiếmThếTruyềnKỳ,255,SE,2019-02-20
+air.com.innogames.staemme,TribalWars,256,SE,2019-02-20
+com.alien.shooter.galaxy.attack,ギャラクシーアタック：エイリアンシューター,257,SE,2019-02-20
+com.mobirix.swipebrick2,ブリックスブレーカークエスト,258,SE,2019-02-20
+com.ucool.herohd,ヒーローズチャージ(ヒロチャ)HD,259,SE,2019-02-20
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,260,SE,2019-02-20
+jp.co.cybird.appli.android.sgk.en,IkemenSengoku:OtomeGame,261,SE,2019-02-20
+com.kabam.evd,ElvesvsDwarves,262,SE,2019-02-20
+com.ubisoft.accovenant,アサシン　クリード　リベリオンAssassin'sCreedRebellion,263,SE,2019-02-20
+air.com.sgn.cookiejamblast.gp,クッキージャム・ブラスト,264,SE,2019-02-20
+com.selfawaregames.acecasino,BigFishCasino：本場ラスベガスのカジノ＆スロットマシンをプレイ,265,SE,2019-02-20
+com.kabam.underworldandroid,アンダーワールド・エンパイア,266,SE,2019-02-20
+com.rumbleentertainment.alliance,Alliance:HeroesoftheSpire,267,SE,2019-02-20
+air.com.streamience.jaramba,"Jaramba-Stava,räknaochlek",268,SE,2019-02-20
+com.pnixgames.minigolfking,ミニゴルフキング-マルチプレイヤーゲーム,269,SE,2019-02-20
+com.gamegos.mobile.manorcafe,ManorCafe,270,SE,2019-02-20
+com.im30.ROE.gp,RiseofEmpire,271,SE,2019-02-20
+air.MSPMobile,MovieStarPlanet,272,SE,2019-02-20
+com.netmarble.war,アイアン・スローン（IronThrone）,273,SE,2019-02-20
+com.netease.chiji,RulesofSurvival,274,SE,2019-02-20
+com.sgn.geniesandgems.gp,マジックジュエル,275,SE,2019-02-20
+com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,276,SE,2019-02-20
+us.kick9.k3000000013.c3101000001,SoulHunters,277,SE,2019-02-20
+com.and.riseofthekings,ライズオブキングス,278,SE,2019-02-20
+com.awem.cradleofempires.andr,CradleofEmpiresMatch-3Game,279,SE,2019-02-20
+com.catdaddy.cat22,WWESuperCard-マルチプレイヤーカード対戦ゲーム,280,SE,2019-02-20
+com.godzilab.idlerpg,突撃クラッシュ-放置系RPG,281,SE,2019-02-20
+air.com.spicerackmedia.bingoshowdown,BingoShowdown-ビンゴゲーム–BingoLive,282,SE,2019-02-20
+com.king.diamonddiariessaga,ダイヤモンドダイアリー,283,SE,2019-02-20
+com.TironiumTech.IdlePlanetMiner,IdlePlanetMiner,284,SE,2019-02-20
+com.pacific.wildlands,Stormfall:SagaofSurvival,285,SE,2019-02-20
+com.voltage.lovestruck.ggl.en,LovestruckChooseYourRomance,286,SE,2019-02-20
+air.com.pixelfederation.diggy,Diggy'sAdventure:2D地雷迷路パズルからの脱出,287,SE,2019-02-20
+com.igg.bzbee.deckheroes,DeckHeroes:Legacy,288,SE,2019-02-20
+com.igg.clashoflords2,ClashofLords2:GuildCastle,289,SE,2019-02-20
+net.isitlove.mysteryspell.sebastian,Is-itLove?Sebastian-Adventure&Romance,290,SE,2019-02-20
+com.userjoy.LetsVegasSlots,Let'sVegasSlots,291,SE,2019-02-20
+com.scientificgames.monopolyslots,MONOPOLYSlots,292,SE,2019-02-20
+com.nixhydragames.thearcana,TheArcana-AMysticRomance,293,SE,2019-02-20
+com.boundless.jawaker,"JawakerTrix,Tarneeb,Baloot&More",294,SE,2019-02-20
+com.igg.pokerdeluxe,TexasHoldEmPokerDeluxe,295,SE,2019-02-20
+com.nexon.maplem.global,MapleStoryM,296,SE,2019-02-20
+com.huuuge.jomhd,カジノAdventures-無料スロット,297,SE,2019-02-20
+com.gmf.ftyx,HeroDash,298,SE,2019-02-20
+com.king.shufflecatcards,ShuffleCats,299,SE,2019-02-20
+com.rovio.blast,アングリーバードブラスト,300,SE,2019-02-20
+com.gotogames.funbridge,FunBridge,301,SE,2019-02-20
+com.zynga.FarmVilleTropicEscape,FarmVille:TropicEscape,302,SE,2019-02-20
+com.nintendo.zaca,どうぶつの森ポケットキャンプ,303,SE,2019-02-20
+com.ea.games.r3_row,RealRacing3,304,SE,2019-02-20
+com.strawdogstudios.simonscatpoptime,Simon'sCat-PopTime,305,SE,2019-02-20
+com.sunborn.girlsfrontline.en,Girls'Frontline,306,SE,2019-02-20
+com.gameloft.android.ANMP.GloftPOHM,MYLITTLEPONY～マジックプリンセス,307,SE,2019-02-20
+com.kamagames.pokerist,テキサス・ホールデム－Pokerist,308,SE,2019-02-20
+com.bigblueparrot.pokerfriends,PokerHeat™:テキサスホールデムポーカー,309,SE,2019-02-20
+com.ngame.allstar.eu,ArenaofValor:5v5ArenaGame,310,SE,2019-02-20
+com.wb.shadowofwar,シャドウ・オブ・ウォー,311,SE,2019-02-20
+com.playshoo.texaspoker.romania,ArtrixPoker,312,SE,2019-02-20
+com.aladinfun.island.android,SmashIsland-Superwheel！,313,SE,2019-02-20
+com.plarium.throne,Throne:KingdomatWar,314,SE,2019-02-20
+com.iugome.lilknights,Knights&Dragons-ActionRPG,315,SE,2019-02-20
+com.mgs.sniper1,SniperStrike–FPS3DShootingGame,316,SE,2019-02-20
+com.legacy.titans.diacord.mu.eternal.origin.blade,LegacyofDestiny-MostfairandromanticMMORPG,317,SE,2019-02-20
+com.gameloft.android.ANMP.Gloft5DHM,DarkQuest5（ダーククエスト5）ハクスラRPG,318,SE,2019-02-20
+com.evilclicker.evilclicker,IdleEvil—Clicker&Simulator,319,SE,2019-02-20
+com.ea.gp.nbamobile,NBALIVEMobileBasketball,320,SE,2019-02-20
+com.swagmasha.genres,"LoveSick:lovestar,queen,vampirerelationships",321,SE,2019-02-20
+com.playgendary.tanks,TankStars,322,SE,2019-02-20
+and.onemt.war.en,RevengeofSultans,323,SE,2019-02-20
+com.upjers.zoo2animalpark,Zoo2:AnimalPark,324,SE,2019-02-20
+com.game.candywitch.cookie.stars.free,キャンディーウィッチ,325,SE,2019-02-20
+com.firsttouchgames.smp,Score!Match,326,SE,2019-02-20
+com.gameinsight.airport,AirportCity,327,SE,2019-02-20
+net.wooga.bubbleisland2,BubbleIsland2,328,SE,2019-02-20
+com.ludia.dragon3,Dragons:TitanUprising,329,SE,2019-02-20
+com.gameloft.android.ANMP.GloftA9HM,アスファルト9：Legends-2019年レーシングアクションゲーム,330,SE,2019-02-20
+com.moonton.magicrush,マジックラッシュ(MagicRush:Heroes),331,SE,2019-02-20
+com.gamebeartech.nova,ノヴァ帝国,332,SE,2019-02-20
+es.socialpoint.chefparadise,クッキング・タウン(TastyTown),333,SE,2019-02-20
+com.gta.nslm2,LeagueofAngels-ParadiseLand,334,SE,2019-02-20
+com.disruptorbeam.StarTrekTimelines,StarTrekTimelines-StrategyRPG&SpaceBattles,335,SE,2019-02-20
+dk.tactile.cookiecatspop,CookieCatsPop,336,SE,2019-02-20
+com.plarium.zoo,FamilyZoo:TheStory,337,SE,2019-02-20
+air.com.bitrhymes.bingo,BingoBash:BingoandSlotビンゴゲームとスロットアプリ,338,SE,2019-02-20
+net.peakgames.ginrummyplus,GinRummyPlus,339,SE,2019-02-20
+com.ubisoft.horsehaven.adventures,ホースヘイブンワールドアドベンチャー,340,SE,2019-02-20
+com.netease.onmyoji.gb,Onmyoji,341,SE,2019-02-20
+com.sonypicturestelevision.millionaire,MillionaireTrivia:WhoWantsToBeaMillionaire?,342,SE,2019-02-20
+com.nttsolmare.game.android.wihef,WizardessHeart-otomegame/datingsim,343,SE,2019-02-20
+air.mobile.hookbang.packrat,PackRatCardCollectingGame,344,SE,2019-02-20
+com.youdagames.gop3multiplayer,GovernorofPoker3-TexasHoldemCasinoOnline,345,SE,2019-02-20
+com.firsttouchgames.story,Score!Hero,346,SE,2019-02-20
+air.com.beachbumgammon,Backgammon–LordoftheBoard–OnlineBoardGame,347,SE,2019-02-20
+com.codigames.market.idle.tycoon,IdleSupermarketTycoon-TinyShopGame,348,SE,2019-02-20
+com.creativemobile.zc,ドリーム動物園：動物家族,349,SE,2019-02-20
+com.king.alphabettysaga,AlphaBettySaga,350,SE,2019-02-20
+com.makingfun.mageandminions,Eternium,351,SE,2019-02-20
+com.gameloft.android.ANMP.GloftGHHM,マーチオブエンパイア-領土戦争,352,SE,2019-02-20
+leyi.blazeofbattle,BlazeofBattle,353,SE,2019-02-20
+com.klab.bleach,BLEACHBraveSouls-アクションRPG,354,SE,2019-02-20
+com.linekong.dbm.na.google,DaybreakLegends:Origin,355,SE,2019-02-20
+com.ubisoft.hungrysharkworld,HungrySharkWorld,356,SE,2019-02-20
 com.nintendo.zara,SuperMarioRun,357,SE,2019-02-20
-com.sonypicturestelevision.millionaire,MillionaireTrivia:WhoWantsToBeaMillionaire?,358,SE,2019-02-20
-com.nttsolmare.game.android.wihef,WizardessHeart-otomegame/datingsim,359,SE,2019-02-20
-com.ubisoft.dance.JustDance,JustDanceNow,360,SE,2019-02-20
+com.crossword.bible.cookies.find.english,WordConnect-WordGamesPuzzle,358,SE,2019-02-20
+jp.ne.ambition.googleplay_nizikano2d_glb,DreamGirlfriend,359,SE,2019-02-20
+com.skypeople.finalbladegb,FINALBLADE,360,SE,2019-02-20
 com.ubisoft.dance.JustDance,JustDanceNow,361,SE,2019-02-20
 com.nttsolmare.game.android.nsef,NinjaShadow-otomegame/datingsim,362,SE,2019-02-20
 com.outerminds.tubular,PewDiePie'sTuberSimulator,363,SE,2019-02-20
@@ -419,66 +419,66 @@ net.wargaming.wows.blitz,ワールド・オブ・ウォーシップBlitz:TPS型�
 com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,418,SE,2019-02-20
 air.com.qublix.tropictrouble,TropicTroubleMatch3Builder,419,SE,2019-02-20
 com.babeltimeus.legendstd,RealmDefense:城防衛オンラインファンタジーウォーゲーム,420,SE,2019-02-20
-com.nexonm.dominations.adk,DomiNations,421,SE,2019-02-20
-com.whaleapp.resorthotel,ResortHotel:BayStory,422,SE,2019-02-20
-com.gamebasics.osm,OnlineSoccerManager(OSM)-FootballGame,423,SE,2019-02-20
-com.cedar.tropical.forest.match3.story,TropicalForest:Match3Story,424,SE,2019-02-20
-com.voltage.g.hykoi.en,Love365:FindYourStory,425,SE,2019-02-20
-com.rsg.lord,TheRoyalAffairs,426,SE,2019-02-20
-air.com.freshplanet.games.SongPop2,SongPop2-音楽トリビア,427,SE,2019-02-20
-com.d3p.mpq,マーベル・パズルクエス,428,SE,2019-02-20
-com.nhnent.SKQUEST,クルセイダークエスト,429,SE,2019-02-20
-com.naturalmotion.dawnoftitans,DawnofTitans-壮大な戦略ゲーム,430,SE,2019-02-20
-net.isitlove.cartercorp.ryan,Is-itLove?Ryan:Chooseyourstory–OtomeGames,431,SE,2019-02-20
-com.huge.slots.casino.vegas.android.avidly,DoubleWinCasinoSlots-FreeVegasCasinoGames,432,SE,2019-02-20
-com.webgames.ghosts,GhostTownAdventures:MysteryRiddlesGame,433,SE,2019-02-20
-com.rbx.battle.android,バトルアリーナ：ヒーローズアドベンチャー,434,SE,2019-02-20
-football.manager.games.fm19.mobile,FootballManager2019Mobile,435,SE,2019-02-20
-com.landlordgame.tycoon,LandlordTycoon-不動産シミュレーションへの投資,436,SE,2019-02-20
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,437,SE,2019-02-20
-se.filimundus.pippivvkhd,長くつ下のピッピのごたごた荘,438,SE,2019-02-20
-com.scopely.yux,YAHTZEE®WithBuddiesDiceGame,439,SE,2019-02-20
-com.nekki.shadowfight3,シャドウファイト3,440,SE,2019-02-20
-jp.gree.warofnationsbeta,WarofNations:PvPConflict,441,SE,2019-02-20
-com.WildWorks.AnimalJamPlayWild,AnimalJam-PlayWild!,442,SE,2019-02-20
-com.feelingtouch.idl,EpicSummoners:バトルヒーロー戦士-アクションRPG,443,SE,2019-02-20
-com.Tq.CQ2ClientAndroid,ConquerOnline,444,SE,2019-02-20
-com.chess,チェス·遊ぶ、学ぶ,445,SE,2019-02-20
-slots.pcg.casino.games.free.android,CashFrenzyCasino,446,SE,2019-02-20
-com.gamedevltd.wwh,ワールドウォーヒーローズ,447,SE,2019-02-20
-com.king.solgard,レジェンド・オブ・ソルガード,448,SE,2019-02-20
-com.nttsolmare.game.android.biref,BloodinRoses-otomegame/datingsim,449,SE,2019-02-20
-com.rovio.angrybirdstransformers,AngryBirdsTransformers,450,SE,2019-02-20
-com.ember.stainz,EmpireZ:終わりなき戦争,451,SE,2019-02-20
-com.ttlike.makien.android,AvatarKingdoms,452,SE,2019-02-20
-com.nutsplay.slg2.en.ccgg,WarofColony,453,SE,2019-02-20
-com.ninjakiwi.bloonstdbattles,BloonsTDBattles,454,SE,2019-02-20
-com.cookapps.bubblecoco,バブルコㅡコㅡ,455,SE,2019-02-20
-com.netease.z3.android,CrusadersofLight,456,SE,2019-02-20
-com.netease.immortalconquest,ImmortalConquest,457,SE,2019-02-20
-air.com.come2play.backgammon,BackgammonLive:オンラインボードゲーム,458,SE,2019-02-20
-com.zynga.ozmatch,TheWizardofOzMagicMatch3,459,SE,2019-02-20
-com.carolgames.moemoegirls,我的學妹不可能那麼萌2,460,SE,2019-02-20
-com.bingo.scape.android.free,BingoScapes-BingoPartyGame,461,SE,2019-02-20
-com.ftt.boxingstar.gl.aos,ボクシングスター(BoxingStar),462,SE,2019-02-20
-com.dragonnestm.ggplay.koramgame.global,DragonNestM,463,SE,2019-02-20
-com.firsttouchgames.dls3,DreamLeagueSoccer2019,464,SE,2019-02-20
-com.gsn.android.casino,"GSNCasino:OnlineCasino–Slots,Poker,Bingo",465,SE,2019-02-20
-com.playgendary.kickthebuddy,KicktheBuddy,466,SE,2019-02-20
-com.gamesture.questland,Questland:TurnBasedRPG,467,SE,2019-02-20
-com.devsisters.gb,クッキーラン:オーブンブレイク,468,SE,2019-02-20
-net.isitlove.cartercorp.colin,Is-itLove?Colin:Chooseyourstory-Love&Rock,469,SE,2019-02-20
-com.ninjakiwi.bloonstd5,BloonsTD5,470,SE,2019-02-20
-com.rovio.ABstellapop,AngryBirdsPOPBubbleShooter,471,SE,2019-02-20
-com.hotheadgames.google.free.survivors,ヒーロー・ハンター,472,SE,2019-02-20
-com.grumpyrhinogames.idleapocalypse,IdleApocalypse,473,SE,2019-02-20
-air.com.remivision.DreamlandStory,DreamlandStory,474,SE,2019-02-20
-com.dummy.poker,Dummyดัมมี่-ไพ่แคงเกมไพ่ฟรี,475,SE,2019-02-20
-com.coco2games.ng,NinjaGirls：Reborn,476,SE,2019-02-20
-com.hbwares.wordfeud.full,Wordfeud,477,SE,2019-02-20
-com.wgt.android.golf,WGTGolfGamebyTopgolf,478,SE,2019-02-20
-com.backflipstudios.android.dragonvale,DragonVale,479,SE,2019-02-20
-jp.co.atm.vcon.ww,VALKYRIECONNECT,480,SE,2019-02-20
+com.g5e.mahjong.android,ぱずじゃん：タイルをマッチさせる冒険クエスト,421,SE,2019-02-20
+com.miniclip.soccerstars,SoccerStars,422,SE,2019-02-20
+jp.gree.warofnationsbeta,WarofNations:PvPConflict,423,SE,2019-02-20
+com.WildWorks.AnimalJamPlayWild,AnimalJam-PlayWild!,424,SE,2019-02-20
+com.feelingtouch.idl,EpicSummoners:バトルヒーロー戦士-アクションRPG,425,SE,2019-02-20
+com.gamebasics.osm,OnlineSoccerManager(OSM)-FootballGame,426,SE,2019-02-20
+com.Tq.CQ2ClientAndroid,ConquerOnline,427,SE,2019-02-20
+com.chess,チェス·遊ぶ、学ぶ,428,SE,2019-02-20
+com.rsg.lord,TheRoyalAffairs,429,SE,2019-02-20
+slots.pcg.casino.games.free.android,CashFrenzyCasino,430,SE,2019-02-20
+com.gamedevltd.wwh,ワールドウォーヒーローズ,431,SE,2019-02-20
+com.nttsolmare.game.android.biref,BloodinRoses-otomegame/datingsim,432,SE,2019-02-20
+com.dipan.feelingtouch.godfather,ゴッドファーザー,433,SE,2019-02-20
+com.king.petrescuepatrolsaga,PetRescuePuzzleSaga,434,SE,2019-02-20
+com.club.sevenhot,ClubSlotSevenHot,435,SE,2019-02-20
+com.rovio.angrybirdstransformers,AngryBirdsTransformers,436,SE,2019-02-20
+com.ember.stainz,EmpireZ:終わりなき戦争,437,SE,2019-02-20
+com.ttlike.makien.android,AvatarKingdoms,438,SE,2019-02-20
+se.filimundus.pippivvkhd,長くつ下のピッピのごたごた荘,439,SE,2019-02-20
+com.nutsplay.slg2.en.ccgg,WarofColony,440,SE,2019-02-20
+com.cookapps.bubblecoco,バブルコㅡコㅡ,441,SE,2019-02-20
+com.netease.z3.android,CrusadersofLight,442,SE,2019-02-20
+com.whaleapp.resorthotel,ResortHotel:BayStory,443,SE,2019-02-20
+com.nordcurrent.sniperarena,SniperArena:対戦軍隊シューティング,444,SE,2019-02-20
+net.isitlove.cartercorp.ryan,Is-itLove?Ryan:Chooseyourstory–OtomeGames,445,SE,2019-02-20
+com.netease.immortalconquest,ImmortalConquest,446,SE,2019-02-20
+com.zynga.ozmatch,TheWizardofOzMagicMatch3,447,SE,2019-02-20
+com.carolgames.moemoegirls,我的學妹不可能那麼萌2,448,SE,2019-02-20
+com.bingo.scape.android.free,BingoScapes-BingoPartyGame,449,SE,2019-02-20
+com.ftt.boxingstar.gl.aos,ボクシングスター(BoxingStar),450,SE,2019-02-20
+com.wooga.jelly_splash,JellySplashマッチ3ゲーム-無料パズル-リラックスできるゲーム,451,SE,2019-02-20
+com.firsttouchgames.dls3,DreamLeagueSoccer2019,452,SE,2019-02-20
+com.gsn.android.casino,"GSNCasino:OnlineCasino–Slots,Poker,Bingo",453,SE,2019-02-20
+com.playgendary.kickthebuddy,KicktheBuddy,454,SE,2019-02-20
+com.devsisters.gb,クッキーラン:オーブンブレイク,455,SE,2019-02-20
+com.my.space.justice,SpaceJustice–飛行機の宇宙飛行士,456,SE,2019-02-20
+com.rovio.ABstellapop,AngryBirdsPOPBubbleShooter,457,SE,2019-02-20
+com.gamesture.questland,Questland:TurnBasedRPG,458,SE,2019-02-20
+com.hotheadgames.google.free.survivors,ヒーロー・ハンター,459,SE,2019-02-20
+com.glu.zbs,LefttoSurvive:PvPゾンビシューティング,460,SE,2019-02-20
+com.webgames.ghosts,GhostTownAdventures:MysteryRiddlesGame,461,SE,2019-02-20
+air.com.remivision.DreamlandStory,DreamlandStory,462,SE,2019-02-20
+com.dummy.poker,Dummyดัมมี่-ไพ่แคงเกมไพ่ฟรี,463,SE,2019-02-20
+com.coco2games.ng,NinjaGirls：Reborn,464,SE,2019-02-20
+com.plarium.stormfallrob,ストームフォール・バルーアの復活「Stormfall」,465,SE,2019-02-20
+com.hbwares.wordfeud.full,Wordfeud,466,SE,2019-02-20
+com.backflipstudios.android.dragonvale,DragonVale,467,SE,2019-02-20
+jp.co.atm.vcon.ww,VALKYRIECONNECT,468,SE,2019-02-20
+air.com.sgn.familyguy.gp,ファミリーガイ：こんなパズルゲーム狂ってるぜ！,469,SE,2019-02-20
+net.isitlove.cartercorp.colin,Is-itLove?Colin:Chooseyourstory-Love&Rock,470,SE,2019-02-20
+com.kog.grandchaseglobal,グランドチェイス-次元の追跡者-,471,SE,2019-02-20
+ata.squid.pimd,PartyinmyDorm,472,SE,2019-02-20
+ru.playme8.dachniki,ゴールデンファーム,473,SE,2019-02-20
+com.heliogames.westland,ウエストランド・サバイバル,474,SE,2019-02-20
+com.cedar.tropical.forest.match3.story,TropicalForest:Match3Story,475,SE,2019-02-20
+com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,476,SE,2019-02-20
+com.ninjakiwi.bloonstdbattles,BloonsTDBattles,477,SE,2019-02-20
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,478,SE,2019-02-20
+com.herocraft.game.free.spaceshipbattles,SpaceArena:Build&Fight,479,SE,2019-02-20
+se.turfwars.android,ターフ,480,SE,2019-02-20
 com.bandainamcoent.ninjavoltage_app,NARUTOXBORUTONINJAVOLTAGE,481,SE,2019-02-20
 com.ninjakiwi.bloonstd5,BloonsTD5,482,SE,2019-02-20
 com.grumpyrhinogames.idleapocalypse,IdleApocalypse,483,SE,2019-02-20
