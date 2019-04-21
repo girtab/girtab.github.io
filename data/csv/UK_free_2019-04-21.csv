@@ -1,16 +1,16 @@
 app_id,app_name,rank,country_code,date
 com.clean.road,CleanRoad,1,UK,2019-04-21
-com.whatsapp,WhatsAppMessenger,2,UK,2019-04-21
-io.voodoo.crowdcity,CrowdCity,3,UK,2019-04-21
-com.mgc.runnergame,RunRace3D-3D競走,4,UK,2019-04-21
-com.kwalee.drawit,Drawit,5,UK,2019-04-21
+io.voodoo.crowdcity,CrowdCity,2,UK,2019-04-21
+com.mgc.runnergame,RunRace3D-3D競走,3,UK,2019-04-21
+com.kwalee.drawit,Drawit,4,UK,2019-04-21
+com.whatsapp,WhatsAppMessenger,5,UK,2019-04-21
 com.housepaint.game,HousePaint,6,UK,2019-04-21
 com.playgendary.ktb2,KicktheBuddy:Forever,7,UK,2019-04-21
 com.azurgames.stackball,スタックボール-積み上げられた台座を砕いていこう ,8,UK,2019-04-21
 com.playgendary.pinatamasters,Pinatamasters,9,UK,2019-04-21
 com.neonplay.casualrollersplat2,RollerSplat!,10,UK,2019-04-21
-com.facebook.orca,Messenger,11,UK,2019-04-21
-com.word.game.fun.puzzle.prison.escape.captain,WordsStory-AddictiveWordGame,12,UK,2019-04-21
+com.word.game.fun.puzzle.prison.escape.captain,WordsStory-AddictiveWordGame,11,UK,2019-04-21
+com.facebook.orca,Messenger,12,UK,2019-04-21
 com.amanotes.beathopper,TilesHop:EDMRush!,13,UK,2019-04-21
 com.moonactive.coinmaster,CoinMaster,14,UK,2019-04-21
 com.twist.hit,TwistHit!,15,UK,2019-04-21
@@ -20,9 +20,9 @@ com.netflix.mediaclient,Netflix,18,UK,2019-04-21
 com.bskyb.nowtv.beta,NOWTV,19,UK,2019-04-21
 com.popcore.foldingblocks,FoldingBlocks,20,UK,2019-04-21
 com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,21,UK,2019-04-21
-com.snapchat.android,Snapchat,22,UK,2019-04-21
-com.google.android.apps.youtube.music,YouTubeMusic,23,UK,2019-04-21
-com.instagram.android,Instagram,24,UK,2019-04-21
+com.google.android.apps.youtube.music,YouTubeMusic,22,UK,2019-04-21
+com.instagram.android,Instagram,23,UK,2019-04-21
+com.snapchat.android,Snapchat,24,UK,2019-04-21
 com.emn8.mobilem8.nativeapp.bkuk,"BurgerKing®:Vouchers,Deals&RestaurantFinder",25,UK,2019-04-21
 com.XTechStudios.snakeIO,Snaker.io!,26,UK,2019-04-21
 com.luckyday.app,LuckyDay-WinRealMoney,27,UK,2019-04-21
@@ -484,7 +484,7 @@ com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,482,UK,2019-04-21
 com.samsung.android.voc,GalaxyMembers,483,UK,2019-04-21
 apposing.petrolprices,PetrolPrices-FreeUKPetrolStationComparison,484,UK,2019-04-21
 com.playgendary.partymasters,Partymasters-FunIdleGame,485,UK,2019-04-21
-com.avuscapital.trading212,"Trading212-Stocks,Forex,Indices,Gold",486,UK,2019-04-21
+com.avuscapital.trading212,"Trading212-Stocks,Forex,Crypto,Gold",486,UK,2019-04-21
 photoeditor.photocollage.collageframepro,PicCollageFrame-PhotoCollageMakerPicEditor,487,UK,2019-04-21
 com.gen.betterwalking,BetterMe:Walking,488,UK,2019-04-21
 com.alltrails.alltrails,"AllTrails:Hiking,Running&MountainBikeTrails",489,UK,2019-04-21
