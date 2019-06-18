@@ -1,0 +1,541 @@
+app_id,app_name,rank,country_code,date
+com.train.taxi,TrainTaxi,1,AU,2019-06-19
+com.cassette.aquapark,aquapark.io,2,AU,2019-06-19
+au.com.bp.run,BPRun,3,AU,2019-06-19
+com.facebook.orca,Messenger,4,AU,2019-06-19
+com.netflix.mediaclient,Netflix,5,AU,2019-06-19
+com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,6,AU,2019-06-19
+com.whatsapp,WhatsAppMessenger,7,AU,2019-06-19
+com.instagram.android,Instagram,8,AU,2019-06-19
+com.ubercab.eats,UberEats:地元で人気の料理をお届け,9,AU,2019-06-19
+com.snapchat.android,Snapchat,10,AU,2019-06-19
+pampam.ibf2,BottleFlip3D,11,AU,2019-06-19
+com.facebook.katana,Facebook,12,AU,2019-06-19
+au.com.kayosports,KayoSports,13,AU,2019-06-19
+com.kwalee.jetpackjump,JetpackJump,14,AU,2019-06-19
+com.olacabs.customer,Ola.Getrideson-demand,15,AU,2019-06-19
+com.h8games.blocksbuster,Blocksbuster!,16,AU,2019-06-19
+com.google.android.apps.youtube.music,YouTubeMusic,17,AU,2019-06-19
+com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,18,AU,2019-06-19
+au.com.stan.and,Stan,19,AU,2019-06-19
+com.zhiliaoapp.musically,TikTok,20,AU,2019-06-19
+com.google.android.apps.chromecast.app,GoogleHome,21,AU,2019-06-19
+com.ebay.mobile,"OnlineShopping-Buy,sell,andsavewitheBay",22,AU,2019-06-19
+com.luckyday.app,LuckyDay-WinRealMoney,23,AU,2019-06-19
+com.ubercab,Uber,24,AU,2019-06-19
+au.net.abc.iview,ABCiview,25,AU,2019-06-19
+com.microsoft.office.outlook,MicrosoftOutlook,26,AU,2019-06-19
+com.mgc.runnergame,RunRace3D-3D競走,27,AU,2019-06-19
+com.commbank.netbank,CommBank,28,AU,2019-06-19
+au.com.optus.selfservice,MyOptus,29,AU,2019-06-19
+com.ebay.gumtree.au,"Gumtree:Search,Buy&Sell",30,AU,2019-06-19
+com.azurgames.stackball,スタックボール-積み上げられた台座を砕いていこう ,31,AU,2019-06-19
+com.housepaint.game,HousePaint,32,AU,2019-06-19
+com.amanotes.beathopper,TilesHop:EDMRush!,33,AU,2019-06-19
+com.alex.ropearound,RopeAround!,34,AU,2019-06-19
+com.dragonest.autochess.google,AutoChess,35,AU,2019-06-19
+au.com.mi9.jumpin.app,9Now,36,AU,2019-06-19
+com.menulog.m,MenulogOrderTakeawayOnline,37,AU,2019-06-19
+au.gov.dhs.centrelinkexpressplus,ExpressPlusCentrelink,38,AU,2019-06-19
+com.google.android.apps.walletnfcrel,GooglePay-これからのお財布,39,AU,2019-06-19
+com.colorhole.game,ColorHole3D,40,AU,2019-06-19
+com.afterpaymobile,Afterpay,41,AU,2019-06-19
+com.codigames.idle.theme.park.tycoon,IdleThemeParkTycoon-RecreationGame,42,AU,2019-06-19
+io.voodoo.crowdcity,CrowdCity,43,AU,2019-06-19
+com.google.android.play.games,GooglePlayゲーム,44,AU,2019-06-19
+com.pinterest,Pinterest（ピンタレスト）,45,AU,2019-06-19
+au.gov.dhs.centrelink.mygovauthenticator,myGovAccess-codecreator,46,AU,2019-06-19
+com.kfcaus.ordering,KFC-OrderOnTheGo,47,AU,2019-06-19
+com.geishatokyo.trafficrun,TrafficRun!,48,AU,2019-06-19
+com.swm.live,7plus,49,AU,2019-06-19
+au.com.seek,SEEKJobSearch,50,AU,2019-06-19
+com.mcdonalds.au.gma,mymacca'sOrdering&Offers,51,AU,2019-06-19
+com.audible.application,Amazonオーディオブック-Audible(オーディブル),52,AU,2019-06-19
+com.telstra.mobile.android.mytelstra,Telstra24x7,53,AU,2019-06-19
+com.productmadness.lightninglink,LightningLinkカジノスロット,54,AU,2019-06-19
+io.voodoo.holeio,Hole.io,55,AU,2019-06-19
+com.levelzed.waterjump,パープルダイバー,56,AU,2019-06-19
+com.amazon.mShop.android.shopping,Amazonショッピングアプリ,57,AU,2019-06-19
+com.colorup.game,ColorBump3D,58,AU,2019-06-19
+com.clean.road,CleanRoad,59,AU,2019-06-19
+com.playgendary.pinatamasters,Pinatamasters,60,AU,2019-06-19
+com.peoplefun.wordcross,Wordscapes,61,AU,2019-06-19
+com.sadpuppy.lemmings,Lemmings公式ゲーム！,62,AU,2019-06-19
+com.kwalee.drawit,Drawit,63,AU,2019-06-19
+com.habby.archero,アーチャー伝説,64,AU,2019-06-19
+com.roblox.client,ROBLOX,65,AU,2019-06-19
+com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,66,AU,2019-06-19
+com.webling.hungryjacks,HungryJack's®Shake&Win,67,AU,2019-06-19
+au.com.realestate.app,"realestate.com.au-Buy,Rent&SellProperty",68,AU,2019-06-19
+com.smule.singandroid,Smule-ナンバーワンの歌アプリ,69,AU,2019-06-19
+paint.by.number.pixel.art.coloring.drawing.puzzle,数字で塗り絵-無料塗り絵ブック＆ペイントゲーム＆リラックスゲーム,70,AU,2019-06-19
+au.gov.bom.metview,BOMWeather,71,AU,2019-06-19
+com.didiglobal.passenger,DiDi(ディディ)-タクシーがすぐ呼べる配車アプリ,72,AU,2019-06-19
+com.aqua.slide,WaterparkSlide.io,73,AU,2019-06-19
+com.miniclip.eightballpool,8BallPool,74,AU,2019-06-19
+com.tinder,Tinder,75,AU,2019-06-19
+com.twist.hit,TwistHit!,76,AU,2019-06-19
+co.zip,"Zip-ShopNow,PayLater",77,AU,2019-06-19
+com.paypal.android.p2pmobile,PayPal,78,AU,2019-06-19
+com.orbitalknight.castlewreck,CastleWreck,79,AU,2019-06-19
+com.booking,ホテル予約のブッキングドットコム,80,AU,2019-06-19
+com.sec.android.easyMover,GalaxySmartSwitchMobile,81,AU,2019-06-19
+com.sbs.ondemand.android,SBSOnDemand,82,AU,2019-06-19
+slots.pcg.casino.games.free.android,CashFrenzyCasino–TopCasinoGames,83,AU,2019-06-19
+com.google.android.apps.translate,Google翻訳,84,AU,2019-06-19
+com.shazam.android,Shazam,85,AU,2019-06-19
+com.google.android.projection.gearhead,AndroidAuto-マップ、メディア、メッセージ、音声操作,86,AU,2019-06-19
+com.facebook.mlite,MessengerLite:無料通話とメッセージ,87,AU,2019-06-19
+io.ngames.cowboy,Cowboy!,88,AU,2019-06-19
+com.airbnb.android,Airbnb(エアビーアンドビー)世界の空部屋シェアサイト,89,AU,2019-06-19
+au.com.metro.DumbWaysToDraw,ダム・ウェイズ・トゥ・ドロー,90,AU,2019-06-19
+com.tubitv,TubiTV-無料テレビ＆映画,91,AU,2019-06-19
+com.discord,Discord-ゲーマー向けチャットシステム,92,AU,2019-06-19
+com.waze,Waze-GPS、地図、渋滞情報、カーナビ,93,AU,2019-06-19
+com.yy.musicfm.global,FreeMusic-UnlimitedofflineMusicdownloadfree,94,AU,2019-06-19
+com.king.candycrushsaga,キャンディークラッシュ,95,AU,2019-06-19
+com.reddit.frontpage,Reddit,96,AU,2019-06-19
+com.deliveroo.orderapp,Deliveroo:FoodDelivery,97,AU,2019-06-19
+com.life360.android.safetymapd,Life360－子供の見守り、家族と位置情報共有アプリ,98,AU,2019-06-19
+com.kiloo.subwaysurf,SubwaySurfers,99,AU,2019-06-19
+com.nianticlabs.pokemongo,PokémonGO,100,AU,2019-06-19
+au.com.nab.mobile,NABMobileBanking,101,AU,2019-06-19
+com.google.android.apps.authenticator2,Google認証システム,102,AU,2019-06-19
+com.horoscope.palmmaster,占星術＆パームマスター/パームスキャナーとエージング,103,AU,2019-06-19
+com.neonplay.casualrollersplat2,RollerSplat!,104,AU,2019-06-19
+com.groupon,Groupon（グルーポン)毎日見たくなる、お得なクーポンアプリ,105,AU,2019-06-19
+au.com.foxtel.Go,FoxtelGo,106,AU,2019-06-19
+com.soundcloud.android,SoundCloud-音楽＆オーディオ,107,AU,2019-06-19
+com.google.earth,GoogleEarth,108,AU,2019-06-19
+com.amazon.avod.thirdpartyclient,Amazonプライム・ビデオ,109,AU,2019-06-19
+org.westpac.bank,WestpacMobileBanking,110,AU,2019-06-19
+com.woolworths,Woolworths,111,AU,2019-06-19
+com.twitter.android,Twitter,112,AU,2019-06-19
+com.chitralekha.evolution,放置ワールド！,113,AU,2019-06-19
+com.popcore.foldingblocks,FoldingBlocks,114,AU,2019-06-19
+ocean.nomad.survival.simulator,ラフティングのサバイバル:SurvivalonRaft-OceanNomad,115,AU,2019-06-19
+com.calm.android,"Calm-Meditate,Sleep,Relax",116,AU,2019-06-19
+com.mobirix.swipebrick2,ブリックスブレーカークエスト,117,AU,2019-06-19
+com.popreach.dumbways,DumbWaystoDieOriginal,118,AU,2019-06-19
+com.productmadness.hovmobile,HeartofVegas:オンラインカジノスロットアプリ,119,AU,2019-06-19
+com.iart.camera.photo,iArtカメラ:アート効果と多重露光,120,AU,2019-06-19
+com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,121,AU,2019-06-19
+com.sbs.ondemand.tv,SBSOnDemand,122,AU,2019-06-19
+com.wallpaper.live.launcher,BlingLauncher-LiveWallpapers&Themes,123,AU,2019-06-19
+com.anz.android.gomoney,ANZAustralia,124,AU,2019-06-19
+com.adobe.reader,AdobeAcrobatReader:PDFを閲覧・作成・編集,125,AU,2019-06-19
+com.varbroz.perfectturn,PerfectTurn!,126,AU,2019-06-19
+com.linkedin.android,LinkedIn,127,AU,2019-06-19
+com.jora.android,"JoraJobs-Jobsearch,employment&joblistings",128,AU,2019-06-19
+au.net.abc.kidsiview,ABCKIDSiview,129,AU,2019-06-19
+com.moonactive.coinmaster,CoinMaster,130,AU,2019-06-19
+sg.bigo.live,BIGOLIVE（ビゴライブ)‐SNS系ライブ配信,131,AU,2019-06-19
+com.paint.number.davinci,ColoringFun:ColorbyNumberGames,132,AU,2019-06-19
+com.playrix.township,タウンシップ(Township),133,AU,2019-06-19
+com.playrix.homescapes,ホームスケイプ(Homescapes),134,AU,2019-06-19
+com.altaine.subwayau,SUBWAY®Australia,135,AU,2019-06-19
+com.agminstruments.drumpadmachine,DrumPadMachine-ビートメーカー,136,AU,2019-06-19
+com.game5mobile.lineandwater,HappyGlass,137,AU,2019-06-19
+com.playhardlab.factory,工場の覇者,138,AU,2019-06-19
+com.adobe.lrmobile,AdobeLightroom-写真加工・編集アプリのライトルーム,139,AU,2019-06-19
+ma.safe.bnau,AustraliaBreakingNews&LocalNewsForFree,140,AU,2019-06-19
+io.voodoo.paper2,Paper.io2,141,AU,2019-06-19
+au.com.tenplay,10play,142,AU,2019-06-19
+com.productmadness.cashmancasino,CashmanCasinoSlot:無料カジノスロットゲーム,143,AU,2019-06-19
+com.mindy.grap1,StickmanHook,144,AU,2019-06-19
+com.ultra7game.slotultimate,UltimateSlots:2019VegasCasinoSlotMachines,145,AU,2019-06-19
+com.bigfishgames.toystorydropgoog,トイ・ストーリードロップ！,146,AU,2019-06-19
+com.tencent.ig,PUBGMOBILE,147,AU,2019-06-19
+com.facebook.lite,FacebookLite,148,AU,2019-06-19
+com.motionvolt.fliprunner,FlipRunner,149,AU,2019-06-19
+com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),150,AU,2019-06-19
+com.coles.android.flybuys.release,flybuys,151,AU,2019-06-19
+com.callerscreen.color.phone.ringtone.flash,"ColorFlashLauncher-CallScreen,Themes",152,AU,2019-06-19
+com.telstra.android.afl,AFLLiveOfficialApp,153,AU,2019-06-19
+com.duolingo,Duolingo|英語を無料で学ぼう,154,AU,2019-06-19
+com.bumble.app,Bumble—デート。友達と会う。ネットワーク。,155,AU,2019-06-19
+au.com.hotdoc.android.hotdoc,HotDoc,156,AU,2019-06-19
+com.azure.authenticator,MicrosoftAuthenticator,157,AU,2019-06-19
+com.matchington.mansion,マッチングトン·マンション,158,AU,2019-06-19
+com.nordvpn.android,NordVPN,159,AU,2019-06-19
+au.com.opal.travel,OpalTravel,160,AU,2019-06-19
+au.com.fuelmap,FuelMapAustralia,161,AU,2019-06-19
+com.weplaydots.twodotsandroid,TwoDots,162,AU,2019-06-19
+au.com.foxtel.Now,FoxtelNow,163,AU,2019-06-19
+app.facereading.signs,フェース予測ー老ける予測,164,AU,2019-06-19
+com.joom,"JOOM:Shoplowpricedeals,clothesoffers&gifts",165,AU,2019-06-19
+au.gov.nsw.service,ServiceNSW,166,AU,2019-06-19
+tv.peel.remote,PeelSmartRemoteandTVGuide,167,AU,2019-06-19
+com.pl.cwc_2015,ICCCricketWorldCup2019,168,AU,2019-06-19
+com.microsoft.appmanager,スマホ同期管理アプリ,169,AU,2019-06-19
+com.nexelon.fishinglife,フィッシング・ライフ,170,AU,2019-06-19
+au.com.carsales,Carsales,171,AU,2019-06-19
+com.fgs.ct,Off-RoadTravel:4wdSUVsridetohill,172,AU,2019-06-19
+com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,173,AU,2019-06-19
+com.amanotes.pamadancingroad,DancingRoad:ColourBallRun!,174,AU,2019-06-19
+de.stocard.stocard,Stocard-ポイントカード,175,AU,2019-06-19
+com.skype.raider,﻿Skype-無料のチャットとビデオ通話,176,AU,2019-06-19
+com.google.android.apps.docs.editors.docs,Googleドキュメント,177,AU,2019-06-19
+com.candywriter.bitlife,BitLife-LifeSimulator,178,AU,2019-06-19
+com.fitbit.FitbitMobile,Fitbit,179,AU,2019-06-19
+au.com.qantas.qantas,QantasAirways,180,AU,2019-06-19
+com.samsung.android.app.notes,GalaxyNotes,181,AU,2019-06-19
+com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で色ぬりえ,182,AU,2019-06-19
+com.pof.android,魚のプレンティ,183,AU,2019-06-19
+it.beem.app,BeemIt-PayRequestSplitMoney,184,AU,2019-06-19
+com.bigcake.android.solitairedaily,ソリティアデイリー,185,AU,2019-06-19
+au.gov.vic.ptv,PublicTransportVictoriaapp,186,AU,2019-06-19
+jp.pokemon.pokemonscrambleSP,ポケモンスクランブルSP,187,AU,2019-06-19
+com.google.android.apps.youtube.kids,YouTubeKids,188,AU,2019-06-19
+com.healthengine.android,HealthEngine,189,AU,2019-06-19
+de.tellonym.app,Tellonym:HonestQuestions&Feedback,190,AU,2019-06-19
+future.me.old.baby.astrology,FutureTime-エイジングスキャナー、赤ちゃん予測、手の達人,191,AU,2019-06-19
+au.com.dominos.olo.android.app,Domino’s,192,AU,2019-06-19
+com.h8games.helixjump,HelixJump,193,AU,2019-06-19
+se.ace.fishinc,HookedInc:FisherTycoon,194,AU,2019-06-19
+com.crazylabs.tricky.traps.game,TrickyTaps,195,AU,2019-06-19
+com.peoplefun.wordstacks,WordStacks,196,AU,2019-06-19
+au.com.ninenow.ctv,9Now,197,AU,2019-06-19
+com.twistygames.animalrescue,AnimalRescue3D,198,AU,2019-06-19
+com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,199,AU,2019-06-19
+com.gpp.sushibar,SushiBar,200,AU,2019-06-19
+org.zwanoo.android.speedtest,Speedtest.net,201,AU,2019-06-19
+com.viber.voip,Viber無料通話＆メッセージアプリ,202,AU,2019-06-19
+com.gen.workoutme,BetterMe:WeightLossWorkouts,203,AU,2019-06-19
+com.bitstrips.imoji,Bitmoji–あなた専用のオリジナル絵文字,204,AU,2019-06-19
+air.com.hypah.io.slither,slither.io,205,AU,2019-06-19
+com.google.android.apps.tachyon,GoogleDuo-高品質のビデオ通話,206,AU,2019-06-19
+com.fungi.houseflip,HouseFlip,207,AU,2019-06-19
+de.speedup.mister,CardCleaner-Memorycleaner&Trashremoval,208,AU,2019-06-19
+com.samsung.android.voc,GalaxyMembers,209,AU,2019-06-19
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,210,AU,2019-06-19
+com.weather.weatherforecast.weatherchannelinfo,天気レーダー-天気予報：今日と明日,211,AU,2019-06-19
+com.fairfax.domain,"Domain-Buy,rentorsellproperty&realestate",212,AU,2019-06-19
+com.nianticlabs.hpwu.prod,ハリー・ポッター:魔法同盟,213,AU,2019-06-19
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),214,AU,2019-06-19
+com.getsomeheadspace.android,Headspace:Meditation&Sleep,215,AU,2019-06-19
+com.magisto,Magistoスマートな動画編集・ムービーとスライドショー作成アプリ,216,AU,2019-06-19
+au.gov.dhs.expressplus.medicare,ExpressPlusMedicare,217,AU,2019-06-19
+com.grofsoft.tripview.lite,TripViewLite,218,AU,2019-06-19
+game.puzzle.woodypuzzle,ウッディーパズル(Woody™BlockPuzzle),219,AU,2019-06-19
+au.com.kayosports.tv,KayoSports-forAndroidTV,220,AU,2019-06-19
+au.com.catchoftheday.android,Catch:OnlineShopping,221,AU,2019-06-19
+com.wordgame.puzzle.block.crush,WordSwipe,222,AU,2019-06-19
+com.iposedon.bricksbreakerballs,BricksBallCrusher,223,AU,2019-06-19
+com.carpegame.gobbledash,GobbleDash,224,AU,2019-06-19
+com.smilerlee.klondike,Solitaire,225,AU,2019-06-19
+com.google.android.calendar,Googleカレンダー,226,AU,2019-06-19
+com.pineconesoft.petrolspy,PetrolSpyAustralia,227,AU,2019-06-19
+com.spacegame.homedesign,マイホーム　デザインドリーム,228,AU,2019-06-19
+com.pixelfederation.ts2,TrainStation2:CollectTrains&BuildAnEmpire,229,AU,2019-06-19
+com.blizzpixelart.pixel.coloring,PixNite-番号による色,230,AU,2019-06-19
+com.latitudefinancial.latitudeapp,Latitude,231,AU,2019-06-19
+net.zedge.android,ZEDGE™着信音&壁紙,232,AU,2019-06-19
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),233,AU,2019-06-19
+com.outfit7.herodash,トーキング・トムのヒーロー・ダッシュ,234,AU,2019-06-19
+com.apple.android.music,AppleMusic,235,AU,2019-06-19
+com.myfitnesspal.android,MyFitnessPal,236,AU,2019-06-19
+com.alien.shooter.galaxy.attack,ギャラクシーアタック：エイリアンシューター,237,AU,2019-06-19
+com.tencent.mm,WeChat,238,AU,2019-06-19
+org.videolan.vlc,VLCforAndroid,239,AU,2019-06-19
+de.lufthansa.ife.va,VirginAustraliaEntertainment,240,AU,2019-06-19
+com.playgendary.ktb2,KicktheBuddy:Forever,241,AU,2019-06-19
+org.mozilla.firefox,Firefoxブラウザー高速&プライベート,242,AU,2019-06-19
+au.gov.ato.ATOTax,AustralianTaxationOffice,243,AU,2019-06-19
+com.easybrain.jigsaw.puzzles,ジグソーパズル-パズルゲーム,244,AU,2019-06-19
+photo.editor.photoeditor.photoeditorpro,画像加工-写真編集、コラージュメーカー,245,AU,2019-06-19
+com.tattsgroup.theLottLite,theLottLite-LottoResults,246,AU,2019-06-19
+com.diandian.gog,ガンズ・オブ・グローリー(GunsofGlory),247,AU,2019-06-19
+com.gramgames.mergedragons,マージドラゴン(MergeDragons!),248,AU,2019-06-19
+com.graymatrix.did,"ZEE5-Movies,TVShows,LIVETV&Originals",249,AU,2019-06-19
+au.com.airtasker,"Airtasker-Gethandyman,cleaner&homejobsdone",250,AU,2019-06-19
+com.google.android.apps.adm,端末を探す,251,AU,2019-06-19
+com.huge.slots.casino.vegas.android.avidly,ダブルウィンカジノスロットゲーム,252,AU,2019-06-19
+com.amazon.kindle,Kindle電子書籍リーダー:人気小説や無料漫画、雑誌も多数,253,AU,2019-06-19
+com.geishatokyo.snowballio,Snowball.io,254,AU,2019-06-19
+com.codigames.market.idle.tycoon,IdleSupermarketTycoon-TinyShopGame,255,AU,2019-06-19
+com.dropbox.android,Dropbox,256,AU,2019-06-19
+tv.twitch.android.app,Twitch,257,AU,2019-06-19
+com.instagram.layout,LayoutfromInstagram,258,AU,2019-06-19
+com.cbs.au,10AllAccess,259,AU,2019-06-19
+com.microsoft.office.word,MicrosoftWord:文書の執筆、編集、共有を外出先でも,260,AU,2019-06-19
+com.sportsbet.info,Sportsbet,261,AU,2019-06-19
+com.mrxw.android.ltgames,最後の希望:PixelZ,262,AU,2019-06-19
+com.indeed.android.jobsearch,Indeed求人検索-正社員の転職・学生バイト・パート・派遣・新卒就活　全部まとめて仕事探し,263,AU,2019-06-19
+com.bongolight.pixelcoloring,"ColorbyNumber,PixelColor-PixelArt",264,AU,2019-06-19
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,265,AU,2019-06-19
+fm.castbox.audiobook.radio.podcast,Castbox–無料の、素晴らしいPodcastのためのアプリ,266,AU,2019-06-19
+com.mobirix.zumaking2,マーブルミッション,267,AU,2019-06-19
+com.metacortexsolutions.idlegrasscutter,IdleGrassCutter,268,AU,2019-06-19
+com.playgendary.tanks,TankStars,269,AU,2019-06-19
+com.daily.fitness.workout,DailyFitness,270,AU,2019-06-19
+com.tw.tycoon.casino,TycoonCasino：無料ラスベガス巨額パチンコ,271,AU,2019-06-19
+com.XTechStudios.snakeIO,Snaker.io!,272,AU,2019-06-19
+com.boo.bmoji,Bemoji|Your3DAvatarEmoji,273,AU,2019-06-19
+com.imangi.templerun2,TempleRun2,274,AU,2019-06-19
+com.create.pottery.paint.by.color,Pottery.ly3D–RelaxingCeramicArt,275,AU,2019-06-19
+com.google.android.apps.podcasts,Googleポッドキャスト,276,AU,2019-06-19
+com.citizen.jackpot.slots,CitizenJackpotSlots-FreeSpinsLinkBigWin,277,AU,2019-06-19
+au.com.auspost.android,AustraliaPost,278,AU,2019-06-19
+com.differencetenderwhite.skirt,ブロックパズルジュエル,279,AU,2019-06-19
+au.com.freeview.fv,FreeviewFV,280,AU,2019-06-19
+rest.com.rest,Rest,281,AU,2019-06-19
+com.mojang.minecrafttrialpe,MinecraftTrial,282,AU,2019-06-19
+au.com.weatherzone.android.weatherzonefreeapp,Weatherzone,283,AU,2019-06-19
+slots.machine.winning.android,WinningSlots™-FreeVegasCasinoSlotsGames,284,AU,2019-06-19
+easy.sudoku.puzzle.solver.free,ナンプレ-o(≧ω≦)o大人気無料数独アプリ！,285,AU,2019-06-19
+com.coles.android.shopmate,ColesApp,286,AU,2019-06-19
+co.ritual.app,Ritual,287,AU,2019-06-19
+com.hily.app,"HilyDating:Chat,Match&MeetSingles",288,AU,2019-06-19
+com.home.sms.messages.emoji,"QuickSMSLauncher:Emoji,CustomizeChat",289,AU,2019-06-19
+com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-TheOfficialGame,290,AU,2019-06-19
+com.google.android.apps.docs.editors.sheets,Googleスプレッドシート,291,AU,2019-06-19
+roll.unblock.ball.block.puzzle,ブロック解除-ブロックパズル,292,AU,2019-06-19
+screenrecorder.recorder.editor,VRecorder画面録画-サウンド、動画エディタ,293,AU,2019-06-19
+com.Neurononfire.SupremeDuelist,SupremeDuelistStickman,294,AU,2019-06-19
+com.word.game.fun.puzzle.prison.escape.captain,WordsStory-AddictiveWordGame,295,AU,2019-06-19
+com.surpax.ledflashlight.panel,懐中電灯-ledライト,296,AU,2019-06-19
+kik.android,Kik,297,AU,2019-06-19
+com.easi.customer,EASI-华人美食外卖送餐首选平台,298,AU,2019-06-19
+us.zoom.videomeetings,ZOOMCloudMeetings,299,AU,2019-06-19
+au.com.ingdirect.android,INGAustraliaBanking,300,AU,2019-06-19
+com.samsung.android.oneconnect,SmartThings,301,AU,2019-06-19
+org.telegram.messenger,Telegram,302,AU,2019-06-19
+com.google.android.apps.navlite,GoogleMapsGo向けナビ,303,AU,2019-06-19
+com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),304,AU,2019-06-19
+com.Plus500,Plus500:CFDOnlineTradingonForexandStocks,305,AU,2019-06-19
+com.freegame.carsmasher,CarSmasher,306,AU,2019-06-19
+com.samsung.android.app.watchmanager,GalaxyWearable(GearManager),307,AU,2019-06-19
+com.miniclip.bowmasters,Bowmasters,308,AU,2019-06-19
+com.sec.android.app.voicenote,Galaxyボイスレコーダー,309,AU,2019-06-19
+au.com.qantas.qstreaming,QantasEntertainment,310,AU,2019-06-19
+com.stx.cutit,CutIt,311,AU,2019-06-19
+com.coldapp.at50rooms1,Escapegame:50rooms1,312,AU,2019-06-19
+dinnerdeal.android.customer,EatClub-LiveRestaurantDeals&ExclusiveOffers,313,AU,2019-06-19
+com.dvloper.granny,Granny,314,AU,2019-06-19
+com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),315,AU,2019-06-19
+app.qrcode,【高速+無料】QRコード読み取りアプリ：QRコードリーダー読み取り無料人気,316,AU,2019-06-19
+au.com.flightcentre,FlightCentre:CheapFlights,317,AU,2019-06-19
+com.outfit7.mytalkingtom2,マイ・トーキング・トム2,318,AU,2019-06-19
+com.google.android.apps.googleassistant,Googleアシスタント,319,AU,2019-06-19
+com.msi.logogame,LogoGame:GuessBrandQuizロゴゲーム：ブランド当てクイズ,320,AU,2019-06-19
+au.com.vodafone.mobile.gss,MyVodafone,321,AU,2019-06-19
+com.crowdstar.covetHome,DesignHome,322,AU,2019-06-19
+com.klook,"Klook:TravelActivities,DayTrips&GuidedTours",323,AU,2019-06-19
+com.sygic.aura,SygicGPSNavigation&Maps,324,AU,2019-06-19
+com.custom.pickmeup,PickMeUp™,325,AU,2019-06-19
+com.intsig.camscanner,CamScannerスキャンPDF作成,326,AU,2019-06-19
+com.etermax.trivia.preguntados2,トリビアクラック2,327,AU,2019-06-19
+com.luckyscratchapp.free.scratchers.winrealmoney.lucky.day,LuckyScratchWINREALMONEY-it'syourLUCKYDAY,328,AU,2019-06-19
+com.supertapx.lovedots,LoveBalls,329,AU,2019-06-19
+com.virginaustralia.vaapp,VirginAustralia,330,AU,2019-06-19
+air.com.playtika.slotomania,Slotomania™-FreeSlots英語版,331,AU,2019-06-19
+com.ultrapped.beerpong,BeerPong,332,AU,2019-06-19
+com.whaleapp.hiddenhotel,HiddenHotel,333,AU,2019-06-19
+com.crazylabs.amaze.game,AMAZE!,334,AU,2019-06-19
+com.microsoft.launcher,MicrosoftLauncher,335,AU,2019-06-19
+com.ty.driftycar,DriftyRace,336,AU,2019-06-19
+com.giphy.messenger,GIPHY-AnimatedGIFsSearchEngine,337,AU,2019-06-19
+com.pdf.viewer.pdftool.reader.document,Android用のPDFReader,338,AU,2019-06-19
+com.lilithgame.hgame.gp,AFKArena,339,AU,2019-06-19
+com.playstudios.popslots,POP!Slots－スロット無料カジノ,340,AU,2019-06-19
+com.ubercab.driver,UberDriver-ドライバー用,341,AU,2019-06-19
+com.brainbow.peak.app,PEAK（ピーク）-脳トレ,342,AU,2019-06-19
+com.google.android.apps.photos,Googleフォト,343,AU,2019-06-19
+com.magic.launcher.wallpaper.face.memoji.screen,MagicLauncherー-面白い絵文字&ステッカー、テーマ,344,AU,2019-06-19
+com.cabs,13cabs,345,AU,2019-06-19
+com.pixelberrystudios.choices,Choices:StoriesYouPlay,346,AU,2019-06-19
+com.telstra.telstradevicecare,TelstraDeviceCare,347,AU,2019-06-19
+com.curiosity.curiositystream,CuriosityStream-WatchDocumentariesOnline,348,AU,2019-06-19
+slots.hot.vegas.casino.games.free,SlotsCasino-JackpotMania,349,AU,2019-06-19
+com.halfbrick.fruitninjafree,FruitNinja®,350,AU,2019-06-19
+com.maxprod.dadjokes,DadJokes,351,AU,2019-06-19
+com.aim.racing,ExtremeCarDrivingSimulator,352,AU,2019-06-19
+com.microsoft.xboxone.smartglass,Xbox,353,AU,2019-06-19
+com.clement.ballmayhem,BallMayhem!,354,AU,2019-06-19
+com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ作成,355,AU,2019-06-19
+com.hypermania.merge.tower.bots,MergeTowerBots,356,AU,2019-06-19
+com.sports.real.golf.rival.online,GolfRival,357,AU,2019-06-19
+com.diamondlife.slots.vegas.free,LotsaSlots-VegasCasinoSLOTSFreewithbonus,358,AU,2019-06-19
+com.sec.android.app.shealth,SHealth,359,AU,2019-06-19
+au.com.fuel7eleven,7-ElevenFuel,360,AU,2019-06-19
+com.yahoo.mobile.client.android.mail,YahooMail–OrganizedEmail,361,AU,2019-06-19
+com.google.android.contacts,連絡帳,362,AU,2019-06-19
+com.ea.gp.simsmobile,TheSims シムズ ポケット,363,AU,2019-06-19
+com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,364,AU,2019-06-19
+com.bitmango.go.wordcookies,WordCookies!®,365,AU,2019-06-19
+com.fws.plantsnap2,PlantSnap-植物や花、木などを識別します,366,AU,2019-06-19
+com.episodeinteractive.android.catalog,Episode-ChooseYourStory,367,AU,2019-06-19
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,368,AU,2019-06-19
+com.cocoplay.sweet.bakery,マイ・ベーカリーの王国-ケーキを焼いて飾って売ろう,369,AU,2019-06-19
+com.miniclip.topskater,FlipSkater,370,AU,2019-06-19
+com.cldeer.pandaword,WordPandaFeed,371,AU,2019-06-19
+com.bigframes.color_road,ColorRoad!,372,AU,2019-06-19
+au.com.dominos.offers,Domino'sOffers,373,AU,2019-06-19
+qr.code.barcode.maker.scanner.reader,QRCodeReader-バーコードスキャナ＆QRコードスキャナ,374,AU,2019-06-19
+com.microsoft.teams,MicrosoftTeams,375,AU,2019-06-19
+com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),376,AU,2019-06-19
+com.alibaba.aliexpresshd,AliExpress-スマートにお買い物して、より良い暮らしを,377,AU,2019-06-19
+co.hinge.app,Hinge-Dating&Relationships,378,AU,2019-06-19
+com.grammarly.android.keyboard,GrammarlyKeyboard—Typewithconfidence,379,AU,2019-06-19
+com.motionvolt.flipbounce,FlipMaster,380,AU,2019-06-19
+com.alibaba.intl.android.apps.poseidon,Alibaba.com:オンラインB2B取引マーケットの大手運営会社,381,AU,2019-06-19
+com.aftase.koja,MacoSlo,382,AU,2019-06-19
+com.gumtreejobs.au,GumtreeJobs-JobSearch,383,AU,2019-06-19
+com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,384,AU,2019-06-19
+barcode.scanner.qrcode.reader.flashlight,QRコードリーダー：QR＆バーコードをスキャンする,385,AU,2019-06-19
+com.dts.freefireth,GarenaFreeFire:Rampage,386,AU,2019-06-19
+com.jimbop.letmeout,LetMeOut,387,AU,2019-06-19
+co.thefabulous.app,Fabulous:リラックス、瞑想、睡眠でモチベーションをキープ！,388,AU,2019-06-19
+daily.face.horoscope.zodiac,"FaceLab-facereading,palmscan,babypredict",389,AU,2019-06-19
+com.lightricks.facetune.free,Facetune2:高機能！自撮り写真加工カメラ,390,AU,2019-06-19
+com.vacuapps.jellify,ライブ写真-Jellify,391,AU,2019-06-19
+com.jellybtn.boardkings,BoardKings™️,392,AU,2019-06-19
+com.flightradar24free,Flightradar24フライトトラッカー,393,AU,2019-06-19
+com.australiansuper.android.australiansuper,AustralianSuper,394,AU,2019-06-19
+com.apple.movetoios,MovetoiOS,395,AU,2019-06-19
+com.mobirix.parkingking,駐車場の王,396,AU,2019-06-19
+com.dotnbeat.dancing.music.rhythm.handspeed,點點リズム(DotnBeat)　君の手の速さをテストする,397,AU,2019-06-19
+com.agoda.mobile.consumer,Agoda-国内・海外ホテル宿泊予約はアゴダ®でハッピー,398,AU,2019-06-19
+tw.mobileapp.qrcode.banner,QRコードリーダー,399,AU,2019-06-19
+com.google.android.apps.fitness,GoogleFit:運動を記録して健康的な生活を,400,AU,2019-06-19
+com.soomapps.screenmirroring,ミラーリング-スマホテレビ接続-スクリーンミラーリング(Castto),401,AU,2019-06-19
+com.camerasideas.trimmer,"YouCut-VideoEditor&VideoCutter,NoWatermark",402,AU,2019-06-19
+com.expressvpn.vpn,ExpressVPN-無制限の安全なVPNプロキシ,403,AU,2019-06-19
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),404,AU,2019-06-19
+android.AbcApplication,ABCNEWS,405,AU,2019-06-19
+net.skyscanner.android.main,Skyscanner(スカイスキャナー)格安航空券検索,406,AU,2019-06-19
+com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,407,AU,2019-06-19
+games.onebutton.golfbattle,GolfBattle,408,AU,2019-06-19
+com.archery.go.bow.arrow.king.sports.game,アーチェリー試合、アーチェリー,409,AU,2019-06-19
+com.instagram.boomerang,BoomerangfromInstagram,410,AU,2019-06-19
+com.canva.editor,Canva-ポスター、チラシ、フライヤー、名刺やお礼状を簡単に作成できるグラフィックデザインアプリ,411,AU,2019-06-19
+com.joytunes.simplypiano,SimplyPianobyJoyTunes,412,AU,2019-06-19
+org.iggymedia.periodtracker,Flo:生理トラッカー無料アプリで、月経や排卵サイクルを予測。妊活・避妊・セルフケアをサポート,413,AU,2019-06-19
+com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,414,AU,2019-06-19
+net.supertreat.solitaire,Solitaire-GrandHarvest-Tripeaks,415,AU,2019-06-19
+com.gpstool.smartcompass.skt,SmartCompassforAndroid2019,416,AU,2019-06-19
+com.ink.jetstar.mobile.app,ジェットスター,417,AU,2019-06-19
+com.emoticon.screen.home.launcher,INLauncher,418,AU,2019-06-19
+com.gamma.scan,QR・バーコードスキャナー,419,AU,2019-06-19
+com.limebike,Lime-YourRideAnytime,420,AU,2019-06-19
+com.playtika.wsop.gp,WSOP無料ポーカー(WorldSeriesofPoker),421,AU,2019-06-19
+com.badoo.mobile,Badoo-無料チャット&デートアプリ,422,AU,2019-06-19
+com.playgendary.kickthebuddy,KicktheBuddy,423,AU,2019-06-19
+com.magjg.roundhit,PaintPop3D,424,AU,2019-06-19
+au.com.foxtel.atv,Foxtel,425,AU,2019-06-19
+com.mobilityware.solitaire,ソリティア,426,AU,2019-06-19
+com.PoxelStudios.DudeTheftAuto,DudeTheftWars:OpenWorldSandboxSimulatorBETA,427,AU,2019-06-19
+com.eventbrite.attendee,Eventbrite-Discoverpopularevents&nearbyfun,428,AU,2019-06-19
+air.com.lunime.gachalife,GachaLife,429,AU,2019-06-19
+com.nintendo.zara,SuperMarioRun,430,AU,2019-06-19
+com.lemongame.klondike.solitaire,ソリティア,431,AU,2019-06-19
+com.alltrails.alltrails,"AllTrails:Hiking,Running&MountainBikeTrails",432,AU,2019-06-19
+com.tasmanic.camtoplanfree,CamToPlan-AR測定/巻尺,433,AU,2019-06-19
+au.net.abc.abcme,ABCME,434,AU,2019-06-19
+com.crazylabs.monster.high,MonsterHigh™美容室:楽しいファッションゲーム,435,AU,2019-06-19
+com.belong,Belong,436,AU,2019-06-19
+com.riseup.game,RiseUp,437,AU,2019-06-19
+nineNewsAlerts.nine.com,9NEWS,438,AU,2019-06-19
+com.transurban.linkt,Linkt,439,AU,2019-06-19
+com.uniqlo.au.catalogue,UNIQLOAU,440,AU,2019-06-19
+com.samsung.android.email.provider,GalaxyEメール,441,AU,2019-06-19
+com.onehundredpics.onehundredpicsquiz,100PICSQuiz-TriviaandPictureGuessingGames,442,AU,2019-06-19
+com.antivirus,AVG-スマホセキュリティ無料のウイルス対策アプリ,443,AU,2019-06-19
+au.com.optus.sport,OptusSport,444,AU,2019-06-19
+com.easybrain.sudoku.android,ナンプレ,445,AU,2019-06-19
+com.westernunion.moneytransferr3app.au,WesternUnionAU-SendMoneyTransfersQuickly,446,AU,2019-06-19
+com.naturalmotion.customstreetracer2,CSRRacing2-リアルタイム‧ドラッグレース,447,AU,2019-06-19
+com.mnightt.slices,Slices,448,AU,2019-06-19
+com.kunpo.virus,ウイルスウォー-スペースシューティングゲーム,449,AU,2019-06-19
+mobi.abcmouse.academy_goo,ABCmouse.com,450,AU,2019-06-19
+com.scee.psxandroid,PlayStationApp,451,AU,2019-06-19
+com.hp.printercontrol,HPSmart(HPAiORemote),452,AU,2019-06-19
+com.minogames.cats.client,CatGame-TheCatsCollector!,453,AU,2019-06-19
+com.nrl.nsw.bluesapp,NSWBlues,454,AU,2019-06-19
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,455,AU,2019-06-19
+com.thisisaim.abcradio,ABClisten,456,AU,2019-06-19
+com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,457,AU,2019-06-19
+com.ginchugames.princessdentist,Princesspethospital-toothdentistSurgeryGame,458,AU,2019-06-19
+com.niksoftware.snapseed,Snapseed,459,AU,2019-06-19
+com.supercell.brawlstars,ブロスタ,460,AU,2019-06-19
+messenger.social.chat.apps,Messenger,461,AU,2019-06-19
+com.mobilityware.spider,SpiderSolitaire,462,AU,2019-06-19
+com.parking.game,DriveandPark,463,AU,2019-06-19
+com.shopback.app,ShopBack-TheSmarterWay|Shopping&Cashback,464,AU,2019-06-19
+invaders.os.galaxy.space.shooter.attack.classic,ファルコンスクワッド:レトロシューティングゲーム,465,AU,2019-06-19
+com.lilithgame.roc.gp,RiseofKingdoms:LostCrusade,466,AU,2019-06-19
+com.microsoft.office.excel,MicrosoftExcel:スプレッドシート閲覧、編集、作成,467,AU,2019-06-19
+com.bitmango.go.linepuzzlepipeart,LinePuzzle:PipeArt,468,AU,2019-06-19
+com.threesixtyentertainment.nesn,Emergency+,469,AU,2019-06-19
+com.melesta.coffeeshop,マイカフェ—レストランゲーム,470,AU,2019-06-19
+photocollage.photoeditor.collagemaker,写真コラージュ:画像加工&写真編集者,471,AU,2019-06-19
+cast.video.screenmirroring.casttotv,TVにキャスト-クロームキャストテレビキャストアプリ,472,AU,2019-06-19
+com.percent.mybest,Oppadoll,473,AU,2019-06-19
+com.hecorat.screenrecorder.free,AZスクリーンレコーダー,474,AU,2019-06-19
+triwin.casino.slots.fortune.gold,GoldFortuneCasino™-無料マカオスロットカジノ,475,AU,2019-06-19
+com.king.bubblewitch3,バブルウィッチ3,476,AU,2019-06-19
+com.tutotoons.app.smolsiesmycutepethouse.free,Smolsies-MyCutePetHouse,477,AU,2019-06-19
+com.sonypicturestelevision.millionaire,MillionaireTrivia:WhoWantsToBeaMillionaire?,478,AU,2019-06-19
+au.com.angryrobot.wikicamps,WikiCampsAustralia,479,AU,2019-06-19
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,480,AU,2019-06-19
+com.hellofresh.androidapp,HelloFresh-GetCooking,481,AU,2019-06-19
+com.amazon.aa,AmazonAssistant,482,AU,2019-06-19
+com.sega.sonicdash,SonicDash,483,AU,2019-06-19
+com.moonton.mobilehero,MobileLegends:Adventure,484,AU,2019-06-19
+careers.found.foundcareers,FoundCareersforJobSeekers,485,AU,2019-06-19
+co.weihang.zenocleaner,ZenoCleaner,486,AU,2019-06-19
+com.asos.app,ASOS,487,AU,2019-06-19
+com.musicyou.downloadall.musicdownloader,MP3MusicDownloader&FreeMusicDownload,488,AU,2019-06-19
+com.ocean.openpay,Openpay,489,AU,2019-06-19
+it.doveconviene.android,Shopfully-WeeklyAds&Deals,490,AU,2019-06-19
+com.freeradioAustralia,AustraliaRadioStationsFM,491,AU,2019-06-19
+com.google.ar.core,ARCorebyGoogle,492,AU,2019-06-19
+com.gpp.beefactory,BeeFactory,493,AU,2019-06-19
+com.randomlogicgames.crossword,CrosswordQuiz,494,AU,2019-06-19
+com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,495,AU,2019-06-19
+com.ovelin.guitartuna,無料　チューナー　GuitarTuna,496,AU,2019-06-19
+com.billiards.city.pool.nation.club,Pooking-ビリヤードシティ,497,AU,2019-06-19
+au.com.suncorp.marketplace,SuncorpApp,498,AU,2019-06-19
+au.com.optus.express.fixi,Optus@Home,499,AU,2019-06-19
+com.amanotes.classicalpiano,PianoSoloMagicDreamtile-ピアノソロ–クラシックマジックゲーム,500,AU,2019-06-19
+jp.co.canon.bsd.ad.pixmaprint,CanonPRINTInkjet/SELPHY,501,AU,2019-06-19
+com.animelab.android.handset,AnimeLab-WatchAnimeFree,502,AU,2019-06-19
+com.gp.universalremote,TVRemoteControl-AllRemote,503,AU,2019-06-19
+com.percent.mybest3,Unniedoll,504,AU,2019-06-19
+com.foxtel.epg,MyFoxtel,505,AU,2019-06-19
+com.ftxgames.bb,BreakingBad:CriminalElements,506,AU,2019-06-19
+agl.digital.mobile,AGLEnergy,507,AU,2019-06-19
+com.productmadness.fafafagold,FaFaFa™GoldCasino:Freeslotmachines,508,AU,2019-06-19
+fishgame.fishtycoon.freemoney.gp,HappyFishing-CatchFishandTreasures,509,AU,2019-06-19
+com.camelgames.superking,ウォー・アンド・オーダー「WarandOrder」,510,AU,2019-06-19
+com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,511,AU,2019-06-19
+org.thoughtcrime.securesms,Signal-プライベートメッセンジャー,512,AU,2019-06-19
+com.period.tracker.calendar.menstrual.cycle,PeriodTrackerBlossom-OvulationCalendarAPP,513,AU,2019-06-19
+com.video.master,動画編集機能、動画のクロップ、映画ビデオ、音楽、エフェクト,514,AU,2019-06-19
+com.ivy.galaxyshooting.sky,Galaxyskyshooting,515,AU,2019-06-19
+com.woodensword.zombie,ゾンビ・ヘイター,516,AU,2019-06-19
+com.buzzfeed.tasty,Tasty,517,AU,2019-06-19
+jp.naver.line.android,LINE（ライン）-無料通話・メールアプリ,518,AU,2019-06-19
+com.Tiramisu.CarParkingGamePro,CarParkingPro-CarParkingGame&DrivingGame,519,AU,2019-06-19
+com.sec.android.app.sbrowser,SamsungInternetBrowser,520,AU,2019-06-19
+com.ultimateguitar.ugpro,UltimateGuitar:Tabs&Chords,521,AU,2019-06-19
+co.musjoy.facescan,"FaceScan-FaceAnalysis,PredictBaby&Fortune",522,AU,2019-06-19
+liveearth.maps.livelocations.streetview.livcams,日本生きている地球地図-衛星ビューストリートビュー,523,AU,2019-06-19
+com.sir.racing.ultimatemotorcyclesimulator,UltimateMotorcycleSimulator,524,AU,2019-06-19
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,525,AU,2019-06-19
+com.mywickr.wickr2,WickrMe–PrivateMessenger,526,AU,2019-06-19
+games.paveldogreat.fluidsimfree,FluidSimulationFree,527,AU,2019-06-19
+photoeditor.snapgrid.photocollage,"CollageMaker-Sticker,FilterSelfieEditor",528,AU,2019-06-19
+menloseweight.loseweightappformen.weightlossformen,男性用減量アプリ-30日間で体重減少,529,AU,2019-06-19
+com.digidust.elokence.akinator.freemium,Akinator,530,AU,2019-06-19
+com.revolverolver.fliptrickster,FlipTrickster-ParkourSimulator,531,AU,2019-06-19
+eu.funventure.CosmosQuest,🌍Almighty:放置型神様クリッカーゲーム,532,AU,2019-06-19
+faceapp.facemystery.learnmoreaboutyourself,HiddenMe-エージングカメラ、フェイススキャナー,533,AU,2019-06-19
+com.google.android.apps.books,GooglePlayブックス,534,AU,2019-06-19
+com.google.android.keep,GoogleKeep-メモとリスト,535,AU,2019-06-19
+tunein.player,TuneInRadio,536,AU,2019-06-19
+com.vegasslotspocket.heartofdiamond,Slots!CashHitSlotMachines&CasinoGamesParty,537,AU,2019-06-19
+com.bigduckgames.flow,FlowFree,538,AU,2019-06-19
+com.netease.mrzhna,ライフアフター,539,AU,2019-06-19
+com.smilingmind.app,SmilingMind,540,AU,2019-06-19
