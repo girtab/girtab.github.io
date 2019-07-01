@@ -2,8 +2,8 @@ app_id,app_name,rank,country_code,date
 com.cassette.aquapark,aquapark.io,1,DE,2019-07-01
 com.slippy.linerusher,FunRace3D,2,DE,2019-07-01
 com.train.taxi,TrainTaxi,3,DE,2019-07-01
-com.moonactive.coinmaster,CoinMaster,4,DE,2019-07-01
-com.nianticlabs.hpwu.prod,ハリー・ポッター:魔法同盟,5,DE,2019-07-01
+com.nianticlabs.hpwu.prod,ハリー・ポッター:魔法同盟,4,DE,2019-07-01
+com.moonactive.coinmaster,CoinMaster,5,DE,2019-07-01
 pampam.ibf2,BottleFlip3D,6,DE,2019-07-01
 com.kwalee.drawit,Drawit,7,DE,2019-07-01
 com.netmarble.btsw,BTSWORLD,8,DE,2019-07-01
@@ -29,12 +29,12 @@ com.habby.archero,アーチャー伝説,27,DE,2019-07-01
 com.codigames.idle.theme.park.tycoon,IdleThemeParkTycoon-RecreationGame,28,DE,2019-07-01
 com.colorup.game,ColorBump3D,29,DE,2019-07-01
 io.voodoo.paper2,Paper.io2,30,DE,2019-07-01
-org.nanobit.mystory,MyStory:ChooseYourOwnPath,31,DE,2019-07-01
-com.geishatokyo.trafficrun,TrafficRun!,32,DE,2019-07-01
-com.dotnbeat.dancing.music.rhythm.handspeed,點點リズム(DotnBeat)　君の手の速さをテストする,33,DE,2019-07-01
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),34,DE,2019-07-01
-com.playrix.homescapes,ホームスケイプ(Homescapes),35,DE,2019-07-01
-com.clean.road,CleanRoad,36,DE,2019-07-01
+com.geishatokyo.trafficrun,TrafficRun!,31,DE,2019-07-01
+com.dotnbeat.dancing.music.rhythm.handspeed,點點リズム(DotnBeat)　君の手の速さをテストする,32,DE,2019-07-01
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),33,DE,2019-07-01
+com.playrix.homescapes,ホームスケイプ(Homescapes),34,DE,2019-07-01
+com.clean.road,CleanRoad,35,DE,2019-07-01
+org.nanobit.mystory,MyStory:ChooseYourOwnPath,36,DE,2019-07-01
 com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),37,DE,2019-07-01
 com.nintendo.zara,SuperMarioRun,38,DE,2019-07-01
 com.outfit7.herodash,トーキング・トムのヒーロー・ダッシュ,39,DE,2019-07-01
@@ -56,129 +56,129 @@ com.spacegame.homedesign,マイホーム　デザインドリーム,54,DE,2019-0
 io.ngames.cowboy,Cowboy!,55,DE,2019-07-01
 com.dragonest.autochess.google,AutoChess,56,DE,2019-07-01
 io.voodoo.holeio,Hole.io,57,DE,2019-07-01
-com.mojang.minecrafttrialpe,MinecraftTrial,58,DE,2019-07-01
-com.orbitalknight.castlewreck,CastleWreck,59,DE,2019-07-01
+com.orbitalknight.castlewreck,CastleWreck,58,DE,2019-07-01
+com.mojang.minecrafttrialpe,MinecraftTrial,59,DE,2019-07-01
 com.h8games.helixjump,HelixJump,60,DE,2019-07-01
-com.playgendary.kickthebuddy,KicktheBuddy,61,DE,2019-07-01
-com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),62,DE,2019-07-01
-com.skaf.gshooter.gre.grind.craft,GrindCrafter,63,DE,2019-07-01
-com.cmplay.tiles2,ピアノタイル2™,64,DE,2019-07-01
-com.kabam.marvelbattle,MARVELオールスターバトル,65,DE,2019-07-01
-air.com.hypah.io.slither,slither.io,66,DE,2019-07-01
-com.playhardlab.factory,工場の覇者,67,DE,2019-07-01
-air.MSPMobile,MovieStarPlanet,68,DE,2019-07-01
-com.chitralekha.evolution,放置ワールド！,69,DE,2019-07-01
-ocean.nomad.survival.simulator,ラフティングのサバイバル:SurvivalonRaft-OceanNomad,70,DE,2019-07-01
-tank.battle.droid.stars.tankgames.games.masters.casual,TankHeroes-TankGames,71,DE,2019-07-01
-com.swagmasha.genres,"LoveSick:Stars,queenandvampirerelationships",72,DE,2019-07-01
-com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,73,DE,2019-07-01
-com.Seriously.BestFiends,BestFiends-無料のパズルゲーム,74,DE,2019-07-01
-com.outfit7.mytalkingtom2,マイ・トーキング・トム2,75,DE,2019-07-01
-com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,76,DE,2019-07-01
-com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,77,DE,2019-07-01
-com.tencent.ig,PUBGMOBILE,78,DE,2019-07-01
+com.skaf.gshooter.gre.grind.craft,GrindCrafter,61,DE,2019-07-01
+com.cmplay.tiles2,ピアノタイル2™,62,DE,2019-07-01
+com.kabam.marvelbattle,MARVELオールスターバトル,63,DE,2019-07-01
+air.com.hypah.io.slither,slither.io,64,DE,2019-07-01
+com.playhardlab.factory,工場の覇者,65,DE,2019-07-01
+air.MSPMobile,MovieStarPlanet,66,DE,2019-07-01
+com.chitralekha.evolution,放置ワールド！,67,DE,2019-07-01
+ocean.nomad.survival.simulator,ラフティングのサバイバル:SurvivalonRaft-OceanNomad,68,DE,2019-07-01
+tank.battle.droid.stars.tankgames.games.masters.casual,TankHeroes-TankGames,69,DE,2019-07-01
+com.swagmasha.genres,"LoveSick:Stars,queenandvampirerelationships",70,DE,2019-07-01
+com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,71,DE,2019-07-01
+com.Seriously.BestFiends,BestFiends-無料のパズルゲーム,72,DE,2019-07-01
+com.outfit7.mytalkingtom2,マイ・トーキング・トム2,73,DE,2019-07-01
+com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,74,DE,2019-07-01
+com.orbitalknight.castlewreck,CastleWreck,75,DE,2019-07-01
+com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,76,DE,2019-07-01
+com.tencent.ig,PUBGMOBILE,77,DE,2019-07-01
+games.wfs.anothereden,ANOTHEREDEN,78,DE,2019-07-01
 com.plarium.raidlegends,レイドShadowLegends,79,DE,2019-07-01
 com.playgendary.tanks,TankStars,80,DE,2019-07-01
-com.app.woodybricks,ウッディーボールパズルゲーム（WoodyBricksandBallPuzzles）,81,DE,2019-07-01
-com.serejadexxx.ballsRotate,BallsRotate,82,DE,2019-07-01
-com.codigames.market.idle.tycoon,IdleSupermarketTycoon-TinyShopGame,83,DE,2019-07-01
-com.nordcurrent.sniperarena,SniperArena:対戦軍隊シューティング,84,DE,2019-07-01
-com.wordgame.puzzle.block.crush.de,WortStapel,85,DE,2019-07-01
-com.popcore.foldingblocks,FoldingBlocks,86,DE,2019-07-01
-com.iposedon.bricksbreakerballs,BricksBallCrusher,87,DE,2019-07-01
-com.twistygames.animalrescue,AnimalRescue3D,88,DE,2019-07-01
-com.nomonkeys.ballblast,BallBlast,89,DE,2019-07-01
-com.varbroz.perfectturn,PerfectTurn!,90,DE,2019-07-01
-me.pou.app,プーチッチPou,91,DE,2019-07-01
-com.igg.castleclash_de,CastleClash:SchlossKonflikt,92,DE,2019-07-01
-com.picadilla.beepbeepvroom,TrafficPuzzle,93,DE,2019-07-01
-com.aqua.slide,WaterparkSlide.io,94,DE,2019-07-01
-com.stx.cutit,CutIt,95,DE,2019-07-01
-com.aladinfun.islandking.android,IslandKing,96,DE,2019-07-01
-com.zuuks.truck.simulator.euro,トラックシミュレータ2018：欧州,97,DE,2019-07-01
-com.magjg.roundhit,PaintPop3D,98,DE,2019-07-01
-com.playgendary.ktb2,KicktheBuddy:Forever,99,DE,2019-07-01
-com.diandian.gog,GunsofGlory(ガンズ・オブ・グローリー):勇壮な王国軍を構築せよ,100,DE,2019-07-01
-com.iscoolentertainment.snc,GardenofWords-Wordgame,101,DE,2019-07-01
-com.fanatee.cody,CodyCross:CrosswordPuzzles,102,DE,2019-07-01
-com.nexters.herowars,HeroWars,103,DE,2019-07-01
-mini.block.craft.free.mc,ミニブロッククラフト,104,DE,2019-07-01
-com.word.journey.crossword.de,WortReise,105,DE,2019-07-01
-com.ea.gp.simsmobile,TheSims シムズ ポケット,106,DE,2019-07-01
-com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,107,DE,2019-07-01
-com.astragon.cs3lite,ConstructionSimulator3Lite,108,DE,2019-07-01
-com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,109,DE,2019-07-01
-com.bigfishgames.toystorydropgoog,トイ・ストーリードロップ！,110,DE,2019-07-01
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,111,DE,2019-07-01
-com.neonplay.casualsoccerkickandroid,SoccerKick,112,DE,2019-07-01
-com.ftxgames.bb,BreakingBad:CriminalElements,113,DE,2019-07-01
-com.superbinogo.jungleboyadventure,SuperBinoGo,114,DE,2019-07-01
-com.lemongame.klondike.solitaire,ソリティア,115,DE,2019-07-01
-com.word.game.fun.puzzle.prison.escape.captain,WordsStory-AddictiveWordGame,116,DE,2019-07-01
-com.yottagames.mafiawar,マフィア・シティ-極道風雲,117,DE,2019-07-01
-com.gameloft.android.ANMP.GloftA9HM,アスファルト9：Legends-2019年レーシングアクションゲーム,118,DE,2019-07-01
-com.kwalee.looper,Looper!,119,DE,2019-07-01
-com.playgendary.pinatamasters,Pinatamasters,120,DE,2019-07-01
+com.serejadexxx.ballsRotate,BallsRotate,81,DE,2019-07-01
+com.codigames.market.idle.tycoon,IdleSupermarketTycoon-TinyShopGame,82,DE,2019-07-01
+com.wordgame.puzzle.block.crush.de,WortStapel,83,DE,2019-07-01
+com.popcore.foldingblocks,FoldingBlocks,84,DE,2019-07-01
+com.iposedon.bricksbreakerballs,BricksBallCrusher,85,DE,2019-07-01
+com.twistygames.animalrescue,AnimalRescue3D,86,DE,2019-07-01
+com.nomonkeys.ballblast,BallBlast,87,DE,2019-07-01
+com.varbroz.perfectturn,PerfectTurn!,88,DE,2019-07-01
+me.pou.app,プーチッチPou,89,DE,2019-07-01
+com.igg.castleclash_de,CastleClash:SchlossKonflikt,90,DE,2019-07-01
+com.dragonest.autochess.google,AutoChess,91,DE,2019-07-01
+com.picadilla.beepbeepvroom,TrafficPuzzle,92,DE,2019-07-01
+com.aqua.slide,WaterparkSlide.io,93,DE,2019-07-01
+com.stx.cutit,CutIt,94,DE,2019-07-01
+com.aladinfun.islandking.android,IslandKing,95,DE,2019-07-01
+com.zuuks.truck.simulator.euro,トラックシミュレータ2018：欧州,96,DE,2019-07-01
+com.magjg.roundhit,PaintPop3D,97,DE,2019-07-01
+com.playgendary.ktb2,KicktheBuddy:Forever,98,DE,2019-07-01
+com.diandian.gog,GunsofGlory(ガンズ・オブ・グローリー):勇壮な王国軍を構築せよ,99,DE,2019-07-01
+com.iscoolentertainment.snc,GardenofWords-Wordgame,100,DE,2019-07-01
+mini.block.craft.free.mc,ミニブロッククラフト,101,DE,2019-07-01
+com.ea.gp.simsmobile,TheSims シムズ ポケット,102,DE,2019-07-01
+com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,103,DE,2019-07-01
+com.astragon.cs3lite,ConstructionSimulator3Lite,104,DE,2019-07-01
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,105,DE,2019-07-01
+com.bigfishgames.toystorydropgoog,トイ・ストーリードロップ！,106,DE,2019-07-01
+com.neonplay.casualsoccerkickandroid,SoccerKick,107,DE,2019-07-01
+com.superbinogo.jungleboyadventure,SuperBinoGo,108,DE,2019-07-01
+com.lemongame.klondike.solitaire,ソリティア,109,DE,2019-07-01
+com.yottagames.mafiawar,マフィア・シティ-極道風雲,110,DE,2019-07-01
+com.nexters.herowars,HeroWars,111,DE,2019-07-01
+com.ftxgames.bb,BreakingBad:CriminalElements,112,DE,2019-07-01
+com.kwalee.looper,Looper!,113,DE,2019-07-01
+com.playgendary.pinatamasters,Pinatamasters,114,DE,2019-07-01
+com.nordcurrent.sniperarena,SniperArena:対戦軍隊シューティング,115,DE,2019-07-01
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,116,DE,2019-07-01
+com.vive.riderleague,Race.io,117,DE,2019-07-01
+com.alien.shooter.galaxy.attack,ギャラクシーアタック：エイリアンシューター,118,DE,2019-07-01
+com.amanotes.pamadancingroad,DancingRoad:ColorBallRun!,119,DE,2019-07-01
+com.king.candycrushsaga,キャンディークラッシュ,120,DE,2019-07-01
 com.alien.shooter.galaxy.attack,ギャラクシーアタック：エイリアンシューター,121,DE,2019-07-01
-com.amanotes.pamadancingroad,DancingRoad:ColorBallRun!,122,DE,2019-07-01
-com.gamehouse.deliciousdinercooking,デリシャスワールド―クッキングゲーム,123,DE,2019-07-01
-com.king.candycrushsaga,キャンディークラッシュ,124,DE,2019-07-01
-com.crazylabs.monster.high,MonsterHigh™美容室:楽しいファッションゲーム,125,DE,2019-07-01
-com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-公式ゲーム,126,DE,2019-07-01
-com.brokenreality.bigcapitalist3.android,TheBigCapitalist3,127,DE,2019-07-01
-com.geishatokyo.snowballio,Snowball.io,128,DE,2019-07-01
-com.FoxieGames.HorseRidingTales,HorseRidingTales-RideWithFriends,129,DE,2019-07-01
-com.sonypicturestelevision.millionaire,MillionaireTrivia:WhoWantsToBeaMillionaire?,130,DE,2019-07-01
-com.crazylabs.tricky.traps.game,TrickyTaps,131,DE,2019-07-01
-com.hypermania.merge.tower.bots,MergeTowerBots,132,DE,2019-07-01
-com.ea.gp.fifamobile,FIFAサッカー,133,DE,2019-07-01
-com.kunpo.virus,ウイルスウォー-スペースシューティングゲーム,134,DE,2019-07-01
-com.gramgames.mergedragons,マージドラゴン(MergeDragons!),135,DE,2019-07-01
-com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,136,DE,2019-07-01
-com.blizzpixelart.pixel.coloring,PixNite-番号による色,137,DE,2019-07-01
-com.mindy.grap1,StickmanHook,138,DE,2019-07-01
-com.valvesoftware.underlords,DotaUnderlords,139,DE,2019-07-01
-com.fgol.HungrySharkEvolution,HungrySharkEvolution,140,DE,2019-07-01
-com.playgendary.tom,TomboftheMask,141,DE,2019-07-01
-de.lotum.whatsinthefoto.de,4Bilder1Wort,142,DE,2019-07-01
-com.futureplay.battleground,BattlelandsRoyale,143,DE,2019-07-01
-com.aim.racing,ExtremeCarDrivingSimulator,144,DE,2019-07-01
-com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,145,DE,2019-07-01
-com.bigcake.android.solitairedaily,ソリティアデイリー,146,DE,2019-07-01
-com.gamedevltd.wwh,ワールドウォーヒーローズ,147,DE,2019-07-01
-com.halfbrick.jetpackjoyride,JetpackJoyride,148,DE,2019-07-01
-com.platogo.pmp,Slotpark-OnlineCasinoGames&FreeSlotMachine,149,DE,2019-07-01
-com.upjers.zoo2animalpark,Zoo2:AnimalPark,150,DE,2019-07-01
-com.ty.driftycar,DriftyRace,151,DE,2019-07-01
-game.puzzle.blockpuzzle,ブロックパズル古典ゲーム(BlockPuzzle),152,DE,2019-07-01
-com.skgames.trafficrider,TrafficRider,153,DE,2019-07-01
-com.miniclip.eightballpool,8BallPool,154,DE,2019-07-01
-com.avelog.mouse,MouseSimulator,155,DE,2019-07-01
-com.motionvolt.fliprunner,FlipRunner,156,DE,2019-07-01
-com.bello.shootingworld,狙撃兵,157,DE,2019-07-01
-com.spilgames.UphillRush,UphillRushWaterParkRacing,158,DE,2019-07-01
-com.miniclip.bowmasters,Bowmasters,159,DE,2019-07-01
-com.ripostegames.shopr,ShopTitans:デザイン&クエスト,160,DE,2019-07-01
-com.funplus.kingofavalon,キング・オブ・アヴァロン:ドラゴン戦略戦争(KoA),161,DE,2019-07-01
-com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),162,DE,2019-07-01
-com.percent.mybest3,Unniedoll,163,DE,2019-07-01
-com.kabukgames.igniss,Ignis-脳トレーニングパズルゲーム,164,DE,2019-07-01
-jp.pokemon.pokemonscrambleSP,ポケモンスクランブルSP,165,DE,2019-07-01
-com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,166,DE,2019-07-01
-com.motionvolt.flipdiving,FlipDiving,167,DE,2019-07-01
-com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),168,DE,2019-07-01
-com.lemonsquad.simulatorbs,BoxsimulatorforBrawlstars,169,DE,2019-07-01
-com.vive.riderleague,Race.io,170,DE,2019-07-01
-se.feomedia.quizkampen.de.lite,QuizClash™,171,DE,2019-07-01
-net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,172,DE,2019-07-01
-com.pacybits.fut19draft,PACYBITSFUT19,173,DE,2019-07-01
-com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,174,DE,2019-07-01
-com.genetic.realcarparking2,RealCarParking2:DrivingSchool2018,175,DE,2019-07-01
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),176,DE,2019-07-01
-com.ketchapp.rider,Rider,177,DE,2019-07-01
-com.lilithgame.roc.gp,RiseofKingdoms:LostCrusade,178,DE,2019-07-01
-com.crazylabs.coin.rush,CoinRush!,179,DE,2019-07-01
-com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,180,DE,2019-07-01
+com.gamehouse.deliciousdinercooking,デリシャスワールド―クッキングゲーム,122,DE,2019-07-01
+com.king.candycrushsaga,キャンディークラッシュ,123,DE,2019-07-01
+com.crazylabs.monster.high,MonsterHigh™美容室:楽しいファッションゲーム,124,DE,2019-07-01
+com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-公式ゲーム,125,DE,2019-07-01
+com.brokenreality.bigcapitalist3.android,TheBigCapitalist3,126,DE,2019-07-01
+com.geishatokyo.snowballio,Snowball.io,127,DE,2019-07-01
+com.sonypicturestelevision.millionaire,MillionaireTrivia:WhoWantsToBeaMillionaire?,128,DE,2019-07-01
+com.crazylabs.tricky.traps.game,TrickyTaps,129,DE,2019-07-01
+com.hypermania.merge.tower.bots,MergeTowerBots,130,DE,2019-07-01
+com.ea.gp.fifamobile,FIFAサッカー,131,DE,2019-07-01
+com.kunpo.virus,ウイルスウォー-スペースシューティングゲーム,132,DE,2019-07-01
+com.blizzpixelart.pixel.coloring,PixNite-番号による色,133,DE,2019-07-01
+com.mindy.grap1,StickmanHook,134,DE,2019-07-01
+com.valvesoftware.underlords,DotaUnderlords,135,DE,2019-07-01
+com.fgol.HungrySharkEvolution,HungrySharkEvolution,136,DE,2019-07-01
+com.playgendary.tom,TomboftheMask,137,DE,2019-07-01
+de.lotum.whatsinthefoto.de,4Bilder1Wort,138,DE,2019-07-01
+com.futureplay.battleground,BattlelandsRoyale,139,DE,2019-07-01
+com.aim.racing,ExtremeCarDrivingSimulator,140,DE,2019-07-01
+com.amanotes.pamadancingroad,DancingRoad:ColorBallRun!,141,DE,2019-07-01
+com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,142,DE,2019-07-01
+com.bigcake.android.solitairedaily,ソリティアデイリー,143,DE,2019-07-01
+com.gamedevltd.wwh,ワールドウォーヒーローズ,144,DE,2019-07-01
+com.halfbrick.jetpackjoyride,JetpackJoyride,145,DE,2019-07-01
+com.FoxieGames.HorseRidingTales,HorseRidingTales-RideWithFriends,146,DE,2019-07-01
+com.platogo.pmp,Slotpark-OnlineCasinoGames&FreeSlotMachine,147,DE,2019-07-01
+com.upjers.zoo2animalpark,Zoo2:AnimalPark,148,DE,2019-07-01
+com.ty.driftycar,DriftyRace,149,DE,2019-07-01
+com.miniclip.eightballpool,8BallPool,150,DE,2019-07-01
+com.avelog.mouse,MouseSimulator,151,DE,2019-07-01
+com.motionvolt.fliprunner,FlipRunner,152,DE,2019-07-01
+com.bello.shootingworld,狙撃兵,153,DE,2019-07-01
+com.spilgames.UphillRush,UphillRushWaterParkRacing,154,DE,2019-07-01
+com.miniclip.bowmasters,Bowmasters,155,DE,2019-07-01
+com.ripostegames.shopr,ShopTitans:デザイン&クエスト,156,DE,2019-07-01
+com.funplus.kingofavalon,キング・オブ・アヴァロン:ドラゴン戦略戦争(KoA),157,DE,2019-07-01
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),158,DE,2019-07-01
+com.percent.mybest3,Unniedoll,159,DE,2019-07-01
+com.kabukgames.igniss,Ignis-脳トレーニングパズルゲーム,160,DE,2019-07-01
+jp.pokemon.pokemonscrambleSP,ポケモンスクランブルSP,161,DE,2019-07-01
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,162,DE,2019-07-01
+com.motionvolt.flipdiving,FlipDiving,163,DE,2019-07-01
+com.gramgames.mergedragons,マージドラゴン(MergeDragons!),164,DE,2019-07-01
+com.vive.riderleague,Race.io,165,DE,2019-07-01
+net.wargaming.wot.blitz,ワールド・オブ・タンクス・ブリッツ,166,DE,2019-07-01
+com.tinyco.potter,ハリー･ポッター:ホグワーツの謎,167,DE,2019-07-01
+com.pacybits.fut19draft,PACYBITSFUT19,168,DE,2019-07-01
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,169,DE,2019-07-01
+com.genetic.realcarparking2,RealCarParking2:DrivingSchool2018,170,DE,2019-07-01
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),171,DE,2019-07-01
+com.ketchapp.rider,Rider,172,DE,2019-07-01
+com.lilithgame.roc.gp,RiseofKingdoms:LostCrusade,173,DE,2019-07-01
+com.crazylabs.coin.rush,CoinRush!,174,DE,2019-07-01
+com.ninetyfour.degrees.app,94°,175,DE,2019-07-01
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,176,DE,2019-07-01
+com.gpp.sushibar,SushiBar,177,DE,2019-07-01
+com.skgames.trafficrider,TrafficRider,178,DE,2019-07-01
+com.fingersoft.hcr2,HillClimbRacing2,179,DE,2019-07-01
+com.coldapp.at50rooms1,Escapegame:50rooms1,180,DE,2019-07-01
 com.ninetyfour.degrees.app,94°,181,DE,2019-07-01
 com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,182,DE,2019-07-01
 com.gpp.sushibar,SushiBar,183,DE,2019-07-01
@@ -194,348 +194,348 @@ com.mkarpenko.worldbox,WorldBox-サンドボックス神シミュレーター,19
 com.imangi.templerun2,TempleRun2,193,DE,2019-07-01
 com.ultrapped.beerpong,BeerPong,194,DE,2019-07-01
 com.mobirix.parkingking,駐車場の王,195,DE,2019-07-01
-com.naturalmotion.customstreetracer2,CSRRacing2-リアルタイム‧ドラッグレース,196,DE,2019-07-01
-net.apex_designs.payback2,Payback2-TheBattleSandbox,197,DE,2019-07-01
-com.skygo.stickfight2,StickfightInfinity,198,DE,2019-07-01
-com.alex.wobblegame,Wobble3D,199,DE,2019-07-01
-se.ace.fishinc,HookedInc:FisherTycoon,200,DE,2019-07-01
-com.gamedevltd.modernstrike,モダンストライクオンライン:3DＦＰＳシューティング銃撃ゲーム,201,DE,2019-07-01
-com.luckyday.app,LuckyDay-WinRealMoney,202,DE,2019-07-01
-com.edkongames.mobs,ModernOps-オンラインゲーム無料(OnlineShooterFPS),203,DE,2019-07-01
-com.theangrykraken.twopictures,2Pictures1Word-OfflineGames,204,DE,2019-07-01
-de.eoa.srtl.toggospiele,TOGGOSpiele,205,DE,2019-07-01
-com.whaleapp.hiddenhotel,HiddenHotel,206,DE,2019-07-01
-com.gismart.guitar,リアル・ギター無料-ベースギターコード練習、音楽、音ゲー、リズム、ゲームと楽器アプリ,207,DE,2019-07-01
-com.crazylabs.hotel.transylvania.adventure,モンスター・ホテル・アドベンチャー-走って、飛んで、作る！,208,DE,2019-07-01
-easy.sudoku.puzzle.solver.free,ナンプレ-o(≧ω≦)o大人気無料数独アプリ！,209,DE,2019-07-01
-com0.Company.ProductName1,3D運転教室,210,DE,2019-07-01
-com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,211,DE,2019-07-01
-net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),212,DE,2019-07-01
-com.artifexmundi.village.gp.f2p,TinyDragons,213,DE,2019-07-01
-com.turner.tooncup,トゥーンカップ-サッカーゲーム,214,DE,2019-07-01
-com.firsttouchgames.story,Score!Hero,215,DE,2019-07-01
-com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),216,DE,2019-07-01
-com.tellmewow.senior.hangman,Hangman,217,DE,2019-07-01
-dk.tactile.lilysgarden,リリーのガーデニング大作戦,218,DE,2019-07-01
-com.SlaydElers.BoxSimulator,BoxSimulatorforBrawlStars:OpenThatBox!,219,DE,2019-07-01
-com.nullapp.drivingschool3d,DrivingSchool3DSimulator,220,DE,2019-07-01
-com.halfbrick.fruitninjafree,FruitNinja®,221,DE,2019-07-01
-com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で色ぬりえ,222,DE,2019-07-01
-br.com.tapps.bidwars,ビッド・ワーズ-ストレージオークションと質屋タイクーン(BidWars),223,DE,2019-07-01
-com.tfgco.games.strategy.free.castlecrush,キャッスルクラッシュオンライン戦略ゲーム（CastleCrush),224,DE,2019-07-01
-com.differencetenderwhite.skirt,ブロックパズルジュエル,225,DE,2019-07-01
-com.cmplay.bricksnballs,ブリックツムツム,226,DE,2019-07-01
-com.hyper.ballbrawl,BallBrawl!,227,DE,2019-07-01
-de.quipp.quiz,Quipp–DieLiveQuiz-Show,228,DE,2019-07-01
-net.supertreat.solitaire,Solitaire-GrandHarvest-Tripeaks,229,DE,2019-07-01
-com.mytona.cookingdiary.android,クッキング・ダイアリー,230,DE,2019-07-01
-com.bitmango.go.linepuzzlepipeart,LinePuzzle:PipeArt,231,DE,2019-07-01
-com.mobirix.swipebrick2,ブリックスブレーカークエスト,232,DE,2019-07-01
-com.onehundredpics.onehundredpicsquiz,"100PICSQuiz-GuessTrivia,Logo&PictureGames",233,DE,2019-07-01
-com.spilgames.OperateNow2,今すぐ手術：病院を建設して手術を行う,234,DE,2019-07-01
-com.skisosoft.pts,PublicTransportSimulator,235,DE,2019-07-01
-com.bentostudio.ballsvsblocks,SnakeVSBlock,236,DE,2019-07-01
-com.kingsgroup.ww2,Zデー:ハートオブヒーローズ|ゾンビ戦争MMO,237,DE,2019-07-01
-com.hoolai.cmmuk.ggplayen,ChampionsManagerMobasaka:2019NewFootballGame,238,DE,2019-07-01
-com.sadpuppy.lemmings,Lemmings公式ゲーム！,239,DE,2019-07-01
-com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,240,DE,2019-07-01
-com.eyu.piano,DreamPiano-MusicGame,241,DE,2019-07-01
-com.topgamestudio.americanblocksnipersurvival,AmericanBlockSniperSurvival,242,DE,2019-07-01
-com.firsttouchgames.dls3,DreamLeagueSoccer2019,243,DE,2019-07-01
-com.bitmango.go.blocktrianglepuzzletangram,ブロック！三角形パズル：タングラム,244,DE,2019-07-01
-com.tinybuildgames.helloneighbor,HelloNeighbor,245,DE,2019-07-01
-com.fullfat.bw,GrassCut,246,DE,2019-07-01
-com.hundred_doors_game.escape_from_school,100ドアゲーム2019–脱出ゲーム,247,DE,2019-07-01
-com.keplerians.evilnun,EvilNun:学校の恐怖,248,DE,2019-07-01
-com.foxnextgames.m3,MARVELストライクフォース,249,DE,2019-07-01
-com.ea.game.pvz2_row,PlantsvsZombies™2Free,250,DE,2019-07-01
-com.generagames.soccerstarleaguesfootball,SoccerStar2019TopLeagues:サッカープレミアリーグjリーグ,251,DE,2019-07-01
-net.isitlove.cartercorp.daryl,IsitLove?Daryl-VirtualBoyfriend,252,DE,2019-07-01
-com.taplane.logoquiz,LogoQuizWorld:Japan,253,DE,2019-07-01
-mahjong.games.mahjong.classic.free,麻雀-パズルマッチ,254,DE,2019-07-01
-com.Tiramisu.CarParkingGamePro,CarParkingPro-CarParkingGame&DrivingGame,255,DE,2019-07-01
-com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,256,DE,2019-07-01
-com.party.io.games,Noodleman.io-面白いパーティーゲーム,257,DE,2019-07-01
-com.rovio.angrybirds,AngryBirdsClassic,258,DE,2019-07-01
-com.amanotes.classicalpiano,PianoSoloMagicDreamtile-ピアノソロ–クラシックマジックゲーム,259,DE,2019-07-01
-com.leftover.CoinDozer,コインドーザー-無料で賞品をゲット,260,DE,2019-07-01
-com.parking.game,DriveandPark,261,DE,2019-07-01
-uk.co.yakuto.TableTennisTouch,TableTennisTouch,262,DE,2019-07-01
-com.games2win.decisions,意思決定-あなたのインタラクティブストーリーの選択,263,DE,2019-07-01
-zombie.survival.craft.z,地球最後の日：サバイバル,264,DE,2019-07-01
-com.fanatee.stop,Stop-CategoriesWordGame,265,DE,2019-07-01
-com.pnixgames.minigolfking,ミニゴルフキング-マルチプレイヤーゲーム,266,DE,2019-07-01
-com.dts.freefireth,GarenaFreeFire,267,DE,2019-07-01
-com.jetstartgames.chess,チェス,268,DE,2019-07-01
-com.lidl.eci.mylidlstore,MyLidlShop,269,DE,2019-07-01
-com.timuzgames.megarampcarracing,MegaRampCarRacing:ImpossibleTracks3D,270,DE,2019-07-01
-com.otherguys.lindab,LindaBrown:InteractiveStory,271,DE,2019-07-01
-macrostudios.truthordare,TruthOrDare,272,DE,2019-07-01
-com.motionvolt.flipbounce,FlipMaster,273,DE,2019-07-01
-com.sports.real.golf.rival.online,GolfRival,274,DE,2019-07-01
-com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,275,DE,2019-07-01
-com.crazylabs.amaze.game,AMAZE!,276,DE,2019-07-01
-com.minicraft.pocketedition2019,Megacraft-PocketEdition,277,DE,2019-07-01
-com.melesta.coffeeshop,マイカフェ—レストランゲーム,278,DE,2019-07-01
-com.billiards.city.pool.nation.club,Pooking-ビリヤードシティ,279,DE,2019-07-01
-com.action.battleroyale,ファイトナイトバトル・ロワイヤル：FPSシューター,280,DE,2019-07-01
-com.freegame.MagicIcecreamInc,MagicIcecreamInc.,281,DE,2019-07-01
-com.glu.dashtown,DinerDASHAdventures,282,DE,2019-07-01
-com.futureplay.boots,IdleFarmingEmpire,283,DE,2019-07-01
-com.luckykat.plant,ノム・プラント,284,DE,2019-07-01
-com.mobilityware.spider,SpiderSolitaire,285,DE,2019-07-01
-com.amanotes.pamahelixtiles,HelixCrush,286,DE,2019-07-01
-com.cocoplay.fashion.style,スーパースタイリスト-ファッションリーダーをドレスアップ&スタイリング,287,DE,2019-07-01
-com.europosit.pixelcoloring,PixelArt:数字で塗り絵スケッチブック,288,DE,2019-07-01
-com.sega.sonicdash,SonicDash,289,DE,2019-07-01
-com.arcsys.tictactoe,TicTacToeのグロー,290,DE,2019-07-01
-com.innogames.foeandroid,ForgeofEmpires,291,DE,2019-07-01
-app.kryds.android,Kryss-TheBattleofWords,292,DE,2019-07-01
-com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,293,DE,2019-07-01
-com.ea.games.simsfreeplay_row,TheSimsFreePlay,294,DE,2019-07-01
-com.two31play.mahjongcity,麻雀シティツアーズ,295,DE,2019-07-01
-com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,296,DE,2019-07-01
-it.rortos.realflight,AIRLINECOMMANDER-リアルフライト・イクスピアリエンス,297,DE,2019-07-01
-com.sir.racing.ultimatemotorcyclesimulator,UltimateMotorcycleSimulator,298,DE,2019-07-01
-com.ohmgames.chambouletout,KnockBalls,299,DE,2019-07-01
-com.ea.games.r3_row,RealRacing3,300,DE,2019-07-01
-com.nbstudio.towercolor,タワーカラー,301,DE,2019-07-01
-com.noxgames.battle.car.tycoon,BattleCarTycoon:アイドルマージゲーム,302,DE,2019-07-01
-com.hazar.fps,SpecialOps:PvPFPSバトルゲーム-銃撃ゲーム無料,303,DE,2019-07-01
-com.boombitgames.DrivingSchoolParking,CarDrivingSchoolSimulator,304,DE,2019-07-01
-com.naturalmotion.myhorse,MyHorse,305,DE,2019-07-01
-com.elex.paper.lovegp,MrLove:Queen'sChoice,306,DE,2019-07-01
-com.playgendary.polyspherecoolgame,Polysphere,307,DE,2019-07-01
-de.whow.jackpot,MyJackpot-ラスベガススロットマシン777,308,DE,2019-07-01
-com.dropdom.blockpuzzle.hwwgame,Dropdom-JewelBlast,309,DE,2019-07-01
-com.king.candycrush4,キャンディークラッシュフレンズ,310,DE,2019-07-01
-com.sparklingsociety.cityisland5,CityIsland5-TycoonBuildingOfflineSimGame,311,DE,2019-07-01
-com.sandboxol.indiegame.bedwar,BedWars,312,DE,2019-07-01
-air.com.lunime.gachalife,GachaLife,313,DE,2019-07-01
-com.wordgames.wordconnect.de,WortGuru,314,DE,2019-07-01
-com.bloop.dog,ディグドッグ！,315,DE,2019-07-01
-jp.konami.duellinks,遊戯王デュエルリンクス,316,DE,2019-07-01
-com.supertapx.lovedots,LoveBalls,317,DE,2019-07-01
-com.rubygames.blockbreaker,PixelShot3D,318,DE,2019-07-01
-com.custom.pickmeup,PickMeUp™,319,DE,2019-07-01
-com.russellraymond.holloball,HolloBall,320,DE,2019-07-01
-com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,321,DE,2019-07-01
-com.battle.christ.royale,BattleDestruction,322,DE,2019-07-01
-com.YovoGames.hair,ヘアサロン-スパサロン,323,DE,2019-07-01
-bubbleshooter.orig,バブルシューター:BubbleShooter,324,DE,2019-07-01
-game.bubble.shooter.dragon.pop,バブルシューティング,325,DE,2019-07-01
-com.jess.game.now,FruitsTrail,326,DE,2019-07-01
-com.huuuge.casino.slots,Huuugeカジノ™オンラインスロット、世界で1000万人が遊ぶラスベガスSlotsとカジノゲーム,327,DE,2019-07-01
-logos.quiz.companies.game,LogoQuiz,328,DE,2019-07-01
-com.BlackGames.MathRiddles,「数学のなぞなぞ」とパズルの数学ゲーム,329,DE,2019-07-01
-com.ansangha.drparking4,駐車の達人4,330,DE,2019-07-01
-com.empire.grow.rome,グローエンパイア:ローマ(GrowEmpire:Rome),331,DE,2019-07-01
-com.rovio.dream,アングリーバードドリームブラスト,332,DE,2019-07-01
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),333,DE,2019-07-01
-com.kongregate.mobile.adventurecommunist.google,AdVentureCommunist,334,DE,2019-07-01
-com.roasterygames.smartphonetycoon2,SmartphoneTycoon2,335,DE,2019-07-01
-com.epicstory.ben10,Ben10Heroes,336,DE,2019-07-01
-com.logcat.cutinhalf,CutInHalf-CutItNow,337,DE,2019-07-01
-com.alegrium.cong2,"Cash,Inc.マネー・タップゲーム&ビジネスアドベンチャー",338,DE,2019-07-01
-com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,339,DE,2019-07-01
-com.zynga.livepoker,Zyngaポーカー,340,DE,2019-07-01
-se.maginteractive.worddomination,WordDomination,341,DE,2019-07-01
-com.nekki.shadowfight3,シャドウファイト3,342,DE,2019-07-01
-com.YovoGames.dentist,子供の医者：歯科医,343,DE,2019-07-01
-com.iscoolentertainment.strikehit,StrikeHit,344,DE,2019-07-01
-de.spielepalast.rummypalace,"Rummy(Free,noAds)",345,DE,2019-07-01
-com.baklabs.bus.simulator,バスゲーム無料-トップシミュレータゲーム,346,DE,2019-07-01
-com.imangi.templerun,TempleRun,347,DE,2019-07-01
-com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),348,DE,2019-07-01
-com.superwings.jettrun,SuperWings:JettRun,349,DE,2019-07-01
-com.riseup.game,RiseUp,350,DE,2019-07-01
-com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,351,DE,2019-07-01
-com.cmplay.dancingline,ダンシングライン（DancingLine）,352,DE,2019-07-01
-com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、大人のゲーム,353,DE,2019-07-01
-com.titan.cda.gb,創造的破壊,354,DE,2019-07-01
-com.jellybtn.boardkings,BoardKings™️,355,DE,2019-07-01
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,356,DE,2019-07-01
-com.dopuz.klotski.riddle,Numpuz–面白い脳トレ&数字パズルゲーム,357,DE,2019-07-01
-at.nerbrothers.SuperJump,Lep'sWorld🍀,358,DE,2019-07-01
-com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,359,DE,2019-07-01
-com.marketluck.bravoloto,Bravoloto:loteriegratuiteà1M€,360,DE,2019-07-01
-com.rovio.baba,アングリーバード2(AngryBirds2),361,DE,2019-07-01
-mini.zoo.crafting.exploration.creative.survival,ミニ動物園クラフト,362,DE,2019-07-01
-com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス：クライムワールド,363,DE,2019-07-01
-com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,364,DE,2019-07-01
-com.gpp.beefactory,BeeFactory,365,DE,2019-07-01
-roll.unblock.ball.block.puzzle,ブロック解除-ブロックパズル,366,DE,2019-07-01
-com.bigframes.color_road,ColorRoad!,367,DE,2019-07-01
-com.baklabs.taxi.two,タクシー2,368,DE,2019-07-01
-com.popreach.dumbways,DumbWaystoDieOriginal,369,DE,2019-07-01
-com.linkdesks.bubblegames.bubbleshooter,バブル伝説,370,DE,2019-07-01
-com.bilkon.easypiano,RealPiano,371,DE,2019-07-01
-com.bitmango.go.happybubble,HappyBubble:ShootnPop,372,DE,2019-07-01
-com.archery.go.bow.arrow.king.sports.game,アーチェリー試合、アーチェリー,373,DE,2019-07-01
-com.cocoplay.dancetosuccess,ダンスクラッシュ：バレエVSヒップホップ,374,DE,2019-07-01
-com.zloong.eu.wok,WorldofKings,375,DE,2019-07-01
-com.nuts.pa.android.googleplay,PolynesiaAdventure,376,DE,2019-07-01
-com.msi.logogame,LogoGame:GuessBrandQuizロゴゲーム：ブランド当てクイズ,377,DE,2019-07-01
-com.Neurononfire.SupremeDuelist,SupremeDuelistStickman,378,DE,2019-07-01
-com.hasbro.beybladesenterprise,BEYBLADEBURSTapp,379,DE,2019-07-01
-com.chillingo.robberybobfree.android.row,RobberyBob,380,DE,2019-07-01
-com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,381,DE,2019-07-01
-com.ovilex.drivingschool2016,DrivingSchool2016,382,DE,2019-07-01
-com.ovilex.drivingschool2017,DrivingSchool2017,383,DE,2019-07-01
-com.love.poly.puzzle.game,LovePoly-新感覚3dパズル,384,DE,2019-07-01
-game.puzzle.woodypuzzle,ウッディーパズル(Woody™BlockPuzzle),385,DE,2019-07-01
-com.supergame.ultrasharp.cutitdown,CutIt:BrainPuzzles,386,DE,2019-07-01
-com.nekki.shadowfight,シャドウファイト2,387,DE,2019-07-01
-com.mobile.legends,モバイル·レジェンド:BangBang,388,DE,2019-07-01
-com.giantssoftware.fs14,FarmingSimulator14,389,DE,2019-07-01
-com.psvn.traumatologist,緊急病院：キッズドクター,390,DE,2019-07-01
-com.tabtale.babytwins,ふたごの赤ちゃん-いたずらふたご,391,DE,2019-07-01
-com.simplicity.vb_challenge,バレーボール,392,DE,2019-07-01
-com.gamejam.draw.story,DrawStory,393,DE,2019-07-01
-com.FDGEntertainment.redball4.gp,RedBall4,394,DE,2019-07-01
-pl.lukok.chess,Chess,395,DE,2019-07-01
-com.ferrero.magickinder.tablet,MagicKinder–無料子ども用ゲーム,396,DE,2019-07-01
-com.miniclip.agar.io,Agar.io,397,DE,2019-07-01
-com.turbochilli.rollingsky,ローリング・スカイ,398,DE,2019-07-01
-com.ketchapp.mrgun,MrGun,399,DE,2019-07-01
-com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,400,DE,2019-07-01
-com.dc.hwsj,GameofSultans,401,DE,2019-07-01
-air.com.puffballsunited.escapingtheprison,EscapingthePrison,402,DE,2019-07-01
-com.crazylabs.pull.the.strings,RopeNRoll,403,DE,2019-07-01
-com.bitmango.go.blockhexapuzzle,ブロック！ヘキサパズル,404,DE,2019-07-01
-com.wolvesinteractive.traffictour,TrafficTour,405,DE,2019-07-01
-myneighbor.alpha.tipsvcxbn,MyNeighborAlphaSerieshint,406,DE,2019-07-01
-de.merkur24.universalapp,MERKUR24–OnlineCasino&SlotMachines,407,DE,2019-07-01
-com.fpsshooter.battleroyale,BattleRoyale:FPSShooter,408,DE,2019-07-01
-com.gmail.bulupe.Scale,Scale,409,DE,2019-07-01
-net.rention.mind.skillz,Skillz-LogicBrainGames,410,DE,2019-07-01
-com.crazylabs.sausage.run,走れ、ソーセージ、走れ！,411,DE,2019-07-01
-com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,412,DE,2019-07-01
-com.colorjoy.Learn.to.draw.glow.cartoon,LearnToDrawGlowCartoon,413,DE,2019-07-01
-com.glu.zbs,LefttoSurvive:PvPゾンビシューティング,414,DE,2019-07-01
-block.app.wars,BlockCityWars:PixelShooterwithBattleRoyale,415,DE,2019-07-01
-com.flaregames.nonstop.action.rpg,NonstopKnight2,416,DE,2019-07-01
-com.assassingames.ninjafrogrope,ロープカエル忍者ヒーロー-奇妙なギャングスターベガス,417,DE,2019-07-01
-com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,418,DE,2019-07-01
-com.innovation.magictilesvocal,MagicTiles:Piano&Vocal,419,DE,2019-07-01
-ru.sillypenguin.rat,MouseHouse:PuzzleStory,420,DE,2019-07-01
-com.scimob.ninetyfour.percent,"94%-Quiz,Trivia&Logic",421,DE,2019-07-01
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,422,DE,2019-07-01
-com.sinyee.babybus.shopping,リトルパンダの夏：アイスクリームバー,423,DE,2019-07-01
-com.pacific.wildlands,Stormfall:SagaofSurvival,424,DE,2019-07-01
-pl.lukok.draughts,チェッカー,425,DE,2019-07-01
-com.superswell.findthedifference,間違い探し750+レベル,426,DE,2019-07-01
-com.miniclip.topskater,FlipSkater,427,DE,2019-07-01
-com.truegames.explorationpro2018,ExplorationPro2019,428,DE,2019-07-01
-com.x3m.tx4,TrialXtreme4,429,DE,2019-07-01
-com.cocoplay.gymnastic.star,体操のスーパースター-金メダルをめざせ！,430,DE,2019-07-01
-game.free.rise.hole.up.io.love.balls.toss.up,BuddyToss,431,DE,2019-07-01
-com.playstudios.popslots,POP!Slots－スロット無料カジノ,432,DE,2019-07-01
-jpark.AOS5,Angerofstick5:zombie,433,DE,2019-07-01
-com.antiterrorism.shooter.as,Anti-TerrorismShooter,434,DE,2019-07-01
-com.reiko.pflicht.oder.wahrheit.wahrheitoderpflicht2,WahrheitoderPflicht18+,435,DE,2019-07-01
-com.lego.ninjago.rideninja,LEGO®NINJAGO®:RideNinja,436,DE,2019-07-01
-com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,437,DE,2019-07-01
-com.tensquaregames.letsfish2,クラッシュ・釣り:簡単釣りゲームそしてフィッシングシミュレーター(FishingClash),438,DE,2019-07-01
-com.boomhits.parkinghighway,ParkIt!,439,DE,2019-07-01
-com.firsttouchgames.pool,8BallHero,440,DE,2019-07-01
-com.hwg.idlepainter,IdlePainter,441,DE,2019-07-01
-com.mediocre.smashhit,SmashHit,442,DE,2019-07-01
-com.camelgames.aoz,AgeofZ,443,DE,2019-07-01
-com.mobilityware.solitaire,ソリティア,444,DE,2019-07-01
-com.NikSanTech.FireDots3D,FireBalls3D,445,DE,2019-07-01
-com.skgames.trafficracer,TrafficRacer,446,DE,2019-07-01
-com.ubisoft.hungrysharkworld,HungrySharkWorld,447,DE,2019-07-01
-com.fgs.ct,Off-RoadTravel:4wdSUVsridetohill,448,DE,2019-07-01
-com.pixonic.wwr,WarRobots,449,DE,2019-07-01
-com.frojo.moy6,Moy6theVirtualPetGame,450,DE,2019-07-01
-com.ea.game.tetris2011_row,TETRIS,451,DE,2019-07-01
-com.topfreegames.bikeracefreeworld,バイクレース無料レースゲーム(BikeRace),452,DE,2019-07-01
-com.fungi.houseflip,HouseFlip,453,DE,2019-07-01
-games.onebutton.golfbattle,GolfBattle,454,DE,2019-07-01
-com.gameone.colorhockey.free,カラーホッケー,455,DE,2019-07-01
-com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,456,DE,2019-07-01
-com.starstable.horses,StarStableHorses,457,DE,2019-07-01
-com.metajoy.puzzlegame.dragnmerge,ドラッグンマージ（DragnMerge）,458,DE,2019-07-01
-com.wordfind.wortschau.de,WortSchau,459,DE,2019-07-01
-com.natenai.glowhockey,GlowHockey,460,DE,2019-07-01
-com.hitrock.hideonline,HideOnline-HuntersvsProps,461,DE,2019-07-01
-com.mondayoff.gentlesniper,GentleSniper,462,DE,2019-07-01
-com.colorswitch.switch2,ColorSwitch,463,DE,2019-07-01
-com.cocoplay.diy.fashion,DIYファッションスター—ファッションデザイナーになろう,464,DE,2019-07-01
-com.criticalforceentertainment.criticalops,CriticalOps,465,DE,2019-07-01
-com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,466,DE,2019-07-01
-com.barsukstudio.muscleclicker,Muscleclicker:Gymgame,467,DE,2019-07-01
-com.king.bubblewitch3,バブルウィッチ3,468,DE,2019-07-01
-com.ray3d.shootsniper,ShootHunter-GunKiller,469,DE,2019-07-01
-com.nosixfive.train,TrainMerger,470,DE,2019-07-01
-com.miniclip.basketballstars,BasketballStars,471,DE,2019-07-01
-com.nexelon.fishinglife,フィッシング・ライフ,472,DE,2019-07-01
-com.disney.wheresmywater2_goo,Where'sMyWater?2,473,DE,2019-07-01
-com.hippo.supermarket.cashier,スーパーでレジ係。子供向けゲーム,474,DE,2019-07-01
-com.sandboxol.indiegame.herotycoon,HeroTycoon,475,DE,2019-07-01
-com.noxgroup.game.eggfinder,EggFinder,476,DE,2019-07-01
-com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),477,DE,2019-07-01
-com.dziobaki.mr_shot,BulletMaster,478,DE,2019-07-01
-com.sozap.badmen,アームドヘイスト:戦闘系アクションシューティングゲーム,479,DE,2019-07-01
-com.firsttouchgames.smp,Score!Match,480,DE,2019-07-01
-air.com.pixelfederation.seaport.explore.collect.trade,Seaport,481,DE,2019-07-01
-com.bariskaplan.citycardriving,CityCarDriving,482,DE,2019-07-01
-com.ea.game.simpsons4_row,TheSimpsons™:TappedOut,483,DE,2019-07-01
-air.com.turner.boomerangmakeandrace,BoomerangMakeandRace-Scooby-DooRacingGame,484,DE,2019-07-01
-com.ohbibi.fps,FRAGProShooter,485,DE,2019-07-01
-com.moonton.mobilehero,MobileLegends:Adventure,486,DE,2019-07-01
-com.doubletapsoftware.basketballbattle,BasketballBattle,487,DE,2019-07-01
-com.metacortexsolutions.idlegrasscutter,IdleGrassCutter,488,DE,2019-07-01
-com.zplay.Mrbow,MrBow,489,DE,2019-07-01
-com.penguinstd.kckffb,PotShot-CrushBox,490,DE,2019-07-01
-air.de.sponsorads.sieben,Sieben-tödlicheOffenbarung,491,DE,2019-07-01
-io.voodoo.dune,Dune!,492,DE,2019-07-01
-com.myapp.sweethouse,SweetHouse,493,DE,2019-07-01
-com.crossword.bible.cookies.find.english,ワードコネクト-ワードゲームパズル,494,DE,2019-07-01
-com.rummikubfree,Rummikub,495,DE,2019-07-01
-com.outfit7.mytalkinghank,マイ・トーキング・ハンク,496,DE,2019-07-01
-com.kalipsogames.psychopathhunt,Mr.Meat[ミスターミート：ホラーエスケープルーム☠パズル＆アクションゲーム],497,DE,2019-07-01
-chimp.works.td4,PowerPainter,498,DE,2019-07-01
-com.flexi.shoot,GunIdle,499,DE,2019-07-01
-com.dupuz.game2048.yellow,2048チャーム：クラシック＆新2048、ナンバーパズルゲーム,500,DE,2019-07-01
-com.turborilla.bmx2,MadSkillsBMX2,501,DE,2019-07-01
-com.binteraktive.kniffel.live,DiceClubs,502,DE,2019-07-01
-com.mgc.miami.crime.simulator.two,VegasCrimeSimulator,503,DE,2019-07-01
-com.os.airforce,1945AirForces,504,DE,2019-07-01
-com.playtika.caesarscasino,CaesarsSlots:FreeSlotMachinesandCasinoGames,505,DE,2019-07-01
-com.turborocketgames.wildcraft,ワイルドクラフト：動物シムオンライン3D,506,DE,2019-07-01
-com.mastercomlimited.cardriving_t,DriveforSpeed:Simulator,507,DE,2019-07-01
-com.tutotoons.app.animalhairsalonaustralia.free,AnimalHairSalonAustralia-Beauty&Fashion,508,DE,2019-07-01
-com.pixign.smart.puzzles,SmartPuzzlesCollection,509,DE,2019-07-01
-com.candywriter.bitlife,BitLife-LifeSimulator,510,DE,2019-07-01
-com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,511,DE,2019-07-01
-com.ovilex.coachbussimulator,CoachBusSimulator,512,DE,2019-07-01
-com.minecraftgranny.app,Hellogrannyhorrorcraftmaps,513,DE,2019-07-01
-com.dvloper.slendrinacellarfree,Slendrina:TheCellar(Free),514,DE,2019-07-01
-com.game.space.shooter2,スペースシューター:レトロシューティングゲーム,515,DE,2019-07-01
-com.puzzles.game.halloweeen.one,FindTheDifferences-TheDetective,516,DE,2019-07-01
-com.lima.doodlejump,DoodleJump,517,DE,2019-07-01
-com.miniclip.soccerstars,SoccerStars,518,DE,2019-07-01
-com.cocoplay.sweet.bakery,マイ・ベーカリーの王国-ケーキを焼いて飾って売ろう,519,DE,2019-07-01
-com.tigers.stickmanarcherking,Mr.Archer:KingStickman,520,DE,2019-07-01
-com.dingogames.tastyblue,TastyBlue,521,DE,2019-07-01
-com.bandagames.mpuzzle.gp,マジックジグソーパズル,522,DE,2019-07-01
-com.drawapp.magicdoodle,Doodle：キッドジョイ,523,DE,2019-07-01
-com.twoplayergamesfree.twoplayergames,みんなでミニゲーム-無料,524,DE,2019-07-01
-com.gamehouse.hm4gp,ハートの治療薬―医師の誓い,525,DE,2019-07-01
-com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,526,DE,2019-07-01
-com.ffgames.racingincar2,RacinginCar2,527,DE,2019-07-01
-com.hutchgames.cccg,TopDrives–車のカードレーシング,528,DE,2019-07-01
-com.pixelberrystudios.choices,Choices:StoriesYouPlay,529,DE,2019-07-01
-com.pikpok.hrc.play,ライバル・スターズホース・レーシング,530,DE,2019-07-01
-com.lego.superheroes.dccomicsmightymicros,LEGO®DCMightyMicros,531,DE,2019-07-01
-io.voodoo.stackjump,StackJump,532,DE,2019-07-01
-com.king.farmheroessaga,ファームヒーロー,533,DE,2019-07-01
-com.europosit.polygon2d.coloringpuzzle,POLYGON：数字による色。大人のための低ポリ塗り絵。,534,DE,2019-07-01
-com.parking.escape,ParkingEscape,535,DE,2019-07-01
-com.litegames.rummy_free__aat_google,Rummy-freecardgame,536,DE,2019-07-01
-fi.twomenandadog.zombiecatchers,ZombieCatchers(ゾンビキャッチャー),537,DE,2019-07-01
-com.sinyee.babybus.hero,ベビーパンダの街：マイ・ドリーム,538,DE,2019-07-01
-net.wooga.junes_journey_hidden_object_mystery_game,June'sJourney-HiddenObjects,539,DE,2019-07-01
-com.tabtale.baby.sitter,新米ベビーシッター1日目-赤ちゃんの世話で大忙し,540,DE,2019-07-01
+net.apex_designs.payback2,Payback2-TheBattleSandbox,196,DE,2019-07-01
+com.skygo.stickfight2,StickfightInfinity,197,DE,2019-07-01
+com.alex.wobblegame,Wobble3D,198,DE,2019-07-01
+se.ace.fishinc,HookedInc:FisherTycoon,199,DE,2019-07-01
+com.gamedevltd.modernstrike,モダンストライクオンライン:3DＦＰＳシューティング銃撃ゲーム,200,DE,2019-07-01
+com.luckyday.app,LuckyDay-WinRealMoney,201,DE,2019-07-01
+com.edkongames.mobs,ModernOps-オンラインゲーム無料(OnlineShooterFPS),202,DE,2019-07-01
+com.theangrykraken.twopictures,2Pictures1Word-OfflineGames,203,DE,2019-07-01
+de.eoa.srtl.toggospiele,TOGGOSpiele,204,DE,2019-07-01
+com.whaleapp.hiddenhotel,HiddenHotel,205,DE,2019-07-01
+com.gismart.guitar,リアル・ギター無料-ベースギターコード練習、音楽、音ゲー、リズム、ゲームと楽器アプリ,206,DE,2019-07-01
+com.crazylabs.hotel.transylvania.adventure,モンスター・ホテル・アドベンチャー-走って、飛んで、作る！,207,DE,2019-07-01
+easy.sudoku.puzzle.solver.free,ナンプレ-o(≧ω≦)o大人気無料数独アプリ！,208,DE,2019-07-01
+com0.Company.ProductName1,3D運転教室,209,DE,2019-07-01
+net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),210,DE,2019-07-01
+com.artifexmundi.village.gp.f2p,TinyDragons,211,DE,2019-07-01
+com.firsttouchgames.story,Score!Hero,212,DE,2019-07-01
+com.ea.game.simcitymobile_row,シムシティ　ビルドイット(SIMCITYBUILDIT),213,DE,2019-07-01
+com.tellmewow.senior.hangman,Hangman,214,DE,2019-07-01
+dk.tactile.lilysgarden,リリーのガーデニング大作戦,215,DE,2019-07-01
+com.nullapp.drivingschool3d,DrivingSchool3DSimulator,216,DE,2019-07-01
+com.halfbrick.fruitninjafree,FruitNinja®,217,DE,2019-07-01
+com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で色ぬりえ,218,DE,2019-07-01
+br.com.tapps.bidwars,ビッド・ワーズ-ストレージオークションと質屋タイクーン(BidWars),219,DE,2019-07-01
+com.tfgco.games.strategy.free.castlecrush,キャッスルクラッシュオンライン戦略ゲーム（CastleCrush),220,DE,2019-07-01
+com.differencetenderwhite.skirt,ブロックパズルジュエル,221,DE,2019-07-01
+com.cmplay.bricksnballs,ブリックツムツム,222,DE,2019-07-01
+de.quipp.quiz,Quipp–DieLiveQuiz-Show,223,DE,2019-07-01
+net.supertreat.solitaire,Solitaire-GrandHarvest-Tripeaks,224,DE,2019-07-01
+com.naturalmotion.customstreetracer2,CSRRacing2-リアルタイム‧ドラッグレース,225,DE,2019-07-01
+com.bitmango.go.linepuzzlepipeart,LinePuzzle:PipeArt,226,DE,2019-07-01
+com.mobirix.swipebrick2,ブリックスブレーカークエスト,227,DE,2019-07-01
+com.onehundredpics.onehundredpicsquiz,"100PICSQuiz-GuessTrivia,Logo&PictureGames",228,DE,2019-07-01
+com.spilgames.OperateNow2,今すぐ手術：病院を建設して手術を行う,229,DE,2019-07-01
+com.skisosoft.pts,PublicTransportSimulator,230,DE,2019-07-01
+com.bentostudio.ballsvsblocks,SnakeVSBlock,231,DE,2019-07-01
+com.kingsgroup.ww2,Zデー:ハートオブヒーローズ|ゾンビ戦争MMO,232,DE,2019-07-01
+com.hoolai.cmmuk.ggplayen,ChampionsManagerMobasaka:2019NewFootballGame,233,DE,2019-07-01
+com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,234,DE,2019-07-01
+com.eyu.piano,DreamPiano-MusicGame,235,DE,2019-07-01
+com.topgamestudio.americanblocksnipersurvival,AmericanBlockSniperSurvival,236,DE,2019-07-01
+com.firsttouchgames.dls3,DreamLeagueSoccer2019,237,DE,2019-07-01
+com.bitmango.go.blocktrianglepuzzletangram,ブロック！三角形パズル：タングラム,238,DE,2019-07-01
+com.tinybuildgames.helloneighbor,HelloNeighbor,239,DE,2019-07-01
+com.fullfat.bw,GrassCut,240,DE,2019-07-01
+com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,241,DE,2019-07-01
+com.Tiramisu.CarParkingGamePro,CarParkingPro-CarParkingGame&DrivingGame,242,DE,2019-07-01
+com.budgestudios.googleplay.BarbieDreamhouse,BarbieDreamhouseAdventures,243,DE,2019-07-01
+com.firsttouchgames.story,Score!Hero,244,DE,2019-07-01
+com.tellmewow.senior.hangman,Hangman,245,DE,2019-07-01
+com.party.io.games,Noodleman.io-面白いパーティーゲーム,246,DE,2019-07-01
+com.mkarpenko.worldbox,WorldBox-サンドボックス神シミュレーター,247,DE,2019-07-01
+com.rovio.angrybirds,AngryBirdsClassic,248,DE,2019-07-01
+com.amanotes.classicalpiano,PianoSoloMagicDreamtile-ピアノソロ–クラシックマジックゲーム,249,DE,2019-07-01
+com.parking.game,DriveandPark,250,DE,2019-07-01
+uk.co.yakuto.TableTennisTouch,TableTennisTouch,251,DE,2019-07-01
+com.differencetenderwhite.skirt,ブロックパズルジュエル,252,DE,2019-07-01
+com.bitmango.go.linepuzzlepipeart,LinePuzzle:PipeArt,253,DE,2019-07-01
+com.topgamestudio.americanblocksnipersurvival,AmericanBlockSniperSurvival,254,DE,2019-07-01
+com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,255,DE,2019-07-01
+com.dts.freefireth,GarenaFreeFire,256,DE,2019-07-01
+com.jetstartgames.chess,チェス,257,DE,2019-07-01
+com.lidl.eci.mylidlstore,MyLidlShop,258,DE,2019-07-01
+com.timuzgames.megarampcarracing,MegaRampCarRacing:ImpossibleTracks3D,259,DE,2019-07-01
+com.otherguys.lindab,LindaBrown:InteractiveStory,260,DE,2019-07-01
+macrostudios.truthordare,TruthOrDare,261,DE,2019-07-01
+com.sports.real.golf.rival.online,GolfRival,262,DE,2019-07-01
+com.halfbrick.fruitninjafree,FruitNinja®,263,DE,2019-07-01
+com.crazylabs.amaze.game,AMAZE!,264,DE,2019-07-01
+com.minicraft.pocketedition2019,Megacraft-PocketEdition,265,DE,2019-07-01
+com.melesta.coffeeshop,マイカフェ—レストランゲーム,266,DE,2019-07-01
+com.billiards.city.pool.nation.club,Pooking-ビリヤードシティ,267,DE,2019-07-01
+com.action.battleroyale,ファイトナイトバトル・ロワイヤル：FPSシューター,268,DE,2019-07-01
+com.freegame.MagicIcecreamInc,MagicIcecreamInc.,269,DE,2019-07-01
+com.glu.dashtown,DinerDASHAdventures,270,DE,2019-07-01
+com.futureplay.boots,IdleFarmingEmpire,271,DE,2019-07-01
+com.luckykat.plant,ノム・プラント,272,DE,2019-07-01
+com.tinybuildgames.helloneighbor,HelloNeighbor,273,DE,2019-07-01
+com.amanotes.pamahelixtiles,HelixCrush,274,DE,2019-07-01
+com.cmplay.bricksnballs,ブリックツムツム,275,DE,2019-07-01
+com.europosit.pixelcoloring,PixelArt:数字で塗り絵スケッチブック,276,DE,2019-07-01
+com.sega.sonicdash,SonicDash,277,DE,2019-07-01
+com.firsttouchgames.dls3,DreamLeagueSoccer2019,278,DE,2019-07-01
+com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,279,DE,2019-07-01
+net.supertreat.solitaire,Solitaire-GrandHarvest-Tripeaks,280,DE,2019-07-01
+com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,281,DE,2019-07-01
+it.rortos.realflight,AIRLINECOMMANDER-リアルフライト・イクスピアリエンス,282,DE,2019-07-01
+com.sir.racing.ultimatemotorcyclesimulator,UltimateMotorcycleSimulator,283,DE,2019-07-01
+com.ea.games.r3_row,RealRacing3,284,DE,2019-07-01
+com.nbstudio.towercolor,タワーカラー,285,DE,2019-07-01
+com.noxgames.battle.car.tycoon,BattleCarTycoon:アイドルマージゲーム,286,DE,2019-07-01
+com.hazar.fps,SpecialOps:PvPFPSバトルゲーム-銃撃ゲーム無料,287,DE,2019-07-01
+com.games2win.decisions,意思決定-あなたのインタラクティブストーリーの選択,288,DE,2019-07-01
+com.boombitgames.DrivingSchoolParking,CarDrivingSchoolSimulator,289,DE,2019-07-01
+com.naturalmotion.myhorse,MyHorse,290,DE,2019-07-01
+com.elex.paper.lovegp,MrLove:Queen'sChoice,291,DE,2019-07-01
+com.playgendary.polyspherecoolgame,Polysphere,292,DE,2019-07-01
+de.whow.jackpot,MyJackpot-ラスベガススロットマシン777,293,DE,2019-07-01
+zombie.survival.craft.z,地球最後の日：サバイバル,294,DE,2019-07-01
+com.sparklingsociety.cityisland5,CityIsland5-TycoonBuildingOfflineSimGame,295,DE,2019-07-01
+air.com.lunime.gachalife,GachaLife,296,DE,2019-07-01
+com.bloop.dog,ディグドッグ！,297,DE,2019-07-01
+jp.konami.duellinks,遊戯王デュエルリンクス,298,DE,2019-07-01
+com.supertapx.lovedots,LoveBalls,299,DE,2019-07-01
+com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,300,DE,2019-07-01
+air.com.lunime.gachalife,GachaLife,301,DE,2019-07-01
+com.wordgames.wordconnect.de,WortGuru,302,DE,2019-07-01
+com.ea.games.simsfreeplay_row,TheSimsFreePlay,303,DE,2019-07-01
+com.russellraymond.holloball,HolloBall,304,DE,2019-07-01
+com.Tiramisu.CarParkingGamePro,CarParkingPro-CarParkingGame&DrivingGame,305,DE,2019-07-01
+com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,306,DE,2019-07-01
+com.battle.christ.royale,BattleDestruction,307,DE,2019-07-01
+com.futureplay.boots,IdleFarmingEmpire,308,DE,2019-07-01
+com.YovoGames.hair,ヘアサロン-スパサロン,309,DE,2019-07-01
+com.fanatee.stop,Stop-CategoriesWordGame,310,DE,2019-07-01
+bubbleshooter.orig,バブルシューター:BubbleShooter,311,DE,2019-07-01
+game.bubble.shooter.dragon.pop,バブルシューティング,312,DE,2019-07-01
+com.jess.game.now,FruitsTrail,313,DE,2019-07-01
+com.huuuge.casino.slots,Huuugeカジノ™オンラインスロット、世界で1000万人が遊ぶラスベガスSlotsとカジノゲーム,314,DE,2019-07-01
+logos.quiz.companies.game,LogoQuiz,315,DE,2019-07-01
+com.BlackGames.MathRiddles,「数学のなぞなぞ」とパズルの数学ゲーム,316,DE,2019-07-01
+com.empire.grow.rome,グローエンパイア:ローマ(GrowEmpire:Rome),317,DE,2019-07-01
+com.cocoplay.fashion.style,スーパースタイリスト-ファッションリーダーをドレスアップ&スタイリング,318,DE,2019-07-01
+com.rovio.dream,アングリーバードドリームブラスト,319,DE,2019-07-01
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),320,DE,2019-07-01
+com.kongregate.mobile.adventurecommunist.google,AdVentureCommunist,321,DE,2019-07-01
+com.sir.racing.ultimatecardrivingsimulator,UltimateCarDrivingSimulator,322,DE,2019-07-01
+com.logcat.cutinhalf,CutInHalf-CutItNow,323,DE,2019-07-01
+com.sir.racing.ultimatemotorcyclesimulator,UltimateMotorcycleSimulator,324,DE,2019-07-01
+com.melesta.coffeeshop,マイカフェ—レストランゲーム,325,DE,2019-07-01
+com.alegrium.cong2,"Cash,Inc.マネー・タップゲーム&ビジネスアドベンチャー",326,DE,2019-07-01
+com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,327,DE,2019-07-01
+com.zynga.livepoker,Zyngaポーカー,328,DE,2019-07-01
+se.maginteractive.worddomination,WordDomination,329,DE,2019-07-01
+com.hazar.fps,SpecialOps:PvPFPSバトルゲーム-銃撃ゲーム無料,330,DE,2019-07-01
+com.nekki.shadowfight3,シャドウファイト3,331,DE,2019-07-01
+com.YovoGames.dentist,子供の医者：歯科医,332,DE,2019-07-01
+com.iscoolentertainment.strikehit,StrikeHit,333,DE,2019-07-01
+com.supertapx.lovedots,LoveBalls,334,DE,2019-07-01
+de.spielepalast.rummypalace,"Rummy(Free,noAds)",335,DE,2019-07-01
+com.baklabs.bus.simulator,バスゲーム無料-トップシミュレータゲーム,336,DE,2019-07-01
+com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),337,DE,2019-07-01
+com.superwings.jettrun,SuperWings:JettRun,338,DE,2019-07-01
+com.riseup.game,RiseUp,339,DE,2019-07-01
+com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,340,DE,2019-07-01
+com.cmplay.dancingline,ダンシングライン（DancingLine）,341,DE,2019-07-01
+com.nuts.pa.android.googleplay,PolynesiaAdventure,342,DE,2019-07-01
+com.titan.cda.gb,創造的破壊,343,DE,2019-07-01
+com.epicstory.ben10,Ben10Heroes,344,DE,2019-07-01
+com.sandboxol.indiegame.bedwar,BedWars,345,DE,2019-07-01
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,346,DE,2019-07-01
+com.custom.pickmeup,PickMeUp™,347,DE,2019-07-01
+com.dopuz.klotski.riddle,Numpuz–面白い脳トレ&数字パズルゲーム,348,DE,2019-07-01
+at.nerbrothers.SuperJump,Lep'sWorld🍀,349,DE,2019-07-01
+com.my.hc.rpg.kingdom.simulator,HustleCastle–アイドルシェルターの英雄,350,DE,2019-07-01
+com.marketluck.bravoloto,Bravoloto:loteriegratuiteà1M€,351,DE,2019-07-01
+com.rovio.baba,アングリーバード2(AngryBirds2),352,DE,2019-07-01
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,353,DE,2019-07-01
+roll.unblock.ball.block.puzzle,ブロック解除-ブロックパズル,354,DE,2019-07-01
+com.bigframes.color_road,ColorRoad!,355,DE,2019-07-01
+com.baklabs.taxi.two,タクシー2,356,DE,2019-07-01
+com.popreach.dumbways,DumbWaystoDieOriginal,357,DE,2019-07-01
+com.linkdesks.bubblegames.bubbleshooter,バブル伝説,358,DE,2019-07-01
+com.bilkon.easypiano,RealPiano,359,DE,2019-07-01
+com.bitmango.go.happybubble,HappyBubble:ShootnPop,360,DE,2019-07-01
+com.nuts.pa.android.googleplay,PolynesiaAdventure,361,DE,2019-07-01
+com.msi.logogame,LogoGame:GuessBrandQuizロゴゲーム：ブランド当てクイズ,362,DE,2019-07-01
+com.Neurononfire.SupremeDuelist,SupremeDuelistStickman,363,DE,2019-07-01
+com.hasbro.beybladesenterprise,BEYBLADEBURSTapp,364,DE,2019-07-01
+com.chillingo.robberybobfree.android.row,RobberyBob,365,DE,2019-07-01
+com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne,366,DE,2019-07-01
+com.ovilex.drivingschool2016,DrivingSchool2016,367,DE,2019-07-01
+com.ovilex.drivingschool2017,DrivingSchool2017,368,DE,2019-07-01
+com.love.poly.puzzle.game,LovePoly-新感覚3dパズル,369,DE,2019-07-01
+game.puzzle.woodypuzzle,ウッディーパズル(Woody™BlockPuzzle),370,DE,2019-07-01
+com.hts.ams,アーミーメン・ストライク－ArmyMenStrike,371,DE,2019-07-01
+com.dropdom.blockpuzzle.hwwgame,Dropdom-JewelBlast,372,DE,2019-07-01
+com.supergame.ultrasharp.cutitdown,CutIt:BrainPuzzles,373,DE,2019-07-01
+com.nekki.shadowfight,シャドウファイト2,374,DE,2019-07-01
+com.mobile.legends,モバイル·レジェンド:BangBang,375,DE,2019-07-01
+com.giantssoftware.fs14,FarmingSimulator14,376,DE,2019-07-01
+com.psvn.traumatologist,緊急病院：キッズドクター,377,DE,2019-07-01
+com.tabtale.babytwins,ふたごの赤ちゃん-いたずらふたご,378,DE,2019-07-01
+com.simplicity.vb_challenge,バレーボール,379,DE,2019-07-01
+com.gamejam.draw.story,DrawStory,380,DE,2019-07-01
+com.FDGEntertainment.redball4.gp,RedBall4,381,DE,2019-07-01
+pl.lukok.chess,Chess,382,DE,2019-07-01
+app.kryds.android,Kryss-TheBattleofWords,383,DE,2019-07-01
+at.nerbrothers.SuperJump,Lep'sWorld🍀,384,DE,2019-07-01
+com.turbochilli.rollingsky,ローリング・スカイ,385,DE,2019-07-01
+com.ketchapp.mrgun,MrGun,386,DE,2019-07-01
+com.huuuge.casino.texas,ビリオネアカジノ™オンラインカジノスロット、世界で1000万人が遊ぶ本格オンラインカジノゲーム,387,DE,2019-07-01
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,388,DE,2019-07-01
+air.com.puffballsunited.escapingtheprison,EscapingthePrison,389,DE,2019-07-01
+com.bitmango.go.blockhexapuzzle,ブロック！ヘキサパズル,390,DE,2019-07-01
+com.wolvesinteractive.traffictour,TrafficTour,391,DE,2019-07-01
+com.rovio.baba,アングリーバード2(AngryBirds2),392,DE,2019-07-01
+myneighbor.alpha.tipsvcxbn,MyNeighborAlphaSerieshint,393,DE,2019-07-01
+de.merkur24.universalapp,MERKUR24–OnlineCasino&SlotMachines,394,DE,2019-07-01
+com.fpsshooter.battleroyale,BattleRoyale:FPSShooter,395,DE,2019-07-01
+com.gmail.bulupe.Scale,Scale,396,DE,2019-07-01
+net.rention.mind.skillz,Skillz-LogicBrainGames,397,DE,2019-07-01
+com.crazylabs.sausage.run,走れ、ソーセージ、走れ！,398,DE,2019-07-01
+com.colorjoy.Learn.to.draw.glow.cartoon,LearnToDrawGlowCartoon,399,DE,2019-07-01
+com.glu.zbs,LefttoSurvive:PvPゾンビシューティング,400,DE,2019-07-01
+block.app.wars,BlockCityWars:PixelShooterwithBattleRoyale,401,DE,2019-07-01
+com.flaregames.nonstop.action.rpg,NonstopKnight2,402,DE,2019-07-01
+com.assassingames.ninjafrogrope,ロープカエル忍者ヒーロー-奇妙なギャングスターベガス,403,DE,2019-07-01
+com.bitmango.rolltheballunrollme,ロールボール：スライドパズル,404,DE,2019-07-01
+com.innovation.magictilesvocal,MagicTiles:Piano&Vocal,405,DE,2019-07-01
+ru.sillypenguin.rat,MouseHouse:PuzzleStory,406,DE,2019-07-01
+com.scimob.ninetyfour.percent,"94%-Quiz,Trivia&Logic",407,DE,2019-07-01
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,408,DE,2019-07-01
+com.sinyee.babybus.shopping,リトルパンダの夏：アイスクリームバー,409,DE,2019-07-01
+com.pacific.wildlands,Stormfall:SagaofSurvival,410,DE,2019-07-01
+pl.lukok.draughts,チェッカー,411,DE,2019-07-01
+com.rovio.dream,アングリーバードドリームブラスト,412,DE,2019-07-01
+com.superswell.findthedifference,間違い探し750+レベル,413,DE,2019-07-01
+com.miniclip.topskater,FlipSkater,414,DE,2019-07-01
+com.truegames.explorationpro2018,ExplorationPro2019,415,DE,2019-07-01
+com.x3m.tx4,TrialXtreme4,416,DE,2019-07-01
+com.cocoplay.gymnastic.star,体操のスーパースター-金メダルをめざせ！,417,DE,2019-07-01
+game.free.rise.hole.up.io.love.balls.toss.up,BuddyToss,418,DE,2019-07-01
+com.playstudios.popslots,POP!Slots－スロット無料カジノ,419,DE,2019-07-01
+com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,420,DE,2019-07-01
+com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,421,DE,2019-07-01
+com.BlackGames.MathRiddles,「数学のなぞなぞ」とパズルの数学ゲーム,422,DE,2019-07-01
+com.popreach.dumbways,DumbWaystoDieOriginal,423,DE,2019-07-01
+com.tensquaregames.letsfish2,クラッシュ・釣り:簡単釣りゲームそしてフィッシングシミュレーター(FishingClash),424,DE,2019-07-01
+com.boomhits.parkinghighway,ParkIt!,425,DE,2019-07-01
+com.firsttouchgames.pool,8BallHero,426,DE,2019-07-01
+com.hippo.supermarket.cashier,スーパーでレジ係。子供向けゲーム,427,DE,2019-07-01
+com.mediocre.smashhit,SmashHit,428,DE,2019-07-01
+com.marketluck.bravoloto,Bravoloto:loteriegratuiteà1M€,429,DE,2019-07-01
+com.miniclip.agar.io,Agar.io,430,DE,2019-07-01
+com.camelgames.aoz,AgeofZ,431,DE,2019-07-01
+com.mobilityware.solitaire,ソリティア,432,DE,2019-07-01
+com.ferrero.magickinder.tablet,MagicKinder–無料子ども用ゲーム,433,DE,2019-07-01
+com.NikSanTech.FireDots3D,FireBalls3D,434,DE,2019-07-01
+com.skgames.trafficracer,TrafficRacer,435,DE,2019-07-01
+com.ubisoft.hungrysharkworld,HungrySharkWorld,436,DE,2019-07-01
+com.fgs.ct,Off-RoadTravel:4wdSUVsridetohill,437,DE,2019-07-01
+com.frojo.moy6,Moy6theVirtualPetGame,438,DE,2019-07-01
+com.dc.hwsj,GameofSultans,439,DE,2019-07-01
+com.topfreegames.bikeracefreeworld,バイクレース無料レースゲーム(BikeRace),440,DE,2019-07-01
+com.fungi.houseflip,HouseFlip,441,DE,2019-07-01
+com.gameone.colorhockey.free,カラーホッケー,442,DE,2019-07-01
+com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,443,DE,2019-07-01
+com.starstable.horses,StarStableHorses,444,DE,2019-07-01
+com.wordfind.wortschau.de,WortSchau,445,DE,2019-07-01
+com.natenai.glowhockey,GlowHockey,446,DE,2019-07-01
+com.hitrock.hideonline,HideOnline-HuntersvsProps,447,DE,2019-07-01
+com.mondayoff.gentlesniper,GentleSniper,448,DE,2019-07-01
+com.colorswitch.switch2,ColorSwitch,449,DE,2019-07-01
+com.cocoplay.diy.fashion,DIYファッションスター—ファッションデザイナーになろう,450,DE,2019-07-01
+com.criticalforceentertainment.criticalops,CriticalOps,451,DE,2019-07-01
+com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,452,DE,2019-07-01
+com.barsukstudio.muscleclicker,Muscleclicker:Gymgame,453,DE,2019-07-01
+com.ray3d.shootsniper,ShootHunter-GunKiller,454,DE,2019-07-01
+com.miniclip.basketballstars,BasketballStars,455,DE,2019-07-01
+com.nexelon.fishinglife,フィッシング・ライフ,456,DE,2019-07-01
+com.disney.wheresmywater2_goo,Where'sMyWater?2,457,DE,2019-07-01
+com.sandboxol.indiegame.herotycoon,HeroTycoon,458,DE,2019-07-01
+com.linkdesks.bubblegames.bubbleshooter,バブル伝説,459,DE,2019-07-01
+com.noxgroup.game.eggfinder,EggFinder,460,DE,2019-07-01
+com.lego.ninjago.rideninja,LEGO®NINJAGO®:RideNinja,461,DE,2019-07-01
+com.dziobaki.mr_shot,BulletMaster,462,DE,2019-07-01
+com.sozap.badmen,アームドヘイスト:戦闘系アクションシューティングゲーム,463,DE,2019-07-01
+air.com.pixelfederation.seaport.explore.collect.trade,Seaport,464,DE,2019-07-01
+com.bariskaplan.citycardriving,CityCarDriving,465,DE,2019-07-01
+air.com.turner.boomerangmakeandrace,BoomerangMakeandRace-Scooby-DooRacingGame,466,DE,2019-07-01
+com.ohbibi.fps,FRAGProShooter,467,DE,2019-07-01
+com.doubletapsoftware.basketballbattle,BasketballBattle,468,DE,2019-07-01
+com.dvloper.slendrinacellarfree,Slendrina:TheCellar(Free),469,DE,2019-07-01
+com.cocoplay.gymnastic.star,体操のスーパースター-金メダルをめざせ！,470,DE,2019-07-01
+com.metacortexsolutions.idlegrasscutter,IdleGrassCutter,471,DE,2019-07-01
+com.penguinstd.kckffb,PotShot-CrushBox,472,DE,2019-07-01
+air.de.sponsorads.sieben,Sieben-tödlicheOffenbarung,473,DE,2019-07-01
+io.voodoo.dune,Dune!,474,DE,2019-07-01
+com.myapp.sweethouse,SweetHouse,475,DE,2019-07-01
+jpark.AOS5,Angerofstick5:zombie,476,DE,2019-07-01
+com.rummikubfree,Rummikub,477,DE,2019-07-01
+com.kalipsogames.psychopathhunt,Mr.Meat[ミスターミート：ホラーエスケープルーム☠パズル＆アクションゲーム],478,DE,2019-07-01
+chimp.works.td4,PowerPainter,479,DE,2019-07-01
+com.flaregames.nonstop.action.rpg,NonstopKnight2,480,DE,2019-07-01
+com.reiko.pflicht.oder.wahrheit.wahrheitoderpflicht2,WahrheitoderPflicht18+,481,DE,2019-07-01
+de.merkur24.universalapp,MERKUR24–OnlineCasino&SlotMachines,482,DE,2019-07-01
+com.sandboxol.indiegame.herotycoon,HeroTycoon,483,DE,2019-07-01
+com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,484,DE,2019-07-01
+com.roasterygames.smartphonetycoon2,SmartphoneTycoon2,485,DE,2019-07-01
+com.minecraftgranny.app,Hellogrannyhorrorcraftmaps,486,DE,2019-07-01
+com.hitrock.hideonline,HideOnline-HuntersvsProps,487,DE,2019-07-01
+io.voodoo.stackjump,StackJump,488,DE,2019-07-01
+com.superswell.findthedifference,間違い探し750+レベル,489,DE,2019-07-01
+com.natenai.glowhockey,GlowHockey,490,DE,2019-07-01
+com.bariskaplan.citycardriving,CityCarDriving,491,DE,2019-07-01
+com.litegames.rummy_free__aat_google,Rummy-freecardgame,492,DE,2019-07-01
+fi.twomenandadog.zombiecatchers,ZombieCatchers(ゾンビキャッチャー),493,DE,2019-07-01
+com.tabtale.baby.sitter,新米ベビーシッター1日目-赤ちゃんの世話で大忙し,494,DE,2019-07-01
+com.Gauselmann.MerkurMagie,MerkurMagie,495,DE,2019-07-01
+com.kalipsogames.psychopathhunt,Mr.Meat[ミスターミート：ホラーエスケープルーム☠パズル＆アクションゲーム],496,DE,2019-07-01
+com.penguinstd.kckffb,PotShot-CrushBox,497,DE,2019-07-01
+com.piispanen.hotelhideaway,HotelHideaway-バーチャルリアリティライフシミュレーター,498,DE,2019-07-01
+com.mastercomlimited.cardriving_t,DriveforSpeed:Simulator,499,DE,2019-07-01
+com.crazylabs.pull.the.strings,RopeNRoll,500,DE,2019-07-01
+air.de.rgerlach.skatpalast,"Skat(Free,noAds)",501,DE,2019-07-01
+com.spcomes.fruitforest,フルーツフォレスト:レインボーアップル,502,DE,2019-07-01
+com.ovilex.coachbussimulator,CoachBusSimulator,503,DE,2019-07-01
+com.spaceapegames.fastlane,FASTLANE-復讐のコンバットレース-,504,DE,2019-07-01
+io.voodoo.dune,Dune!,505,DE,2019-07-01
+se.illusionlabs.touchgrindbmx2,TouchgrindBMX2,506,DE,2019-07-01
+air.com.pixelfederation.seaport.explore.collect.trade,Seaport,507,DE,2019-07-01
+com.flexi.shoot,GunIdle,508,DE,2019-07-01
+com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),509,DE,2019-07-01
+com.disney.wheresmywater2_goo,Where'sMyWater?2,510,DE,2019-07-01
+com.mobirix.zumaking2,マーブルミッション,511,DE,2019-07-01
+com.tutotoons.app.animalhairsalonaustralia.free,AnimalHairSalonAustralia-Beauty&Fashion,512,DE,2019-07-01
+com.doubletapsoftware.basketballbattle,BasketballBattle,513,DE,2019-07-01
+com.scottgames.fnaf2demo,FiveNightsatFreddy's2Demo,514,DE,2019-07-01
+com.sinyee.babybus.hero,ベビーパンダの街：マイ・ドリーム,515,DE,2019-07-01
+com.tutotoons.app.mybabyunicorn.free,MyBabyUnicorn-VirtualPonyPetCare&DressUp,516,DE,2019-07-01
+com.hyperkani.bomberfriends,BomberFriends,517,DE,2019-07-01
+com.zeptolab.ctr.ads,CuttheRopeFULLFREE,518,DE,2019-07-01
+com.SlakDev.SquirrelSimulator1,SquirrelSimulator,519,DE,2019-07-01
+com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,520,DE,2019-07-01
+com.music.tap.tap.tile,TapTapMusicポップソング,521,DE,2019-07-01
+com.ea.game.simpsons4_row,TheSimpsons™:TappedOut,522,DE,2019-07-01
+com.gismart.realpianofree,ピアノ-ぴあの鍵盤リアル曲げーむ,523,DE,2019-07-01
+com.ea.game.tetris2011_row,TETRIS,524,DE,2019-07-01
+com.atari.mobile.rctempire,RollerCoasterTycoon®Touch™,525,DE,2019-07-01
+com.rummikubfree,Rummikub,526,DE,2019-07-01
+com.supertapx.bigbigballer,BigBigBaller,527,DE,2019-07-01
+com.percent.mybest,Oppadoll,528,DE,2019-07-01
+com.goodgamestudios.bigfarmmobileharvest,BigFarm:MobileHarvest|農場ゲーム無料-牧場-ファーム,529,DE,2019-07-01
+com.sgs.emhq.android,EMERGENCYHQ-freerescuestrategygame,530,DE,2019-07-01
+com.glu.zbs,LefttoSurvive:PvPゾンビシューティング,531,DE,2019-07-01
+com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,532,DE,2019-07-01
+org.nanobit.hollywood,HollywoodStory,533,DE,2019-07-01
+com.pikpok.hrc.play,ライバル・スターズホース・レーシング,534,DE,2019-07-01
+com.dingogames.tastyplanet4,TastyPlanetForever,535,DE,2019-07-01
+com.mobilityware.solitaire,ソリティア,536,DE,2019-07-01
+at.ner.lepsWorld2,Lep'sWorld2🍀🍀,537,DE,2019-07-01
+com.game.space.shooter2,スペースシューター:レトロシューティングゲーム,538,DE,2019-07-01
+com.turborilla.bmx2,MadSkillsBMX2,539,DE,2019-07-01
+com.sega.sprint,SonicForces,540,DE,2019-07-01
