@@ -1,13 +1,13 @@
 app_id,app_name,rank,country_code,date
 com.slippy.linerusher,FunRace3D,1,RU,2019-07-06
 com.cassette.aquapark,aquapark.io,2,RU,2019-07-06
-com.whatsapp,WhatsAppMessenger,3,RU,2019-07-06
-com.outfit7.herodash,トーキング・トムのヒーロー・ダッシュ,4,RU,2019-07-06
-com.eers.kraft.eerskraft.s,Eerskraft,5,RU,2019-07-06
-ru.sberbankmobile,СбербанкОнлайн,6,RU,2019-07-06
-com.vkontakte.android,VK—socialnetworkandcalls,7,RU,2019-07-06
-com.instagram.android,Instagram,8,RU,2019-07-06
-com.train.taxi,TrainTaxi,9,RU,2019-07-06
+com.outfit7.herodash,トーキング・トムのヒーロー・ダッシュ,3,RU,2019-07-06
+com.eers.kraft.eerskraft.s,Eerskraft,4,RU,2019-07-06
+ru.sberbankmobile,СбербанкОнлайн,5,RU,2019-07-06
+com.vkontakte.android,VK—socialnetworkandcalls,6,RU,2019-07-06
+com.instagram.android,Instagram,7,RU,2019-07-06
+com.train.taxi,TrainTaxi,8,RU,2019-07-06
+com.whatsapp,WhatsAppMessenger,9,RU,2019-07-06
 com.avito.android,"ОбъявленияАвито:авто,работа,квартиры,вещи",10,RU,2019-07-06
 com.viber.voip,Viber無料通話＆メッセージアプリ,11,RU,2019-07-06
 org.telegram.messenger,Telegram,12,RU,2019-07-06
@@ -33,44 +33,44 @@ com.google.android.apps.walletnfcrel,GooglePay-これからのお財布,31,RU,20
 com.geishatokyo.trafficrun,TrafficRun!,32,RU,2019-07-06
 ru.rostel,Госуслуги,33,RU,2019-07-06
 ru.yandex.yandexmaps,Yandex.Maps,34,RU,2019-07-06
-com.snapchat.android,Snapchat,35,RU,2019-07-06
-com.outfit7.mytalkingtom2,マイ・トーキング・トム2,36,RU,2019-07-06
-com.easybrain.jigsaw.puzzles,ジグソーパズル-パズルゲーム,37,RU,2019-07-06
-com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,38,RU,2019-07-06
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),39,RU,2019-07-06
-com.shazam.android,Shazam,40,RU,2019-07-06
-com.housepaint.game,HousePaint,41,RU,2019-07-06
-ru.tele2.mytele2,МойTele2,42,RU,2019-07-06
-ru.dublgis.dgismobile,2GIS:directory&navigator,43,RU,2019-07-06
-ru.mail.mailapp,フリー電子メールアプリ日本byMail.Ru,44,RU,2019-07-06
-com.playgendary.tanks,TankStars,45,RU,2019-07-06
-com.supercell.brawlstars,ブロスタ,46,RU,2019-07-06
-com.ction.playergames,2、3、4人ミニゲームアプリ無料,47,RU,2019-07-06
-ru.megafon.mlk,«МегаФон»Личныйкабинет,48,RU,2019-07-06
-com.comuto,BlaBlaCar:CarpoolingandBlaBlaBus,49,RU,2019-07-06
-ru.auto.ara,Авто.ру:купитьипродатьавто,50,RU,2019-07-06
-com.playgendary.pinatamasters,Pinatamasters,51,RU,2019-07-06
-ru.yandex.music,Яндекс.Музыка–скачивайтеислушайте,52,RU,2019-07-06
-com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,53,RU,2019-07-06
-com.amanotes.beathopper,TilesHop:EDMRush!,54,RU,2019-07-06
-com.playrix.township,タウンシップ(Township),55,RU,2019-07-06
-com.colorup.game,ColorBump3D,56,RU,2019-07-06
-com.edadeal.android,"Едадил—акции,скидкиикэшбэквмагазинах",57,RU,2019-07-06
-com.picstudio.photoeditorplus,XPhotoEditor-ファッションメイク&アートフィルター,58,RU,2019-07-06
-ocean.nomad.survival.simulator,ラフティングのサバイバル:SurvivalonRaft-OceanNomad,59,RU,2019-07-06
-com.kiloo.subwaysurf,SubwaySurfers,60,RU,2019-07-06
-ru.ozon.app.android,OZON–1000рублейзапервыйзаказнаОзон,61,RU,2019-07-06
-com.nexters.herowars,HeroWars,62,RU,2019-07-06
-com.roblox.client,ROBLOX,63,RU,2019-07-06
-io.voodoo.paper2,Paper.io2,64,RU,2019-07-06
-ru.hh.android,Поискработынаhh.Вакансиирядомсдомом,65,RU,2019-07-06
-com.playgendary.tom,TomboftheMask,66,RU,2019-07-06
-com.tencent.ig,PUBGMOBILE,67,RU,2019-07-06
-com.kabam.marvelbattle,MARVELオールスターバトル,68,RU,2019-07-06
-com.vicenter.stickman.ragdoll.dismounting,RagdollDismounting,69,RU,2019-07-06
-ru.mw,QIWIКошелек,70,RU,2019-07-06
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,71,RU,2019-07-06
-com.matteljv.uno,UNO!™,72,RU,2019-07-06
+com.outfit7.mytalkingtom2,マイ・トーキング・トム2,35,RU,2019-07-06
+com.easybrain.jigsaw.puzzles,ジグソーパズル-パズルゲーム,36,RU,2019-07-06
+com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,37,RU,2019-07-06
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),38,RU,2019-07-06
+com.shazam.android,Shazam,39,RU,2019-07-06
+com.housepaint.game,HousePaint,40,RU,2019-07-06
+ru.tele2.mytele2,МойTele2,41,RU,2019-07-06
+ru.dublgis.dgismobile,2GIS:directory&navigator,42,RU,2019-07-06
+ru.mail.mailapp,フリー電子メールアプリ日本byMail.Ru,43,RU,2019-07-06
+com.playgendary.tanks,TankStars,44,RU,2019-07-06
+com.supercell.brawlstars,ブロスタ,45,RU,2019-07-06
+com.ction.playergames,2、3、4人ミニゲームアプリ無料,46,RU,2019-07-06
+ru.megafon.mlk,«МегаФон»Личныйкабинет,47,RU,2019-07-06
+com.comuto,BlaBlaCar:CarpoolingandBlaBlaBus,48,RU,2019-07-06
+ru.auto.ara,Авто.ру:купитьипродатьавто,49,RU,2019-07-06
+com.playgendary.pinatamasters,Pinatamasters,50,RU,2019-07-06
+ru.yandex.music,Яндекс.Музыка–скачивайтеислушайте,51,RU,2019-07-06
+com.snapchat.android,Snapchat,52,RU,2019-07-06
+com.amanotes.beathopper,TilesHop:EDMRush!,53,RU,2019-07-06
+com.playrix.township,タウンシップ(Township),54,RU,2019-07-06
+com.colorup.game,ColorBump3D,55,RU,2019-07-06
+com.edadeal.android,"Едадил—акции,скидкиикэшбэквмагазинах",56,RU,2019-07-06
+com.picstudio.photoeditorplus,XPhotoEditor-ファッションメイク&アートフィルター,57,RU,2019-07-06
+ocean.nomad.survival.simulator,ラフティングのサバイバル:SurvivalonRaft-OceanNomad,58,RU,2019-07-06
+com.kiloo.subwaysurf,SubwaySurfers,59,RU,2019-07-06
+ru.ozon.app.android,OZON–1000рублейзапервыйзаказнаОзон,60,RU,2019-07-06
+com.nexters.herowars,HeroWars,61,RU,2019-07-06
+com.roblox.client,ROBLOX,62,RU,2019-07-06
+io.voodoo.paper2,Paper.io2,63,RU,2019-07-06
+ru.hh.android,Поискработынаhh.Вакансиирядомсдомом,64,RU,2019-07-06
+com.playgendary.tom,TomboftheMask,65,RU,2019-07-06
+com.tencent.ig,PUBGMOBILE,66,RU,2019-07-06
+com.kabam.marvelbattle,MARVELオールスターバトル,67,RU,2019-07-06
+com.vicenter.stickman.ragdoll.dismounting,RagdollDismounting,68,RU,2019-07-06
+ru.mw,QIWIКошелек,69,RU,2019-07-06
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,70,RU,2019-07-06
+com.matteljv.uno,UNO!™,71,RU,2019-07-06
+com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,72,RU,2019-07-06
 limehd.ru.ctv,ЦифровоеТВ20каналовбесплатно,73,RU,2019-07-06
 com.wildberries.ru,Wildberries,74,RU,2019-07-06
 com.playgendary.kickthebuddy,KicktheBuddy,75,RU,2019-07-06
@@ -111,15 +111,15 @@ com.digidust.elokence.akinator.freemium,Akinator,109,RU,2019-07-06
 com.h8games.helixjump,HelixJump,110,RU,2019-07-06
 air.com.hypah.io.slither,slither.io,111,RU,2019-07-06
 com.dts.freefireth,GarenaFreeFire,112,RU,2019-07-06
-drug.vokrug,"ДругВокруг:новыезнакомства,онлайнчат",113,RU,2019-07-06
-com.gamedevltd.wwh,ワールドウォーヒーローズ,114,RU,2019-07-06
-ru.cian.main,"ЦИАН.Снять,купитьквартиру,комнату,коттедж0+",115,RU,2019-07-06
-com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),116,RU,2019-07-06
-ru.tutu.tutu_emp,"Авиабилеты,ждбилетыиавтобусынаТуту.ру",117,RU,2019-07-06
-com.colorhole.game,ColorHole3D,118,RU,2019-07-06
-com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),119,RU,2019-07-06
-ru.yandex.uber,UberRussia,120,RU,2019-07-06
-com.facebook.orca,Messenger,121,RU,2019-07-06
+com.grif.vmp,VirtualMusicPlayer,113,RU,2019-07-06
+drug.vokrug,"ДругВокруг:новыезнакомства,онлайнчат",114,RU,2019-07-06
+com.gamedevltd.wwh,ワールドウォーヒーローズ,115,RU,2019-07-06
+ru.cian.main,"ЦИАН.Снять,купитьквартиру,комнату,коттедж0+",116,RU,2019-07-06
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),117,RU,2019-07-06
+ru.tutu.tutu_emp,"Авиабилеты,ждбилетыиавтобусынаТуту.ру",118,RU,2019-07-06
+com.colorhole.game,ColorHole3D,119,RU,2019-07-06
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),120,RU,2019-07-06
+ru.yandex.uber,UberRussia,121,RU,2019-07-06
 bubbleshooter.orig,バブルシューター:BubbleShooter,122,RU,2019-07-06
 ru.burgerking,"БУРГЕРКИНГ-Купоны,скидкииакциивресторанах",123,RU,2019-07-06
 ru.vtb24.mobilebanking.android,ВТБ-Онлайн,124,RU,2019-07-06
@@ -146,51 +146,51 @@ com.wawagame.app.ttnl2,天天脳力——無料クラシックタングラム、
 com.minicraft.pocketedition2019,Megacraft-PocketEdition,145,RU,2019-07-06
 com.groundhog.mcpemaster,MasterforMinecraft(PocketEdition)-ModLauncher,146,RU,2019-07-06
 com.discord,Discord-ゲーマー向けチャットシステム,147,RU,2019-07-06
-com.facebook.katana,Facebook,148,RU,2019-07-06
-air.com.lunime.gachalife,GachaLife,149,RU,2019-07-06
-com.xiaomi.hm.health,MiFit,150,RU,2019-07-06
-com.yandex.mobile.realty,Яндекс.Недвижимость—квартиры,151,RU,2019-07-06
-com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,152,RU,2019-07-06
-com.spacegame.homedesign,マイホーム　デザインドリーム,153,RU,2019-07-06
-ru.sberbank.spasibo,СпасибоотСбербанка,154,RU,2019-07-06
-com.ChillyRoom.DungeonShooter,SoulKnight,155,RU,2019-07-06
-com.uma.musicvk,BOOM:музыкальныйплеер,156,RU,2019-07-06
-com.oppanagames.car.simulator,CarSimulator2,157,RU,2019-07-06
-ru.yandex.disk,Yandex.Disk,158,RU,2019-07-06
-com.UCMobile.intl,"UCBrowser–VideoDownloader,WatchVideoOffline",159,RU,2019-07-06
-com.gamma.scan,QR・バーコードスキャナー,160,RU,2019-07-06
-ru.gibdd_pay.app,"ШтрафыГИБДДофициальные:проверка,оплаташтрафов",161,RU,2019-07-06
-com.AB.RCDHD,СимуляторвожденияВАЗ2108,162,RU,2019-07-06
-com.yottagames.mafiawar,マフィア・シティ-極道風雲,163,RU,2019-07-06
-com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,164,RU,2019-07-06
-com.skygo.stickfight2,StickfightInfinity,165,RU,2019-07-06
-ru.mts.music.android,МТСMusic,166,RU,2019-07-06
-ru.beru.android,Беру–бонус500рублейнавашпервыйзаказ,167,RU,2019-07-06
-com.FDGEntertainment.redball4.gp,RedBall4,168,RU,2019-07-06
-ru.ivi.client,"ivi-фильмы,сериалы,мультфильмы",169,RU,2019-07-06
-com.clean.road,CleanRoad,170,RU,2019-07-06
-ru.mamba.client,友達と出会えて女の子とオンラインでチャットも出来る恋愛・婚活アプリ、Mamba,171,RU,2019-07-06
-com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),172,RU,2019-07-06
-ru.sunlight.sunlight,SUNLIGHTЮвелирныйГипермаркет,173,RU,2019-07-06
-com.dragonest.autochess.google,AutoChess,174,RU,2019-07-06
-ru.yandex.weatherplugin,Yandex.Weather,175,RU,2019-07-06
-app.source.getcontact,Getcontact,176,RU,2019-07-06
-com.melesta.coffeeshop,マイカフェ—レストランゲーム,177,RU,2019-07-06
-faceapp.facemystery.learnmoreaboutyourself,HiddenMe-エージングカメラ、フェイススキャナー,178,RU,2019-07-06
-com.yourstoryinteractive.sails.pirate.adventure,RomanceClub-StoriesIPlay(withChoices),179,RU,2019-07-06
-com.what.suitable,WhatisSuitable,180,RU,2019-07-06
-com.nekki.shadowfight,シャドウファイト2,181,RU,2019-07-06
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,182,RU,2019-07-06
-com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,183,RU,2019-07-06
-com.oneapp.max.cleaner.booster,無料クリーナー、アンチウイルス&キャッシュ削除-MAXCleaner,184,RU,2019-07-06
-com.taxsee.taxsee,maxim—orderataxi,185,RU,2019-07-06
-ru.foodfox.client,Яндекс.Еда,186,RU,2019-07-06
-com.drweb,Anti-virusDr.WebLight,187,RU,2019-07-06
-com.vive.riderleague,Race.io,188,RU,2019-07-06
-com.skype.raider,﻿Skype-無料のチャットとビデオ通話,189,RU,2019-07-06
-com.camelgames.aoz,AgeofZ,190,RU,2019-07-06
-com.iconjob.android,Worki– работаивакансиирядомсдомом,191,RU,2019-07-06
-com.kwalee.drawit,Drawit,192,RU,2019-07-06
+air.com.lunime.gachalife,GachaLife,148,RU,2019-07-06
+com.xiaomi.hm.health,MiFit,149,RU,2019-07-06
+com.yandex.mobile.realty,Яндекс.Недвижимость—квартиры,150,RU,2019-07-06
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,151,RU,2019-07-06
+com.spacegame.homedesign,マイホーム　デザインドリーム,152,RU,2019-07-06
+ru.sberbank.spasibo,СпасибоотСбербанка,153,RU,2019-07-06
+com.ChillyRoom.DungeonShooter,SoulKnight,154,RU,2019-07-06
+com.uma.musicvk,BOOM:музыкальныйплеер,155,RU,2019-07-06
+com.oppanagames.car.simulator,CarSimulator2,156,RU,2019-07-06
+ru.yandex.disk,Yandex.Disk,157,RU,2019-07-06
+com.UCMobile.intl,"UCBrowser–VideoDownloader,WatchVideoOffline",158,RU,2019-07-06
+com.gamma.scan,QR・バーコードスキャナー,159,RU,2019-07-06
+ru.gibdd_pay.app,"ШтрафыГИБДДофициальные:проверка,оплаташтрафов",160,RU,2019-07-06
+com.AB.RCDHD,СимуляторвожденияВАЗ2108,161,RU,2019-07-06
+com.yottagames.mafiawar,マフィア・シティ-極道風雲,162,RU,2019-07-06
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,163,RU,2019-07-06
+com.skygo.stickfight2,StickfightInfinity,164,RU,2019-07-06
+ru.mts.music.android,МТСMusic,165,RU,2019-07-06
+ru.beru.android,Беру–бонус500рублейнавашпервыйзаказ,166,RU,2019-07-06
+com.FDGEntertainment.redball4.gp,RedBall4,167,RU,2019-07-06
+ru.ivi.client,"ivi-фильмы,сериалы,мультфильмы",168,RU,2019-07-06
+com.clean.road,CleanRoad,169,RU,2019-07-06
+ru.mamba.client,友達と出会えて女の子とオンラインでチャットも出来る恋愛・婚活アプリ、Mamba,170,RU,2019-07-06
+com.playrix.fishdomdd.gplay,フィッシュダム(Fishdom),171,RU,2019-07-06
+ru.sunlight.sunlight,SUNLIGHTЮвелирныйГипермаркет,172,RU,2019-07-06
+com.dragonest.autochess.google,AutoChess,173,RU,2019-07-06
+ru.yandex.weatherplugin,Yandex.Weather,174,RU,2019-07-06
+app.source.getcontact,Getcontact,175,RU,2019-07-06
+com.melesta.coffeeshop,マイカフェ—レストランゲーム,176,RU,2019-07-06
+faceapp.facemystery.learnmoreaboutyourself,HiddenMe-エージングカメラ、フェイススキャナー,177,RU,2019-07-06
+com.yourstoryinteractive.sails.pirate.adventure,RomanceClub-StoriesIPlay(withChoices),178,RU,2019-07-06
+com.what.suitable,WhatisSuitable,179,RU,2019-07-06
+com.nekki.shadowfight,シャドウファイト2,180,RU,2019-07-06
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,181,RU,2019-07-06
+com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,182,RU,2019-07-06
+com.oneapp.max.cleaner.booster,無料クリーナー、アンチウイルス&キャッシュ削除-MAXCleaner,183,RU,2019-07-06
+com.taxsee.taxsee,maxim—orderataxi,184,RU,2019-07-06
+ru.foodfox.client,Яндекс.Еда,185,RU,2019-07-06
+com.drweb,Anti-virusDr.WebLight,186,RU,2019-07-06
+com.vive.riderleague,Race.io,187,RU,2019-07-06
+com.skype.raider,﻿Skype-無料のチャットとビデオ通話,188,RU,2019-07-06
+com.camelgames.aoz,AgeofZ,189,RU,2019-07-06
+com.iconjob.android,Worki– работаивакансиирядомсдомом,190,RU,2019-07-06
+com.kwalee.drawit,Drawit,191,RU,2019-07-06
+com.facebook.orca,Messenger,192,RU,2019-07-06
 com.pixel.art.coloring.color.by.number,"DailyPixel-ColorbyNumber,HappyPixelArt",193,RU,2019-07-06
 com.mobile.legends,モバイル·レジェンド:BangBang,194,RU,2019-07-06
 ru.yota.android,Мобильныйоператордля Android,195,RU,2019-07-06
@@ -199,63 +199,63 @@ ru.yandex.metro,Яндекс.Метро—схемаметроирасчётвр
 com.pinterest,Pinterest（ピンタレスト）,198,RU,2019-07-06
 com.alex.ropearound,RopeAround!,199,RU,2019-07-06
 com.playhardlab.factory,工場の覇者,200,RU,2019-07-06
-com.whatsapp.w4b,WhatsAppBusiness,201,RU,2019-07-06
-faceapp.magikoly.exploreandhavefun,Magikoly-顔編集、顔を老化させると民族分析,202,RU,2019-07-06
-ru.letobank.Prometheus,ПочтаБанк,203,RU,2019-07-06
-com.booking,ホテル予約のブッキングドットコム,204,RU,2019-07-06
-ru.rzd.pass,РЖДПассажирамбилетынапоезд,205,RU,2019-07-06
-fi.twomenandadog.zombiecatchers,ZombieCatchers(ゾンビキャッチャー),206,RU,2019-07-06
-com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,207,RU,2019-07-06
-com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,208,RU,2019-07-06
-com.lamoda.lite,Lamoda:интернетмагазинодеждыиобуви,209,RU,2019-07-06
-com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),210,RU,2019-07-06
-com.google.android.apps.translate,Google翻訳,211,RU,2019-07-06
-com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,212,RU,2019-07-06
-com.halfbrick.jetpackjoyride,JetpackJoyride,213,RU,2019-07-06
-games.mini.sports.bodybuilder.fighting.gym,ボディビルダーファイティングクラブ2019:レスリングゲーム,214,RU,2019-07-06
-com.bongolight.pixelcoloring,"ColorbyNumber,PixelColor-PixelArt",215,RU,2019-07-06
-fun.arts.studio.rotate.baraban,Вращайтебарабан,216,RU,2019-07-06
-com.neonplay.casualrollersplat2,RollerSplat!,217,RU,2019-07-06
-ru.rutaxi.vezet,Везёт(Рутакси)—заказтакси,218,RU,2019-07-06
-com.nekki.shadowfight3,シャドウファイト3,219,RU,2019-07-06
-zahleb.me,Abyss—ThrillingChatStories,220,RU,2019-07-06
-com.PSVStudio.BarboskinsInTheSupermarket,Барбоскины:Играсупермаркет,221,RU,2019-07-06
-com.dailyselfie.newlook.studio,SweetCamera-美顔自撮り、写真編集、画像加工、カメラアプリ,222,RU,2019-07-06
-com.deliveryclub,"DeliveryClub:Еда–БургерКинг,МакдоналдсиKFC",223,RU,2019-07-06
-com.YovoGames.hair3,美容院：美容院,224,RU,2019-07-06
-com.skgames.trafficrider,TrafficRider,225,RU,2019-07-06
-pl.lukok.draughts,Шашки,226,RU,2019-07-06
-smellymoo.sand,砂:絵,227,RU,2019-07-06
-com.matchington.mansion,マッチングトン·マンション,228,RU,2019-07-06
-com.sandboxol.indiegame.bedwar,BedWars,229,RU,2019-07-06
-ru.alfabank.mobile.android,Альфа-Банк(Alfa-Bank),230,RU,2019-07-06
-com.zzkko,SHEIN-FashionShoppingOnline,231,RU,2019-07-06
-com.PSVStudio.Pooches.holiday.beach_adventures,TheBarkers:Funnyadventures,232,RU,2019-07-06
-com.RTU.OneLevelTwo,OneLevel2:StickmanJailbreak,233,RU,2019-07-06
-com.music.tap.tap.tile,TapTapMusicポップソング,234,RU,2019-07-06
-com.gameinlife.airplane.games,MillionStar-全て射撃,235,RU,2019-07-06
-com.ketchapp.knifehit,KnifeHit,236,RU,2019-07-06
-jpark.AOS5,Angerofstick5:zombie,237,RU,2019-07-06
-com.dodreams.driveahead,DriveAhead!,238,RU,2019-07-06
-com.citymobil,"Ситимобил:ТаксивезетпоМоскве,дешево.Тахси",239,RU,2019-07-06
-ru.litres.android,Читайкнигионлайн,240,RU,2019-07-06
-ru.tsk.ftc.bender.qpay,Денежныепереводы,241,RU,2019-07-06
-com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,242,RU,2019-07-06
-com.electricfrenchfries.htct.free,人猫語翻訳機,243,RU,2019-07-06
-com.rexetstudio.blockstrike,BlockStrike,244,RU,2019-07-06
-com.byril.seabattle2,バトルシップ2,245,RU,2019-07-06
-com.bello.shootingworld,狙撃兵,246,RU,2019-07-06
-com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,247,RU,2019-07-06
-com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で色ぬりえ,248,RU,2019-07-06
-com.orangeapps.piratetreasure,パイレーツパズル：マッチ3パズル,249,RU,2019-07-06
-com.pixign.smart.puzzles,SmartPuzzlesCollection,250,RU,2019-07-06
-com.ea.gp.fifamobile,FIFAサッカー,251,RU,2019-07-06
-com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,252,RU,2019-07-06
-com.ketchapp.rider,Rider,253,RU,2019-07-06
-com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),254,RU,2019-07-06
-me.pou.app,プーチッチPou,255,RU,2019-07-06
-com.aim.racing,ExtremeCarDrivingSimulator,256,RU,2019-07-06
-zombie.survival.craft.z,地球最後の日：サバイバル,257,RU,2019-07-06
+faceapp.magikoly.exploreandhavefun,Magikoly-顔編集、顔を老化させると民族分析,201,RU,2019-07-06
+ru.letobank.Prometheus,ПочтаБанк,202,RU,2019-07-06
+com.booking,ホテル予約のブッキングドットコム,203,RU,2019-07-06
+ru.rzd.pass,РЖДПассажирамбилетынапоезд,204,RU,2019-07-06
+fi.twomenandadog.zombiecatchers,ZombieCatchers(ゾンビキャッチャー),205,RU,2019-07-06
+com.youmusic.magictiles,MagicTiles3:ピアノ曲&ゲーム,206,RU,2019-07-06
+com.lamoda.lite,Lamoda:интернетмагазинодеждыиобуви,207,RU,2019-07-06
+com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),208,RU,2019-07-06
+com.google.android.apps.translate,Google翻訳,209,RU,2019-07-06
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,210,RU,2019-07-06
+com.halfbrick.jetpackjoyride,JetpackJoyride,211,RU,2019-07-06
+games.mini.sports.bodybuilder.fighting.gym,ボディビルダーファイティングクラブ2019:レスリングゲーム,212,RU,2019-07-06
+com.bongolight.pixelcoloring,"ColorbyNumber,PixelColor-PixelArt",213,RU,2019-07-06
+fun.arts.studio.rotate.baraban,Вращайтебарабан,214,RU,2019-07-06
+com.neonplay.casualrollersplat2,RollerSplat!,215,RU,2019-07-06
+ru.rutaxi.vezet,Везёт(Рутакси)—заказтакси,216,RU,2019-07-06
+com.nekki.shadowfight3,シャドウファイト3,217,RU,2019-07-06
+zahleb.me,Abyss—ThrillingChatStories,218,RU,2019-07-06
+com.PSVStudio.BarboskinsInTheSupermarket,Барбоскины:Играсупермаркет,219,RU,2019-07-06
+com.dailyselfie.newlook.studio,SweetCamera-美顔自撮り、写真編集、画像加工、カメラアプリ,220,RU,2019-07-06
+com.deliveryclub,"DeliveryClub:Еда–БургерКинг,МакдоналдсиKFC",221,RU,2019-07-06
+com.YovoGames.hair3,美容院：美容院,222,RU,2019-07-06
+com.skgames.trafficrider,TrafficRider,223,RU,2019-07-06
+pl.lukok.draughts,Шашки,224,RU,2019-07-06
+smellymoo.sand,砂:絵,225,RU,2019-07-06
+com.matchington.mansion,マッチングトン·マンション,226,RU,2019-07-06
+com.sandboxol.indiegame.bedwar,BedWars,227,RU,2019-07-06
+com.facebook.katana,Facebook,228,RU,2019-07-06
+ru.alfabank.mobile.android,Альфа-Банк(Alfa-Bank),229,RU,2019-07-06
+com.zzkko,SHEIN-FashionShoppingOnline,230,RU,2019-07-06
+com.PSVStudio.Pooches.holiday.beach_adventures,TheBarkers:Funnyadventures,231,RU,2019-07-06
+com.RTU.OneLevelTwo,OneLevel2:StickmanJailbreak,232,RU,2019-07-06
+com.music.tap.tap.tile,TapTapMusicポップソング,233,RU,2019-07-06
+com.gameinlife.airplane.games,MillionStar-全て射撃,234,RU,2019-07-06
+com.ketchapp.knifehit,KnifeHit,235,RU,2019-07-06
+jpark.AOS5,Angerofstick5:zombie,236,RU,2019-07-06
+com.dodreams.driveahead,DriveAhead!,237,RU,2019-07-06
+com.citymobil,"Ситимобил:ТаксивезетпоМоскве,дешево.Тахси",238,RU,2019-07-06
+ru.litres.android,Читайкнигионлайн,239,RU,2019-07-06
+ru.tsk.ftc.bender.qpay,Денежныепереводы,240,RU,2019-07-06
+com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,241,RU,2019-07-06
+com.electricfrenchfries.htct.free,人猫語翻訳機,242,RU,2019-07-06
+com.rexetstudio.blockstrike,BlockStrike,243,RU,2019-07-06
+com.byril.seabattle2,バトルシップ2,244,RU,2019-07-06
+com.bello.shootingworld,狙撃兵,245,RU,2019-07-06
+com.smallgiantgames.empires,Empires&Puzzles:RPGQuest,246,RU,2019-07-06
+com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で色ぬりえ,247,RU,2019-07-06
+com.orangeapps.piratetreasure,パイレーツパズル：マッチ3パズル,248,RU,2019-07-06
+com.pixign.smart.puzzles,SmartPuzzlesCollection,249,RU,2019-07-06
+com.ea.gp.fifamobile,FIFAサッカー,250,RU,2019-07-06
+com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,251,RU,2019-07-06
+com.ketchapp.rider,Rider,252,RU,2019-07-06
+com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),253,RU,2019-07-06
+me.pou.app,プーチッチPou,254,RU,2019-07-06
+com.aim.racing,ExtremeCarDrivingSimulator,255,RU,2019-07-06
+zombie.survival.craft.z,地球最後の日：サバイバル,256,RU,2019-07-06
+com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,257,RU,2019-07-06
 com.ea.games.simsfreeplay_row,TheSimsFreePlay,258,RU,2019-07-06
 com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),259,RU,2019-07-06
 com.dc.hwsj,GameofSultans,260,RU,2019-07-06
@@ -267,143 +267,143 @@ com.turner.tooncup,トゥーンカップ-サッカーゲーム,265,RU,2019-07-06
 com.fgol.HungrySharkEvolution,HungrySharkEvolution,266,RU,2019-07-06
 com.google.android.apps.youtube.kids,YouTubeKids,267,RU,2019-07-06
 com.steward.data.tool,DataSteward,268,RU,2019-07-06
-com.nekki.vector,Vector,269,RU,2019-07-06
-com.billiards.city.pool.nation.club,Pooking-ビリヤードシティ,270,RU,2019-07-06
-photo.editor.photoeditor.photoeditorpro,画像加工-写真編集、コラージュメーカー,271,RU,2019-07-06
-ru.drom.pdd.android.app,БилетыПДД2019иЭкзаменотГИБДДсDrom.ru,272,RU,2019-07-06
-com.wb.goog.mkx,MORTALKOMBAT,273,RU,2019-07-06
-net.apex_designs.payback2,Payback2-TheBattleSandbox,274,RU,2019-07-06
-com.bubadu.bubbu,仮想ペット「Bubbu,275,RU,2019-07-06
-ru.photostrana.mobile,"Знакомства,общение,чат,флиртисвидания.",276,RU,2019-07-06
-com.mindy.grap1,StickmanHook,277,RU,2019-07-06
-com.octopod.russianpost.client.android,ПочтаРоссии,278,RU,2019-07-06
-com.valvesoftware.underlords,DotaUnderlords,279,RU,2019-07-06
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,280,RU,2019-07-06
-com.dentiruzi.putkseif,Pixiconix,281,RU,2019-07-06
-ru.brothersappsandgames.smashdiyslimefidgetslimy,SmashDiySlime-FidgetSlimy,282,RU,2019-07-06
-com.whatever.photo.collage.picture,PIPCollageMakerUnlimited,283,RU,2019-07-06
-com.existage.v4,РусскийВодила3:ВКрым,284,RU,2019-07-06
-org.thunderdog.challegram,TelegramX,285,RU,2019-07-06
-com.secondarm.taptapdash,TapTapDash,286,RU,2019-07-06
-ru.farpost.dromfilter,"ДромАвто-ценынамашины,купитьипродатьавто",287,RU,2019-07-06
-com.imo.android.imoimbeta,imobetafreecallsandtext,288,RU,2019-07-06
-com.Neurononfire.SupremeDuelist,SupremeDuelistStickman,289,RU,2019-07-06
-com.destiny.teller,DestinyTeller,290,RU,2019-07-06
-com.puzzle.cute.super,SuperCutePuzzle,291,RU,2019-07-06
-com.ufotosoft.justshot,"SweetSnap-自分撮りカメラ&かわいいかしゃしんステッカー,ビューティーエディタ",292,RU,2019-07-06
-com.electricfoal.buildingsformcpe,MinecraftPEのための建物,293,RU,2019-07-06
-org.aastudio.games.longnards,Длинныенарды,294,RU,2019-07-06
-com.mnightt.slices,Slices,295,RU,2019-07-06
-com.openmygame.games.android.wordsearchsea,WordSearch:Unscramblewords,296,RU,2019-07-06
-com.kms.free,KasperskyMobileAntivirus:AppLock&WebSecurity,297,RU,2019-07-06
-com.ViperGames.StickmanDismount,StickmanDismounting,298,RU,2019-07-06
-com.cxinventor.file.explorer,CxFileExplorer,299,RU,2019-07-06
-com.remote.control.universal.forall.tv,すべてのテレビ用のリモートコントロール,300,RU,2019-07-06
-pedometer.stepcounter.calorieburner.pedometerforwalking,歩数計-無料のステップカウンター＆カロリー計算,301,RU,2019-07-06
-at.nerbrothers.SuperJump,Lep'sWorld🍀,302,RU,2019-07-06
-com.varbroz.perfectturn,PerfectTurn!,303,RU,2019-07-06
-com.hy.sfacer,FantasticFaceーエイジング予測、美人ＰＫ、FantasticFace,304,RU,2019-07-06
-com.relaxingbraintraining.knives,Knives,305,RU,2019-07-06
-pedometer.steptracker.calorieburner.stepcounter,無料の歩数計-ステップカウンター＆カロリー計算,306,RU,2019-07-06
-com.tocaboca.hairsalon2.iap,TocaHairSalon2-Free!,307,RU,2019-07-06
-com.topgamestudio.americanblocksnipersurvival,AmericanBlockSniperSurvival,308,RU,2019-07-06
-com.twist.hit,TwistHit!,309,RU,2019-07-06
-com.bandagames.mpuzzle.gp,マジックジグソーパズル,310,RU,2019-07-06
-ru.aviasales,Aviasales—авиабилетыдешево,311,RU,2019-07-06
-com.niksoftware.snapseed,Snapseed,312,RU,2019-07-06
-com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,313,RU,2019-07-06
-com.glaznev.sentence,Sentence,314,RU,2019-07-06
-com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-公式ゲーム,315,RU,2019-07-06
-com.movavi.mobile.movaviclips,ビデオエディタMovaviClips,316,RU,2019-07-06
-org.policefines.finesNotCommercial,ШтрафыГИБДДсФото-ПроверкаиОплатаОнлайн,317,RU,2019-07-06
-com.zigzag_mobile.skorolek,АкциивсехмагазиновРоссии—Птичка,318,RU,2019-07-06
-ru.sovcomcard.halva.v1,Совкомбанк—Халва,319,RU,2019-07-06
-com.russellraymond.holloball,HolloBall,320,RU,2019-07-06
-com.crazylabs.hotel.transylvania.adventure,モンスター・ホテル・アドベンチャー-走って、飛んで、作る！,321,RU,2019-07-06
-com.no.color,"No.Pix-塗り絵-ぬりえ無料,色塗りアプリ,数字で色塗,番号でペイント",322,RU,2019-07-06
-sixpack.sixpackabs.absworkout,30日でシックスパック-腹筋ワークアウト,323,RU,2019-07-06
-com.ea.game.pvz2_row,PlantsvsZombies™2Free,324,RU,2019-07-06
-ru.kfc.kfc_delivery,"KFC:доставка,купоны,рестораны",325,RU,2019-07-06
-screenrecorder.recorder.editor,VRecorder画面録画-サウンド、動画エディタ,326,RU,2019-07-06
-ru.yandex.mail,YandexMail,327,RU,2019-07-06
-ru.yandex.money,"Yandex.Money—wallet,cards,transfers,andfines",328,RU,2019-07-06
-com.huya.pokogame,POKO-PlayWithNewFriends,329,RU,2019-07-06
-mbinc12.mb32b,無料音楽聴き放題！！無料の音楽プレーヤーアプリLITE(音楽ダウンロード無料MP3なし,330,RU,2019-07-06
-com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,331,RU,2019-07-06
+com.whatsapp.w4b,WhatsAppBusiness,269,RU,2019-07-06
+com.nekki.vector,Vector,270,RU,2019-07-06
+com.billiards.city.pool.nation.club,Pooking-ビリヤードシティ,271,RU,2019-07-06
+photo.editor.photoeditor.photoeditorpro,画像加工-写真編集、コラージュメーカー,272,RU,2019-07-06
+ru.drom.pdd.android.app,БилетыПДД2019иЭкзаменотГИБДДсDrom.ru,273,RU,2019-07-06
+com.wb.goog.mkx,MORTALKOMBAT,274,RU,2019-07-06
+net.apex_designs.payback2,Payback2-TheBattleSandbox,275,RU,2019-07-06
+com.bubadu.bubbu,仮想ペット「Bubbu,276,RU,2019-07-06
+ru.photostrana.mobile,"Знакомства,общение,чат,флиртисвидания.",277,RU,2019-07-06
+com.mindy.grap1,StickmanHook,278,RU,2019-07-06
+com.octopod.russianpost.client.android,ПочтаРоссии,279,RU,2019-07-06
+com.valvesoftware.underlords,DotaUnderlords,280,RU,2019-07-06
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,281,RU,2019-07-06
+com.dentiruzi.putkseif,Pixiconix,282,RU,2019-07-06
+ru.brothersappsandgames.smashdiyslimefidgetslimy,SmashDiySlime-FidgetSlimy,283,RU,2019-07-06
+com.whatever.photo.collage.picture,PIPCollageMakerUnlimited,284,RU,2019-07-06
+com.existage.v4,РусскийВодила3:ВКрым,285,RU,2019-07-06
+org.thunderdog.challegram,TelegramX,286,RU,2019-07-06
+com.secondarm.taptapdash,TapTapDash,287,RU,2019-07-06
+ru.farpost.dromfilter,"ДромАвто-ценынамашины,купитьипродатьавто",288,RU,2019-07-06
+com.imo.android.imoimbeta,imobetafreecallsandtext,289,RU,2019-07-06
+com.Neurononfire.SupremeDuelist,SupremeDuelistStickman,290,RU,2019-07-06
+com.destiny.teller,DestinyTeller,291,RU,2019-07-06
+com.puzzle.cute.super,SuperCutePuzzle,292,RU,2019-07-06
+com.ufotosoft.justshot,"SweetSnap-自分撮りカメラ&かわいいかしゃしんステッカー,ビューティーエディタ",293,RU,2019-07-06
+com.electricfoal.buildingsformcpe,MinecraftPEのための建物,294,RU,2019-07-06
+org.aastudio.games.longnards,Длинныенарды,295,RU,2019-07-06
+com.mnightt.slices,Slices,296,RU,2019-07-06
+com.openmygame.games.android.wordsearchsea,WordSearch:Unscramblewords,297,RU,2019-07-06
+com.kms.free,KasperskyMobileAntivirus:AppLock&WebSecurity,298,RU,2019-07-06
+com.ViperGames.StickmanDismount,StickmanDismounting,299,RU,2019-07-06
+com.cxinventor.file.explorer,CxFileExplorer,300,RU,2019-07-06
+com.remote.control.universal.forall.tv,すべてのテレビ用のリモートコントロール,301,RU,2019-07-06
+pedometer.stepcounter.calorieburner.pedometerforwalking,歩数計-無料のステップカウンター＆カロリー計算,302,RU,2019-07-06
+at.nerbrothers.SuperJump,Lep'sWorld🍀,303,RU,2019-07-06
+com.varbroz.perfectturn,PerfectTurn!,304,RU,2019-07-06
+com.hy.sfacer,FantasticFaceーエイジング予測、美人ＰＫ、FantasticFace,305,RU,2019-07-06
+com.relaxingbraintraining.knives,Knives,306,RU,2019-07-06
+pedometer.steptracker.calorieburner.stepcounter,無料の歩数計-ステップカウンター＆カロリー計算,307,RU,2019-07-06
+com.tocaboca.hairsalon2.iap,TocaHairSalon2-Free!,308,RU,2019-07-06
+com.topgamestudio.americanblocksnipersurvival,AmericanBlockSniperSurvival,309,RU,2019-07-06
+com.twist.hit,TwistHit!,310,RU,2019-07-06
+com.bandagames.mpuzzle.gp,マジックジグソーパズル,311,RU,2019-07-06
+ru.aviasales,Aviasales—авиабилетыдешево,312,RU,2019-07-06
+com.niksoftware.snapseed,Snapseed,313,RU,2019-07-06
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,314,RU,2019-07-06
+com.glaznev.sentence,Sentence,315,RU,2019-07-06
+com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-公式ゲーム,316,RU,2019-07-06
+com.movavi.mobile.movaviclips,ビデオエディタMovaviClips,317,RU,2019-07-06
+org.policefines.finesNotCommercial,ШтрафыГИБДДсФото-ПроверкаиОплатаОнлайн,318,RU,2019-07-06
+com.zigzag_mobile.skorolek,АкциивсехмагазиновРоссии—Птичка,319,RU,2019-07-06
+ru.sovcomcard.halva.v1,Совкомбанк—Халва,320,RU,2019-07-06
+com.russellraymond.holloball,HolloBall,321,RU,2019-07-06
+com.crazylabs.hotel.transylvania.adventure,モンスター・ホテル・アドベンチャー-走って、飛んで、作る！,322,RU,2019-07-06
+com.no.color,"No.Pix-塗り絵-ぬりえ無料,色塗りアプリ,数字で色塗,番号でペイント",323,RU,2019-07-06
+sixpack.sixpackabs.absworkout,30日でシックスパック-腹筋ワークアウト,324,RU,2019-07-06
+com.ea.game.pvz2_row,PlantsvsZombies™2Free,325,RU,2019-07-06
+ru.kfc.kfc_delivery,"KFC:доставка,купоны,рестораны",326,RU,2019-07-06
+screenrecorder.recorder.editor,VRecorder画面録画-サウンド、動画エディタ,327,RU,2019-07-06
+ru.yandex.mail,YandexMail,328,RU,2019-07-06
+ru.yandex.money,"Yandex.Money—wallet,cards,transfers,andfines",329,RU,2019-07-06
+com.huya.pokogame,POKO-PlayWithNewFriends,330,RU,2019-07-06
+mbinc12.mb32b,無料音楽聴き放題！！無料の音楽プレーヤーアプリLITE(音楽ダウンロード無料MP3なし,331,RU,2019-07-06
 com.outfit7.mytalkinghank,マイ・トーキング・ハンク,332,RU,2019-07-06
 com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-動画編集/動画加工,333,RU,2019-07-06
-com.mirrorai.app,ミラーエモジキーボード,334,RU,2019-07-06
-com.gpn.azs,АЗС«Газпромнефть»,335,RU,2019-07-06
-ru.sportmaster.app,Спортмастер–интернет-магазин,336,RU,2019-07-06
-game.free.rise.hole.up.io.love.balls.toss.up,BuddyToss,337,RU,2019-07-06
-com.SlakDev.SquirrelSimulator1,SquirrelSimulator,338,RU,2019-07-06
-com.sandboxol.blockymods,BlockmanGo:無料Realms&ミニゲーム,339,RU,2019-07-06
-com.igg.castleclash_ru,CastleClash:ПутьХрабрых,340,RU,2019-07-06
-com.fingersoft.hcr2,HillClimbRacing2,341,RU,2019-07-06
-com.cmplay.tiles2,ピアノタイル2™,342,RU,2019-07-06
-com.exordium.pottery,Pottery,343,RU,2019-07-06
-com.setinbox.game,UDSApp,344,RU,2019-07-06
-com.frame.art.easy,EasyArtFrame,345,RU,2019-07-06
-ru.homecredit.mycredit,МойКредит,346,RU,2019-07-06
-com.hyperspeed.rocket.applock.free,AppLock-アプリロック，PINコード&パターンロック,347,RU,2019-07-06
-apps.youon.FindWords,Найдислова,348,RU,2019-07-06
-com.assassingames.ninjafrogrope,ロープカエル忍者ヒーロー-奇妙なギャングスターベガス,349,RU,2019-07-06
-com.skgames.trafficracer,TrafficRacer,350,RU,2019-07-06
-com.edkongames.mobs,ModernOps-СтрелялкиОнлайн(FPSШутер),351,RU,2019-07-06
-com.rovio.angrybirds,AngryBirdsClassic,352,RU,2019-07-06
-com.riseup.game,RiseUp,353,RU,2019-07-06
-com.appblockgames.freecraftexploration,MOD-MASTERforMinecraftPE(PocketEdition)Free,354,RU,2019-07-06
-com.kiarygames.tinyroom,TinyRoomStories:TownMystery,355,RU,2019-07-06
-com.genetic.realcarparking2,RealCarParking2:DrivingSchool2018,356,RU,2019-07-06
-com.love.poly.puzzle.game,LovePoly-新感覚3dパズル,357,RU,2019-07-06
-co.benx.weverse,Weverse,358,RU,2019-07-06
-com.mgc.miami.crime.simulator.two,VegasCrimeSimulator,359,RU,2019-07-06
-com.magjg.roundhit,PaintPop3D,360,RU,2019-07-06
-es.treebit.decisionroulette,決定ルーレット,361,RU,2019-07-06
-com.easybrain.chamy,Chamy-数字で塗り絵。数字で色を付ける塗り絵帳,362,RU,2019-07-06
-com.improvefive.different,LegendsofVictory,363,RU,2019-07-06
-io.voodoo.holeio,Hole.io,364,RU,2019-07-06
-com.plarium.raidlegends,レイドShadowLegends,365,RU,2019-07-06
-com.popularapp.periodcalendar,生理日・妊娠・排卵日カレンダーPeriodTracker,366,RU,2019-07-06
-com.epicstory.ben10,Ben10Heroes,367,RU,2019-07-06
-com.ea.games.r3_row,RealRacing3,368,RU,2019-07-06
-com.YovoGames.dentist,子供の医者：歯科医,369,RU,2019-07-06
-ru.bestprice.fixprice,FixPrice,370,RU,2019-07-06
-ru.dodopizza.app,ДодоПицца.Доставкапиццы,371,RU,2019-07-06
-com.lyxoto.master.forminecraftpe,マスターforMinecraftPE,372,RU,2019-07-06
-com.xp101.ava_rus,Аватария,373,RU,2019-07-06
-ru.tabor.search,Tabor-Знакомства,374,RU,2019-07-06
-com.facebook.lite,FacebookLite,375,RU,2019-07-06
-com.merigotech.fillwords,Филворды:найдисловопобуквам,376,RU,2019-07-06
-com.bb8qq.pixel.petscoloringyespixelartbynumber,ペットぬりえ(ColoringPETS):LOL動物ルブック-ピクセルアート,377,RU,2019-07-06
-future.me.old.baby.astrology,FutureTime-エイジングスキャナー、赤ちゃん予測、手の達人,378,RU,2019-07-06
-com.AB.RCDZIL,RussianCarDriverZIL130,379,RU,2019-07-06
-com.fungames.battletanksbeta,WarMachines:FreeMultiplayerTankShootingGames,380,RU,2019-07-06
-com.spcomes.fruitforest,フルーツフォレスト:レインボーアップル,381,RU,2019-07-06
-com.free_nk.poletwo,ПолеЧудесПлюс,382,RU,2019-07-06
-ru.napoleonit.kb,"Красное&Белое—магазин,акции",383,RU,2019-07-06
-net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),384,RU,2019-07-06
-com.coldapp.at50rooms1,Escapegame:50rooms1,385,RU,2019-07-06
-iqtest.riddlesgame.test,What'smyIQ?-TheShortIQTest,386,RU,2019-07-06
-com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne―爽快！一流公認マシンレーシング,387,RU,2019-07-06
-com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,388,RU,2019-07-06
-com.kingsgroup.ww2,Zデー:ハートオブヒーローズ|ゾンビ戦争MMO,389,RU,2019-07-06
-com.mediocre.smashhit,SmashHit,390,RU,2019-07-06
-com.turborocketgames.catsim,猫シムオンライン,391,RU,2019-07-06
-com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,392,RU,2019-07-06
-com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,393,RU,2019-07-06
-com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,394,RU,2019-07-06
-com.nianticlabs.pokemongo,PokémonGO,395,RU,2019-07-06
-com.opera.browser,無料VPNを備えたOpera,396,RU,2019-07-06
-com.outfit7.gingersbirthdayfree,おしゃべり猫のトーキング・ジンジャー2,397,RU,2019-07-06
-com.cmcm.lite,CMLite-ForLow-EndPhone,398,RU,2019-07-06
-com.iart.camera.photo,iArtカメラ:アート効果と多重露光,399,RU,2019-07-06
-com.rarlab.rar,RAR,400,RU,2019-07-06
-com.sleep.reminder.pro,SleepReminderPro,401,RU,2019-07-06
-com.palmistry.scan.horoscope,手相占い＆星占い-エイジングカメラ,402,RU,2019-07-06
-com.chillingo.robberybobfree.android.row,RobberyBob,403,RU,2019-07-06
-com.cogscoding.caseroyale,CaseRoyale-casesimulatorforCSGO,404,RU,2019-07-06
-com.icemobile.lenta.prod,Лента,405,RU,2019-07-06
+com.gpn.azs,АЗС«Газпромнефть»,334,RU,2019-07-06
+ru.sportmaster.app,Спортмастер–интернет-магазин,335,RU,2019-07-06
+game.free.rise.hole.up.io.love.balls.toss.up,BuddyToss,336,RU,2019-07-06
+com.SlakDev.SquirrelSimulator1,SquirrelSimulator,337,RU,2019-07-06
+com.sandboxol.blockymods,BlockmanGo:無料Realms&ミニゲーム,338,RU,2019-07-06
+com.igg.castleclash_ru,CastleClash:ПутьХрабрых,339,RU,2019-07-06
+com.fingersoft.hcr2,HillClimbRacing2,340,RU,2019-07-06
+com.cmplay.tiles2,ピアノタイル2™,341,RU,2019-07-06
+com.exordium.pottery,Pottery,342,RU,2019-07-06
+com.setinbox.game,UDSApp,343,RU,2019-07-06
+com.frame.art.easy,EasyArtFrame,344,RU,2019-07-06
+ru.homecredit.mycredit,МойКредит,345,RU,2019-07-06
+com.hyperspeed.rocket.applock.free,AppLock-アプリロック，PINコード&パターンロック,346,RU,2019-07-06
+apps.youon.FindWords,Найдислова,347,RU,2019-07-06
+com.assassingames.ninjafrogrope,ロープカエル忍者ヒーロー-奇妙なギャングスターベガス,348,RU,2019-07-06
+com.skgames.trafficracer,TrafficRacer,349,RU,2019-07-06
+com.edkongames.mobs,ModernOps-СтрелялкиОнлайн(FPSШутер),350,RU,2019-07-06
+com.rovio.angrybirds,AngryBirdsClassic,351,RU,2019-07-06
+com.riseup.game,RiseUp,352,RU,2019-07-06
+com.appblockgames.freecraftexploration,MOD-MASTERforMinecraftPE(PocketEdition)Free,353,RU,2019-07-06
+com.kiarygames.tinyroom,TinyRoomStories:TownMystery,354,RU,2019-07-06
+com.genetic.realcarparking2,RealCarParking2:DrivingSchool2018,355,RU,2019-07-06
+com.love.poly.puzzle.game,LovePoly-新感覚3dパズル,356,RU,2019-07-06
+co.benx.weverse,Weverse,357,RU,2019-07-06
+com.mgc.miami.crime.simulator.two,VegasCrimeSimulator,358,RU,2019-07-06
+com.magjg.roundhit,PaintPop3D,359,RU,2019-07-06
+es.treebit.decisionroulette,決定ルーレット,360,RU,2019-07-06
+com.easybrain.chamy,Chamy-数字で塗り絵。数字で色を付ける塗り絵帳,361,RU,2019-07-06
+com.improvefive.different,LegendsofVictory,362,RU,2019-07-06
+io.voodoo.holeio,Hole.io,363,RU,2019-07-06
+com.plarium.raidlegends,レイドShadowLegends,364,RU,2019-07-06
+com.popularapp.periodcalendar,生理日・妊娠・排卵日カレンダーPeriodTracker,365,RU,2019-07-06
+com.epicstory.ben10,Ben10Heroes,366,RU,2019-07-06
+com.ea.games.r3_row,RealRacing3,367,RU,2019-07-06
+com.YovoGames.dentist,子供の医者：歯科医,368,RU,2019-07-06
+ru.bestprice.fixprice,FixPrice,369,RU,2019-07-06
+ru.dodopizza.app,ДодоПицца.Доставкапиццы,370,RU,2019-07-06
+com.lyxoto.master.forminecraftpe,マスターforMinecraftPE,371,RU,2019-07-06
+com.xp101.ava_rus,Аватария,372,RU,2019-07-06
+ru.tabor.search,Tabor-Знакомства,373,RU,2019-07-06
+com.facebook.lite,FacebookLite,374,RU,2019-07-06
+com.merigotech.fillwords,Филворды:найдисловопобуквам,375,RU,2019-07-06
+com.bb8qq.pixel.petscoloringyespixelartbynumber,ペットぬりえ(ColoringPETS):LOL動物ルブック-ピクセルアート,376,RU,2019-07-06
+future.me.old.baby.astrology,FutureTime-エイジングスキャナー、赤ちゃん予測、手の達人,377,RU,2019-07-06
+com.AB.RCDZIL,RussianCarDriverZIL130,378,RU,2019-07-06
+com.fungames.battletanksbeta,WarMachines:FreeMultiplayerTankShootingGames,379,RU,2019-07-06
+com.spcomes.fruitforest,フルーツフォレスト:レインボーアップル,380,RU,2019-07-06
+com.free_nk.poletwo,ПолеЧудесПлюс,381,RU,2019-07-06
+ru.napoleonit.kb,"Красное&Белое—магазин,акции",382,RU,2019-07-06
+net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),383,RU,2019-07-06
+com.coldapp.at50rooms1,Escapegame:50rooms1,384,RU,2019-07-06
+iqtest.riddlesgame.test,What'smyIQ?-TheShortIQTest,385,RU,2019-07-06
+com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne―爽快！一流公認マシンレーシング,386,RU,2019-07-06
+com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,387,RU,2019-07-06
+com.kingsgroup.ww2,Zデー:ハートオブヒーローズ|ゾンビ戦争MMO,388,RU,2019-07-06
+com.mediocre.smashhit,SmashHit,389,RU,2019-07-06
+com.turborocketgames.catsim,猫シムオンライン,390,RU,2019-07-06
+com.brokenreality.planemerger.android,MergePlane-Click&IdleTycoon,391,RU,2019-07-06
+com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,392,RU,2019-07-06
+com.tapblaze.pizzabusiness,グッドピザ、グレートピザ　—　クッキングゲーム,393,RU,2019-07-06
+com.nianticlabs.pokemongo,PokémonGO,394,RU,2019-07-06
+com.opera.browser,無料VPNを備えたOpera,395,RU,2019-07-06
+com.outfit7.gingersbirthdayfree,おしゃべり猫のトーキング・ジンジャー2,396,RU,2019-07-06
+com.cmcm.lite,CMLite-ForLow-EndPhone,397,RU,2019-07-06
+com.iart.camera.photo,iArtカメラ:アート効果と多重露光,398,RU,2019-07-06
+com.rarlab.rar,RAR,399,RU,2019-07-06
+com.sleep.reminder.pro,SleepReminderPro,400,RU,2019-07-06
+com.palmistry.scan.horoscope,手相占い＆星占い-エイジングカメラ,401,RU,2019-07-06
+com.chillingo.robberybobfree.android.row,RobberyBob,402,RU,2019-07-06
+com.cogscoding.caseroyale,CaseRoyale-casesimulatorforCSGO,403,RU,2019-07-06
+com.icemobile.lenta.prod,Лента,404,RU,2019-07-06
+com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,405,RU,2019-07-06
 com.truegames.explorationpro2018,ExplorationPro2019,406,RU,2019-07-06
 com.cartoon.photomaker.editor,CartoonPhotoMaker,407,RU,2019-07-06
 video.like.lite,LikeeLite-FormerlyLIKELiteVideo,408,RU,2019-07-06
@@ -419,17 +419,17 @@ com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ
 ru.mts.money,МТСДеньги–платежиипереводыонлайн,418,RU,2019-07-06
 com.outfit7.talkingtomjetski2,トーキング・トムのジェットスキー2,419,RU,2019-07-06
 com.mapswithme.maps.pro,"MAPS.ME—オフライン地図とナビゲーション.レストラン,カフェマップ",420,RU,2019-07-06
-com.camerasideas.trimmer,YouCut-VideoEditor&VideoMaker,421,RU,2019-07-06
-com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,422,RU,2019-07-06
-com.onetwotrip.onetwotrip,"Авиабилеты,ждбилетыиотели.Турыиавтобусы",423,RU,2019-07-06
-com.combat.strike,CombatStrike:PvPFPSバトルゲーム-銃撃ゲーム無料,424,RU,2019-07-06
-com.didenko.and.partners.durak,Дурак.Карьера.Карточнаяиграбезинтернета.,425,RU,2019-07-06
-net.wordbit.krru,WordBitКорейскийязык(наблокировкеэкрана),426,RU,2019-07-06
-com.gameloft.android.ANMP.GloftA9HM,アスファルト9：Legends-2019年レーシングアクションゲーム,427,RU,2019-07-06
-ru.litres.android.readfree,Читайбесплатно,428,RU,2019-07-06
-com.outfit7.movingeye.swampattack,スワンプアタック(SwampAttack),429,RU,2019-07-06
-mg.locations.track5,GPS電話追跡,430,RU,2019-07-06
-videoeditor.videorecorder.screenrecorder,スクリーン録画-画面録画、内部音声、スクリーンショット,431,RU,2019-07-06
+com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,421,RU,2019-07-06
+com.onetwotrip.onetwotrip,"Авиабилеты,ждбилетыиотели.Турыиавтобусы",422,RU,2019-07-06
+com.combat.strike,CombatStrike:PvPFPSバトルゲーム-銃撃ゲーム無料,423,RU,2019-07-06
+com.didenko.and.partners.durak,Дурак.Карьера.Карточнаяиграбезинтернета.,424,RU,2019-07-06
+net.wordbit.krru,WordBitКорейскийязык(наблокировкеэкрана),425,RU,2019-07-06
+com.gameloft.android.ANMP.GloftA9HM,アスファルト9：Legends-2019年レーシングアクションゲーム,426,RU,2019-07-06
+ru.litres.android.readfree,Читайбесплатно,427,RU,2019-07-06
+com.outfit7.movingeye.swampattack,スワンプアタック(SwampAttack),428,RU,2019-07-06
+mg.locations.track5,GPS電話追跡,429,RU,2019-07-06
+videoeditor.videorecorder.screenrecorder,スクリーン録画-画面録画、内部音声、スクリーンショット,430,RU,2019-07-06
+com.mirrorai.app,ミラーエモジキーボード,431,RU,2019-07-06
 com.hgamesart.catsimulator,CatSimulator:KittyCraft,432,RU,2019-07-06
 com.ViperGames.StickmanWarriors,StickmanWarriors,433,RU,2019-07-06
 com.crazylabs.sausage.run,走れ、ソーセージ、走れ！,434,RU,2019-07-06
@@ -457,10 +457,10 @@ com.apegroup.mcdonaldsrussia,Макдоналдс,455,RU,2019-07-06
 com.whaleapp.hiddenhotel,HiddenHotel,456,RU,2019-07-06
 com.cocoplay.dancetosuccess,ダンスクラッシュ：バレエVSヒップホップ,457,RU,2019-07-06
 com.cameraforphonex.hdcamerax,CameraPhoneX-OS12Camera,458,RU,2019-07-06
-com.google.android.youtube,YouTube,459,RU,2019-07-06
-com.megalabs.megafon.tv,"МегаФонТВ:фильмы,ТВ,сериалы",460,RU,2019-07-06
-com.gpp.sushibar,SushiBar,461,RU,2019-07-06
-ru.pluspages.guests,ВКгости,462,RU,2019-07-06
+com.megalabs.megafon.tv,"МегаФонТВ:фильмы,ТВ,сериалы",459,RU,2019-07-06
+com.gpp.sushibar,SushiBar,460,RU,2019-07-06
+ru.pluspages.guests,ВКгости,461,RU,2019-07-06
+com.fungames.battletanksbeta,WarMachines:FreeMultiplayerTankShootingGames,462,RU,2019-07-06
 com.miniclip.plagueinc,PlagueInc.-伝染病株式会社-,463,RU,2019-07-06
 com.cg.fanofguns,FanofGuns,464,RU,2019-07-06
 com.dziobaki.mr_shot,BulletMaster,465,RU,2019-07-06
