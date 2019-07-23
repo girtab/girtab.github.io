@@ -1,11 +1,11 @@
 app_id,app_name,rank,country_code,date
 io.faceapp,FaceApp,1,VN,2019-07-23
 com.noxgroup.game.dotnbeat,DotnBeat-MagicMusicGame,2,VN,2019-07-23
-com.facebook.orca,Messenger,3,VN,2019-07-23
-com.dts.freefireth,GarenaFreeFire,4,VN,2019-07-23
-com.zing.zalo,Zalo-VideoCall,5,VN,2019-07-23
-com.ss.android.ugc.trill,TikTok,6,VN,2019-07-23
-com.slippy.linerusher,FunRace3D,7,VN,2019-07-23
+com.dts.freefireth,GarenaFreeFire,3,VN,2019-07-23
+com.zing.zalo,Zalo-VideoCall,4,VN,2019-07-23
+com.ss.android.ugc.trill,TikTok,5,VN,2019-07-23
+com.slippy.linerusher,FunRace3D,6,VN,2019-07-23
+com.facebook.orca,Messenger,7,VN,2019-07-23
 com.shape.change,JellyShift,8,VN,2019-07-23
 com.zing.mp3,ZingMP3,9,VN,2019-07-23
 com.garena.game.kgvn,GarenaLiênQuânMobile,10,VN,2019-07-23
@@ -18,16 +18,16 @@ com.noxgroup.game.eggfinder,EggFinder,16,VN,2019-07-23
 io.voodoo.crowdcity,CrowdCity,17,VN,2019-07-23
 vn.funtap.kiemma3d,KiếmMa3D-KiemMa3D,18,VN,2019-07-23
 com.playgendary.kickthebuddy,KicktheBuddy,19,VN,2019-07-23
-com.facebook.katana,Facebook,20,VN,2019-07-23
-com.facebook.lite,FacebookLite,21,VN,2019-07-23
-com.gorgeous.liteinternational,Ulikeユーライック-激盛れ楽撮りビューティーカメラ,22,VN,2019-07-23
-com.linecorp.b612.android,B612-いつもの毎日をもっと楽しく,23,VN,2019-07-23
-com.shopee.vn,Shopee:ThángThươngHiệu,24,VN,2019-07-23
-com.vng.mlbbvn,MobileLegends:BangBangVNG,25,VN,2019-07-23
-com.halo.wifikey.wifilocating,WiFiMaster-bywifi.com,26,VN,2019-07-23
-com.sendo,Sendo:8.8SaleKhổngLồ,27,VN,2019-07-23
-com.facebook.mlite,MessengerLite:無料通話とメッセージ,28,VN,2019-07-23
-com.playmini.miniworld,MiniWorldBlockArt,29,VN,2019-07-23
+com.facebook.lite,FacebookLite,20,VN,2019-07-23
+com.gorgeous.liteinternational,Ulikeユーライック-激盛れ楽撮りビューティーカメラ,21,VN,2019-07-23
+com.linecorp.b612.android,B612-いつもの毎日をもっと楽しく,22,VN,2019-07-23
+com.shopee.vn,Shopee:ThángThươngHiệu,23,VN,2019-07-23
+com.vng.mlbbvn,MobileLegends:BangBangVNG,24,VN,2019-07-23
+com.halo.wifikey.wifilocating,WiFiMaster-bywifi.com,25,VN,2019-07-23
+com.sendo,Sendo:8.8SaleKhổngLồ,26,VN,2019-07-23
+com.facebook.mlite,MessengerLite:無料通話とメッセージ,27,VN,2019-07-23
+com.playmini.miniworld,MiniWorldBlockArt,28,VN,2019-07-23
+com.facebook.katana,Facebook,29,VN,2019-07-23
 com.azurgames.stackball,スタックボール-積み上げられた台座を砕いていこう ,30,VN,2019-07-23
 net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),31,VN,2019-07-23
 com.vng.pubgmobile,PUBGMOBILEVN,32,VN,2019-07-23
@@ -86,55 +86,55 @@ com.percent.mybest3,Unniedoll,84,VN,2019-07-23
 com.twincorp.bancaonline,iCá-BắnCáZingPlayVNG,85,VN,2019-07-23
 com.differencetenderwhite.skirt,ブロックパズルジュエル,86,VN,2019-07-23
 com.goviet.app,GO-VIET,87,VN,2019-07-23
-com.hazar.fps,SpecialOps:PvPFPSバトルゲーム-銃撃ゲーム無料,88,VN,2019-07-23
-com.playgendary.tanks,TankStars,89,VN,2019-07-23
-com.fatcat.weddingmakesalon,ウェディングメイクサロン＆ドレスアップ,90,VN,2019-07-23
-com.fplay.activity,FPTPlay-TVOnline,91,VN,2019-07-23
-at.ner.lepsWorld2,Lep'sWorld2🍀🍀,92,VN,2019-07-23
-com.snowcorp.soda.android,SODAソーダ-NaturalBeautyCamera,93,VN,2019-07-23
-com.netease.ddsfna,StickFight:TheGameMobile,94,VN,2019-07-23
-com.twist.hit,TwistHit!,95,VN,2019-07-23
-jp.garud.ssimulator,サクラスクールシミュレーター,96,VN,2019-07-23
-com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,97,VN,2019-07-23
-com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,98,VN,2019-07-23
-com.lionstudios.mrbullet,MrBullet-SpyPuzzles,99,VN,2019-07-23
-gsn.game.zingplaynew1,TiếnlênMiềnNam-TiếnLên-tienlen-ZingPlay,100,VN,2019-07-23
-com.mservice.momotransfer,"MoMo:Nạptiền,ChuyểnTiền&ThanhToán",101,VN,2019-07-23
-com.gmt.gianghongoaitruyen,GiangHồNgoạiTruyện,102,VN,2019-07-23
-com.game5mobile.lineandwater,HappyGlass,103,VN,2019-07-23
-com.google.android.apps.translate,Google翻訳,104,VN,2019-07-23
-com.roblox.client,ROBLOX,105,VN,2019-07-23
-com.mgc.runnergame,RunRace3D-3D競走,106,VN,2019-07-23
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,107,VN,2019-07-23
-com.tntn.stickman.simulator.zombie.battle,スティックマンシミュレータ：ゾンビバトル,108,VN,2019-07-23
-com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,109,VN,2019-07-23
-com.kwalee.jetpackjump,JetpackJump,110,VN,2019-07-23
-com.instagram.android,Instagram,111,VN,2019-07-23
-com.gokids.transportbuilding,子供のためのトラックゲーム-家屋🏡洗車,112,VN,2019-07-23
-pianist.everyone.piano.tiles.duongcam,PianoDetector,113,VN,2019-07-23
-com.noxgroup.app.security,"NoxSecurity-Antivirus,CleanVirus,Booster",114,VN,2019-07-23
-com.sinyee.babybus.shopping,リトルパンダの夏：アイスクリームバー,115,VN,2019-07-23
-com.epi,"BÁOMỚI-ĐọcBáo,TinTức24h",116,VN,2019-07-23
-paint.by.number.pixel.art.coloring.drawing.puzzle,数字で塗り絵-無料塗り絵ブック＆ペイントゲーム＆リラックスゲーム,117,VN,2019-07-23
-com.ction.playergames,2、3、4人ミニゲームアプリ無料,118,VN,2019-07-23
-com.dvloper.granny,Granny,119,VN,2019-07-23
-com.firsttouchgames.dls3,DreamLeagueSoccer,120,VN,2019-07-23
-com.rxh.karaokenow,KaraokeNow,121,VN,2019-07-23
-com.cookapps.beagles.magic.cat.piano.tiles,マジック猫ピアノタイル,122,VN,2019-07-23
-com.azurgames.BattleGroundRoyale,PIXEL'SUNKNOWNBATTLEGROUND,123,VN,2019-07-23
-com.app_life_simulator,NewLife-GameNewLifeSimulator,124,VN,2019-07-23
-com.billiards.city.pool.nation.club,Pooking-ビリヤードシティ,125,VN,2019-07-23
-com.nekki.shadowfight,シャドウファイト2,126,VN,2019-07-23
-com.solou.catendless.run,キャットランナー：デザインホームルーム,127,VN,2019-07-23
-com.garena.gaslite,Garena,128,VN,2019-07-23
-com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,129,VN,2019-07-23
-com.emagssob.tienlen,TienLen-TiếnLênMiềnNam,130,VN,2019-07-23
-com.benqu.wuta,WutaCam,131,VN,2019-07-23
-com.hybirdpuzzle.blockpuzzlejewel,BlockPuzzleGemsClassic1010,132,VN,2019-07-23
-com.junerking.archery,アーチェリーマスター3D-ArcheryMaster,133,VN,2019-07-23
-com.battle.disc,BattleDisc,134,VN,2019-07-23
-com.vng.speedvn,ZingSpeedMobile,135,VN,2019-07-23
-com.amanotes.pamamagictwist,MagicTwist:TwisterMusicBallGame,136,VN,2019-07-23
+com.playgendary.tanks,TankStars,88,VN,2019-07-23
+com.fatcat.weddingmakesalon,ウェディングメイクサロン＆ドレスアップ,89,VN,2019-07-23
+com.fplay.activity,FPTPlay-TVOnline,90,VN,2019-07-23
+at.ner.lepsWorld2,Lep'sWorld2🍀🍀,91,VN,2019-07-23
+com.snowcorp.soda.android,SODAソーダ-NaturalBeautyCamera,92,VN,2019-07-23
+com.netease.ddsfna,StickFight:TheGameMobile,93,VN,2019-07-23
+com.twist.hit,TwistHit!,94,VN,2019-07-23
+jp.garud.ssimulator,サクラスクールシミュレーター,95,VN,2019-07-23
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,96,VN,2019-07-23
+com.picsart.studio,PicsArtPhotoStudio:コラージュメーカー&画像加工,97,VN,2019-07-23
+com.lionstudios.mrbullet,MrBullet-SpyPuzzles,98,VN,2019-07-23
+gsn.game.zingplaynew1,TiếnlênMiềnNam-TiếnLên-tienlen-ZingPlay,99,VN,2019-07-23
+com.mservice.momotransfer,"MoMo:Nạptiền,ChuyểnTiền&ThanhToán",100,VN,2019-07-23
+com.gmt.gianghongoaitruyen,GiangHồNgoạiTruyện,101,VN,2019-07-23
+com.game5mobile.lineandwater,HappyGlass,102,VN,2019-07-23
+com.roblox.client,ROBLOX,103,VN,2019-07-23
+com.mgc.runnergame,RunRace3D-3D競走,104,VN,2019-07-23
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,105,VN,2019-07-23
+com.tntn.stickman.simulator.zombie.battle,スティックマンシミュレータ：ゾンビバトル,106,VN,2019-07-23
+com.maxgames.stickwarlegacy,スティック・ウォー：レガシー,107,VN,2019-07-23
+com.kwalee.jetpackjump,JetpackJump,108,VN,2019-07-23
+com.instagram.android,Instagram,109,VN,2019-07-23
+com.hazar.fps,SpecialOps:PvPFPSバトルゲーム-銃撃ゲーム無料,110,VN,2019-07-23
+com.gokids.transportbuilding,子供のためのトラックゲーム-家屋🏡洗車,111,VN,2019-07-23
+pianist.everyone.piano.tiles.duongcam,PianoDetector,112,VN,2019-07-23
+com.noxgroup.app.security,"NoxSecurity-Antivirus,CleanVirus,Booster",113,VN,2019-07-23
+com.sinyee.babybus.shopping,リトルパンダの夏：アイスクリームバー,114,VN,2019-07-23
+com.epi,"BÁOMỚI-ĐọcBáo,TinTức24h",115,VN,2019-07-23
+paint.by.number.pixel.art.coloring.drawing.puzzle,数字で塗り絵-無料塗り絵ブック＆ペイントゲーム＆リラックスゲーム,116,VN,2019-07-23
+com.ction.playergames,2、3、4人ミニゲームアプリ無料,117,VN,2019-07-23
+com.dvloper.granny,Granny,118,VN,2019-07-23
+com.firsttouchgames.dls3,DreamLeagueSoccer,119,VN,2019-07-23
+com.rxh.karaokenow,KaraokeNow,120,VN,2019-07-23
+com.cookapps.beagles.magic.cat.piano.tiles,マジック猫ピアノタイル,121,VN,2019-07-23
+com.azurgames.BattleGroundRoyale,PIXEL'SUNKNOWNBATTLEGROUND,122,VN,2019-07-23
+com.app_life_simulator,NewLife-GameNewLifeSimulator,123,VN,2019-07-23
+com.billiards.city.pool.nation.club,Pooking-ビリヤードシティ,124,VN,2019-07-23
+com.nekki.shadowfight,シャドウファイト2,125,VN,2019-07-23
+com.solou.catendless.run,キャットランナー：デザインホームルーム,126,VN,2019-07-23
+com.garena.gaslite,Garena,127,VN,2019-07-23
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,128,VN,2019-07-23
+com.emagssob.tienlen,TienLen-TiếnLênMiềnNam,129,VN,2019-07-23
+com.benqu.wuta,WutaCam,130,VN,2019-07-23
+com.hybirdpuzzle.blockpuzzlejewel,BlockPuzzleGemsClassic1010,131,VN,2019-07-23
+com.junerking.archery,アーチェリーマスター3D-ArcheryMaster,132,VN,2019-07-23
+com.battle.disc,BattleDisc,133,VN,2019-07-23
+com.vng.speedvn,ZingSpeedMobile,134,VN,2019-07-23
+com.amanotes.pamamagictwist,MagicTwist:TwisterMusicBallGame,135,VN,2019-07-23
+com.google.android.apps.translate,Google翻訳,136,VN,2019-07-23
 game.tienlen,TienLen,137,VN,2019-07-23
 com.campmobile.snow,SNOW-ビューティー効果＆メイク機能付き自撮りカメラ,138,VN,2019-07-23
 com.linecorp.foodcam.android,Foodie-生活のためのカメラ,139,VN,2019-07-23
@@ -175,70 +175,70 @@ com.natenai.glowhockey,GlowHockey,173,VN,2019-07-23
 com.imangi.templerun,TempleRun,174,VN,2019-07-23
 com.ea.game.pvz2_row,PlantsvsZombies™2Free,175,VN,2019-07-23
 vn.funtap.tinhkiem.mobile3d,TìnhKiếm3D-TinhKiem3D,176,VN,2019-07-23
-com.aurecas.stickmanzombieshooter,StickmanZombieShooter：ゾンビと戦う,177,VN,2019-07-23
-com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,178,VN,2019-07-23
-vn.vtv.vtvgo,"VTVGo-XemTVMọinơi,Mọilúc",179,VN,2019-07-23
-com.combat.strike,CombatStrike:PvPFPSバトルゲーム-銃撃ゲーム無料,180,VN,2019-07-23
-vn.funtap.nhatkiemgiangho,NhấtKiếmGiangHồ-NgạoThếVõLâm,181,VN,2019-07-23
-com.renderedideas.skaterkid,SkaterKid,182,VN,2019-07-23
-com.sinyee.babybus.kitchens,リトルパンダのスペースキッチン-キッズクッキング,183,VN,2019-07-23
-com.russellraymond.holloball,HolloBall,184,VN,2019-07-23
-ru.playme8.dachniki,ゴールデンファーム,185,VN,2019-07-23
-com.playrix.township,タウンシップ(Township),186,VN,2019-07-23
-com.deliverynow,Now.vn-FoodDelivery,187,VN,2019-07-23
-vn.cashwagon.mobile.android,Cashwagon–TưvấnVayTiềnOnline,188,VN,2019-07-23
-com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,189,VN,2019-07-23
-com.clean.road,CleanRoad,190,VN,2019-07-23
-co.spoonme,SPOON-ソーシャルラジオサービス,191,VN,2019-07-23
-com.deadstrike.ds,射撃戦争アサルト,192,VN,2019-07-23
-com.gs360.coverfirespecialops2019,IGICoverFireSpecialOps2019,193,VN,2019-07-23
-com.amanotes.pamahelixtiles,HelixCrush,194,VN,2019-07-23
-com.aog.dautruongvinhquang,AOG-ĐấuTrườngVinhQuang,195,VN,2019-07-23
-com.UCMobile.intl,"UCBrowser–VideoDownloader,WatchVideoOffline",196,VN,2019-07-23
-com.keplerians.evilnun,EvilNun:学校の恐怖,197,VN,2019-07-23
-com.mthstudio.nhanhnhuset.doccauhoi,NhanhNhưSét-ĐọcCâuHỏi,198,VN,2019-07-23
-com.gzl.stickman.adventure.game,スティックマンショットガン撮影-スティックマンゲーム,199,VN,2019-07-23
-com.candy.snake.io.slither.agar.eatme.hole.free,キャンディスネーク,200,VN,2019-07-23
-com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,201,VN,2019-07-23
-com.hd.vngjyp,HoàngĐếThăngChứcKý,202,VN,2019-07-23
-com.fecredit.RoboLending,$nap,203,VN,2019-07-23
-com.tohsoft.ninja.shadow.fighter,ShadowFighter,204,VN,2019-07-23
-com.supertapx.lovedots,LoveBalls,205,VN,2019-07-23
-com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne―爽快！一流公認マシンレーシング,206,VN,2019-07-23
-com.buildingcraftinggames.fun.kid.games.boys.block.craft.minecraft.story.mode.lego.create.build.marvel.hero.dc.legends.mcpe.mod,ボーイズクラフト-クリエイティブゲーム,207,VN,2019-07-23
-com.linkdeskstudio.popcat,PopCat,208,VN,2019-07-23
-com.turner.tooncup,トゥーンカップ-サッカーゲーム,209,VN,2019-07-23
-com.funpop.android_princessclean,PrincessHomeCleaning–HouseCleanGames,210,VN,2019-07-23
-com.king.candycrushsaga,キャンディークラッシュ,211,VN,2019-07-23
-vn.giaingay.search,Giaitoan:giảitoán9và12,212,VN,2019-07-23
-com.topgamestudio.americanblocksnipersurvival,AmericanBlockSniperSurvival,213,VN,2019-07-23
-com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,214,VN,2019-07-23
-com.chotot.vn,ChoTot-Chuyênmuabánonline,215,VN,2019-07-23
-com.magic.chess,マジックチェス:BangBang,216,VN,2019-07-23
-com.sinyee.babybus.restaurant,パンダのレストラン,217,VN,2019-07-23
-com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,218,VN,2019-07-23
-com.vng.tnuh,ThiệnNữ-VNG,219,VN,2019-07-23
-com.gs360.cover.sniper.shooter.impossible.missions.army.military.shooting.games,特殊オプス不可能な任務2019,220,VN,2019-07-23
-es.socialpoint.DragonCity,ドラゴンシティ:　育てて、進化させて、バトル！町を作ろう！,221,VN,2019-07-23
-com.fgol.HungrySharkEvolution,HungrySharkEvolution,222,VN,2019-07-23
-com.budgestudios.googleplay.hellokittyfashionstar,ハローキティファッションスター,223,VN,2019-07-23
-com.mmarcel.cnb2,工芸と建築-CraftingandBuilding,224,VN,2019-07-23
-com.mobigame.doctontamgioi,CuồngMaChíTôn,225,VN,2019-07-23
-com.train.taxi,TrainTaxi,226,VN,2019-07-23
-com.forqan.tech.BeautyColoring,BeautyColoringBook1,227,VN,2019-07-23
-com.kkbrh.vdong,"vĐồng-vaytiềnmặt,nhậntiềnsau30phút",228,VN,2019-07-23
-com.nekki.shadowfight3,シャドウファイト3,229,VN,2019-07-23
-com.ubimob.superhero.war,SuperheroWar:RobotFight-CityActionRPG,230,VN,2019-07-23
-com.sinyee.babybus.build,ベビーパンダのペットハウスデザイン,231,VN,2019-07-23
-com.one1line.onetouch.onestroke.dotgame,1LINE–ワンタッチで点をつなぐ,232,VN,2019-07-23
-com.honeti.multiplication,掛け算表IQ,233,VN,2019-07-23
-vn.homecredit.hcvn,HomeCreditVietnam,234,VN,2019-07-23
-com.hssoft.KungFuAttack,カンフー攻撃：オフラインアクションRPG,235,VN,2019-07-23
-com.angame.gunnymobi.vn,GunnyMobi-BắnGàTeen&Cute,236,VN,2019-07-23
-com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,237,VN,2019-07-23
-ocean.nomad.survival.simulator,ラフティングのサバイバル:SurvivalonRaft-OceanNomad,238,VN,2019-07-23
-com.no.color,"No.Pix-塗り絵-ぬりえ無料,色塗りアプリ,数字で色塗,番号でペイント",239,VN,2019-07-23
-mobi.mangatoon.comics.aphone,"MangaToon-Goodcomics,Greatstories",240,VN,2019-07-23
+com.tellurionmobile.realmcraft,RealmCraftSimulationSurvival:SkinstoMinecraft,177,VN,2019-07-23
+vn.vtv.vtvgo,"VTVGo-XemTVMọinơi,Mọilúc",178,VN,2019-07-23
+com.combat.strike,CombatStrike:PvPFPSバトルゲーム-銃撃ゲーム無料,179,VN,2019-07-23
+vn.funtap.nhatkiemgiangho,NhấtKiếmGiangHồ-NgạoThếVõLâm,180,VN,2019-07-23
+com.russellraymond.holloball,HolloBall,181,VN,2019-07-23
+game.tienlen,TienLen,182,VN,2019-07-23
+ru.playme8.dachniki,ゴールデンファーム,183,VN,2019-07-23
+com.deliverynow,Now.vn-FoodDelivery,184,VN,2019-07-23
+vn.cashwagon.mobile.android,Cashwagon–TưvấnVayTiềnOnline,185,VN,2019-07-23
+com.fluffyfairygames.idleminertycoon,IdleMinerTycoon『ざくざくキング：採掘王国』,186,VN,2019-07-23
+com.clean.road,CleanRoad,187,VN,2019-07-23
+com.deadstrike.ds,射撃戦争アサルト,188,VN,2019-07-23
+com.gs360.coverfirespecialops2019,IGICoverFireSpecialOps2019,189,VN,2019-07-23
+com.amanotes.pamahelixtiles,HelixCrush,190,VN,2019-07-23
+com.aog.dautruongvinhquang,AOG-ĐấuTrườngVinhQuang,191,VN,2019-07-23
+com.UCMobile.intl,"UCBrowser–VideoDownloader,WatchVideoOffline",192,VN,2019-07-23
+com.keplerians.evilnun,EvilNun:学校の恐怖,193,VN,2019-07-23
+com.mthstudio.nhanhnhuset.doccauhoi,NhanhNhưSét-ĐọcCâuHỏi,194,VN,2019-07-23
+com.gzl.stickman.adventure.game,スティックマンショットガン撮影-スティックマンゲーム,195,VN,2019-07-23
+com.ea.game.pvz2_row,PlantsvsZombies™2Free,196,VN,2019-07-23
+com.candy.snake.io.slither.agar.eatme.hole.free,キャンディスネーク,197,VN,2019-07-23
+com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,198,VN,2019-07-23
+com.hd.vngjyp,HoàngĐếThăngChứcKý,199,VN,2019-07-23
+com.fecredit.RoboLending,$nap,200,VN,2019-07-23
+com.tohsoft.ninja.shadow.fighter,ShadowFighter,201,VN,2019-07-23
+com.supertapx.lovedots,LoveBalls,202,VN,2019-07-23
+com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne―爽快！一流公認マシンレーシング,203,VN,2019-07-23
+com.buildingcraftinggames.fun.kid.games.boys.block.craft.minecraft.story.mode.lego.create.build.marvel.hero.dc.legends.mcpe.mod,ボーイズクラフト-クリエイティブゲーム,204,VN,2019-07-23
+com.turner.tooncup,トゥーンカップ-サッカーゲーム,205,VN,2019-07-23
+com.funpop.android_princessclean,PrincessHomeCleaning–HouseCleanGames,206,VN,2019-07-23
+com.king.candycrushsaga,キャンディークラッシュ,207,VN,2019-07-23
+vn.giaingay.search,Giaitoan:giảitoán9và12,208,VN,2019-07-23
+com.topgamestudio.americanblocksnipersurvival,AmericanBlockSniperSurvival,209,VN,2019-07-23
+com.playrix.township,タウンシップ(Township),210,VN,2019-07-23
+com.chotot.vn,ChoTot-Chuyênmuabánonline,211,VN,2019-07-23
+com.magic.chess,マジックチェス:BangBang,212,VN,2019-07-23
+com.aurecas.stickmanzombieshooter,StickmanZombieShooter：ゾンビと戦う,213,VN,2019-07-23
+com.sinyee.babybus.restaurant,パンダのレストラン,214,VN,2019-07-23
+com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,215,VN,2019-07-23
+com.vng.tnuh,ThiệnNữ-VNG,216,VN,2019-07-23
+es.socialpoint.DragonCity,ドラゴンシティ:　育てて、進化させて、バトル！町を作ろう！,217,VN,2019-07-23
+com.budgestudios.googleplay.hellokittyfashionstar,ハローキティファッションスター,218,VN,2019-07-23
+com.mmarcel.cnb2,工芸と建築-CraftingandBuilding,219,VN,2019-07-23
+com.mobigame.doctontamgioi,CuồngMaChíTôn,220,VN,2019-07-23
+com.train.taxi,TrainTaxi,221,VN,2019-07-23
+com.forqan.tech.BeautyColoring,BeautyColoringBook1,222,VN,2019-07-23
+com.kkbrh.vdong,"vĐồng-vaytiềnmặt,nhậntiềnsau30phút",223,VN,2019-07-23
+com.nekki.shadowfight3,シャドウファイト3,224,VN,2019-07-23
+com.ubimob.superhero.war,SuperheroWar:RobotFight-CityActionRPG,225,VN,2019-07-23
+com.sinyee.babybus.build,ベビーパンダのペットハウスデザイン,226,VN,2019-07-23
+com.one1line.onetouch.onestroke.dotgame,1LINE–ワンタッチで点をつなぐ,227,VN,2019-07-23
+com.honeti.multiplication,掛け算表IQ,228,VN,2019-07-23
+vn.homecredit.hcvn,HomeCreditVietnam,229,VN,2019-07-23
+com.hssoft.KungFuAttack,カンフー攻撃：オフラインアクションRPG,230,VN,2019-07-23
+com.angame.gunnymobi.vn,GunnyMobi-BắnGàTeen&Cute,231,VN,2019-07-23
+com.lego.bricksmore,レゴ®ジュニアCreate&Cruise,232,VN,2019-07-23
+ocean.nomad.survival.simulator,ラフティングのサバイバル:SurvivalonRaft-OceanNomad,233,VN,2019-07-23
+com.no.color,"No.Pix-塗り絵-ぬりえ無料,色塗りアプリ,数字で色塗,番号でペイント",234,VN,2019-07-23
+mobi.mangatoon.comics.aphone,"MangaToon-Goodcomics,Greatstories",235,VN,2019-07-23
+io.voodoo.paper2,Paper.io2,236,VN,2019-07-23
+com.h8games.helixjump,HelixJump,237,VN,2019-07-23
+com.sinyee.babybus.food,中華レストラン-BabyBus　子ども・幼児向けお料理ゲーム,238,VN,2019-07-23
+com.budgestudios.HelloKittyNailSalon,ハローキティネイルサロン,239,VN,2019-07-23
+com.touchtao.soccerkinggoogle,世界のサッカーリーグ,240,VN,2019-07-23
 io.voodoo.paper2,Paper.io2,241,VN,2019-07-23
 com.h8games.helixjump,HelixJump,242,VN,2019-07-23
 com.sinyee.babybus.food,中華レストラン-BabyBus　子ども・幼児向けお料理ゲーム,243,VN,2019-07-23
@@ -333,155 +333,155 @@ vn.gosu.nkvsmb,NgạoKiếmVôSong5.0-NgaoKiemVoSong5.0,331,VN,2019-07-23
 com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,332,VN,2019-07-23
 vn.jdong,360đong-VayTiềnOnline-30PhútSauNhậnTiền,333,VN,2019-07-23
 com.find.th.differences.dfourgame,FindDifferences,334,VN,2019-07-23
-com.google.android.youtube,YouTube,335,VN,2019-07-23
-com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),336,VN,2019-07-23
-com.altitude.rrsv,ラン・ラン・スーパーV,337,VN,2019-07-23
-com.moonton.mobilehero,MobileLegends:Adventure,338,VN,2019-07-23
-com.sinyee.babybus.garden,ベビーパンダの農場,339,VN,2019-07-23
-vn.kynguyen.thiensu,KỷNguyênThiênSứ,340,VN,2019-07-23
-com.gamejam.draw.story,DrawStory,341,VN,2019-07-23
-air.com.lunime.gachalife,GachaLife,342,VN,2019-07-23
-com.daaw.avee.lite,AveeMusicPlayer(Lite),343,VN,2019-07-23
-com.knstudios.antsmasher,アリマッシャー-アリを殺す,344,VN,2019-07-23
-com.gamebaimigclub.s700,S700Gamechoibaionline,345,VN,2019-07-23
-com.knights.bikesstunt.motomaster,自転車スタントトレイルライダー,346,VN,2019-07-23
-com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キャプチャ・編集無料アプリ(モビゼン),347,VN,2019-07-23
-com.cmplay.dancingline,ダンシングライン（DancingLine）,348,VN,2019-07-23
-girlsgames.princess.fashionsalon.makeup,PrincessDressupGames-PrincessFashionSalon,349,VN,2019-07-23
-com.woowahan.vn.baemin,BAEMIN-Fooddelivery,350,VN,2019-07-23
-sgs.urb.pixel.survival.online,URB:LastPixelsBattleRoyale,351,VN,2019-07-23
-com.edujoy.masha.games,MashaandtheBearの知育ゲーム,352,VN,2019-07-23
-com.BestPhotoEditor.CatFace.PhotoEditor,"CatFace-PhotoEditor,CollageMaker&3DTattoo",353,VN,2019-07-23
-com.sandboxol.indiegame.bedwar,BedWars,354,VN,2019-07-23
-jp.smarteducation.tofusushi,TO-FUおっ!すし屋さん,355,VN,2019-07-23
-com.frenzygames.fgs.fearless.BMX.bicycle.stunt.rider,恐怖のBMXライダー2019,356,VN,2019-07-23
-com.groundhog.mcpemaster,MasterforMinecraft(PocketEdition)-ModLauncher,357,VN,2019-07-23
-com.vn.dic.e.v.ui,EnglishVietnameseDictionary-TFlatTranslate,358,VN,2019-07-23
-com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-動画編集/動画加工,359,VN,2019-07-23
-es.fileexplorer.filebrowser.ezfilemanager,EZファイルエクスプローラ-簡単で安全な安全なファイル管理,360,VN,2019-07-23
-com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,361,VN,2019-07-23
-pink.piano.game.tiles.black.white.magic.master,フラワーピンクピアノタイル-魔法の蝶のタイル,362,VN,2019-07-23
-com.bello.shootingworld,狙撃兵,363,VN,2019-07-23
-gsn.game.zingplaytala,TúLơKhơ-TáLả-Phỏm-TalaZingPlay,364,VN,2019-07-23
-com.rooster.android.partyio,Party.io,365,VN,2019-07-23
-com.beeasy.toppay,VíđiệntửAirPay,366,VN,2019-07-23
-com.gameloft.android.ANMP.GloftDOHM,ドラゴンマニア・レジェンド【ドラマニ】,367,VN,2019-07-23
-com.sinyee.babybus.taxi,パンダの幼稚園バス-BabyBus子ども・幼児向け,368,VN,2019-07-23
-com.survivalcrafting.rc.minecraft.helicopter.games.flight.flying.simulator.fly.aircraft.heli.craft.plane.gunship.chopper.free,ヘリコプターゲーム：フライング＆ビルディングの楽しみ2018ビルド＆フライ,369,VN,2019-07-23
-bluedict.net.english,TừĐiểnAnhViệt-DịchTiếngAnh,370,VN,2019-07-23
-com.yoosee,Yoosee,371,VN,2019-07-23
-com.zplay.Mrbow,MrBow,372,VN,2019-07-23
-com.disney.emojimatch_goo,DisneyEmojiBlitz,373,VN,2019-07-23
-com.VCB,Vietcombank,374,VN,2019-07-23
-com.gp.crazy.tricky.bike.stunt.drift,クレイジーバイクレーシングスタント3D,375,VN,2019-07-23
-com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,376,VN,2019-07-23
-com.sega.sonicdash,SonicDash,377,VN,2019-07-23
-com.ketchapp.knifehit,KnifeHit,378,VN,2019-07-23
-com.tienlen,TienLen,379,VN,2019-07-23
-com.jetstartgames.chess,チェス,380,VN,2019-07-23
-com.sinyee.babybus.magichouse,ベビー調色屋-BabyBus　子ども・幼児教育アプリ,381,VN,2019-07-23
-com.gamehouse.hm4gp,ハートの治療薬―医師の誓い,382,VN,2019-07-23
-com.gamedevltd.modernstrike,モダンストライクオンライン:3DＦＰＳシューティング銃撃ゲーム,383,VN,2019-07-23
-com.spilgames.UphillRush,UphillRushWaterParkRacing,384,VN,2019-07-23
-com.vayvang.com,Vayvàng,385,VN,2019-07-23
-net.apex_designs.payback2,Payback2-TheBattleSandbox,386,VN,2019-07-23
-com.TeaM.AvatarMusik,AVATARMUSIK-MusicandDanceGame,387,VN,2019-07-23
-com.viber.voip,Viber無料通話＆メッセージアプリ,388,VN,2019-07-23
-com.game.mini.mosquito,S88Club,389,VN,2019-07-23
-com.huya.niko,"YomeLive-WatchHotVideos,MakeFriendsNearby",390,VN,2019-07-23
-com.ludashi.dualspace,DualSpace-MultipleAccounts&AppCloner,391,VN,2019-07-23
-com.cherrylee.tienlen_multiplatformnz,TienLenPoker,392,VN,2019-07-23
-com.sinyee.babybus.adventure,パンダの大冒険-BabyBus子ども・幼児向け,393,VN,2019-07-23
-com.cocoplay.cakemaker,リアルケーキメーカー３Ｄ,394,VN,2019-07-23
-com.droidhen.fish,FishingDiary,395,VN,2019-07-23
-com.addev.beenlovememory.plus,BeenLoveMemoryPlus-LoveCounterPlus,396,VN,2019-07-23
-com.cocoplay.sweet.bakery,マイ・ベーカリーの王国-ケーキを焼いて飾って売ろう,397,VN,2019-07-23
-com.photoeditor.imagecutter.cameffect,写真編集そして写真の背景を変える,398,VN,2019-07-23
-io.voodoo.holeio,Hole.io,399,VN,2019-07-23
-com.cg.football,アルティメットサッカーUltimateFootball,400,VN,2019-07-23
-os.falcon.archer.stick.war,StickZBow,401,VN,2019-07-23
-com.kits.projectp,OnetConnectAnimal,402,VN,2019-07-23
-com.luckystars.batterysaver.fastcharging,SuperBatterySaver-FastCharging-SpeedUp5X,403,VN,2019-07-23
-mobi.gameguru.racingfevermoto,RacingFever:Moto,404,VN,2019-07-23
-com.amanotes.db,DancingBallz：マジックダンスラインタイルゲーム,405,VN,2019-07-23
-panda.keyboard.emoji.theme,"CheetahKeyboard-Emoji,Swype,DIYThemes",406,VN,2019-07-23
-com.BestPhotoEditor.TextOnPhoto,TextOnPhoto,407,VN,2019-07-23
-com.vingroup.vinid,VinID,408,VN,2019-07-23
-com.bangdev.wifichua,WiFiChùa-Connectfreehotspots,409,VN,2019-07-23
-com.nordigames.nfh,NeighboursfromHell:シーズン1,410,VN,2019-07-23
-com.vaydep.wing,SamsetVay-CóTiềnNgay,411,VN,2019-07-23
-com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス：クライムワールド,412,VN,2019-07-23
-com.cocoplay.shoppinggirl,ショッピングセンター・ガール,413,VN,2019-07-23
-com.QuickLoad.CrazySnack,CrazySnack-Click&Merge,414,VN,2019-07-23
-com.hippo_kids_games.for_girls_boys.witch_magic_potion,リトル魔女：子供のためのマジック,415,VN,2019-07-23
-com.rvappstudios.ice.cream.paradise.match3,アイスクリームパラダイス,416,VN,2019-07-23
-com.buntoo.helicopter.robot.transformation.games,ヘリコプターのロボット変換戦争-エアロボットゲーム,417,VN,2019-07-23
-com.assassingames.ninjafrogrope,ロープカエル忍者ヒーロー-奇妙なギャングスターベガス,418,VN,2019-07-23
-com.hongcheng.vaydong,VaydongVN-VayTiềnMặt-NhậnTiềnSau30Phút,419,VN,2019-07-23
-com.sinyee.babybus.village,リトルパンダのドリームタウン2,420,VN,2019-07-23
-com.ndm.tienganh,HọcTiếngAnhGiaoTiếp,421,VN,2019-07-23
-com.redemptiongames.sugar,SweetEscapes:DesignaBakerywithPuzzleGames,422,VN,2019-07-23
-com.colorhole.game,ColorHole3D,423,VN,2019-07-23
-com.sinyee.babybus.magician,魔女大冒険-BabyBus　幼児・子ども向け知育アプリ,424,VN,2019-07-23
-com.eyu.piano,DreamPiano-MusicGame,425,VN,2019-07-23
-com.nianticlabs.pokemongo,PokémonGO,426,VN,2019-07-23
-everyone.piano.connect.midi.keyboard,PianoConnect:MIDIKeyboard,427,VN,2019-07-23
-com.mobirix.parkingking,駐車場の王,428,VN,2019-07-23
-com.gamesofa.android.caothutienlen,CaoThủTiếnLên-TiếnlênMiềnNam,429,VN,2019-07-23
-vn.pp.dt3q,DanhTướng3Q,430,VN,2019-07-23
-com.vttm.keeng,"Keeng:Nghenhạc,Xemphim",431,VN,2019-07-23
-com.swfh.louis,HeyFlower,432,VN,2019-07-23
-com.gzl.drivebus.parking.game,ModernBusDrive3DParkingnewGames-BusGames,433,VN,2019-07-23
-com.word.game.fun.puzzle.prison.escape.captain,WordsStory-AddictiveWordGame,434,VN,2019-07-23
-com.wyd.gunpow,GunPow-BắnGàTeenPK,435,VN,2019-07-23
-com.google.android.apps.youtube.kids,YouTubeKids,436,VN,2019-07-23
-air.com.puzzledreams.frostjourney,フロストジャーニー,437,VN,2019-07-23
-com.kiwigo.animeweddingmakeup.free,アニメウェディングメークアップ,438,VN,2019-07-23
-com.chillingo.robberybobfree.android.row,RobberyBob,439,VN,2019-07-23
-com.vtcmobile.ngukiemvantinhobb,NgựKiếmVTC-ĐỉnhCaoPK,440,VN,2019-07-23
-com.nama.pinkmagictiles,PianoPinkTiles-ピアノのタイル-最高のピアノゲーム2019,441,VN,2019-07-23
-com.ChillyRoom.DungeonShooter,SoulKnight,442,VN,2019-07-23
-com.neptune.djby,OceanWar,443,VN,2019-07-23
-com.ticno.olymptrade,OlympTrade–OnlineTradingApp,444,VN,2019-07-23
-com.apps.security.master.antivirus.applock,MAXAppLock-プライバシーガード、アップロッカー,445,VN,2019-07-23
-com.colorup.game,ColorBump3D,446,VN,2019-07-23
-com.aim.racing,ExtremeCarDrivingSimulator,447,VN,2019-07-23
-com.survivalheroesgamota.lienminh,SurvivalHeroesGamota-LiênMinhSinhTồn,448,VN,2019-07-23
-roll.unblock.ball.block.puzzle,ブロック解除-ブロックパズル,449,VN,2019-07-23
-com.tellurionmobile.adventurecraft,AdventureCraft3D:Mine&BuildBlockforFree,450,VN,2019-07-23
-com.tabtale.nailfiasco,キャンディ・ネイルアートスウィートファッション,451,VN,2019-07-23
-com.gamesforgirlsfree.promqueen,卒業パーティードレスアップ-女子高生,452,VN,2019-07-23
-com.amanotes.pamainfinitybounce,BeatJumper:EDMup!,453,VN,2019-07-23
-farm.farmschool.dairyfarm.bigfarm.nongtrai.trangtrai.lamvuon.farming.farmer.bigfarmlife,FarmLife,454,VN,2019-07-23
-com.sinyee.babybus.icecream,アイスキャンディー屋さんごっこ-BabyBus　子ども向け,455,VN,2019-07-23
-com.YovoGames.hair,ヘアサロン-スパサロン,456,VN,2019-07-23
-com.bubadu.buildergame,BuilderGame(ビルダー・ゲーム),457,VN,2019-07-23
-cz.gdmt.AnnelidsDemo,Annelids:Onlinebattle,458,VN,2019-07-23
-com.kumagames.highschoolsimulator2018,HighSchoolSimulator2018,459,VN,2019-07-23
-com.sbkgames.RacingLimits,レースの限界,460,VN,2019-07-23
-com.Meromsoft.SchoolGirlsSimulator,スクールガールズシミュレーター,461,VN,2019-07-23
-com.sinyee.babybus.superman,リトルパンダのヒーローバトルゲーム,462,VN,2019-07-23
-com.ubimob.superhero.fruit,SuperheroFruit:RobotWars-FutureBattles,463,VN,2019-07-23
-com.genify.meow.io,Moew.io-猫ファイティング,464,VN,2019-07-23
-com.anhlt.karaokeonline,カラオケオンライン：歌と録音,465,VN,2019-07-23
-com0.Company.ProductName1,3D運転教室,466,VN,2019-07-23
-com.jiunbom.mobna,XIMEN-Vaynhanhtrựctuyến,467,VN,2019-07-23
-com.noxgroup.game.puzzlemaster,PuzzleJoy-クラシックパズルボックス,468,VN,2019-07-23
-com.emoticon.screen.home.launcher,INLauncher,469,VN,2019-07-23
-com.rocket.sky.shooter,スペーススカッド:銀河戦争,470,VN,2019-07-23
-sg.bigo.live.lite,BIGOLIVELite–SNS系配信アプリ,471,VN,2019-07-23
-com.vng.ngoisaothoitrang,NgôiSaoThờiTrang360Mobi,472,VN,2019-07-23
-com.outfit7.tomsjetski,トーキング・トムのジェットスキー,473,VN,2019-07-23
-com.videoeditor.videomaker.photos.music.pictures,VideoMaker-動画編集＆動画作成＆動画加工,474,VN,2019-07-23
-com.spcomes.stormdefense,キングダムウォーズ,475,VN,2019-07-23
-com.oneapp.max.security.pro,MAXセキュリティ-ウィルス対策，クリーナー,476,VN,2019-07-23
-com.GamesForKids.Mathgames.MultiplicationTables,数学ゲーム,477,VN,2019-07-23
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),478,VN,2019-07-23
-com.wawagame.app.ttnl2,天天脳力——無料クラシックタングラム、一筆書き、うっとうしい蛇などのゲームを含んだパズルホーム,479,VN,2019-07-23
-com.gs360.fpscovershooterteamwarfight,CounterTerroristFPSFight2019,480,VN,2019-07-23
-com.piano.tiles.pink.usuk.kpop.bts.anime.songs.hot.magic.crazy,ColorfulPianoTiles-HotSongsNewFreeMusic,481,VN,2019-07-23
-com.yuriychechulin.throwio,⚔AXES.iobattleroyaleiogamesonline&offline,482,VN,2019-07-23
-com.yubitu.android.YubiCollage,PhotoWonder-CollageMaker,483,VN,2019-07-23
+com.pixel.gun3d,ピクセルガン3D。(PixelGun3D),335,VN,2019-07-23
+com.altitude.rrsv,ラン・ラン・スーパーV,336,VN,2019-07-23
+com.moonton.mobilehero,MobileLegends:Adventure,337,VN,2019-07-23
+com.sinyee.babybus.garden,ベビーパンダの農場,338,VN,2019-07-23
+vn.kynguyen.thiensu,KỷNguyênThiênSứ,339,VN,2019-07-23
+com.gamejam.draw.story,DrawStory,340,VN,2019-07-23
+air.com.lunime.gachalife,GachaLife,341,VN,2019-07-23
+com.daaw.avee.lite,AveeMusicPlayer(Lite),342,VN,2019-07-23
+com.knstudios.antsmasher,アリマッシャー-アリを殺す,343,VN,2019-07-23
+com.gamebaimigclub.s700,S700Gamechoibaionline,344,VN,2019-07-23
+com.knights.bikesstunt.motomaster,自転車スタントトレイルライダー,345,VN,2019-07-23
+com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キャプチャ・編集無料アプリ(モビゼン),346,VN,2019-07-23
+com.cmplay.dancingline,ダンシングライン（DancingLine）,347,VN,2019-07-23
+girlsgames.princess.fashionsalon.makeup,PrincessDressupGames-PrincessFashionSalon,348,VN,2019-07-23
+com.woowahan.vn.baemin,BAEMIN-Fooddelivery,349,VN,2019-07-23
+sgs.urb.pixel.survival.online,URB:LastPixelsBattleRoyale,350,VN,2019-07-23
+com.edujoy.masha.games,MashaandtheBearの知育ゲーム,351,VN,2019-07-23
+com.BestPhotoEditor.CatFace.PhotoEditor,"CatFace-PhotoEditor,CollageMaker&3DTattoo",352,VN,2019-07-23
+com.sandboxol.indiegame.bedwar,BedWars,353,VN,2019-07-23
+jp.smarteducation.tofusushi,TO-FUおっ!すし屋さん,354,VN,2019-07-23
+com.frenzygames.fgs.fearless.BMX.bicycle.stunt.rider,恐怖のBMXライダー2019,355,VN,2019-07-23
+com.groundhog.mcpemaster,MasterforMinecraft(PocketEdition)-ModLauncher,356,VN,2019-07-23
+com.vn.dic.e.v.ui,EnglishVietnameseDictionary-TFlatTranslate,357,VN,2019-07-23
+com.nexstreaming.app.kinemasterfree,キネマスター(KineMaster)-動画編集/動画加工,358,VN,2019-07-23
+es.fileexplorer.filebrowser.ezfilemanager,EZファイルエクスプローラ-簡単で安全な安全なファイル管理,359,VN,2019-07-23
+com.biglime.cookingmadness,クッキングマッドネス-料理ゲーム,360,VN,2019-07-23
+pink.piano.game.tiles.black.white.magic.master,フラワーピンクピアノタイル-魔法の蝶のタイル,361,VN,2019-07-23
+com.bello.shootingworld,狙撃兵,362,VN,2019-07-23
+gsn.game.zingplaytala,TúLơKhơ-TáLả-Phỏm-TalaZingPlay,363,VN,2019-07-23
+com.rooster.android.partyio,Party.io,364,VN,2019-07-23
+com.beeasy.toppay,VíđiệntửAirPay,365,VN,2019-07-23
+com.gameloft.android.ANMP.GloftDOHM,ドラゴンマニア・レジェンド【ドラマニ】,366,VN,2019-07-23
+com.sinyee.babybus.taxi,パンダの幼稚園バス-BabyBus子ども・幼児向け,367,VN,2019-07-23
+com.survivalcrafting.rc.minecraft.helicopter.games.flight.flying.simulator.fly.aircraft.heli.craft.plane.gunship.chopper.free,ヘリコプターゲーム：フライング＆ビルディングの楽しみ2018ビルド＆フライ,368,VN,2019-07-23
+bluedict.net.english,TừĐiểnAnhViệt-DịchTiếngAnh,369,VN,2019-07-23
+com.yoosee,Yoosee,370,VN,2019-07-23
+com.zplay.Mrbow,MrBow,371,VN,2019-07-23
+com.disney.emojimatch_goo,DisneyEmojiBlitz,372,VN,2019-07-23
+com.VCB,Vietcombank,373,VN,2019-07-23
+com.gp.crazy.tricky.bike.stunt.drift,クレイジーバイクレーシングスタント3D,374,VN,2019-07-23
+com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,375,VN,2019-07-23
+com.sega.sonicdash,SonicDash,376,VN,2019-07-23
+com.ketchapp.knifehit,KnifeHit,377,VN,2019-07-23
+com.tienlen,TienLen,378,VN,2019-07-23
+com.jetstartgames.chess,チェス,379,VN,2019-07-23
+com.sinyee.babybus.magichouse,ベビー調色屋-BabyBus　子ども・幼児教育アプリ,380,VN,2019-07-23
+com.gamehouse.hm4gp,ハートの治療薬―医師の誓い,381,VN,2019-07-23
+com.gamedevltd.modernstrike,モダンストライクオンライン:3DＦＰＳシューティング銃撃ゲーム,382,VN,2019-07-23
+com.spilgames.UphillRush,UphillRushWaterParkRacing,383,VN,2019-07-23
+com.vayvang.com,Vayvàng,384,VN,2019-07-23
+net.apex_designs.payback2,Payback2-TheBattleSandbox,385,VN,2019-07-23
+com.TeaM.AvatarMusik,AVATARMUSIK-MusicandDanceGame,386,VN,2019-07-23
+com.viber.voip,Viber無料通話＆メッセージアプリ,387,VN,2019-07-23
+com.game.mini.mosquito,S88Club,388,VN,2019-07-23
+com.huya.niko,"YomeLive-WatchHotVideos,MakeFriendsNearby",389,VN,2019-07-23
+com.ludashi.dualspace,DualSpace-MultipleAccounts&AppCloner,390,VN,2019-07-23
+com.cherrylee.tienlen_multiplatformnz,TienLenPoker,391,VN,2019-07-23
+com.sinyee.babybus.adventure,パンダの大冒険-BabyBus子ども・幼児向け,392,VN,2019-07-23
+com.cocoplay.cakemaker,リアルケーキメーカー３Ｄ,393,VN,2019-07-23
+com.droidhen.fish,FishingDiary,394,VN,2019-07-23
+com.addev.beenlovememory.plus,BeenLoveMemoryPlus-LoveCounterPlus,395,VN,2019-07-23
+com.cocoplay.sweet.bakery,マイ・ベーカリーの王国-ケーキを焼いて飾って売ろう,396,VN,2019-07-23
+com.photoeditor.imagecutter.cameffect,写真編集そして写真の背景を変える,397,VN,2019-07-23
+io.voodoo.holeio,Hole.io,398,VN,2019-07-23
+com.cg.football,アルティメットサッカーUltimateFootball,399,VN,2019-07-23
+os.falcon.archer.stick.war,StickZBow,400,VN,2019-07-23
+com.kits.projectp,OnetConnectAnimal,401,VN,2019-07-23
+com.luckystars.batterysaver.fastcharging,SuperBatterySaver-FastCharging-SpeedUp5X,402,VN,2019-07-23
+mobi.gameguru.racingfevermoto,RacingFever:Moto,403,VN,2019-07-23
+com.amanotes.db,DancingBallz：マジックダンスラインタイルゲーム,404,VN,2019-07-23
+panda.keyboard.emoji.theme,"CheetahKeyboard-Emoji,Swype,DIYThemes",405,VN,2019-07-23
+com.BestPhotoEditor.TextOnPhoto,TextOnPhoto,406,VN,2019-07-23
+com.vingroup.vinid,VinID,407,VN,2019-07-23
+com.bangdev.wifichua,WiFiChùa-Connectfreehotspots,408,VN,2019-07-23
+com.nordigames.nfh,NeighboursfromHell:シーズン1,409,VN,2019-07-23
+com.vaydep.wing,SamsetVay-CóTiềnNgay,410,VN,2019-07-23
+com.gameloft.android.ANMP.GloftGGHM,ギャングスターベガス：クライムワールド,411,VN,2019-07-23
+com.cocoplay.shoppinggirl,ショッピングセンター・ガール,412,VN,2019-07-23
+com.QuickLoad.CrazySnack,CrazySnack-Click&Merge,413,VN,2019-07-23
+com.hippo_kids_games.for_girls_boys.witch_magic_potion,リトル魔女：子供のためのマジック,414,VN,2019-07-23
+com.rvappstudios.ice.cream.paradise.match3,アイスクリームパラダイス,415,VN,2019-07-23
+com.buntoo.helicopter.robot.transformation.games,ヘリコプターのロボット変換戦争-エアロボットゲーム,416,VN,2019-07-23
+com.assassingames.ninjafrogrope,ロープカエル忍者ヒーロー-奇妙なギャングスターベガス,417,VN,2019-07-23
+com.hongcheng.vaydong,VaydongVN-VayTiềnMặt-NhậnTiềnSau30Phút,418,VN,2019-07-23
+com.sinyee.babybus.village,リトルパンダのドリームタウン2,419,VN,2019-07-23
+com.ndm.tienganh,HọcTiếngAnhGiaoTiếp,420,VN,2019-07-23
+com.redemptiongames.sugar,SweetEscapes:DesignaBakerywithPuzzleGames,421,VN,2019-07-23
+com.colorhole.game,ColorHole3D,422,VN,2019-07-23
+com.sinyee.babybus.magician,魔女大冒険-BabyBus　幼児・子ども向け知育アプリ,423,VN,2019-07-23
+com.eyu.piano,DreamPiano-MusicGame,424,VN,2019-07-23
+com.nianticlabs.pokemongo,PokémonGO,425,VN,2019-07-23
+everyone.piano.connect.midi.keyboard,PianoConnect:MIDIKeyboard,426,VN,2019-07-23
+com.mobirix.parkingking,駐車場の王,427,VN,2019-07-23
+com.gamesofa.android.caothutienlen,CaoThủTiếnLên-TiếnlênMiềnNam,428,VN,2019-07-23
+vn.pp.dt3q,DanhTướng3Q,429,VN,2019-07-23
+com.vttm.keeng,"Keeng:Nghenhạc,Xemphim",430,VN,2019-07-23
+com.swfh.louis,HeyFlower,431,VN,2019-07-23
+com.gzl.drivebus.parking.game,ModernBusDrive3DParkingnewGames-BusGames,432,VN,2019-07-23
+com.word.game.fun.puzzle.prison.escape.captain,WordsStory-AddictiveWordGame,433,VN,2019-07-23
+com.wyd.gunpow,GunPow-BắnGàTeenPK,434,VN,2019-07-23
+com.google.android.apps.youtube.kids,YouTubeKids,435,VN,2019-07-23
+air.com.puzzledreams.frostjourney,フロストジャーニー,436,VN,2019-07-23
+com.kiwigo.animeweddingmakeup.free,アニメウェディングメークアップ,437,VN,2019-07-23
+com.chillingo.robberybobfree.android.row,RobberyBob,438,VN,2019-07-23
+com.vtcmobile.ngukiemvantinhobb,NgựKiếmVTC-ĐỉnhCaoPK,439,VN,2019-07-23
+com.nama.pinkmagictiles,PianoPinkTiles-ピアノのタイル-最高のピアノゲーム2019,440,VN,2019-07-23
+com.ChillyRoom.DungeonShooter,SoulKnight,441,VN,2019-07-23
+com.neptune.djby,OceanWar,442,VN,2019-07-23
+com.ticno.olymptrade,OlympTrade–OnlineTradingApp,443,VN,2019-07-23
+com.apps.security.master.antivirus.applock,MAXAppLock-プライバシーガード、アップロッカー,444,VN,2019-07-23
+com.colorup.game,ColorBump3D,445,VN,2019-07-23
+com.aim.racing,ExtremeCarDrivingSimulator,446,VN,2019-07-23
+com.survivalheroesgamota.lienminh,SurvivalHeroesGamota-LiênMinhSinhTồn,447,VN,2019-07-23
+roll.unblock.ball.block.puzzle,ブロック解除-ブロックパズル,448,VN,2019-07-23
+com.tellurionmobile.adventurecraft,AdventureCraft3D:Mine&BuildBlockforFree,449,VN,2019-07-23
+com.tabtale.nailfiasco,キャンディ・ネイルアートスウィートファッション,450,VN,2019-07-23
+com.gamesforgirlsfree.promqueen,卒業パーティードレスアップ-女子高生,451,VN,2019-07-23
+com.amanotes.pamainfinitybounce,BeatJumper:EDMup!,452,VN,2019-07-23
+farm.farmschool.dairyfarm.bigfarm.nongtrai.trangtrai.lamvuon.farming.farmer.bigfarmlife,FarmLife,453,VN,2019-07-23
+com.sinyee.babybus.icecream,アイスキャンディー屋さんごっこ-BabyBus　子ども向け,454,VN,2019-07-23
+com.YovoGames.hair,ヘアサロン-スパサロン,455,VN,2019-07-23
+com.bubadu.buildergame,BuilderGame(ビルダー・ゲーム),456,VN,2019-07-23
+cz.gdmt.AnnelidsDemo,Annelids:Onlinebattle,457,VN,2019-07-23
+com.kumagames.highschoolsimulator2018,HighSchoolSimulator2018,458,VN,2019-07-23
+com.sbkgames.RacingLimits,レースの限界,459,VN,2019-07-23
+com.Meromsoft.SchoolGirlsSimulator,スクールガールズシミュレーター,460,VN,2019-07-23
+com.sinyee.babybus.superman,リトルパンダのヒーローバトルゲーム,461,VN,2019-07-23
+com.ubimob.superhero.fruit,SuperheroFruit:RobotWars-FutureBattles,462,VN,2019-07-23
+com.genify.meow.io,Moew.io-猫ファイティング,463,VN,2019-07-23
+com.anhlt.karaokeonline,カラオケオンライン：歌と録音,464,VN,2019-07-23
+com0.Company.ProductName1,3D運転教室,465,VN,2019-07-23
+com.jiunbom.mobna,XIMEN-Vaynhanhtrựctuyến,466,VN,2019-07-23
+com.noxgroup.game.puzzlemaster,PuzzleJoy-クラシックパズルボックス,467,VN,2019-07-23
+com.emoticon.screen.home.launcher,INLauncher,468,VN,2019-07-23
+com.rocket.sky.shooter,スペーススカッド:銀河戦争,469,VN,2019-07-23
+sg.bigo.live.lite,BIGOLIVELite–SNS系配信アプリ,470,VN,2019-07-23
+com.vng.ngoisaothoitrang,NgôiSaoThờiTrang360Mobi,471,VN,2019-07-23
+com.outfit7.tomsjetski,トーキング・トムのジェットスキー,472,VN,2019-07-23
+com.videoeditor.videomaker.photos.music.pictures,VideoMaker-動画編集＆動画作成＆動画加工,473,VN,2019-07-23
+com.spcomes.stormdefense,キングダムウォーズ,474,VN,2019-07-23
+com.oneapp.max.security.pro,MAXセキュリティ-ウィルス対策，クリーナー,475,VN,2019-07-23
+com.GamesForKids.Mathgames.MultiplicationTables,数学ゲーム,476,VN,2019-07-23
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),477,VN,2019-07-23
+com.wawagame.app.ttnl2,天天脳力——無料クラシックタングラム、一筆書き、うっとうしい蛇などのゲームを含んだパズルホーム,478,VN,2019-07-23
+com.gs360.fpscovershooterteamwarfight,CounterTerroristFPSFight2019,479,VN,2019-07-23
+com.piano.tiles.pink.usuk.kpop.bts.anime.songs.hot.magic.crazy,ColorfulPianoTiles-HotSongsNewFreeMusic,480,VN,2019-07-23
+com.yuriychechulin.throwio,⚔AXES.iobattleroyaleiogamesonline&offline,481,VN,2019-07-23
+com.yubitu.android.YubiCollage,PhotoWonder-CollageMaker,482,VN,2019-07-23
+com.google.android.youtube,YouTube,483,VN,2019-07-23
 com.silevel.mountainclimbstunt,HillClimb:Stunt,484,VN,2019-07-23
 games.fatlion.motorcycle.games.racing.motor.minecraft.mcpe.crafting.and.building.gta.grand.theft.auto.exploration.lite.free,オートバイレースクラフト：モトゲーム＆ビルの3D,485,VN,2019-07-23
 com.yasapets.hospital,YasaPetsHospital,486,VN,2019-07-23
@@ -511,31 +511,31 @@ com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウ�
 com.gamedevltd.wwh,ワールドウォーヒーローズ,510,VN,2019-07-23
 com.freegamesstudio.thesurvivalhuntergames2,TheSurvivalHunterGames2,511,VN,2019-07-23
 io.mrarm.mctoolbox,ToolboxforMinecraft:PE,512,VN,2019-07-23
-com.kalipsogames.psychopathhunt,Mr.Meat[ミスターミート：ホラーエスケープルーム☠パズル＆アクションゲーム],513,VN,2019-07-23
-com.bonbongame.princess.dress.up.makeover.salon.girls.games,プリンセスドレスアップとメイクアップゲーム,514,VN,2019-07-23
-bubble.shoot.bubbles.game.saga.world,バブルシューター,515,VN,2019-07-23
-com.herogames.crisisaction,TậpKích:Bắnsúngđíchthực,516,VN,2019-07-23
-com.PTHStudio.CrocodileDentist,CrocodileandBullDog,517,VN,2019-07-23
-com.zenzenantoinette.mccormick,GamedanhbaidoithuongZENZENClub2019,518,VN,2019-07-23
-vn.atome,AtomeCredit-Vaytínchấptiềnmặtnhanhgọn,519,VN,2019-07-23
-com.bkit.learnenglishlockscreen,LearnEnglishonLockscreen,520,VN,2019-07-23
-com.google.android.apps.photos,Googleフォト,521,VN,2019-07-23
-mobi.vltn.vn,VLCôngThànhChiến,522,VN,2019-07-23
-com.google.android.apps.mapslite,GoogleMapsGo-ルート案内、交通情報、乗換案内,523,VN,2019-07-23
-com.niksoftware.snapseed,Snapseed,524,VN,2019-07-23
-com.knockdown.bottle.game,ノックダウンボトル,525,VN,2019-07-23
-com.vietinbank.ipay,VietinBankiPay,526,VN,2019-07-23
-com.panga.multi.tiger.hero.terrorist.mission,MultiTigerHeroAnti-TerroristMission,527,VN,2019-07-23
-com.lego.superheroes.dccomicsmightymicros,LEGO®DCMightyMicros,528,VN,2019-07-23
-ziga.cotuong.coup,"CờTướngOnline,CờÚpOnline-Ziga",529,VN,2019-07-23
-com.bancaonline.banca.quayhu,VuaBắnCá3D-QuayHũSlot-TàiXỉuonline,530,VN,2019-07-23
-com.sinyee.babybus.holiday,ベイビーパンダのバケーション,531,VN,2019-07-23
-com.wedong.wedong,"WeDong-vaytiềnonline,vaytiềnnhanh",532,VN,2019-07-23
-com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,533,VN,2019-07-23
-com.gamesforgirlsfree.modelwedding,モデルウェディングきせかえ-女の子のゲーム,534,VN,2019-07-23
-com.bailieng,Liêng-CàoTố-3Cây,535,VN,2019-07-23
-com.infinite.shooting.galaxy.attack,インフィニティシューティング：銀河戦争,536,VN,2019-07-23
-com.volcano.city.airplane.pilotflight,CityAirplanePilotFlightNewGame-PlaneGames,537,VN,2019-07-23
-com.speech.text.translate,TranslateAll-SpeechTextTranslator,538,VN,2019-07-23
-com.timuzgames.pixelbattleroyale,PixelBattleRoyale,539,VN,2019-07-23
-com.Locos.MBS,MobileBusSimulator,540,VN,2019-07-23
+com.bonbongame.princess.dress.up.makeover.salon.girls.games,プリンセスドレスアップとメイクアップゲーム,513,VN,2019-07-23
+bubble.shoot.bubbles.game.saga.world,バブルシューター,514,VN,2019-07-23
+com.herogames.crisisaction,TậpKích:Bắnsúngđíchthực,515,VN,2019-07-23
+com.PTHStudio.CrocodileDentist,CrocodileandBullDog,516,VN,2019-07-23
+com.zenzenantoinette.mccormick,GamedanhbaidoithuongZENZENClub2019,517,VN,2019-07-23
+vn.atome,AtomeCredit-Vaytínchấptiềnmặtnhanhgọn,518,VN,2019-07-23
+com.bkit.learnenglishlockscreen,LearnEnglishonLockscreen,519,VN,2019-07-23
+com.google.android.apps.photos,Googleフォト,520,VN,2019-07-23
+mobi.vltn.vn,VLCôngThànhChiến,521,VN,2019-07-23
+com.google.android.apps.mapslite,GoogleMapsGo-ルート案内、交通情報、乗換案内,522,VN,2019-07-23
+com.niksoftware.snapseed,Snapseed,523,VN,2019-07-23
+com.knockdown.bottle.game,ノックダウンボトル,524,VN,2019-07-23
+com.vietinbank.ipay,VietinBankiPay,525,VN,2019-07-23
+com.panga.multi.tiger.hero.terrorist.mission,MultiTigerHeroAnti-TerroristMission,526,VN,2019-07-23
+com.lego.superheroes.dccomicsmightymicros,LEGO®DCMightyMicros,527,VN,2019-07-23
+ziga.cotuong.coup,"CờTướngOnline,CờÚpOnline-Ziga",528,VN,2019-07-23
+com.bancaonline.banca.quayhu,VuaBắnCá3D-QuayHũSlot-TàiXỉuonline,529,VN,2019-07-23
+com.sinyee.babybus.holiday,ベイビーパンダのバケーション,530,VN,2019-07-23
+com.wedong.wedong,"WeDong-vaytiềnonline,vaytiềnnhanh",531,VN,2019-07-23
+com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,532,VN,2019-07-23
+com.gamesforgirlsfree.modelwedding,モデルウェディングきせかえ-女の子のゲーム,533,VN,2019-07-23
+com.bailieng,Liêng-CàoTố-3Cây,534,VN,2019-07-23
+com.infinite.shooting.galaxy.attack,インフィニティシューティング：銀河戦争,535,VN,2019-07-23
+com.volcano.city.airplane.pilotflight,CityAirplanePilotFlightNewGame-PlaneGames,536,VN,2019-07-23
+com.speech.text.translate,TranslateAll-SpeechTextTranslator,537,VN,2019-07-23
+com.timuzgames.pixelbattleroyale,PixelBattleRoyale,538,VN,2019-07-23
+com.Locos.MBS,MobileBusSimulator,539,VN,2019-07-23
+com.buildingcraftinggames.block.girls.craft.sims.minecraft.fashion.dream.house.design.build.exploration.crafting.and.building,ドリームハウスデザインクラフト:ビルド＆デコレーションゲーム,540,VN,2019-07-23
