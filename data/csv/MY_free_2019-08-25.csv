@@ -1,7 +1,7 @@
 app_id,app_name,rank,country_code,date
 com.whatsapp,WhatsAppMessenger,1,MY,2019-08-25
-com.shopee.my,ShopeeMY:9.9ShoppingDay,2,MY,2019-08-25
-com.facebook.orca,Messenger,3,MY,2019-08-25
+com.facebook.orca,Messenger,2,MY,2019-08-25
+com.shopee.my,ShopeeMY:9.9ShoppingDay,3,MY,2019-08-25
 com.lenovo.anyshare.gps,SHAREit-Transfer&Share,4,MY,2019-08-25
 com.facebook.katana,Facebook,5,MY,2019-08-25
 com.global.foodpanda.android,foodpanda-LocalFoodDelivery,6,MY,2019-08-25
@@ -9,12 +9,12 @@ com.grabtaxi.passenger,"Grab-Transport,FoodDelivery,Payments",7,MY,2019-08-25
 com.instagram.android,Instagram,8,MY,2019-08-25
 com.water.balls,SandBalls,9,MY,2019-08-25
 com.tencent.iglite,PUBGMOBILELITE,10,MY,2019-08-25
-com.lazada.android,LazadaMalaysia-OnlineShopping&Deals,11,MY,2019-08-25
-com.michatapp.im,MiChat-FreeChats&MeetNewPeople,12,MY,2019-08-25
-my.com.maxis.hotlink.production,HotlinkRED,13,MY,2019-08-25
-com.mobile.legends,モバイル·レジェンド:BangBang,14,MY,2019-08-25
-org.telegram.messenger,Telegram,15,MY,2019-08-25
-com.perfect.slices,PerfectSlices,16,MY,2019-08-25
+com.perfect.slices,PerfectSlices,11,MY,2019-08-25
+com.lazada.android,LazadaMalaysia-OnlineShopping&Deals,12,MY,2019-08-25
+com.michatapp.im,MiChat-FreeChats&MeetNewPeople,13,MY,2019-08-25
+my.com.maxis.hotlink.production,HotlinkRED,14,MY,2019-08-25
+com.mobile.legends,モバイル·レジェンド:BangBang,15,MY,2019-08-25
+org.telegram.messenger,Telegram,16,MY,2019-08-25
 com.ss.android.ugc.trill,TikTok,17,MY,2019-08-25
 com.popcore.makesandwich,Sandwich!,18,MY,2019-08-25
 my.com.tngdigital.ewallet,"Touch‘nGoeWallet-PayTolls,Food&BeRewarded",19,MY,2019-08-25
@@ -40,13 +40,13 @@ com.omesti.myumobile,MyUMobile,38,MY,2019-08-25
 com.UCMobile.intl,"UCBrowser-Free&FastVideoDownloader,NewsApp",39,MY,2019-08-25
 com.vuclip.viu,"Viu-KoreanDramas,VarietyShows,Originals&more",40,MY,2019-08-25
 com.celcom.mycelcom,CelcomLife,41,MY,2019-08-25
-com.stx.puzzlefuzzle,PuzzleFuzzle,42,MY,2019-08-25
-com.google.android.play.games,GooglePlayゲーム,43,MY,2019-08-25
-com.moonton.mobilehero,MobileLegends:Adventure,44,MY,2019-08-25
-com.avcrbt.funimate,Funimate:VideoEditor&MusicClipStarEffects,45,MY,2019-08-25
-sg.bigo.live,BIGOLIVE（ビゴライブ)‐SNS系ライブ配信,46,MY,2019-08-25
-com.google.android.apps.translate,Google翻訳,47,MY,2019-08-25
-com.snapchat.android,Snapchat,48,MY,2019-08-25
+com.snapchat.android,Snapchat,42,MY,2019-08-25
+com.stx.puzzlefuzzle,PuzzleFuzzle,43,MY,2019-08-25
+com.google.android.play.games,GooglePlayゲーム,44,MY,2019-08-25
+com.moonton.mobilehero,MobileLegends:Adventure,45,MY,2019-08-25
+com.avcrbt.funimate,Funimate:VideoEditor&MusicClipStarEffects,46,MY,2019-08-25
+sg.bigo.live,BIGOLIVE（ビゴライブ)‐SNS系ライブ配信,47,MY,2019-08-25
+com.google.android.apps.translate,Google翻訳,48,MY,2019-08-25
 com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,49,MY,2019-08-25
 com.minigame.chengyu.az,成语群英传,50,MY,2019-08-25
 com.kiloo.subwaysurf,SubwaySurfers,51,MY,2019-08-25
@@ -65,15 +65,15 @@ com.twitter.android,Twitter,63,MY,2019-08-25
 com.youmusic.magictiles,魔法のタイルズ3:ピアノ曲&ゲーム,64,MY,2019-08-25
 com.opera.mini.native,OperaMiniWebブラウザ,65,MY,2019-08-25
 com.king.candycrushsaga,キャンディークラッシュ,66,MY,2019-08-25
-com.evilclicker.evilclicker,IdleEvilClicker,67,MY,2019-08-25
-org.step.tracker.counter,Vi-Walk-StepTracker,68,MY,2019-08-25
-com.epf.main,i-Akaun,69,MY,2019-08-25
-com.linecorp.b612.android,B612-いつもの毎日をもっと楽しく,70,MY,2019-08-25
-com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,71,MY,2019-08-25
-com.mobiusx.live4dresults,Live4DResults!(MY&SG),72,MY,2019-08-25
-com.rovio.baba,アングリーバード2(AngryBirds2),73,MY,2019-08-25
-com.trivago,trivago:ホテル検索・料金比較アプリ,74,MY,2019-08-25
-com.whatsapp.w4b,WhatsAppBusiness,75,MY,2019-08-25
+com.whatsapp.w4b,WhatsAppBusiness,67,MY,2019-08-25
+com.evilclicker.evilclicker,IdleEvilClicker,68,MY,2019-08-25
+org.step.tracker.counter,Vi-Walk-StepTracker,69,MY,2019-08-25
+com.epf.main,i-Akaun,70,MY,2019-08-25
+com.linecorp.b612.android,B612-いつもの毎日をもっと楽しく,71,MY,2019-08-25
+com.quvideo.xiaoying,VivaVideo-動画編集＆動画作成＆動画加工,72,MY,2019-08-25
+com.mobiusx.live4dresults,Live4DResults!(MY&SG),73,MY,2019-08-25
+com.rovio.baba,アングリーバード2(AngryBirds2),74,MY,2019-08-25
+com.trivago,trivago:ホテル検索・料金比較アプリ,75,MY,2019-08-25
 com.google.android.youtube,YouTube,76,MY,2019-08-25
 com.netflix.mediaclient,Netflix,77,MY,2019-08-25
 com.ludashi.dualspace,DualSpace-MultipleAccounts&AppCloner,78,MY,2019-08-25
@@ -239,66 +239,66 @@ jpark.AOS5,Angerofstick5:zombie,237,MY,2019-08-25
 com.ismaker.android.simsimi,シムシミ(SimSimi),238,MY,2019-08-25
 com.vg.bsm,BlackShotM:Gears,239,MY,2019-08-25
 com.setel.mobile,Setel,240,MY,2019-08-25
-com.oneapp.max.cleaner.booster,無料クリーナー、アンチウイルス&キャッシュ削除-MAXCleaner,241,MY,2019-08-25
-com.gp.citybuilder.constructiongames.houseconstruction,建物建設家シティ,242,MY,2019-08-25
-com.uc.vmate,VMate,243,MY,2019-08-25
-com.nexelon.fishingcool,FishingSeason:Rivertoocean,244,MY,2019-08-25
-game.bubble.shooter.dragon.pop,バブルシューティング,245,MY,2019-08-25
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,246,MY,2019-08-25
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,247,MY,2019-08-25
-org.free.music.downloader.mp3.download,FreeMusicDownloader&Mp3MusicDownload,248,MY,2019-08-25
-com.canva.editor,Canva-ポスター、チラシ、フライヤー、名刺やお礼状を簡単に作成できるグラフィックデザインアプリ,249,MY,2019-08-25
-com.ea.gp.fifamobile,FIFAサッカー,250,MY,2019-08-25
-messenger.messenger.messanger.messenger,メッセンジャーアプリ,251,MY,2019-08-25
-com.apalon.scanner.app,私スキャナー:スキャンとプリント,252,MY,2019-08-25
-com.mobiletranstorapps.all.languages.translator.free.voice.translation,すべて言語翻訳者-無料音声翻訳,253,MY,2019-08-25
-com.habby.archero,アーチャー伝説,254,MY,2019-08-25
-free.vpn.unblock.proxy.turbovpn,TurboVPNプロバイダー-無制限無料安全wifiプロキシー,255,MY,2019-08-25
-sg.omi,Omi-MatchingWorthYourWhile,256,MY,2019-08-25
-com.watsons.mcommerce,MYWatsons,257,MY,2019-08-25
-com.cmplay.tiles2,ピアノタイル2™,258,MY,2019-08-25
-net.peakgames.ginrummyplus,GinRummyPlus,259,MY,2019-08-25
-com.ghost.sibyl,Ms.Sibyl-フェイスエイジング、パームスキャン、パストライフ,260,MY,2019-08-25
-com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,261,MY,2019-08-25
-com.booking,ホテル予約のブッキングドットコム,262,MY,2019-08-25
-com.bbs3.voteapp,BBVoteApp,263,MY,2019-08-25
-com.lazygeniouz.saveit,StatusSaver,264,MY,2019-08-25
-com.hyperspeed.rocketclean.pro,電話クリーナー：ウィルス対策、アプリロック|HyperSpeed,265,MY,2019-08-25
-messenger.chat.social.messenger,messengerメッセージ、テキスト、ビデオチャット,266,MY,2019-08-25
-screenrecorder.pro,スクリーンレコーダープロ：ビデオエディター、ゲームショートビデオ,267,MY,2019-08-25
-com.mytnb.mytnb,myTNB,268,MY,2019-08-25
-com.taobao.taobao,手机淘宝,269,MY,2019-08-25
-com.dvloper.granny,Granny,270,MY,2019-08-25
-com.suji.spinner,Spinner.io,271,MY,2019-08-25
-com.miniclip.carrom,CarromPool,272,MY,2019-08-25
-com.michatapp.im.lite,MiChatLite-FreeChats&MeetNewPeople,273,MY,2019-08-25
-com.cjwowshop,CJWOWSHOP,274,MY,2019-08-25
-com.tencent.godgame,ChessRush,275,MY,2019-08-25
-com.live4dresult,4DKingLive4DResults,276,MY,2019-08-25
-com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),277,MY,2019-08-25
-com.nekki.shadowfight3,シャドウファイト3,278,MY,2019-08-25
-com.efun.wmsj,完美世界新马版,279,MY,2019-08-25
-com.aim.racing,ExtremeCarDrivingSimulator,280,MY,2019-08-25
-net.apex_designs.payback2,Payback2-TheBattleSandbox,281,MY,2019-08-25
-jp.gungho.teppen,TEPPEN,282,MY,2019-08-25
-com.tpaay.bigpay,BigPay-ChallengeBanking,283,MY,2019-08-25
-com.tunetalk.jmango.tunetalkimsi,TuneTalk,284,MY,2019-08-25
-com.azurgames.stackball,スタックボール-積み上げられた台座を砕いていこう ,285,MY,2019-08-25
-my.com.tgv.app,TGVCinemas,286,MY,2019-08-25
-com.manacore.mod,DragonSky:Idle&Merge,287,MY,2019-08-25
-com.jinjinjin777.tapirus,JinJinJinCasino,288,MY,2019-08-25
-com.backstreet.real.robot.ringfight.games,ロボットリング戦いチャンピオンシップ戦い,289,MY,2019-08-25
-com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,290,MY,2019-08-25
-com.stgame.slots.cash,CashBlitz-FreeSlotMachines&CasinoGames,291,MY,2019-08-25
-com.ksmobile.launcher,CMLauncher3D-カスタマイズ可能、セキュリティ保護、効率的,292,MY,2019-08-25
-photo.editor.photoeditor.photoeditorpro,画像加工-写真編集、コラージュメーカー,293,MY,2019-08-25
-my.hbo.hbogo,HBOGOMalaysia,294,MY,2019-08-25
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),295,MY,2019-08-25
-com.ansangha.drparking4,駐車の達人4,296,MY,2019-08-25
-my.com.tonton.mobile,tonton,297,MY,2019-08-25
-com.custom.pickmeup,PickMeUp™,298,MY,2019-08-25
-com.bankislam.mobile,BankIslamMobileApp,299,MY,2019-08-25
-com.ucturbo,"UCBrowserTurbo-Fastdownload,Secure,Adblock",300,MY,2019-08-25
+game.bubble.shooter.dragon.pop,バブルシューティング,241,MY,2019-08-25
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,242,MY,2019-08-25
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,243,MY,2019-08-25
+org.free.music.downloader.mp3.download,FreeMusicDownloader&Mp3MusicDownload,244,MY,2019-08-25
+com.canva.editor,Canva-ポスター、チラシ、フライヤー、名刺やお礼状を簡単に作成できるグラフィックデザインアプリ,245,MY,2019-08-25
+com.ea.gp.fifamobile,FIFAサッカー,246,MY,2019-08-25
+messenger.messenger.messanger.messenger,メッセンジャーアプリ,247,MY,2019-08-25
+com.apalon.scanner.app,私スキャナー:スキャンとプリント,248,MY,2019-08-25
+com.mobiletranstorapps.all.languages.translator.free.voice.translation,すべて言語翻訳者-無料音声翻訳,249,MY,2019-08-25
+com.habby.archero,アーチャー伝説,250,MY,2019-08-25
+free.vpn.unblock.proxy.turbovpn,TurboVPNプロバイダー-無制限無料安全wifiプロキシー,251,MY,2019-08-25
+sg.omi,Omi-MatchingWorthYourWhile,252,MY,2019-08-25
+com.watsons.mcommerce,MYWatsons,253,MY,2019-08-25
+com.cmplay.tiles2,ピアノタイル2™,254,MY,2019-08-25
+net.peakgames.ginrummyplus,GinRummyPlus,255,MY,2019-08-25
+com.ghost.sibyl,Ms.Sibyl-フェイスエイジング、パームスキャン、パストライフ,256,MY,2019-08-25
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,257,MY,2019-08-25
+com.booking,ホテル予約のブッキングドットコム,258,MY,2019-08-25
+com.bbs3.voteapp,BBVoteApp,259,MY,2019-08-25
+com.lazygeniouz.saveit,StatusSaver,260,MY,2019-08-25
+com.hyperspeed.rocketclean.pro,電話クリーナー：ウィルス対策、アプリロック|HyperSpeed,261,MY,2019-08-25
+messenger.chat.social.messenger,messengerメッセージ、テキスト、ビデオチャット,262,MY,2019-08-25
+screenrecorder.pro,スクリーンレコーダープロ：ビデオエディター、ゲームショートビデオ,263,MY,2019-08-25
+com.mytnb.mytnb,myTNB,264,MY,2019-08-25
+com.taobao.taobao,手机淘宝,265,MY,2019-08-25
+com.dvloper.granny,Granny,266,MY,2019-08-25
+com.suji.spinner,Spinner.io,267,MY,2019-08-25
+com.miniclip.carrom,CarromPool,268,MY,2019-08-25
+com.michatapp.im.lite,MiChatLite-FreeChats&MeetNewPeople,269,MY,2019-08-25
+com.cjwowshop,CJWOWSHOP,270,MY,2019-08-25
+com.tencent.godgame,ChessRush,271,MY,2019-08-25
+com.live4dresult,4DKingLive4DResults,272,MY,2019-08-25
+com.supercell.clashroyale,クラッシュ・ロワイヤル(ClashRoyale),273,MY,2019-08-25
+com.nekki.shadowfight3,シャドウファイト3,274,MY,2019-08-25
+net.apex_designs.payback2,Payback2-TheBattleSandbox,275,MY,2019-08-25
+jp.gungho.teppen,TEPPEN,276,MY,2019-08-25
+com.tpaay.bigpay,BigPay-ChallengeBanking,277,MY,2019-08-25
+com.tunetalk.jmango.tunetalkimsi,TuneTalk,278,MY,2019-08-25
+com.azurgames.stackball,スタックボール-積み上げられた台座を砕いていこう ,279,MY,2019-08-25
+my.com.tgv.app,TGVCinemas,280,MY,2019-08-25
+com.manacore.mod,DragonSky:Idle&Merge,281,MY,2019-08-25
+com.jinjinjin777.tapirus,JinJinJinCasino,282,MY,2019-08-25
+com.backstreet.real.robot.ringfight.games,ロボットリング戦いチャンピオンシップ戦い,283,MY,2019-08-25
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,284,MY,2019-08-25
+com.stgame.slots.cash,CashBlitz-FreeSlotMachines&CasinoGames,285,MY,2019-08-25
+com.ksmobile.launcher,CMLauncher3D-カスタマイズ可能、セキュリティ保護、効率的,286,MY,2019-08-25
+photo.editor.photoeditor.photoeditorpro,画像加工-写真編集、コラージュメーカー,287,MY,2019-08-25
+my.hbo.hbogo,HBOGOMalaysia,288,MY,2019-08-25
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),289,MY,2019-08-25
+com.ansangha.drparking4,駐車の達人4,290,MY,2019-08-25
+my.com.tonton.mobile,tonton,291,MY,2019-08-25
+com.custom.pickmeup,PickMeUp™,292,MY,2019-08-25
+com.bankislam.mobile,BankIslamMobileApp,293,MY,2019-08-25
+com.ucturbo,"UCBrowserTurbo-Fastdownload,Secure,Adblock",294,MY,2019-08-25
+qrcode.reader.qrcode.scanner,QRScannerPro:AllQR&Barcode,295,MY,2019-08-25
+com.gscandroid.yk,GoldenScreenCinemas,296,MY,2019-08-25
+org.rate.camera.editor,SelfieCamera,297,MY,2019-08-25
+com.fast_cache_junk_cleaner.booster_master,CleanPhone,298,MY,2019-08-25
+com.idiom.word.puzzle,成语消消消-全民疯狂猜成语小游戏,299,MY,2019-08-25
+com.ea.games.r3_row,RealRacing3,300,MY,2019-08-25
 qrcode.reader.qrcode.scanner,QRScannerPro:AllQR&Barcode,301,MY,2019-08-25
 com.gscandroid.yk,GoldenScreenCinemas,302,MY,2019-08-25
 org.rate.camera.editor,SelfieCamera,303,MY,2019-08-25
@@ -482,60 +482,60 @@ free.vpn.unblock.proxy.vpnmaster,VPNMaster無料高速プロキシーブロッ�
 com.funcamerastudio.videomaker,VideoMaker—音楽＆動画エディター付きの写真の動画メーカー,481,MY,2019-08-25
 com.CHSGamez.Videodownloder,AllVideoDownloader2019-ViralMateDownloader,482,MY,2019-08-25
 hd.video.downloader.app.hdvideodownloaderapp,HDビデオダウンローダーアプリ-2019,483,MY,2019-08-25
-org.magic.brush.emoji.sticker,EmojiMagicBrush-PhotoEditor,484,MY,2019-08-25
-com.stickify.stickermaker,StickerMaker,485,MY,2019-08-25
-com.sec.android.easyMover,GalaxySmartSwitchMobile,486,MY,2019-08-25
-com.traveloka.android,"Traveloka:BookHotel,Flight,Ticket&Activities",487,MY,2019-08-25
-com.nekki.vector,Vector,488,MY,2019-08-25
-com.drink.water.fun,ドリンクカクテル-電話から飲む-iDrink(ジョーク),489,MY,2019-08-25
-com.jb.go.musicplayer.mp3player,GO音楽PLUS-最新無料音楽聴き放題,490,MY,2019-08-25
-com.plato.android,Plato-Games&GroupChats,491,MY,2019-08-25
-com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,492,MY,2019-08-25
-com.cmcm.lite,CMLite-ForLow-EndPhone,493,MY,2019-08-25
-com.pl.premierleague,PremierLeague-OfficialApp,494,MY,2019-08-25
-com.elsie.wallpaper.changer,HDWallpapers,495,MY,2019-08-25
-com.Neurononfire.SupremeDuelist,SupremeDuelistStickman,496,MY,2019-08-25
-faceapp.magikoly.exploreandhavefun,Magikoly–漫画フィルター、赤ちゃん顔、性別変換、民族分析&顔の老化アプリ,497,MY,2019-08-25
-my.yes.yes4g,MyYes4G,498,MY,2019-08-25
-com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,499,MY,2019-08-25
-com.gamedevltd.wwh,ワールドウォーヒーローズ,500,MY,2019-08-25
-com.downlood.sav.whmedia,StatusSaver-DownloaderforWhatsapp,501,MY,2019-08-25
-com.masomo.headball2,HeadBall2,502,MY,2019-08-25
-com.life360.android.safetymapd,Life360－子供の見守り、家族と位置情報共有アプリ,503,MY,2019-08-25
-com.topgamestudio.americanblocksnipersurvival,AmericanBlockSniperSurvival,504,MY,2019-08-25
-com.vectorunit.cobalt.googleplay,BeachBuggyRacing2,505,MY,2019-08-25
-com.puzzles.game.halloweeen.one,FindTheDifferences-TheDetective,506,MY,2019-08-25
-com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,507,MY,2019-08-25
-org.videolan.vlc,VLCforAndroid,508,MY,2019-08-25
-com.gramgames.mergedragons,マージドラゴン(MergeDragons!),509,MY,2019-08-25
-com.oppanagames.car.simulator,CarSimulator2,510,MY,2019-08-25
-vStudio.Android.Camera360,カメラ360,511,MY,2019-08-25
-com.bandainamcoent.opbrww,ONEPIECEBountyRush,512,MY,2019-08-25
-com.picstudio.photoeditorplus,XPhotoEditor-FaceAging&CartoonEffect,513,MY,2019-08-25
-com.download.free.videodownloader,すべてのビデオダウンローダ,514,MY,2019-08-25
-com.gameloft.android.ANMP.GloftA9HM,アスファルト9：Legends-2019年レーシングアクションゲーム,515,MY,2019-08-25
-instake.repost.instagramphotodownloader.instagramvideodownloader,インスタグラムダウンローダー(InsTake)-高画質の動画/写真ダウロード・簡単・高速・無料,516,MY,2019-08-25
-aero.sita.lab.resmobileweb.android.mh,MalaysiaAirlines,517,MY,2019-08-25
-facebookvideodownloader.videodownloaderforfacebook,VideoDownloaderforFacebookVideoDownloader,518,MY,2019-08-25
-com.mizo.quad.bike.shooting.games,クワッドバイクシューティングシミュレータ,519,MY,2019-08-25
-com.viber.voip,Viber無料通話＆メッセージアプリ,520,MY,2019-08-25
-com.kfit.fave,"Fave-Deal,Pay,Cashback,Discount",521,MY,2019-08-25
-kr.co.manhole.hujicam,HujiCam,522,MY,2019-08-25
-my.com.lits.smartselangorparking,SmartSelangorParking,523,MY,2019-08-25
-com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,524,MY,2019-08-25
-com.supertapx.lovedots,LoveBalls,525,MY,2019-08-25
-com.jomrun,JomRun–RunRewarded,526,MY,2019-08-25
-com.happyfresh.android,"HappyFresh–Groceries,ShopOnlineatSupermarket",527,MY,2019-08-25
-com.nintendo.zara,SuperMarioRun,528,MY,2019-08-25
-com.google.android.apps.photos,Googleフォト,529,MY,2019-08-25
-com.whatsapp.wallpaper,WhatsAppWallpaper,530,MY,2019-08-25
-com.ambank.ambankonline,AmOnline,531,MY,2019-08-25
-com.lbe.parallel.intl.arm64,ParallelSpace-64BitSupport,532,MY,2019-08-25
-mobisocial.arcade,オムレットアーケード-ゲーム実況配信、ゲーマーと繋がり、画面収録、ゲームコミュニティ,533,MY,2019-08-25
-com.opera.mini.native.beta,OperaMinibetaWebブラウザ,534,MY,2019-08-25
-com.microsoft.office.excel,MicrosoftExcel:スプレッドシート閲覧、編集、作成,535,MY,2019-08-25
-sg.bigo.live.lite,BIGOLIVELite–SNS系配信アプリ,536,MY,2019-08-25
-net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),537,MY,2019-08-25
-com.heavyfall.constructioncity2,ConstructionCity2,538,MY,2019-08-25
-com.instantvideosaver.fbvideodownloader,VideoDownloaderforFB,539,MY,2019-08-25
-com.miniclip.bowmasters,Bowmasters,540,MY,2019-08-25
+com.pixonic.wwr,WarRobots,484,MY,2019-08-25
+org.magic.brush.emoji.sticker,EmojiMagicBrush-PhotoEditor,485,MY,2019-08-25
+com.stickify.stickermaker,StickerMaker,486,MY,2019-08-25
+com.sec.android.easyMover,GalaxySmartSwitchMobile,487,MY,2019-08-25
+com.traveloka.android,"Traveloka:BookHotel,Flight,Ticket&Activities",488,MY,2019-08-25
+com.nekki.vector,Vector,489,MY,2019-08-25
+com.drink.water.fun,ドリンクカクテル-電話から飲む-iDrink(ジョーク),490,MY,2019-08-25
+com.jb.go.musicplayer.mp3player,GO音楽PLUS-最新無料音楽聴き放題,491,MY,2019-08-25
+com.plato.android,Plato-Games&GroupChats,492,MY,2019-08-25
+com.nordcurrent.canteenhd,クッキングフィーバー【爽快グルメアクション！】,493,MY,2019-08-25
+com.cmcm.lite,CMLite-ForLow-EndPhone,494,MY,2019-08-25
+com.pl.premierleague,PremierLeague-OfficialApp,495,MY,2019-08-25
+com.elsie.wallpaper.changer,HDWallpapers,496,MY,2019-08-25
+com.Neurononfire.SupremeDuelist,SupremeDuelistStickman,497,MY,2019-08-25
+faceapp.magikoly.exploreandhavefun,Magikoly–漫画フィルター、赤ちゃん顔、性別変換、民族分析&顔の老化アプリ,498,MY,2019-08-25
+my.yes.yes4g,MyYes4G,499,MY,2019-08-25
+com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,500,MY,2019-08-25
+com.gamedevltd.wwh,ワールドウォーヒーローズ,501,MY,2019-08-25
+com.downlood.sav.whmedia,StatusSaver-DownloaderforWhatsapp,502,MY,2019-08-25
+com.masomo.headball2,HeadBall2,503,MY,2019-08-25
+com.life360.android.safetymapd,Life360－子供の見守り、家族と位置情報共有アプリ,504,MY,2019-08-25
+com.topgamestudio.americanblocksnipersurvival,AmericanBlockSniperSurvival,505,MY,2019-08-25
+com.vectorunit.cobalt.googleplay,BeachBuggyRacing2,506,MY,2019-08-25
+com.puzzles.game.halloweeen.one,FindTheDifferences-TheDetective,507,MY,2019-08-25
+com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,508,MY,2019-08-25
+org.videolan.vlc,VLCforAndroid,509,MY,2019-08-25
+com.gramgames.mergedragons,マージドラゴン(MergeDragons!),510,MY,2019-08-25
+com.oppanagames.car.simulator,CarSimulator2,511,MY,2019-08-25
+vStudio.Android.Camera360,カメラ360,512,MY,2019-08-25
+com.bandainamcoent.opbrww,ONEPIECEBountyRush,513,MY,2019-08-25
+com.picstudio.photoeditorplus,XPhotoEditor-FaceAging&CartoonEffect,514,MY,2019-08-25
+com.download.free.videodownloader,すべてのビデオダウンローダ,515,MY,2019-08-25
+com.gameloft.android.ANMP.GloftA9HM,アスファルト9：Legends-2019年レーシングアクションゲーム,516,MY,2019-08-25
+instake.repost.instagramphotodownloader.instagramvideodownloader,インスタグラムダウンローダー(InsTake)-高画質の動画/写真ダウロード・簡単・高速・無料,517,MY,2019-08-25
+aero.sita.lab.resmobileweb.android.mh,MalaysiaAirlines,518,MY,2019-08-25
+facebookvideodownloader.videodownloaderforfacebook,VideoDownloaderforFacebookVideoDownloader,519,MY,2019-08-25
+com.mizo.quad.bike.shooting.games,クワッドバイクシューティングシミュレータ,520,MY,2019-08-25
+com.viber.voip,Viber無料通話＆メッセージアプリ,521,MY,2019-08-25
+com.kfit.fave,"Fave-Deal,Pay,Cashback,Discount",522,MY,2019-08-25
+kr.co.manhole.hujicam,HujiCam,523,MY,2019-08-25
+my.com.lits.smartselangorparking,SmartSelangorParking,524,MY,2019-08-25
+com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,525,MY,2019-08-25
+com.supertapx.lovedots,LoveBalls,526,MY,2019-08-25
+com.jomrun,JomRun–RunRewarded,527,MY,2019-08-25
+com.happyfresh.android,"HappyFresh–Groceries,ShopOnlineatSupermarket",528,MY,2019-08-25
+com.nintendo.zara,SuperMarioRun,529,MY,2019-08-25
+com.google.android.apps.photos,Googleフォト,530,MY,2019-08-25
+com.whatsapp.wallpaper,WhatsAppWallpaper,531,MY,2019-08-25
+com.ambank.ambankonline,AmOnline,532,MY,2019-08-25
+com.lbe.parallel.intl.arm64,ParallelSpace-64BitSupport,533,MY,2019-08-25
+mobisocial.arcade,オムレットアーケード-ゲーム実況配信、ゲーマーと繋がり、画面収録、ゲームコミュニティ,534,MY,2019-08-25
+com.opera.mini.native.beta,OperaMinibetaWebブラウザ,535,MY,2019-08-25
+com.microsoft.office.excel,MicrosoftExcel:スプレッドシート閲覧、編集、作成,536,MY,2019-08-25
+sg.bigo.live.lite,BIGOLIVELite–SNS系配信アプリ,537,MY,2019-08-25
+net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),538,MY,2019-08-25
+com.heavyfall.constructioncity2,ConstructionCity2,539,MY,2019-08-25
+com.instantvideosaver.fbvideodownloader,VideoDownloaderforFB,540,MY,2019-08-25

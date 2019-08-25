@@ -1,9 +1,9 @@
 app_id,app_name,rank,country_code,date
-com.netmarble.koongyacm,쿵야캐치마인드,1,KR,2019-08-25
-com.kakao.talk,カカオトーク-無料でグループ通話！高音質でつながる無料通話！,2,KR,2019-08-25
-com.thumbage.chiwoo.google,치우신시에이는바람,3,KR,2019-08-25
-com.sec.android.easyMover,GalaxySmartSwitchMobile,4,KR,2019-08-25
-com.perfect.slices,PerfectSlices,5,KR,2019-08-25
+com.perfect.slices,PerfectSlices,1,KR,2019-08-25
+com.netmarble.koongyacm,쿵야캐치마인드,2,KR,2019-08-25
+com.kakao.talk,カカオトーク-無料でグループ通話！高音質でつながる無料通話！,3,KR,2019-08-25
+com.thumbage.chiwoo.google,치우신시에이는바람,4,KR,2019-08-25
+com.sec.android.easyMover,GalaxySmartSwitchMobile,5,KR,2019-08-25
 com.skt.prod.phonebook,"T연락처-주소록실시간백업,114검색",6,KR,2019-08-25
 viva.republica.toss,토스,7,KR,2019-08-25
 com.nhn.android.search,네이버-NAVER,8,KR,2019-08-25
@@ -24,68 +24,68 @@ com.estsoft.alyac,"Dr.CapsuleAntivirus,Cleaner,Booster",22,KR,2019-08-25
 com.nh.android.nhmembers,NH멤버스,23,KR,2019-08-25
 com.facebook.katana,Facebook,24,KR,2019-08-25
 com.skt.tmap.ku,"Tmap(티맵,T맵,내비게이션)",25,KR,2019-08-25
-com.nhn.android.nmap,"NAVERMap,Navigation",26,KR,2019-08-25
-com.netflix.mediaclient,Netflix,27,KR,2019-08-25
-com.nhn.android.band,BAND-グループのためのアプリ,28,KR,2019-08-25
-com.kakaogames.tera,테라클래식,29,KR,2019-08-25
-kr.co.captv.pooqV2,푹(pooq),30,KR,2019-08-25
-com.korail.talk,コレール自動券売機,31,KR,2019-08-25
-com.lionstudios.mrbullet,MrBullet-SpyPuzzles,32,KR,2019-08-25
-net.daum.android.map,카카오맵-대한민국No.1지도앱(지도/내비게이션/대중교통/로드뷰),33,KR,2019-08-25
-kr.co.homeplus.club,홈플러스더클럽,34,KR,2019-08-25
-com.fineapp.yogiyo,배달요기요,35,KR,2019-08-25
-com.cassette.aquapark,aquapark.io,36,KR,2019-08-25
-com.jndwork.weather.forecast.channel.dailyforecast.liveradarmaps,ライブ天気予報-天気予報2019,37,KR,2019-08-25
-com.snowcorp.soda.android,SODAソーダ-NaturalBeautyCamera,38,KR,2019-08-25
-com.tf.thinkdroid.viewer,한컴오피스viewer,39,KR,2019-08-25
-com.google.android.play.games,GooglePlayゲーム,40,KR,2019-08-25
-com.locnall.KimGiSa,카카오내비,41,KR,2019-08-25
-com.supercell.brawlstars,ブロスタ,42,KR,2019-08-25
-com.habby.archero,アーチャー伝説,43,KR,2019-08-25
-com.naver.labs.translator,NAVERpapago-AI通訳・翻訳,44,KR,2019-08-25
-com.campmobile.snow,SNOWスノー,45,KR,2019-08-25
-com.hogangnono.hogangnono,호갱노노-아파트실거래가1등앱,46,KR,2019-08-25
-com.aia.vitality.kr,AIAVitalityxT건강습관,47,KR,2019-08-25
-com.facebook.orca,Messenger,48,KR,2019-08-25
+com.facebook.orca,Messenger,26,KR,2019-08-25
+com.nhn.android.nmap,"NAVERMap,Navigation",27,KR,2019-08-25
+com.netflix.mediaclient,Netflix,28,KR,2019-08-25
+com.nhn.android.band,BAND-グループのためのアプリ,29,KR,2019-08-25
+com.kakaogames.tera,테라클래식,30,KR,2019-08-25
+kr.co.captv.pooqV2,푹(pooq),31,KR,2019-08-25
+com.korail.talk,コレール自動券売機,32,KR,2019-08-25
+com.lionstudios.mrbullet,MrBullet-SpyPuzzles,33,KR,2019-08-25
+net.daum.android.map,카카오맵-대한민국No.1지도앱(지도/내비게이션/대중교통/로드뷰),34,KR,2019-08-25
+kr.co.homeplus.club,홈플러스더클럽,35,KR,2019-08-25
+com.fineapp.yogiyo,배달요기요,36,KR,2019-08-25
+com.cassette.aquapark,aquapark.io,37,KR,2019-08-25
+com.jndwork.weather.forecast.channel.dailyforecast.liveradarmaps,ライブ天気予報-天気予報2019,38,KR,2019-08-25
+com.snowcorp.soda.android,SODAソーダ-NaturalBeautyCamera,39,KR,2019-08-25
+com.tf.thinkdroid.viewer,한컴오피스viewer,40,KR,2019-08-25
+com.google.android.play.games,GooglePlayゲーム,41,KR,2019-08-25
+com.locnall.KimGiSa,카카오내비,42,KR,2019-08-25
+com.supercell.brawlstars,ブロスタ,43,KR,2019-08-25
+com.habby.archero,アーチャー伝説,44,KR,2019-08-25
+com.naver.labs.translator,NAVERpapago-AI通訳・翻訳,45,KR,2019-08-25
+com.campmobile.snow,SNOWスノー,46,KR,2019-08-25
+com.hogangnono.hogangnono,호갱노노-아파트실거래가1등앱,47,KR,2019-08-25
+com.aia.vitality.kr,AIAVitalityxT건강습관,48,KR,2019-08-25
 com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),49,KR,2019-08-25
-com.forshared.files,4shared,50,KR,2019-08-25
-com.kbstar.kbbank,KB국민은행스타뱅킹,51,KR,2019-08-25
-skplanet.musicmate,FLO–플로,52,KR,2019-08-25
-com.gorgeous.liteinternational,Ulikeユーライク-激盛れ楽撮りビューティーカメラ,53,KR,2019-08-25
-com.iloen.melon,멜론,54,KR,2019-08-25
-com.kscc.scxb.mbl,[공식]고속버스모바일,55,KR,2019-08-25
-com.ss.android.ugc.trill,TikTok,56,KR,2019-08-25
-com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,57,KR,2019-08-25
-com.TouchEn.mVaccine.webs,터치엔엠백신forWeb(기업용),58,KR,2019-08-25
-com.nhn.android.ndrive,네이버클라우드-NAVERCloud,59,KR,2019-08-25
-nh.smart.nhcok,NH콕뱅크,60,KR,2019-08-25
-com.water.balls,SandBalls,61,KR,2019-08-25
-kr.co.samsungcard.mpocket,삼성앱카드-내폰안의삼성카드,62,KR,2019-08-25
-com.shinhan.sbanking,신한쏠(SOL)–신한은행스마트폰뱅킹,63,KR,2019-08-25
-com.hyundaicard.appcard,현대카드,64,KR,2019-08-25
-com.coupang.mobile.eats,쿠팡이츠-맛있는음식을빠르고편하게,65,KR,2019-08-25
-kvp.jjy.MispAndroid320,ISP/페이북,66,KR,2019-08-25
-com.firstscreen.weather,"첫화면날씨-실시간날씨,미세먼지,일기예보,WHO기준",67,KR,2019-08-25
-com.playrix.homescapes,ホームスケイプ(Homescapes),68,KR,2019-08-25
-com.cultsotry.yanolja.nativeapp,"야놀자-국내및해외호텔,모텔,펜션,게하,레저/티켓,최대80%할인",69,KR,2019-08-25
-net.daum.android.daum,다음-Daum,70,KR,2019-08-25
-com.cjenm.ModooMarbleKakao,모두의마블,71,KR,2019-08-25
-com.dpspace.rocketsky,RocketSky!,72,KR,2019-08-25
-net.bucketplace,오늘의집,73,KR,2019-08-25
-com.pubg.krmobile,PUBGMOBILE,74,KR,2019-08-25
-com.nhn.android.webtoon,네이버웹툰-NaverWebtoon,75,KR,2019-08-25
-com.wemakeprice,위메프-특가대표(특가/쇼핑/쇼핑앱/쿠폰/배송),76,KR,2019-08-25
-kr.co.quicket,"번개장터-모바일최대중고마켓앱(중고나라,중고차)",77,KR,2019-08-25
-com.kbcard.kbkookmincard,KB국민카드,78,KR,2019-08-25
-com.geishatokyo.trafficrun,TrafficRun!,79,KR,2019-08-25
-com.google.android.apps.translate,Google翻訳,80,KR,2019-08-25
-com.stu.conects,커넥츠-전국민필수공부앱,81,KR,2019-08-25
-kr.go.kcs.mobile.pubservice,모바일관세청,82,KR,2019-08-25
-com.omnitel.android.lottewebview,롯데홈쇼핑–롯데ON,83,KR,2019-08-25
-kr.goodchoice.abouthere,여기어때-대한민국1등종합숙박앱,84,KR,2019-08-25
-com.chbreeze.jikbang4a,Zigbang,85,KR,2019-08-25
-com.kscc.xzz.mbl,[공식]시외버스모바일,86,KR,2019-08-25
-com.pikia.muzever,트로트무료듣기,87,KR,2019-08-25
+com.pikia.muzever,트로트무료듣기,50,KR,2019-08-25
+com.forshared.files,4shared,51,KR,2019-08-25
+com.kbstar.kbbank,KB국민은행스타뱅킹,52,KR,2019-08-25
+skplanet.musicmate,FLO–플로,53,KR,2019-08-25
+com.gorgeous.liteinternational,Ulikeユーライク-激盛れ楽撮りビューティーカメラ,54,KR,2019-08-25
+com.iloen.melon,멜론,55,KR,2019-08-25
+com.kscc.scxb.mbl,[공식]고속버스모바일,56,KR,2019-08-25
+com.ss.android.ugc.trill,TikTok,57,KR,2019-08-25
+com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,58,KR,2019-08-25
+com.TouchEn.mVaccine.webs,터치엔엠백신forWeb(기업용),59,KR,2019-08-25
+com.nhn.android.ndrive,네이버클라우드-NAVERCloud,60,KR,2019-08-25
+nh.smart.nhcok,NH콕뱅크,61,KR,2019-08-25
+com.water.balls,SandBalls,62,KR,2019-08-25
+kr.co.samsungcard.mpocket,삼성앱카드-내폰안의삼성카드,63,KR,2019-08-25
+com.shinhan.sbanking,신한쏠(SOL)–신한은행스마트폰뱅킹,64,KR,2019-08-25
+com.hyundaicard.appcard,현대카드,65,KR,2019-08-25
+com.coupang.mobile.eats,쿠팡이츠-맛있는음식을빠르고편하게,66,KR,2019-08-25
+kvp.jjy.MispAndroid320,ISP/페이북,67,KR,2019-08-25
+com.firstscreen.weather,"첫화면날씨-실시간날씨,미세먼지,일기예보,WHO기준",68,KR,2019-08-25
+com.playrix.homescapes,ホームスケイプ(Homescapes),69,KR,2019-08-25
+com.cultsotry.yanolja.nativeapp,"야놀자-국내및해외호텔,모텔,펜션,게하,레저/티켓,최대80%할인",70,KR,2019-08-25
+net.daum.android.daum,다음-Daum,71,KR,2019-08-25
+com.cjenm.ModooMarbleKakao,모두의마블,72,KR,2019-08-25
+com.dpspace.rocketsky,RocketSky!,73,KR,2019-08-25
+net.bucketplace,오늘의집,74,KR,2019-08-25
+com.pubg.krmobile,PUBGMOBILE,75,KR,2019-08-25
+com.nhn.android.webtoon,네이버웹툰-NaverWebtoon,76,KR,2019-08-25
+com.wemakeprice,위메프-특가대표(특가/쇼핑/쇼핑앱/쿠폰/배송),77,KR,2019-08-25
+kr.co.quicket,"번개장터-모바일최대중고마켓앱(중고나라,중고차)",78,KR,2019-08-25
+com.kbcard.kbkookmincard,KB국민카드,79,KR,2019-08-25
+com.geishatokyo.trafficrun,TrafficRun!,80,KR,2019-08-25
+com.google.android.apps.translate,Google翻訳,81,KR,2019-08-25
+com.stu.conects,커넥츠-전국민필수공부앱,82,KR,2019-08-25
+kr.go.kcs.mobile.pubservice,모바일관세청,83,KR,2019-08-25
+com.omnitel.android.lottewebview,롯데홈쇼핑–롯데ON,84,KR,2019-08-25
+kr.goodchoice.abouthere,여기어때-대한민국1등종합숙박앱,85,KR,2019-08-25
+com.chbreeze.jikbang4a,Zigbang,86,KR,2019-08-25
+com.kscc.xzz.mbl,[공식]시외버스모바일,87,KR,2019-08-25
 com.kakao.story,カカオストーリー：すきな人とタイムラインを共有する無料アプリ,88,KR,2019-08-25
 nh.smart.allonebank,올원뱅크(AllOneBank),89,KR,2019-08-25
 kr.backpackr.me.idus,아이디어스(idus)-핸드메이드/수공예장터,90,KR,2019-08-25
@@ -324,146 +324,146 @@ com.allemailproviderapps2019.newemailappsall,メールアプリのオールイ�
 com.gameloft.android.ANMP.GloftA9HM,アスファルト9：Legends-2019年レーシングアクションゲーム,323,KR,2019-08-25
 com.intsig.camscanner,CamScannerスキャンPDF作成,324,KR,2019-08-25
 com.nhn.android.blog,네이버블로그-NaverBlog,325,KR,2019-08-25
-com.nike.plusgps,NikeRunClub,326,KR,2019-08-25
-com.lottemembers.android,"L.POINT-엘포인트[포인트,멤버십,적립,사용,모바일카드,쿠폰,롯데]",327,KR,2019-08-25
-com.Simul.amazingfr,AmazingPGFrogSimulator,328,KR,2019-08-25
-com.ebcard.bustago,[공식]전국시외버스승차권통합예매(버스타고),329,KR,2019-08-25
-com.playstrom.onpipe,OnPipe,330,KR,2019-08-25
-com.ketchapp.rider,Rider,331,KR,2019-08-25
-com.battle.disc,BattleDisc,332,KR,2019-08-25
-com.hmusic.memory7080,7080추억노래-7080명곡모음,333,KR,2019-08-25
-kr.co.richnco.goodrich,굿리치–보험의바른이치,334,KR,2019-08-25
-com.igenesoft.hide,隠れん坊オンライン,335,KR,2019-08-25
-com.NHNEnt.NDuelgo,한게임신맞고:김준현이선택한원조고스톱,336,KR,2019-08-25
-com.wooribank.smart.wwms,위비멤버스,337,KR,2019-08-25
-com.darinsoft.vimo,VLLO(ブロ/a.k.a.Vimo)-動画編集＆動画作成＆動画加工,338,KR,2019-08-25
-net.nshc.droidx3web,Droid-XIIIWeb백신(기업용),339,KR,2019-08-25
-com.xmobile.wowradio,韓国のラジオ-KPOPRadio,340,KR,2019-08-25
-com.samsung.android.spay,SamsungPay,341,KR,2019-08-25
-Kal.FlightInfo,KoreanAir,342,KR,2019-08-25
-kr.co.burgerkinghybrid,(공식)버거킹BURGERKING®KOREA,343,KR,2019-08-25
-com.epc.tfsgzhw,삼국지디펜스M,344,KR,2019-08-25
-com.cultureland.ver2,컬쳐랜드[문화상품권],345,KR,2019-08-25
-com.cmplay.tiles2,ピアノタイル2™,346,KR,2019-08-25
-com.elz.secondhandstore,"중고나라-2,100만회원국내최대중고장터",347,KR,2019-08-25
-kr.co.vcnc.tada,"타다(TADA)-바로가다,이동의기본",348,KR,2019-08-25
-com.hotelscombined.mobile,ホテルズコンバインド-お得な宿泊プランを一括検索・比較,349,KR,2019-08-25
-com.chameleonsong.youtubekoreasong.song7080,7080가요모음-7080노래무료듣기,350,KR,2019-08-25
-com.ubikey,휴대폰인증서서비스(유비키_UBIKey),351,KR,2019-08-25
-com.tq.master,TestMaster-顔の老化スキャナー、成長、手のひら,352,KR,2019-08-25
-com.cloudmosa.puffinFree,PuffinWebBrowser,353,KR,2019-08-25
-com.mn.daemyungresort,대명리조트,354,KR,2019-08-25
-com.supersolid.penguin,SuperPenguins,355,KR,2019-08-25
-com.turbochilli.rollingsky,ローリング・スカイ,356,KR,2019-08-25
-com.camelgames.aoz,AgeofZ,357,KR,2019-08-25
-com.airbnb.android,Airbnb(エアビーアンドビー)世界の空部屋シェアサイト,358,KR,2019-08-25
-com.mo.kosaf,한국장학재단,359,KR,2019-08-25
-fast.phone.clean,クリーナー-電話クリーン＆ブースター＆パワークリーン,360,KR,2019-08-25
-com.nordvpn.android,NordVPN,361,KR,2019-08-25
-kr.or.nhis.myhealthbank,건강iN(건강인),362,KR,2019-08-25
-com.kakao.beauty.hairshop,카카오헤어샵KakaoHairshop,363,KR,2019-08-25
-com.kwalee.drawit,Drawit,364,KR,2019-08-25
-com.ediya.coupon,이디야멤버스,365,KR,2019-08-25
-com.cs.android.SlifeCustomer,삼성생명모바일창구,366,KR,2019-08-25
-com.cocoplay.fashion.style,スーパースタイリスト-ファッションリーダーをドレスアップ&スタイリング,367,KR,2019-08-25
-com.wr.alrim,우리은행원터치알림,368,KR,2019-08-25
-com.twoheart.dailyhotel,DAILYHOTEL-Thebesthoteldeals,369,KR,2019-08-25
-com.viouk.free.gamecrft.big.opp,Worldkrafts,370,KR,2019-08-25
-com.dragonest.autochess.google,AutoChess,371,KR,2019-08-25
-com.wzxx4399kr.google,파천:신이되는자,372,KR,2019-08-25
-com.munets.android.bell365season2,bell365,373,KR,2019-08-25
-com.encar.encarMobileApp,"중고차No.1플랫폼SK엔카-중고차구매,중고차판매,SK엔카직영몰엔카닷컴",374,KR,2019-08-25
-com.translate.talkingtranslator,말하는번역기-초간편통역,375,KR,2019-08-25
-com.homeplus.myhomeplus,마이홈플러스,376,KR,2019-08-25
-com.nh.mobilenoti,NH스마트알림,377,KR,2019-08-25
-app.melon.icompass,コンパス,378,KR,2019-08-25
-kr.or.kftc.mobileapt2you,APT2you,379,KR,2019-08-25
-com.zplay.willhero,ウィルヒーロー,380,KR,2019-08-25
-com.musinsa.store,셀렉트숍무신사-SELECTSHOPMUSINSA,381,KR,2019-08-25
-paint.by.number.pixel.art.coloring.drawing.puzzle,数字で塗り絵-無料塗り絵ブック＆ペイントゲーム＆リラックスゲーム,382,KR,2019-08-25
-com.nhn.android.nbooks,SERIES,383,KR,2019-08-25
-com.hanaskcard.paycla,하나1Q페이(앱카드),384,KR,2019-08-25
-com.tensquaregames.letsfish2,釣りクラッシュ:スポーツ釣りゲーム(FishingClash),385,KR,2019-08-25
-com.apig.changer.kr.aos,체인져:수호자,386,KR,2019-08-25
-com.nhn.android.calendar,Naverカレンダー,387,KR,2019-08-25
-net.kernys.aooni,좀비고등학교,388,KR,2019-08-25
-com.GF.mdkrkr.hwyad.google,요괴미식가:Cook&Life,389,KR,2019-08-25
-com.shinhan.smartcaremgr,SOL알리미,390,KR,2019-08-25
-app.intra,Intra,391,KR,2019-08-25
-com.lguplus.ucare,U+휴대폰분실파손보험,392,KR,2019-08-25
-com.clean_antivirus.security.master.booster,Security&Antivirus,393,KR,2019-08-25
-com.shinhan.stax,서울시세금납부-서울시STAX,394,KR,2019-08-25
-finance.chai.app,차이-결제마다할인받는간편결제,395,KR,2019-08-25
-com.lgeha.nuts,LGSmartThinQ,396,KR,2019-08-25
-com.buzzni.android.subapp.shoppingmoa,"홈쇼핑모아-TV홈쇼핑편성표,생방송알림,검색,홈쇼핑방송",397,KR,2019-08-25
-com.smg.spbs,새마을금고스마트뱅킹,398,KR,2019-08-25
-com.dmg.packmaster,PackMaster,399,KR,2019-08-25
-com.gpp.idleaquapark,IdleAquaPark,400,KR,2019-08-25
-kr.bitbyte.playkeyboard,"プレイキーボード-日本語入力,キーボード飾り,顔文字,特殊文字",401,KR,2019-08-25
-com.nexon.fo4m,FIFAONLINE4MbyEASPORTS™,402,KR,2019-08-25
-go.kics.app,형사사법포털,403,KR,2019-08-25
-com.kakao.cheez,カカオトークチーズ,404,KR,2019-08-25
-com.nianticlabs.pokemongo,PokémonGO,405,KR,2019-08-25
-com.kakao.playball,KakaoTVLive-카카오TV라이브,406,KR,2019-08-25
-com.digidust.elokence.akinator.freemium,Akinator,407,KR,2019-08-25
-com.oliveyoung,올리브영,408,KR,2019-08-25
-photoeditor.layout.collagemaker,コラージュメーカー:画像加工&写真編集者,409,KR,2019-08-25
-com.dev3factory.shinbiApart,GETCHAGHOSTハンテッドハウス,410,KR,2019-08-25
-com.kt.ollehfamilybox,KT패밀리박스,411,KR,2019-08-25
-com.moall.basket,그녀의살림창고,412,KR,2019-08-25
-com.kakao.talk.theme.ryan,Ryan-KakaoTalkTheme,413,KR,2019-08-25
-com.emart.today,이마트-매장에서즐기는스마트한혜택,414,KR,2019-08-25
-com.enabledaonsoft.thecamp,THECAMP대국민국군소통서비스,415,KR,2019-08-25
-kr.co.dreamshopping.mcapp,신세계TV쇼핑–신규가입고객추가혜택!,416,KR,2019-08-25
-kr.co.cleaninglab.user,"청소연구소-가사도우미,청소,청소도우미",417,KR,2019-08-25
-com.droidhang.ad,アイデル・ヒーローズ～IdleHeroes～,418,KR,2019-08-25
-com.lguplus.paynow,페이나우(간편결제)-쇼핑할때할인,419,KR,2019-08-25
-com.os.airforce,1945AirForces,420,KR,2019-08-25
-com.brandicorp.brandi3,브랜디-하나사도무/료/배/송,421,KR,2019-08-25
-com.bisoft.live.weather,天気今日-天気予報Apps2019,422,KR,2019-08-25
-com.lemonsquad.simulatorbs,BoxsimulatorforBrawlstars,423,KR,2019-08-25
-sk.com.shopping,"SK스토아(SK가만든TV쇼핑,SKstoa)",424,KR,2019-08-25
-com.ssg.serviceapp.android.egiftcertificate,SSGPAY-혜택위의혜택,425,KR,2019-08-25
-com.outfit7.mytalkingtom2,マイ・トーキング・トム2,426,KR,2019-08-25
-com.mrt.ducati,마이리얼트립,427,KR,2019-08-25
-com.wooribank.smart.mwib,우리은행위비뱅크,428,KR,2019-08-25
-com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キャプチャ・編集無料アプリ(モビゼン),429,KR,2019-08-25
-com.game.space.shooter2,スペースシューター:レトロシューティングゲーム,430,KR,2019-08-25
-com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),431,KR,2019-08-25
-com.monawa.monster,천요괴-판타지MMORPG,432,KR,2019-08-25
-com.popcore.wreckingball,WreckingBall,433,KR,2019-08-25
-com.kftc.bankpay.android,"뱅크페이-금융기관공동계좌이체결제,제로페이",434,KR,2019-08-25
-com.socialapps.homeplus,홈플러스,435,KR,2019-08-25
-com.ssm.asiana,アシアナ航空,436,KR,2019-08-25
-com.playgendary.tom,TomboftheMask,437,KR,2019-08-25
-com.devsisters.gb,クッキーラン:オーブンブレイク,438,KR,2019-08-25
-com.future.me.palmreader,FutureMeFaceApp-フェイスアプリエージング、パームスキャナ、フェイススワップ,439,KR,2019-08-25
-com.com2us.ninepb3d.normal.freefull.google.global.android.common,MLB：9イニングス19,440,KR,2019-08-25
-com.herman.ringtone,着メロメーカー-mp3音楽付きの無料着メロを作成する,441,KR,2019-08-25
-kr.co.kfcc.mobilebank,MG상상뱅크,442,KR,2019-08-25
-com.skt.aladdin,"누구-NUGU,세상을깨우는AI",443,KR,2019-08-25
-com.parksmt.jejuair.android16,チェジュ航空,444,KR,2019-08-25
-com.candlencom.candleprotest,가장밝은손전등LED플래쉬갤럭시,445,KR,2019-08-25
-com.google.android.apps.kids.familylink,保護者向けGoogleファミリーリンク,446,KR,2019-08-25
-net.daum.android.webtoon,다음웹툰-DAUMWEBTOON,447,KR,2019-08-25
-kr.co.lylstudio.httpsguard,UnicornHTTPS:BypassingSNI-basedHTTPSFiltering,448,KR,2019-08-25
-com.gain.verse,송가인노래모음-무료베스트트로트인기곡노래듣기,449,KR,2019-08-25
-pedometer.steptracker.calorieburner.stepcounter,無料の歩数計-ステップカウンター＆カロリー計算,450,KR,2019-08-25
-com.differencetenderwhite.skirt,ブロックパズルジュエル,451,KR,2019-08-25
-com.playgendary.sportmasters,Bouncemasters!,452,KR,2019-08-25
-com.camerasideas.trimmer,YouCut-動画編集＆動画作成,453,KR,2019-08-25
-com.naver.naveraudio,AudioClip-Listeningtostories&audiobooks,454,KR,2019-08-25
-com.isharing.isharing,"iシェアリング位置情報-GPS携帯電話追跡アプリ&友だちを探す,子供の見守り",455,KR,2019-08-25
-com.snapchat.android,Snapchat,456,KR,2019-08-25
-com.bgfcu.membership,포켓CU,457,KR,2019-08-25
-com.google.android.calculator,電卓,458,KR,2019-08-25
-com.realbyteapps.moneymanagerfree,らくな家計簿,459,KR,2019-08-25
-com.skt.prod.dialer,"T전화-스팸차단,녹음,콜라영상통화,전화번호검색,로밍,baro(바로)",460,KR,2019-08-25
-com.eyu.piano,DreamPiano-MusicGame,461,KR,2019-08-25
-com.sec.android.app.sbrowser,SamsungInternetBrowser,462,KR,2019-08-25
-com.kakao.wheel,카카오T대리-대리운전,463,KR,2019-08-25
-com.wafour.wapiceng,自動暗記英語辞書-英語TOEIC英単語英和辞典TOEFL,464,KR,2019-08-25
-com.whatsapp,WhatsAppMessenger,465,KR,2019-08-25
+com.snapchat.android,Snapchat,326,KR,2019-08-25
+com.nike.plusgps,NikeRunClub,327,KR,2019-08-25
+com.lottemembers.android,"L.POINT-엘포인트[포인트,멤버십,적립,사용,모바일카드,쿠폰,롯데]",328,KR,2019-08-25
+com.Simul.amazingfr,AmazingPGFrogSimulator,329,KR,2019-08-25
+com.ebcard.bustago,[공식]전국시외버스승차권통합예매(버스타고),330,KR,2019-08-25
+com.playstrom.onpipe,OnPipe,331,KR,2019-08-25
+com.ketchapp.rider,Rider,332,KR,2019-08-25
+com.battle.disc,BattleDisc,333,KR,2019-08-25
+com.hmusic.memory7080,7080추억노래-7080명곡모음,334,KR,2019-08-25
+kr.co.richnco.goodrich,굿리치–보험의바른이치,335,KR,2019-08-25
+com.igenesoft.hide,隠れん坊オンライン,336,KR,2019-08-25
+com.NHNEnt.NDuelgo,한게임신맞고:김준현이선택한원조고스톱,337,KR,2019-08-25
+com.wooribank.smart.wwms,위비멤버스,338,KR,2019-08-25
+com.darinsoft.vimo,VLLO(ブロ/a.k.a.Vimo)-動画編集＆動画作成＆動画加工,339,KR,2019-08-25
+net.nshc.droidx3web,Droid-XIIIWeb백신(기업용),340,KR,2019-08-25
+com.xmobile.wowradio,韓国のラジオ-KPOPRadio,341,KR,2019-08-25
+com.samsung.android.spay,SamsungPay,342,KR,2019-08-25
+Kal.FlightInfo,KoreanAir,343,KR,2019-08-25
+kr.co.burgerkinghybrid,(공식)버거킹BURGERKING®KOREA,344,KR,2019-08-25
+com.epc.tfsgzhw,삼국지디펜스M,345,KR,2019-08-25
+com.cultureland.ver2,컬쳐랜드[문화상품권],346,KR,2019-08-25
+com.cmplay.tiles2,ピアノタイル2™,347,KR,2019-08-25
+com.elz.secondhandstore,"중고나라-2,100만회원국내최대중고장터",348,KR,2019-08-25
+kr.co.vcnc.tada,"타다(TADA)-바로가다,이동의기본",349,KR,2019-08-25
+com.hotelscombined.mobile,ホテルズコンバインド-お得な宿泊プランを一括検索・比較,350,KR,2019-08-25
+com.chameleonsong.youtubekoreasong.song7080,7080가요모음-7080노래무료듣기,351,KR,2019-08-25
+com.ubikey,휴대폰인증서서비스(유비키_UBIKey),352,KR,2019-08-25
+com.tq.master,TestMaster-顔の老化スキャナー、成長、手のひら,353,KR,2019-08-25
+com.whatsapp,WhatsAppMessenger,354,KR,2019-08-25
+com.cloudmosa.puffinFree,PuffinWebBrowser,355,KR,2019-08-25
+com.mn.daemyungresort,대명리조트,356,KR,2019-08-25
+com.supersolid.penguin,SuperPenguins,357,KR,2019-08-25
+com.turbochilli.rollingsky,ローリング・スカイ,358,KR,2019-08-25
+com.camelgames.aoz,AgeofZ,359,KR,2019-08-25
+com.airbnb.android,Airbnb(エアビーアンドビー)世界の空部屋シェアサイト,360,KR,2019-08-25
+com.mo.kosaf,한국장학재단,361,KR,2019-08-25
+fast.phone.clean,クリーナー-電話クリーン＆ブースター＆パワークリーン,362,KR,2019-08-25
+com.nordvpn.android,NordVPN,363,KR,2019-08-25
+kr.or.nhis.myhealthbank,건강iN(건강인),364,KR,2019-08-25
+com.kakao.beauty.hairshop,카카오헤어샵KakaoHairshop,365,KR,2019-08-25
+com.kwalee.drawit,Drawit,366,KR,2019-08-25
+com.ediya.coupon,이디야멤버스,367,KR,2019-08-25
+com.cs.android.SlifeCustomer,삼성생명모바일창구,368,KR,2019-08-25
+com.cocoplay.fashion.style,スーパースタイリスト-ファッションリーダーをドレスアップ&スタイリング,369,KR,2019-08-25
+com.wr.alrim,우리은행원터치알림,370,KR,2019-08-25
+com.twoheart.dailyhotel,DAILYHOTEL-Thebesthoteldeals,371,KR,2019-08-25
+com.viouk.free.gamecrft.big.opp,Worldkrafts,372,KR,2019-08-25
+com.dragonest.autochess.google,AutoChess,373,KR,2019-08-25
+com.wzxx4399kr.google,파천:신이되는자,374,KR,2019-08-25
+com.munets.android.bell365season2,bell365,375,KR,2019-08-25
+com.encar.encarMobileApp,"중고차No.1플랫폼SK엔카-중고차구매,중고차판매,SK엔카직영몰엔카닷컴",376,KR,2019-08-25
+com.translate.talkingtranslator,말하는번역기-초간편통역,377,KR,2019-08-25
+com.homeplus.myhomeplus,마이홈플러스,378,KR,2019-08-25
+com.nh.mobilenoti,NH스마트알림,379,KR,2019-08-25
+app.melon.icompass,コンパス,380,KR,2019-08-25
+kr.or.kftc.mobileapt2you,APT2you,381,KR,2019-08-25
+com.zplay.willhero,ウィルヒーロー,382,KR,2019-08-25
+com.musinsa.store,셀렉트숍무신사-SELECTSHOPMUSINSA,383,KR,2019-08-25
+paint.by.number.pixel.art.coloring.drawing.puzzle,数字で塗り絵-無料塗り絵ブック＆ペイントゲーム＆リラックスゲーム,384,KR,2019-08-25
+com.nhn.android.nbooks,SERIES,385,KR,2019-08-25
+com.hanaskcard.paycla,하나1Q페이(앱카드),386,KR,2019-08-25
+com.tensquaregames.letsfish2,釣りクラッシュ:スポーツ釣りゲーム(FishingClash),387,KR,2019-08-25
+com.apig.changer.kr.aos,체인져:수호자,388,KR,2019-08-25
+com.nhn.android.calendar,Naverカレンダー,389,KR,2019-08-25
+net.kernys.aooni,좀비고등학교,390,KR,2019-08-25
+com.GF.mdkrkr.hwyad.google,요괴미식가:Cook&Life,391,KR,2019-08-25
+com.shinhan.smartcaremgr,SOL알리미,392,KR,2019-08-25
+app.intra,Intra,393,KR,2019-08-25
+com.lguplus.ucare,U+휴대폰분실파손보험,394,KR,2019-08-25
+com.clean_antivirus.security.master.booster,Security&Antivirus,395,KR,2019-08-25
+com.shinhan.stax,서울시세금납부-서울시STAX,396,KR,2019-08-25
+finance.chai.app,차이-결제마다할인받는간편결제,397,KR,2019-08-25
+com.lgeha.nuts,LGSmartThinQ,398,KR,2019-08-25
+com.buzzni.android.subapp.shoppingmoa,"홈쇼핑모아-TV홈쇼핑편성표,생방송알림,검색,홈쇼핑방송",399,KR,2019-08-25
+com.smg.spbs,새마을금고스마트뱅킹,400,KR,2019-08-25
+com.dmg.packmaster,PackMaster,401,KR,2019-08-25
+com.gpp.idleaquapark,IdleAquaPark,402,KR,2019-08-25
+kr.bitbyte.playkeyboard,"プレイキーボード-日本語入力,キーボード飾り,顔文字,特殊文字",403,KR,2019-08-25
+com.nexon.fo4m,FIFAONLINE4MbyEASPORTS™,404,KR,2019-08-25
+go.kics.app,형사사법포털,405,KR,2019-08-25
+com.kakao.cheez,カカオトークチーズ,406,KR,2019-08-25
+com.nianticlabs.pokemongo,PokémonGO,407,KR,2019-08-25
+com.kakao.playball,KakaoTVLive-카카오TV라이브,408,KR,2019-08-25
+com.digidust.elokence.akinator.freemium,Akinator,409,KR,2019-08-25
+com.oliveyoung,올리브영,410,KR,2019-08-25
+photoeditor.layout.collagemaker,コラージュメーカー:画像加工&写真編集者,411,KR,2019-08-25
+com.dev3factory.shinbiApart,GETCHAGHOSTハンテッドハウス,412,KR,2019-08-25
+com.kt.ollehfamilybox,KT패밀리박스,413,KR,2019-08-25
+com.moall.basket,그녀의살림창고,414,KR,2019-08-25
+com.kakao.talk.theme.ryan,Ryan-KakaoTalkTheme,415,KR,2019-08-25
+com.emart.today,이마트-매장에서즐기는스마트한혜택,416,KR,2019-08-25
+com.enabledaonsoft.thecamp,THECAMP대국민국군소통서비스,417,KR,2019-08-25
+kr.co.dreamshopping.mcapp,신세계TV쇼핑–신규가입고객추가혜택!,418,KR,2019-08-25
+kr.co.cleaninglab.user,"청소연구소-가사도우미,청소,청소도우미",419,KR,2019-08-25
+com.droidhang.ad,アイデル・ヒーローズ～IdleHeroes～,420,KR,2019-08-25
+com.lguplus.paynow,페이나우(간편결제)-쇼핑할때할인,421,KR,2019-08-25
+com.os.airforce,1945AirForces,422,KR,2019-08-25
+com.brandicorp.brandi3,브랜디-하나사도무/료/배/송,423,KR,2019-08-25
+com.bisoft.live.weather,天気今日-天気予報Apps2019,424,KR,2019-08-25
+com.lemonsquad.simulatorbs,BoxsimulatorforBrawlstars,425,KR,2019-08-25
+sk.com.shopping,"SK스토아(SK가만든TV쇼핑,SKstoa)",426,KR,2019-08-25
+com.ssg.serviceapp.android.egiftcertificate,SSGPAY-혜택위의혜택,427,KR,2019-08-25
+com.outfit7.mytalkingtom2,マイ・トーキング・トム2,428,KR,2019-08-25
+com.mrt.ducati,마이리얼트립,429,KR,2019-08-25
+com.wooribank.smart.mwib,우리은행위비뱅크,430,KR,2019-08-25
+com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キャプチャ・編集無料アプリ(モビゼン),431,KR,2019-08-25
+com.game.space.shooter2,スペースシューター:レトロシューティングゲーム,432,KR,2019-08-25
+com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),433,KR,2019-08-25
+com.monawa.monster,천요괴-판타지MMORPG,434,KR,2019-08-25
+com.popcore.wreckingball,WreckingBall,435,KR,2019-08-25
+com.kftc.bankpay.android,"뱅크페이-금융기관공동계좌이체결제,제로페이",436,KR,2019-08-25
+com.socialapps.homeplus,홈플러스,437,KR,2019-08-25
+com.ssm.asiana,アシアナ航空,438,KR,2019-08-25
+com.playgendary.tom,TomboftheMask,439,KR,2019-08-25
+com.devsisters.gb,クッキーラン:オーブンブレイク,440,KR,2019-08-25
+com.future.me.palmreader,FutureMeFaceApp-フェイスアプリエージング、パームスキャナ、フェイススワップ,441,KR,2019-08-25
+com.com2us.ninepb3d.normal.freefull.google.global.android.common,MLB：9イニングス19,442,KR,2019-08-25
+com.herman.ringtone,着メロメーカー-mp3音楽付きの無料着メロを作成する,443,KR,2019-08-25
+kr.co.kfcc.mobilebank,MG상상뱅크,444,KR,2019-08-25
+com.skt.aladdin,"누구-NUGU,세상을깨우는AI",445,KR,2019-08-25
+com.parksmt.jejuair.android16,チェジュ航空,446,KR,2019-08-25
+com.candlencom.candleprotest,가장밝은손전등LED플래쉬갤럭시,447,KR,2019-08-25
+com.google.android.apps.kids.familylink,保護者向けGoogleファミリーリンク,448,KR,2019-08-25
+net.daum.android.webtoon,다음웹툰-DAUMWEBTOON,449,KR,2019-08-25
+kr.co.lylstudio.httpsguard,UnicornHTTPS:BypassingSNI-basedHTTPSFiltering,450,KR,2019-08-25
+com.gain.verse,송가인노래모음-무료베스트트로트인기곡노래듣기,451,KR,2019-08-25
+pedometer.steptracker.calorieburner.stepcounter,無料の歩数計-ステップカウンター＆カロリー計算,452,KR,2019-08-25
+com.differencetenderwhite.skirt,ブロックパズルジュエル,453,KR,2019-08-25
+com.playgendary.sportmasters,Bouncemasters!,454,KR,2019-08-25
+com.camerasideas.trimmer,YouCut-動画編集＆動画作成,455,KR,2019-08-25
+com.naver.naveraudio,AudioClip-Listeningtostories&audiobooks,456,KR,2019-08-25
+com.isharing.isharing,"iシェアリング位置情報-GPS携帯電話追跡アプリ&友だちを探す,子供の見守り",457,KR,2019-08-25
+com.bgfcu.membership,포켓CU,458,KR,2019-08-25
+com.google.android.calculator,電卓,459,KR,2019-08-25
+com.realbyteapps.moneymanagerfree,らくな家計簿,460,KR,2019-08-25
+com.skt.prod.dialer,"T전화-스팸차단,녹음,콜라영상통화,전화번호검색,로밍,baro(바로)",461,KR,2019-08-25
+com.eyu.piano,DreamPiano-MusicGame,462,KR,2019-08-25
+com.sec.android.app.sbrowser,SamsungInternetBrowser,463,KR,2019-08-25
+com.kakao.wheel,카카오T대리-대리운전,464,KR,2019-08-25
+com.wafour.wapiceng,自動暗記英語辞書-英語TOEIC英単語英和辞典TOEFL,465,KR,2019-08-25
 com.nate.android.portalmini,네이트(NATE),466,KR,2019-08-25
 com.tuck.hellomarket,헬로마켓-중고거래안전하게하는개인들의중고장터,467,KR,2019-08-25
 jp.ne.ibis.ibispaintx.app,アイビスペイントX,468,KR,2019-08-25
