@@ -2,16 +2,16 @@ app_id,app_name,rank,country_code,date
 com.whatsapp,WhatsAppMessenger,1,VE,2019-08-27
 com.facebook.lite,FacebookLite,2,VE,2019-08-27
 com.instagram.android,Instagram,3,VE,2019-08-27
-com.facebook.mlite,MessengerLite:無料通話とメッセージ,4,VE,2019-08-27
-com.facebook.orca,Messenger,5,VE,2019-08-27
-com.app.statussaverforwhatsapp,StatusSaverForWhatsapp,6,VE,2019-08-27
-com.snapchat.android,Snapchat,7,VE,2019-08-27
-pagomovil.bdv.sms,PagoMóvilVenezuela-SMS,8,VE,2019-08-27
-com.dinerorapido.bancamovil,BBVAProvincialDineroRápido,9,VE,2019-08-27
-jmtsolutiontechnologyca.ve.vepatria,vePatria,10,VE,2019-08-27
-com.google.ar.core,GooglePlay開発者サービス(AR),11,VE,2019-08-27
-com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,12,VE,2019-08-27
-com.mercantilbanco.mercantilmovil,MercantilBanco,13,VE,2019-08-27
+com.facebook.orca,Messenger,4,VE,2019-08-27
+com.app.statussaverforwhatsapp,StatusSaverForWhatsapp,5,VE,2019-08-27
+pagomovil.bdv.sms,PagoMóvilVenezuela-SMS,6,VE,2019-08-27
+com.facebook.mlite,MessengerLite:無料通話とメッセージ,7,VE,2019-08-27
+com.dinerorapido.bancamovil,BBVAProvincialDineroRápido,8,VE,2019-08-27
+jmtsolutiontechnologyca.ve.vepatria,vePatria,9,VE,2019-08-27
+com.google.ar.core,GooglePlay開発者サービス(AR),10,VE,2019-08-27
+com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,11,VE,2019-08-27
+com.mercantilbanco.mercantilmovil,MercantilBanco,12,VE,2019-08-27
+com.snapchat.android,Snapchat,13,VE,2019-08-27
 com.banesco.samfmobileonline.pagomovil,BanescoPagoMóvil,14,VE,2019-08-27
 com.synergygb.mercantil.Tpago,Tpago,15,VE,2019-08-27
 com.prosun.beauty.selfie.camera,SunProBeautyCamera,16,VE,2019-08-27
@@ -21,10 +21,10 @@ com.unidigital.bicentenario.p2p,TuPagoMovilBancoBicentenario,19,VE,2019-08-27
 com.kiloo.subwaysurf,SubwaySurfers,20,VE,2019-08-27
 com.totaltexto.bancamovil,BBVAProvinetMóvil,21,VE,2019-08-27
 com.slippy.linerusher,FunRace3D,22,VE,2019-08-27
-org.telegram.messenger,Telegram,23,VE,2019-08-27
-com.king.candycrushsaga,キャンディークラッシュ,24,VE,2019-08-27
-com.netflix.mediaclient,Netflix,25,VE,2019-08-27
-me.pou.app,プーチッチPou,26,VE,2019-08-27
+com.king.candycrushsaga,キャンディークラッシュ,23,VE,2019-08-27
+org.telegram.messenger,Telegram,24,VE,2019-08-27
+me.pou.app,プーチッチPou,25,VE,2019-08-27
+com.netflix.mediaclient,Netflix,26,VE,2019-08-27
 com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",27,VE,2019-08-27
 video.like,Likee（旧称：LIKEVideo）,28,VE,2019-08-27
 com.google.android.apps.youtube.mango,YouTubeGo,29,VE,2019-08-27
@@ -33,71 +33,71 @@ com.dts.freefireth,GarenaFreeFire,31,VE,2019-08-27
 free.os.jump.superbros.adventure.world,Bob'sWorld-スーパーアドベンチャー,32,VE,2019-08-27
 com.hyperspeed.rocket.applock.free,AppLock-アプリロック，PINコード&パターンロック,33,VE,2019-08-27
 com.mercadolibre,MercadoLibre:Encuentratusmarcasfavoritas,34,VE,2019-08-27
-com.google.android.play.games,GooglePlayゲーム,35,VE,2019-08-27
-com.krafts.building,MasterCraft-NewCraftinggame,36,VE,2019-08-27
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,37,VE,2019-08-27
-com.agminstruments.drumpadmachine,DrumPadMachine-ビートメーカー,38,VE,2019-08-27
-com.outfit7.mytalkingtom2,マイ・トーキング・トム2,39,VE,2019-08-27
-com.roidapp.photogrid,PhotoGrid-写真加工・コラージュ、ビューティーカメラ、画像・動画スタンプ,40,VE,2019-08-27
+com.krafts.building,MasterCraft-NewCraftinggame,35,VE,2019-08-27
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,36,VE,2019-08-27
+com.agminstruments.drumpadmachine,DrumPadMachine-ビートメーカー,37,VE,2019-08-27
+com.outfit7.mytalkingtom2,マイ・トーキング・トム2,38,VE,2019-08-27
+com.roidapp.photogrid,PhotoGrid-写真加工・コラージュ、ビューティーカメラ、画像・動画スタンプ,39,VE,2019-08-27
+com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,40,VE,2019-08-27
 com.phoenix3k.catpay.bod,PagoExpressBOD,41,VE,2019-08-27
 com.pinterest,Pinterest（ピンタレスト）,42,VE,2019-08-27
 com.robtopx.geometryjumplite,ジオメトリーダッシュ(GeometryDashLite),43,VE,2019-08-27
 net.comsolje.pagomovilsms,PagoMóvilSMS,44,VE,2019-08-27
-spanish.stickers.wastickerapps,MemesconFrasesStickersenEspañolparaWhatsApp,45,VE,2019-08-27
-com.picsart.studio,PicsArtPhotoEditor:コラージュメーカー&画像加工,46,VE,2019-08-27
-com.fungames.sniper3d,スナイパー3Dアサシン：無料射撃ゲーム,47,VE,2019-08-27
-com.bod.movil.bancadigital,BancaDigitalBOD,48,VE,2019-08-27
-com.king.candycrushsodasaga,キャンディークラッシュソーダ,49,VE,2019-08-27
-com.google.android.apps.nbu.files,FilesbyGoogle:スマートフォンの容量を確保,50,VE,2019-08-27
-io.faceapp,FaceApp,51,VE,2019-08-27
-com.skgames.trafficrider,TrafficRider,52,VE,2019-08-27
-com.twitter.android,Twitter,53,VE,2019-08-27
-com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,54,VE,2019-08-27
-bancaribe.mipago,MiPagoBancaribe,55,VE,2019-08-27
-com.marsvard.stickermakerforwhatsapp,Stickermaker,56,VE,2019-08-27
-com.colorup.game,ColorBump3D,57,VE,2019-08-27
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),58,VE,2019-08-27
-com.duolingo,Duolingo|英語を無料で学ぼう,59,VE,2019-08-27
-com.area120.studybuddy.sagaflutter,Rivet:BetterReadingPracticeForKids,60,VE,2019-08-27
-jmtsolutiontechnologyca.ve.vemonedero,veMonedero,61,VE,2019-08-27
-com.popcore.makesandwich,Sandwich!,62,VE,2019-08-27
-com.freedompop.ott,TextFree&CallFree,63,VE,2019-08-27
-com.banesco.banescomovil.tcmbve.android,BanescoVE,64,VE,2019-08-27
-com.whatsapp.w4b,WhatsAppBusiness,65,VE,2019-08-27
-com.zhiliaoapp.musically,TikTok,66,VE,2019-08-27
-com.anaconda.video.downloader,Descargarvideosymúsicagratis,67,VE,2019-08-27
-com.instabridge.android,FreeWiFiPasswordsandHotspotsbyInstabridge,68,VE,2019-08-27
-com.viouk.free.gamecrft.big.opp,Worldkrafts,69,VE,2019-08-27
-com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,70,VE,2019-08-27
-com.ufotosoft.justshot,"SweetSnap-自分撮りカメラ&かわいいかしゃしんステッカー,ビューティーエディタ",71,VE,2019-08-27
-com.nintendo.zara,SuperMarioRun,72,VE,2019-08-27
-com.harmonybit.coolball,CoolGoal!,73,VE,2019-08-27
-com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,74,VE,2019-08-27
-com.dywx.larkplayer,LarkPlayer——YouTubeMusic&FreeMP3TopPlayer,75,VE,2019-08-27
-phone.cleaner.speed.booster.cache.clean.android.master,"PhoneCleaner-CacheClean,AndroidBoosterMaster",76,VE,2019-08-27
-com.wordmobile.prisonstorm,エスケープ-PrisonEscape,77,VE,2019-08-27
-hd.video.downloader.app.hdvideodownloaderapp,HDビデオダウンローダーアプリ-2019,78,VE,2019-08-27
-com.funcamerastudio.videomaker,VideoMaker—音楽＆動画エディター付きの写真の動画メーカー,79,VE,2019-08-27
-com.hyperspeed.rocketclean.pro,電話クリーナー：ウィルス対策、アプリロック|HyperSpeed,80,VE,2019-08-27
-com.dstukalov.walocalstoragestickers,PersonalstickersforWhatsApp,81,VE,2019-08-27
-com.lionstudios.mrbullet,MrBullet-SpyPuzzles,82,VE,2019-08-27
-com.playgendary.tom,TomboftheMask,83,VE,2019-08-27
-com.junkremoval.pro,メモリクリーナー。スピードブースター＆ジャンク除去,84,VE,2019-08-27
-us.kr.baseballnine,プロ野球ナイン,85,VE,2019-08-27
-com.rovio.angrybirdsrio,AngryBirdsRio,86,VE,2019-08-27
-pmcoder.com.savewhatsappstatus,GuardarEstadosdeWhats,87,VE,2019-08-27
-com.youmusic.magictiles,魔法のタイルズ3:ピアノ曲&ゲーム,88,VE,2019-08-27
-com.LoopGames.Domino,ドミノ,89,VE,2019-08-27
-com.health.drink.water.reminder.tracker,水分補給リマインダー-水トラッカー＆アラーム,90,VE,2019-08-27
-com.google.android.youtube,YouTube,91,VE,2019-08-27
-com.leasoft.ssmp3,無料音楽ダウンロード-StraussMP3+,92,VE,2019-08-27
-com.mgc.runnergame,RunRace3D-3D競走,93,VE,2019-08-27
-com.catbag.whatsappvideosdownload,VideosEngraçadospraWhatsApp,94,VE,2019-08-27
-cn.xender,Xender–ファイル転送と共有,95,VE,2019-08-27
-com.tencent.iglite,PUBGMOBILELITE,96,VE,2019-08-27
-com.izin.downloadvideoinstagram,ビデオのダウンローダ-Instagramのためのビデオをダウンロード,97,VE,2019-08-27
-org.mozilla.firefox,Firefoxブラウザー高速&プライベート,98,VE,2019-08-27
-com.outfit7.herodash,トーキング・トムのヒーロー・ダッシュ,99,VE,2019-08-27
+com.king.candycrushsodasaga,キャンディークラッシュソーダ,45,VE,2019-08-27
+com.bod.movil.bancadigital,BancaDigitalBOD,46,VE,2019-08-27
+spanish.stickers.wastickerapps,MemesconFrasesStickersenEspañolparaWhatsApp,47,VE,2019-08-27
+com.picsart.studio,PicsArtPhotoEditor:コラージュメーカー&画像加工,48,VE,2019-08-27
+com.marsvard.stickermakerforwhatsapp,Stickermaker,49,VE,2019-08-27
+com.area120.studybuddy.sagaflutter,Rivet:BetterReadingPracticeForKids,50,VE,2019-08-27
+com.google.android.apps.nbu.files,FilesbyGoogle:スマートフォンの容量を確保,51,VE,2019-08-27
+io.faceapp,FaceApp,52,VE,2019-08-27
+com.google.android.play.games,GooglePlayゲーム,53,VE,2019-08-27
+com.skgames.trafficrider,TrafficRider,54,VE,2019-08-27
+com.twitter.android,Twitter,55,VE,2019-08-27
+com.ea.game.pvzfree_row,Plantsvs.ZombiesFREE,56,VE,2019-08-27
+bancaribe.mipago,MiPagoBancaribe,57,VE,2019-08-27
+com.colorup.game,ColorBump3D,58,VE,2019-08-27
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),59,VE,2019-08-27
+com.duolingo,Duolingo|英語を無料で学ぼう,60,VE,2019-08-27
+com.popcore.makesandwich,Sandwich!,61,VE,2019-08-27
+com.freedompop.ott,TextFree&CallFree,62,VE,2019-08-27
+com.banesco.banescomovil.tcmbve.android,BanescoVE,63,VE,2019-08-27
+com.pinterest,Pinterest（ピンタレスト）,64,VE,2019-08-27
+com.zhiliaoapp.musically,TikTok,65,VE,2019-08-27
+com.anaconda.video.downloader,Descargarvideosymúsicagratis,66,VE,2019-08-27
+com.instabridge.android,FreeWiFiPasswordsandHotspotsbyInstabridge,67,VE,2019-08-27
+com.viouk.free.gamecrft.big.opp,Worldkrafts,68,VE,2019-08-27
+com.combineinc.streetracing.driftthreeD,ストリートレーシング3D,69,VE,2019-08-27
+com.ufotosoft.justshot,"SweetSnap-自分撮りカメラ&かわいいかしゃしんステッカー,ビューティーエディタ",70,VE,2019-08-27
+com.nintendo.zara,SuperMarioRun,71,VE,2019-08-27
+com.harmonybit.coolball,CoolGoal!,72,VE,2019-08-27
+com.camerasideas.instashot,InShot-動画編集＆動画作成＆動画加工,73,VE,2019-08-27
+com.dywx.larkplayer,LarkPlayer——YouTubeMusic&FreeMP3TopPlayer,74,VE,2019-08-27
+phone.cleaner.speed.booster.cache.clean.android.master,"PhoneCleaner-CacheClean,AndroidBoosterMaster",75,VE,2019-08-27
+com.wordmobile.prisonstorm,エスケープ-PrisonEscape,76,VE,2019-08-27
+hd.video.downloader.app.hdvideodownloaderapp,HDビデオダウンローダーアプリ-2019,77,VE,2019-08-27
+com.funcamerastudio.videomaker,VideoMaker—音楽＆動画エディター付きの写真の動画メーカー,78,VE,2019-08-27
+com.hyperspeed.rocketclean.pro,電話クリーナー：ウィルス対策、アプリロック|HyperSpeed,79,VE,2019-08-27
+com.dstukalov.walocalstoragestickers,PersonalstickersforWhatsApp,80,VE,2019-08-27
+com.lionstudios.mrbullet,MrBullet-SpyPuzzles,81,VE,2019-08-27
+com.playgendary.tom,TomboftheMask,82,VE,2019-08-27
+com.junkremoval.pro,メモリクリーナー。スピードブースター＆ジャンク除去,83,VE,2019-08-27
+us.kr.baseballnine,プロ野球ナイン,84,VE,2019-08-27
+com.rovio.angrybirdsrio,AngryBirdsRio,85,VE,2019-08-27
+pmcoder.com.savewhatsappstatus,GuardarEstadosdeWhats,86,VE,2019-08-27
+com.youmusic.magictiles,魔法のタイルズ3:ピアノ曲&ゲーム,87,VE,2019-08-27
+com.LoopGames.Domino,ドミノ,88,VE,2019-08-27
+com.health.drink.water.reminder.tracker,水分補給リマインダー-水トラッカー＆アラーム,89,VE,2019-08-27
+com.google.android.youtube,YouTube,90,VE,2019-08-27
+com.leasoft.ssmp3,無料音楽ダウンロード-StraussMP3+,91,VE,2019-08-27
+com.mgc.runnergame,RunRace3D-3D競走,92,VE,2019-08-27
+com.catbag.whatsappvideosdownload,VideosEngraçadospraWhatsApp,93,VE,2019-08-27
+cn.xender,Xender–ファイル転送と共有,94,VE,2019-08-27
+com.tencent.iglite,PUBGMOBILELITE,95,VE,2019-08-27
+com.izin.downloadvideoinstagram,ビデオのダウンローダ-Instagramのためのビデオをダウンロード,96,VE,2019-08-27
+org.mozilla.firefox,Firefoxブラウザー高速&プライベート,97,VE,2019-08-27
+com.outfit7.herodash,トーキング・トムのヒーロー・ダッシュ,98,VE,2019-08-27
+com.whatsapp.w4b,WhatsAppBusiness,99,VE,2019-08-27
 com.bigstarkids.wordtravelspanish,CiudaddePalabras:PalabrasConectadas,100,VE,2019-08-27
 com.lomotif.android,ローモーティフ(Lomotif)-ミュージックビデオ編集,101,VE,2019-08-27
 at.ner.lepsWorld2,Lep'sWorld2🍀🍀,102,VE,2019-08-27
@@ -134,54 +134,54 @@ at.nerbrothers.SuperJump,Lep'sWorld🍀,132,VE,2019-08-27
 com.moonfrog.ludo.club,LudoClub-FunDiceGame,133,VE,2019-08-27
 com.andregal.android.poolbilliard,Billiardfree,134,VE,2019-08-27
 com.eyu.piano,DreamPiano-MusicGame,135,VE,2019-08-27
-com.sirma.mobile.bible.android,聖書-音読聖書-全て無料,136,VE,2019-08-27
-de.lotum.whatsinthefoto.es,4Fotos1Palabra,137,VE,2019-08-27
-com.deisyapps.comobajarmusicagratisamicelularguiatutorial,BajarMúsicaGratisAMiCelularMP3GuidesFácil,138,VE,2019-08-27
-com.king.farmheroessaga,ファームヒーロー,139,VE,2019-08-27
-com.playrix.homescapes,ホームスケイプ(Homescapes),140,VE,2019-08-27
-video.downloader.videodownloader,無料動画ダウンロード,141,VE,2019-08-27
-com.puzzlegamesclassic.tetris.blockpuzzle,BlockPuzzle,142,VE,2019-08-27
-com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,143,VE,2019-08-27
-com.rovio.baba,アングリーバード2(AngryBirds2),144,VE,2019-08-27
-com.cleanmaster.mguard,CleanMasterーメモリクリーナー、キャッシュクリーナー＆ウイルス対策,145,VE,2019-08-27
-com.canva.editor,Canva-ポスター、チラシ、フライヤー、名刺やお礼状を簡単に作成できるグラフィックデザインアプリ,146,VE,2019-08-27
-com.google.android.apps.photos,Googleフォト,147,VE,2019-08-27
-com.health.lab.drink.water.tracker,水を飲むリマインダー,148,VE,2019-08-27
-com.lyrebirdstudio.montagenscolagem,"写真編集者-画像加工,写真編集&コラージュアプリ&フォトエディタコラージュメーカー",149,VE,2019-08-27
-com.ludashi.dualspace,DualSpace-MultipleAccounts&AppCloner,150,VE,2019-08-27
-com.bestringtonesapps.freeringtonesforandroid,無料着信音Android™,151,VE,2019-08-27
-com.storm8.propertybrothers,プロパティブラザーズホームデザイン,152,VE,2019-08-27
-com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,153,VE,2019-08-27
-net.apex_designs.payback2,Payback2-TheBattleSandbox,154,VE,2019-08-27
-com.minicraft.pocketedition2019,Megacraft-PocketEdition,155,VE,2019-08-27
-com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,156,VE,2019-08-27
-photo.editor.photoeditor.photoeditorpro,画像加工-写真編集、コラージュメーカー,157,VE,2019-08-27
-com.daily.lucky.plus,DailyLuckyPlus,158,VE,2019-08-27
-com.ea.gp.fifamobile,FIFAサッカー,159,VE,2019-08-27
-raigon.musicpool,無料の曲をダウンロードする,160,VE,2019-08-27
-com.yOljfj65rfd.Uzyhglk1z,DESCARGARMÚSICAGRATIS🔥AUDIOZAFICEY🔥,161,VE,2019-08-27
-com.synergygb.megazord.MiMercantil,MiMercantil,162,VE,2019-08-27
-com.fgol.HungrySharkEvolution,HungrySharkEvolution,163,VE,2019-08-27
-com.cut.out.easytool,CutOut,164,VE,2019-08-27
-com.redraw.keyboard,New2019Keyboard,165,VE,2019-08-27
-com.blur.camera.photo.beauty,BlurCamera,166,VE,2019-08-27
-com.dmp3.browser,DameMP3-Multimediafreebrowser,167,VE,2019-08-27
-wp.wattpad,Wattpad-物語はどこに住んでいます,168,VE,2019-08-27
-com.intellogic.p2p_bfc,PagoMóvilBFC,169,VE,2019-08-27
-com.gean10apps.bajarmusicayvideosgratisamicelularguidefacil,BajarMúsicayVídeosGuide-GratisaMiCelular,170,VE,2019-08-27
-com.whatsapp.wallpaper,WhatsAppWallpaper,171,VE,2019-08-27
-com.edujoy.masha.games,MashaandtheBearの知育ゲーム,172,VE,2019-08-27
-com.deep.sleepy.lite,DeepSleepyLite-getridofinsomnia,173,VE,2019-08-27
-com.Bingo.Fighter,空中決戦3D-SkyFighters,174,VE,2019-08-27
-kr.co.manhole.hujicam,HujiCam,175,VE,2019-08-27
-com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,176,VE,2019-08-27
-com.lenovo.anyshare.gps,SHAREit-Transfer&Share,177,VE,2019-08-27
-com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,178,VE,2019-08-27
-com.musicdownload.freeappvideodl,MusicMp3をダウンロード,179,VE,2019-08-27
-com.domobile.applock,アプリロックAppLock,180,VE,2019-08-27
+de.lotum.whatsinthefoto.es,4Fotos1Palabra,136,VE,2019-08-27
+com.deisyapps.comobajarmusicagratisamicelularguiatutorial,BajarMúsicaGratisAMiCelularMP3GuidesFácil,137,VE,2019-08-27
+com.king.farmheroessaga,ファームヒーロー,138,VE,2019-08-27
+com.playrix.homescapes,ホームスケイプ(Homescapes),139,VE,2019-08-27
+video.downloader.videodownloader,無料動画ダウンロード,140,VE,2019-08-27
+com.puzzlegamesclassic.tetris.blockpuzzle,BlockPuzzle,141,VE,2019-08-27
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,142,VE,2019-08-27
+com.rovio.baba,アングリーバード2(AngryBirds2),143,VE,2019-08-27
+com.cleanmaster.mguard,CleanMasterーメモリクリーナー、キャッシュクリーナー＆ウイルス対策,144,VE,2019-08-27
+com.canva.editor,Canva-ポスター、チラシ、フライヤー、名刺やお礼状を簡単に作成できるグラフィックデザインアプリ,145,VE,2019-08-27
+com.google.android.apps.photos,Googleフォト,146,VE,2019-08-27
+com.health.lab.drink.water.tracker,水を飲むリマインダー,147,VE,2019-08-27
+com.lyrebirdstudio.montagenscolagem,"写真編集者-画像加工,写真編集&コラージュアプリ&フォトエディタコラージュメーカー",148,VE,2019-08-27
+com.ludashi.dualspace,DualSpace-MultipleAccounts&AppCloner,149,VE,2019-08-27
+com.bestringtonesapps.freeringtonesforandroid,無料着信音Android™,150,VE,2019-08-27
+com.storm8.propertybrothers,プロパティブラザーズホームデザイン,151,VE,2019-08-27
+com.gameloft.android.ANMP.GloftDMHM,ミニオンラッシュ:「怪盗グルー」公式ゲーム,152,VE,2019-08-27
+net.apex_designs.payback2,Payback2-TheBattleSandbox,153,VE,2019-08-27
+com.minicraft.pocketedition2019,Megacraft-PocketEdition,154,VE,2019-08-27
+com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,155,VE,2019-08-27
+photo.editor.photoeditor.photoeditorpro,画像加工-写真編集、コラージュメーカー,156,VE,2019-08-27
+com.daily.lucky.plus,DailyLuckyPlus,157,VE,2019-08-27
+com.ea.gp.fifamobile,FIFAサッカー,158,VE,2019-08-27
+raigon.musicpool,無料の曲をダウンロードする,159,VE,2019-08-27
+com.yOljfj65rfd.Uzyhglk1z,DESCARGARMÚSICAGRATIS🔥AUDIOZAFICEY🔥,160,VE,2019-08-27
+com.synergygb.megazord.MiMercantil,MiMercantil,161,VE,2019-08-27
+com.fgol.HungrySharkEvolution,HungrySharkEvolution,162,VE,2019-08-27
+com.cut.out.easytool,CutOut,163,VE,2019-08-27
+com.redraw.keyboard,New2019Keyboard,164,VE,2019-08-27
+com.blur.camera.photo.beauty,BlurCamera,165,VE,2019-08-27
+com.dmp3.browser,DameMP3-Multimediafreebrowser,166,VE,2019-08-27
+wp.wattpad,Wattpad-物語はどこに住んでいます,167,VE,2019-08-27
+com.intellogic.p2p_bfc,PagoMóvilBFC,168,VE,2019-08-27
+com.gean10apps.bajarmusicayvideosgratisamicelularguidefacil,BajarMúsicayVídeosGuide-GratisaMiCelular,169,VE,2019-08-27
+com.whatsapp.wallpaper,WhatsAppWallpaper,170,VE,2019-08-27
+com.edujoy.masha.games,MashaandtheBearの知育ゲーム,171,VE,2019-08-27
+com.deep.sleepy.lite,DeepSleepyLite-getridofinsomnia,172,VE,2019-08-27
+com.Bingo.Fighter,空中決戦3D-SkyFighters,173,VE,2019-08-27
+kr.co.manhole.hujicam,HujiCam,174,VE,2019-08-27
+com.fingersoft.hillclimb,ヒルクライムレース:HillClimbRacing,175,VE,2019-08-27
+com.lenovo.anyshare.gps,SHAREit-Transfer&Share,176,VE,2019-08-27
+com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,177,VE,2019-08-27
+com.musicdownload.freeappvideodl,MusicMp3をダウンロード,178,VE,2019-08-27
+com.domobile.applock,アプリロックAppLock,179,VE,2019-08-27
+com.baklabs.taxi.two,タクシー2,180,VE,2019-08-27
 air.com.hypah.io.slither,slither.io,181,VE,2019-08-27
-com.redraw.keyboard,New2019Keyboard,182,VE,2019-08-27
-com.blur.editor.photo.pro,BlurEditor,183,VE,2019-08-27
+com.blur.editor.photo.pro,BlurEditor,182,VE,2019-08-27
+com.sirma.mobile.bible.android,聖書-音読聖書-全て無料,183,VE,2019-08-27
 jpark.AOS5,Angerofstick5:zombie,184,VE,2019-08-27
 com.wordmobiles.bikeRacing,バイクレーシング3D-BikeRacing,185,VE,2019-08-27
 com.quarzo.hangmanwords,Hangman,186,VE,2019-08-27
@@ -193,52 +193,52 @@ com.cmplay.tiles2,ピアノタイル2™,191,VE,2019-08-27
 com.adobe.reader,AdobeAcrobatReader:PDFを閲覧・作成・編集,192,VE,2019-08-27
 com.cmcm.lite,CMLite-ForLow-EndPhone,193,VE,2019-08-27
 com.photogrid.lite,PhotoGridLite:PhotoCollageMaker&PhotoEditor,194,VE,2019-08-27
-monitordolar.ve,monitor.dolar.ve,195,VE,2019-08-27
-com.butacapremium.play,Play!,196,VE,2019-08-27
-com.noxgroup.app.cleaner,NoxCleaner-スマホクリーナー、ブースター、最適化ツール,197,VE,2019-08-27
-eu.inlogic.footballcup2018.gplay,サッカーカップ2019,198,VE,2019-08-27
-com.speech.text.translate,TranslateAll-SpeechTextTranslator,199,VE,2019-08-27
-com.color.sms.messages.emoji,"ColorSMS-Themes,Customizechat,Emoji",200,VE,2019-08-27
-com.darkarrow.stickfighter.saiyan,StickShadow:WarFight,201,VE,2019-08-27
-mobi.charmer.fotocollage,コラージュメーカー&画像加工-FotoCollage,202,VE,2019-08-27
-com.mobileguru.fruitsbomb.free,FruitsBomb,203,VE,2019-08-27
-com.icogroup.apensar,Wordie:GuesstheWord,204,VE,2019-08-27
-com.halfbrick.fruitninjafree,FruitNinja®,205,VE,2019-08-27
-com.rioo.runnersubway,SubwayPrincessRunner,206,VE,2019-08-27
-com.google.android.apps.translate,Google翻訳,207,VE,2019-08-27
-com.ea.games.r3_row,RealRacing3,208,VE,2019-08-27
-paint.by.number.pixel.art.coloring.drawing.puzzle,数字で塗り絵-無料塗り絵ブック＆ペイントゲーム＆リラックスゲーム,209,VE,2019-08-27
-com.firsttouchgames.dls3,DreamLeagueSoccer,210,VE,2019-08-27
-com.wordsmobile.grandfightgangsters,グランドギャングスター-GrandGangsters,211,VE,2019-08-27
-bancaribe.adverweb.com.bancaribe2,MiConexiónBancaribeMóvil,212,VE,2019-08-27
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,213,VE,2019-08-27
-com.google.android.contacts,連絡帳,214,VE,2019-08-27
-com.vectorunit.purple.googleplay,BeachBuggyRacing,215,VE,2019-08-27
-com.instagram.boomerang,BoomerangfromInstagram,216,VE,2019-08-27
-com.supercell.brawlstars,ブロスタ,217,VE,2019-08-27
-screenrecorder.recorder.editor,VRecorder画面録画-サウンド、動画エディタ,218,VE,2019-08-27
-com.robtopx.geometrydashsubzero,GeometryDashSubZero,219,VE,2019-08-27
-com.opera.mini.native,OperaMiniWebブラウザ,220,VE,2019-08-27
-com.mmosoft.photoeditor,フォトコラージュ,221,VE,2019-08-27
-com.mobileguru.candyfever2.free,CandyFever2,222,VE,2019-08-27
-com.miniclip.eightballpool,8BallPool,223,VE,2019-08-27
-com.aim.racing,ExtremeCarDrivingSimulator,224,VE,2019-08-27
-mega.privacy.android.app,MEGA,225,VE,2019-08-27
-videodownloader.fbvideodownloader.facebookvideodownloader.videodownloaderforfacebook,Facebookビデオダウンローダー-あなたの専用アプリ,226,VE,2019-08-27
-com.mobile.legends,モバイル·レジェンド:BangBang,227,VE,2019-08-27
-com.cartoon.photo.master.android,CartoonPhotoMaster,228,VE,2019-08-27
-com.shazam.android,Shazam,229,VE,2019-08-27
-com.ction.playergames,2、3、4人ミニゲームアプリ無料,230,VE,2019-08-27
-com.ionicframework.bt201711,TESOROPAGOMÓVIL,231,VE,2019-08-27
-com.mp4.all.videos.player,MP4AllVideoPlayer,232,VE,2019-08-27
-com.PlayMax.playergames,バッターパーティー：1234プレーヤーゲーム無料,233,VE,2019-08-27
-com.hazar.fps,SpecialOps:PvPFPSバトルゲーム-銃撃ゲーム無料,234,VE,2019-08-27
-com.ivan.statussaver,StatusSaverforWhatsapp,235,VE,2019-08-27
-com.surpax.ledflashlight.panel,懐中電灯-ledライト,236,VE,2019-08-27
-com.one1line.onetouch.onestroke.dotgame,1LINE–ワンタッチで点をつなぐ,237,VE,2019-08-27
-com.joyjourney.PianoWhiteGo,ピアノホワイトゴー2019:ピアノゲームタイル,238,VE,2019-08-27
-com.sbkgames.RacingLimits,レースの限界,239,VE,2019-08-27
-org.reyfasoft.reinavalera1960,SantaBibliaReinaValera,240,VE,2019-08-27
+screenrecorder.recorder.editor,VRecorder画面録画-サウンド、動画エディタ,195,VE,2019-08-27
+monitordolar.ve,monitor.dolar.ve,196,VE,2019-08-27
+com.butacapremium.play,Play!,197,VE,2019-08-27
+com.noxgroup.app.cleaner,NoxCleaner-スマホクリーナー、ブースター、最適化ツール,198,VE,2019-08-27
+eu.inlogic.footballcup2018.gplay,サッカーカップ2019,199,VE,2019-08-27
+com.speech.text.translate,TranslateAll-SpeechTextTranslator,200,VE,2019-08-27
+videodownloader.fbvideodownloader.facebookvideodownloader.videodownloaderforfacebook,Facebookビデオダウンローダー-あなたの専用アプリ,201,VE,2019-08-27
+com.color.sms.messages.emoji,"ColorSMS-Themes,Customizechat,Emoji",202,VE,2019-08-27
+com.darkarrow.stickfighter.saiyan,StickShadow:WarFight,203,VE,2019-08-27
+com.magjg.roundhit,PaintPop3D,204,VE,2019-08-27
+mobi.charmer.fotocollage,コラージュメーカー&画像加工-FotoCollage,205,VE,2019-08-27
+com.mobileguru.fruitsbomb.free,FruitsBomb,206,VE,2019-08-27
+com.icogroup.apensar,Wordie:GuesstheWord,207,VE,2019-08-27
+com.halfbrick.fruitninjafree,FruitNinja®,208,VE,2019-08-27
+com.rioo.runnersubway,SubwayPrincessRunner,209,VE,2019-08-27
+com.google.android.apps.translate,Google翻訳,210,VE,2019-08-27
+com.ea.games.r3_row,RealRacing3,211,VE,2019-08-27
+paint.by.number.pixel.art.coloring.drawing.puzzle,数字で塗り絵-無料塗り絵ブック＆ペイントゲーム＆リラックスゲーム,212,VE,2019-08-27
+com.firsttouchgames.dls3,DreamLeagueSoccer,213,VE,2019-08-27
+com.wordsmobile.grandfightgangsters,グランドギャングスター-GrandGangsters,214,VE,2019-08-27
+bancaribe.adverweb.com.bancaribe2,MiConexiónBancaribeMóvil,215,VE,2019-08-27
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,216,VE,2019-08-27
+com.amanotes.beathopper,TilesHop:EDMRush!,217,VE,2019-08-27
+com.google.android.contacts,連絡帳,218,VE,2019-08-27
+com.vectorunit.purple.googleplay,BeachBuggyRacing,219,VE,2019-08-27
+com.instagram.boomerang,BoomerangfromInstagram,220,VE,2019-08-27
+com.supercell.brawlstars,ブロスタ,221,VE,2019-08-27
+com.robtopx.geometrydashsubzero,GeometryDashSubZero,222,VE,2019-08-27
+com.readercompany.pdf.reader,Android用のPDFReader,223,VE,2019-08-27
+com.opera.mini.native,OperaMiniWebブラウザ,224,VE,2019-08-27
+com.mmosoft.photoeditor,フォトコラージュ,225,VE,2019-08-27
+com.mobileguru.candyfever2.free,CandyFever2,226,VE,2019-08-27
+com.miniclip.eightballpool,8BallPool,227,VE,2019-08-27
+com.aim.racing,ExtremeCarDrivingSimulator,228,VE,2019-08-27
+mega.privacy.android.app,MEGA,229,VE,2019-08-27
+com.playgendary.kickthebuddy,KicktheBuddy,230,VE,2019-08-27
+com.mobile.legends,モバイル·レジェンド:BangBang,231,VE,2019-08-27
+com.cartoon.photo.master.android,CartoonPhotoMaster,232,VE,2019-08-27
+com.shazam.android,Shazam,233,VE,2019-08-27
+com.ction.playergames,2、3、4人ミニゲームアプリ無料,234,VE,2019-08-27
+com.ionicframework.bt201711,TESOROPAGOMÓVIL,235,VE,2019-08-27
+com.mp4.all.videos.player,MP4AllVideoPlayer,236,VE,2019-08-27
+com.PlayMax.playergames,バッターパーティー：1234プレーヤーゲーム無料,237,VE,2019-08-27
+com.hazar.fps,SpecialOps:PvPFPSバトルゲーム-銃撃ゲーム無料,238,VE,2019-08-27
+com.ivan.statussaver,StatusSaverforWhatsapp,239,VE,2019-08-27
+com.surpax.ledflashlight.panel,懐中電灯-ledライト,240,VE,2019-08-27
 com.one1line.onetouch.onestroke.dotgame,1LINE–ワンタッチで点をつなぐ,241,VE,2019-08-27
 com.joyjourney.PianoWhiteGo,ピアノホワイトゴー2019:ピアノゲームタイル,242,VE,2019-08-27
 com.sbkgames.RacingLimits,レースの限界,243,VE,2019-08-27
@@ -328,97 +328,97 @@ com.google.android.music,GooglePlayミュージック,326,VE,2019-08-27
 com.provera.mikicap.dollarverificationassistant,ドル検証アシスタント,327,VE,2019-08-27
 memes.frases.stickers,MemescomFrasesStickersparaWhatsApp2019,328,VE,2019-08-27
 com.orange.kidspiano.music.songs,子供のためのピアノ-音楽と曲,329,VE,2019-08-27
-com.lemongame.klondike.solitaire,ソリティア,330,VE,2019-08-27
-com.spacegame.homedesign,マイホーム　デザインドリーム,331,VE,2019-08-27
-com.turner.cnstickers.la,CartoonNetworkStickers,332,VE,2019-08-27
-com.samsung.android.voc,GalaxyMembers,333,VE,2019-08-27
-com.crazy.letter.wordfind,ワードコネクト-ワードゲーム：ワード検索オフラインゲーム,334,VE,2019-08-27
-com.outfit7.mytalkinghank,マイ・トーキング・ハンク,335,VE,2019-08-27
-com.intsig.camscanner,CamScannerスキャンPDF作成,336,VE,2019-08-27
-mini.block.craft.free.mc,ミニブロッククラフト,337,VE,2019-08-27
-com.ivolumes.equalizer.bassbooster,ボリュームブースター音楽プレーヤーとともに,338,VE,2019-08-27
-com.robtopx.geometrydashworld,GeometryDashWorld,339,VE,2019-08-27
-com.google.earth,GoogleEarth,340,VE,2019-08-27
-com.differencetenderwhite.skirt,ブロックパズルジュエル,341,VE,2019-08-27
-com.highsecure.downloadvideoinstagram,ビデオ保存-ビデオのInstagramをダウンロード,342,VE,2019-08-27
-com.lyoomatch.jewelscrush.princessadventure,宝石の伝説-クラシック脳トレ宝石パズル,343,VE,2019-08-27
-com.sertanta.photocollage.photocollage,Фотоколлажнарусскомязыке,344,VE,2019-08-27
-net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),345,VE,2019-08-27
-es.fileexplorer.filebrowser.ezfilemanager,EZファイルエクスプローラ-簡単で安全な安全なファイル管理,346,VE,2019-08-27
-stickermaker.android.stickermaker,StickerStudio-StickerMakerforWhatsApp,347,VE,2019-08-27
-com.photoappworld.photo.sticker.creator.wastickerapps,WhatsAppのカスタムステッカーを作成する-WAStickerApps,348,VE,2019-08-27
-com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),349,VE,2019-08-27
-com.taggedapp,Tagged-出会い、チャット、浮気,350,VE,2019-08-27
-com.niksoftware.snapseed,Snapseed,351,VE,2019-08-27
-com.microsoft.office.word,MicrosoftWord:文書の執筆、編集、共有を外出先でも,352,VE,2019-08-27
-europe.truck.simulator2,TruckSimulator:Europe2,353,VE,2019-08-27
-com.ezlt.wsa.sticker,PersonalStickerMaker-WAStickerApps,354,VE,2019-08-27
-com.amazon.mShop.android.shopping,Amazonショッピングアプリ,355,VE,2019-08-27
-com.citadini.dev.memescomfrasesbr,MemescomfrasesBR-WAStickerApps,356,VE,2019-08-27
-com.discord,Discord-ゲーマー向けチャットシステム,357,VE,2019-08-27
-com.mobileguru.candyfever.free,CandyFever,358,VE,2019-08-27
-status.saver.totalstatusdownloader,Statussaverwhats:Allstatusdownloaderapp,359,VE,2019-08-27
-com.nianticlabs.pokemongo,PokémonGO,360,VE,2019-08-27
-app.magic.cleaner.boost,MagicCleaner-Boost&Clean,361,VE,2019-08-27
-com.jb.gokeyboard.theme.tmekeyboardthemeforandroid,KeyboardThemesForAndroid,362,VE,2019-08-27
-com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,363,VE,2019-08-27
-air.br.com.domino.mobile,DominóOnline&Offline,364,VE,2019-08-27
-com.your.destiny.teller,YourDestinyTeller,365,VE,2019-08-27
-air.com.turner.boomerangmakeandrace,BoomerangMakeandRace-Scooby-DooRacingGame,366,VE,2019-08-27
-roll.unblock.ball.block.puzzle,ブロック解除-ブロックパズル,367,VE,2019-08-27
-com.imangi.templerun2,TempleRun2,368,VE,2019-08-27
-com.renderedideas.jungleadventures,JungleAdventures,369,VE,2019-08-27
-com.wanxing.basketball,熱狂的なバスケットボール,370,VE,2019-08-27
-deezer.android.app,Deezer-音楽ストリーミングサービス,371,VE,2019-08-27
-com.cocoplay.cakemaker,リアルケーキメーカー３Ｄ,372,VE,2019-08-27
-women.workout.female.fitness,女性のフィットネス-女性のためのワークアウト,373,VE,2019-08-27
-com.yuriychechulin.throwio,斧投げio,374,VE,2019-08-27
-com.socialnmobile.dictapps.notepad.color.note,ColorNoteカラーノートメモ帳ノート付箋,375,VE,2019-08-27
-com.ubisoft.hungrysharkworld,HungrySharkWorld,376,VE,2019-08-27
-com.led.light.ledscroller,MagicLEDLight-AirportGreeterSign,377,VE,2019-08-27
-com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-公式ゲーム,378,VE,2019-08-27
-com.emoticon.screen.home.launcher,INLauncher,379,VE,2019-08-27
-com.google.android.apps.books,GooglePlayブックス,380,VE,2019-08-27
-com.downloadlab.facebook.video.downloader,VideoDownloaderforFacebook,381,VE,2019-08-27
-com.splendapps.torch,フラッシュライト,382,VE,2019-08-27
-com.ezlt.wsa.sticker,PersonalStickerMaker-WAStickerApps,383,VE,2019-08-27
-com.music.photo.videos.videomaker,音楽＆ビデオエディタ付きのビデオメーカー,384,VE,2019-08-27
-com.okappz.girlywallpapers,ガーリーhdの壁紙,385,VE,2019-08-27
-com.resestudio.jewelcastle.jewelslegend,ジュエルキャッスル-ミステリーアドベンチャー,386,VE,2019-08-27
-com.fdgentertainment.bananakong,バナナコング,387,VE,2019-08-27
-com.picsart.image.proeditor,PicsArt,388,VE,2019-08-27
-com.ChillyRoom.DungeonShooter,SoulKnight,389,VE,2019-08-27
-facebookvideodownloader.videodownloaderforfacebook,VideoDownloaderforFacebookVideoDownloader,390,VE,2019-08-27
-com.geishatokyo.trafficrun,TrafficRun!,391,VE,2019-08-27
-com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),392,VE,2019-08-27
-sleep.relax.solitude.sleep.focus.nap,SolitudeSleepTime-Sleepingcompanion,393,VE,2019-08-27
-com.thestickerco.chavez,ChavezyVenezuelaStickersparaWhatsApp,394,VE,2019-08-27
-europe.truck.simulator2,TruckSimulator:Europe2,395,VE,2019-08-27
-com.twist.hit,TwistHit!,396,VE,2019-08-27
-com.robtopx.geometrydashmeltdown,GeometryDashMeltdown,397,VE,2019-08-27
-com.wordloco.wordchallenge,WordSearch,398,VE,2019-08-27
-com.dagtirmanma.oyunu,MountainClimb4x4:OffroadCarDrive,399,VE,2019-08-27
-trends.beauty.sweet.snap,SweetFaceSnapSelfiePhotoCameraEditor,400,VE,2019-08-27
-com.stickersgraciosos.stickersgraciososconfrases,MemesconFrasesStickersenespañolparaWhatsApp,401,VE,2019-08-27
-com.musicvideomaker.slideshow,ミュージックビデオメーカー,402,VE,2019-08-27
-pdf.tap.scanner,CameraScannerToPdf-TapScanner,403,VE,2019-08-27
-com.yx.sniperkiller,エリートスナイパー3D-SniperShot,404,VE,2019-08-27
-com.razmobi.monstertrucks2,モンスタートラックの子供のゲーム,405,VE,2019-08-27
-com.callerscreen.color.phone.ringtone.flash,"ColorFlashLauncher-CallScreen,Themes",406,VE,2019-08-27
-com.vsco.cam,VSCO,407,VE,2019-08-27
-com.dream_studio.animalringtones,動物：着メロ,408,VE,2019-08-27
-com.king.petrescuesaga,ペットレスキュー,409,VE,2019-08-27
-com.clue.android,生理トラッカーClue:生理・排卵計算機,410,VE,2019-08-27
-com.candy.puzzle.android,MatchCandy,411,VE,2019-08-27
-com.banesco.banescomovilpa.tcmbpa.android,BanescoPA,412,VE,2019-08-27
-com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ作成,413,VE,2019-08-27
-com.atomgame.gunwar,GunWar:ShootingGames,414,VE,2019-08-27
-com.rovio.angrybirdsfriends,AngryBirdsFriends,415,VE,2019-08-27
-com.destiny.master.freetest,"DestinyMasterFree-Predictcareer,predictlove",416,VE,2019-08-27
-com.mindy.grap1,StickmanHook,417,VE,2019-08-27
-com.cut.out.profototool,CutOutPro,418,VE,2019-08-27
-com.vng.g6.a.zombie,ゾンビゲーム:DEADTARGET-ZombieShootingGames,419,VE,2019-08-27
-com.hutchgames.hotwheels,HotWheels:RaceOff,420,VE,2019-08-27
+com.spacegame.homedesign,マイホーム　デザインドリーム,330,VE,2019-08-27
+com.turner.cnstickers.la,CartoonNetworkStickers,331,VE,2019-08-27
+com.samsung.android.voc,GalaxyMembers,332,VE,2019-08-27
+com.crazy.letter.wordfind,ワードコネクト-ワードゲーム：ワード検索オフラインゲーム,333,VE,2019-08-27
+com.outfit7.mytalkinghank,マイ・トーキング・ハンク,334,VE,2019-08-27
+com.intsig.camscanner,CamScannerスキャンPDF作成,335,VE,2019-08-27
+mini.block.craft.free.mc,ミニブロッククラフト,336,VE,2019-08-27
+com.ivolumes.equalizer.bassbooster,ボリュームブースター音楽プレーヤーとともに,337,VE,2019-08-27
+com.robtopx.geometrydashworld,GeometryDashWorld,338,VE,2019-08-27
+com.google.earth,GoogleEarth,339,VE,2019-08-27
+com.differencetenderwhite.skirt,ブロックパズルジュエル,340,VE,2019-08-27
+com.highsecure.downloadvideoinstagram,ビデオ保存-ビデオのInstagramをダウンロード,341,VE,2019-08-27
+com.lyoomatch.jewelscrush.princessadventure,宝石の伝説-クラシック脳トレ宝石パズル,342,VE,2019-08-27
+com.sertanta.photocollage.photocollage,Фотоколлажнарусскомязыке,343,VE,2019-08-27
+net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),344,VE,2019-08-27
+es.fileexplorer.filebrowser.ezfilemanager,EZファイルエクスプローラ-簡単で安全な安全なファイル管理,345,VE,2019-08-27
+stickermaker.android.stickermaker,StickerStudio-StickerMakerforWhatsApp,346,VE,2019-08-27
+com.photoappworld.photo.sticker.creator.wastickerapps,WhatsAppのカスタムステッカーを作成する-WAStickerApps,347,VE,2019-08-27
+com.playrix.gardenscapes,ガーデンスケイプ(Gardenscapes),348,VE,2019-08-27
+com.taggedapp,Tagged-出会い、チャット、浮気,349,VE,2019-08-27
+com.niksoftware.snapseed,Snapseed,350,VE,2019-08-27
+com.microsoft.office.word,MicrosoftWord:文書の執筆、編集、共有を外出先でも,351,VE,2019-08-27
+europe.truck.simulator2,TruckSimulator:Europe2,352,VE,2019-08-27
+com.ezlt.wsa.sticker,PersonalStickerMaker-WAStickerApps,353,VE,2019-08-27
+com.citadini.dev.memescomfrasesbr,MemescomfrasesBR-WAStickerApps,354,VE,2019-08-27
+com.discord,Discord-ゲーマー向けチャットシステム,355,VE,2019-08-27
+com.mobileguru.candyfever.free,CandyFever,356,VE,2019-08-27
+status.saver.totalstatusdownloader,Statussaverwhats:Allstatusdownloaderapp,357,VE,2019-08-27
+com.nianticlabs.pokemongo,PokémonGO,358,VE,2019-08-27
+photoeditor.layout.collagemaker,コラージュメーカー:画像加工&写真編集者,359,VE,2019-08-27
+com.gameloft.android.ANMP.GloftM5HM,モダンコンバット5：eスポーツシューティングゲーム,360,VE,2019-08-27
+us.kr.baseball,野球スター,361,VE,2019-08-27
+homeworkout.homeworkouts.noequipment,自宅トレーニング-器具は必要なし&筋トレ,362,VE,2019-08-27
+app.magic.cleaner.boost,MagicCleaner-Boost&Clean,363,VE,2019-08-27
+com.jb.gokeyboard.theme.tmekeyboardthemeforandroid,KeyboardThemesForAndroid,364,VE,2019-08-27
+com.ludia.jurassicworld,JurassicWorld™:ザ·ゲーム,365,VE,2019-08-27
+air.br.com.domino.mobile,DominóOnline&Offline,366,VE,2019-08-27
+com.your.destiny.teller,YourDestinyTeller,367,VE,2019-08-27
+com.dagtirmanma.oyunu,MountainClimb4x4:OffroadCarDrive,368,VE,2019-08-27
+roll.unblock.ball.block.puzzle,ブロック解除-ブロックパズル,369,VE,2019-08-27
+com.imangi.templerun2,TempleRun2,370,VE,2019-08-27
+com.renderedideas.jungleadventures,JungleAdventures,371,VE,2019-08-27
+com.musicvideomaker.slideshow,ミュージックビデオメーカー,372,VE,2019-08-27
+com.king.petrescuesaga,ペットレスキュー,373,VE,2019-08-27
+com.wanxing.basketball,熱狂的なバスケットボール,374,VE,2019-08-27
+com.clue.android,生理トラッカーClue:生理・排卵計算機,375,VE,2019-08-27
+deezer.android.app,Deezer-音楽ストリーミングサービス,376,VE,2019-08-27
+com.cocoplay.cakemaker,リアルケーキメーカー３Ｄ,377,VE,2019-08-27
+women.workout.female.fitness,女性のフィットネス-女性のためのワークアウト,378,VE,2019-08-27
+com.yuriychechulin.throwio,斧投げio,379,VE,2019-08-27
+com.socialnmobile.dictapps.notepad.color.note,ColorNoteカラーノートメモ帳ノート付箋,380,VE,2019-08-27
+com.ubisoft.hungrysharkworld,HungrySharkWorld,381,VE,2019-08-27
+com.callerscreen.color.phone.ringtone.flash,"ColorFlashLauncher-CallScreen,Themes",382,VE,2019-08-27
+com.crazylabs.lady.bug,MiraculousLadybug&CatNoir-公式ゲーム,383,VE,2019-08-27
+com.emoticon.screen.home.launcher,INLauncher,384,VE,2019-08-27
+com.sec.android.app.voicenote,Galaxyボイスレコーダー,385,VE,2019-08-27
+com.google.android.apps.books,GooglePlayブックス,386,VE,2019-08-27
+com.downloadlab.facebook.video.downloader,VideoDownloaderforFacebook,387,VE,2019-08-27
+com.splendapps.torch,フラッシュライト,388,VE,2019-08-27
+com.music.photo.videos.videomaker,音楽＆ビデオエディタ付きのビデオメーカー,389,VE,2019-08-27
+com.okappz.girlywallpapers,ガーリーhdの壁紙,390,VE,2019-08-27
+com.resestudio.jewelcastle.jewelslegend,ジュエルキャッスル-ミステリーアドベンチャー,391,VE,2019-08-27
+com.fdgentertainment.bananakong,バナナコング,392,VE,2019-08-27
+com.picsart.image.proeditor,PicsArt,393,VE,2019-08-27
+com.ChillyRoom.DungeonShooter,SoulKnight,394,VE,2019-08-27
+facebookvideodownloader.videodownloaderforfacebook,VideoDownloaderforFacebookVideoDownloader,395,VE,2019-08-27
+com.geishatokyo.trafficrun,TrafficRun!,396,VE,2019-08-27
+com.notdoppler.earntodie2,アーントゥダイ2(EarntoDie2),397,VE,2019-08-27
+sleep.relax.solitude.sleep.focus.nap,SolitudeSleepTime-Sleepingcompanion,398,VE,2019-08-27
+com.outfit7.talkingtom,おしゃべり猫のトーキング・トム,399,VE,2019-08-27
+com.thestickerco.chavez,ChavezyVenezuelaStickersparaWhatsApp,400,VE,2019-08-27
+com.rarlab.rar,RAR,401,VE,2019-08-27
+com.twist.hit,TwistHit!,402,VE,2019-08-27
+com.robtopx.geometrydashmeltdown,GeometryDashMeltdown,403,VE,2019-08-27
+com.wordloco.wordchallenge,WordSearch,404,VE,2019-08-27
+com.train.taxi,TrainTaxi,405,VE,2019-08-27
+trends.beauty.sweet.snap,SweetFaceSnapSelfiePhotoCameraEditor,406,VE,2019-08-27
+com.stickersgraciosos.stickersgraciososconfrases,MemesconFrasesStickersenespañolparaWhatsApp,407,VE,2019-08-27
+pdf.tap.scanner,CameraScannerToPdf-TapScanner,408,VE,2019-08-27
+com.yx.sniperkiller,エリートスナイパー3D-SniperShot,409,VE,2019-08-27
+com.wordlist.android,WordList:学ぶスペイン語英語言語コースレッスン調査無料,410,VE,2019-08-27
+com.razmobi.monstertrucks2,モンスタートラックの子供のゲーム,411,VE,2019-08-27
+com.vsco.cam,VSCO,412,VE,2019-08-27
+com.skgames.trafficracer,TrafficRacer,413,VE,2019-08-27
+com.riseup.game,RiseUp,414,VE,2019-08-27
+com.dream_studio.animalringtones,動物：着メロ,415,VE,2019-08-27
+com.candy.puzzle.android,MatchCandy,416,VE,2019-08-27
+com.banesco.banescomovilpa.tcmbpa.android,BanescoPA,417,VE,2019-08-27
+com.adobe.psmobile,AdobePhotoshopExpress:フォトエディターコラージュ作成,418,VE,2019-08-27
+com.atomgame.gunwar,GunWar:ShootingGames,419,VE,2019-08-27
+com.rovio.angrybirdsfriends,AngryBirdsFriends,420,VE,2019-08-27
 com.atomgame.gunwar,GunWar:ShootingGames,421,VE,2019-08-27
 com.rovio.angrybirdsfriends,AngryBirdsFriends,422,VE,2019-08-27
 com.groundhog.mcpemaster,MasterforMinecraft(PocketEdition)-ModLauncher,423,VE,2019-08-27
@@ -479,38 +479,38 @@ com.google.android.apps.pdfviewer,GooglePDFViewer,477,VE,2019-08-27
 com.playmini.miniworld,MiniWorldBlockArt,478,VE,2019-08-27
 animal.ringtones.sounds.rhinoapps,AnimalRingtones&Sounds,479,VE,2019-08-27
 com.honeycomb.launcher,"MELauncher-テーマ&3D壁紙,高速",480,VE,2019-08-27
-sixpack.sixpackabs.absworkout,30日でシックスパック-腹筋ワークアウト,481,VE,2019-08-27
-com.icecoldapps.screenshoteasy,スクリーンショットイージー,482,VE,2019-08-27
-xyz.youworkshop.collagemaker,CollageMakerPro-PicEditor&PhotoCollage,483,VE,2019-08-27
-tube.video.tubevideo.playtube,PlayTube&VideoTube,484,VE,2019-08-27
-com.word.game.link.connect.find.search.hidden,WordWorldSearchFind:LettersConnectPuzzle,485,VE,2019-08-27
-com.disney.wheresmywater2_goo,Where'sMyWater?2,486,VE,2019-08-27
-com.zenjoy.slideshow,ミュージックビデオメーカー,487,VE,2019-08-27
-com.learn.bibliavalera,SantaBibliaReinaValera+Español,488,VE,2019-08-27
-com.premise.android.prod,Premise,489,VE,2019-08-27
-com.drilens.wamr,WAMR-Recoverdeletedmessages&statusdownload,490,VE,2019-08-27
-com.superking.parchisi.star,ParchisiSTAROnline,491,VE,2019-08-27
-com.videomaker.editor.slideshow.songs.record.album,VideoEditor&VideoMaker-動画編集＆動画作成＆動画加工,492,VE,2019-08-27
-com.quarzo.crosswords,Crosswords-Spanishversion(Crucigramas),493,VE,2019-08-27
-com.sleepremindertooler.android,SleepReminder2019,494,VE,2019-08-27
-os.falcon.archer.stick.war,スティックZボウ,495,VE,2019-08-27
-com.playrix.township,タウンシップ(Township),496,VE,2019-08-27
-com.ninexgen.wifi.password.recovery,無線LANのパスワードを表示,497,VE,2019-08-27
-com.huafu.consumer,BilleteraMóvil,498,VE,2019-08-27
-com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,499,VE,2019-08-27
-com.makemeold.facechangerphotoeditor,作る私古いおかしいフォトエディタ,500,VE,2019-08-27
-com.hsyecheng.blockworldcraft,WorldBuildingCraft,501,VE,2019-08-27
-com.samsung.android.app.notes,GalaxyNotes,502,VE,2019-08-27
-com.fotoable.fotobeauty,InstaBeauty-Selfieカメラ,503,VE,2019-08-27
-com.bayteq.mpos.mercantil,MóvilPagos,504,VE,2019-08-27
-com.outfit7.movingeye.swampattack,スワンプアタック(SwampAttack),505,VE,2019-08-27
-com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キャプチャ・編集無料アプリ(モビゼン),506,VE,2019-08-27
-com.ftxgames.narcos,Narcos:CartelWars,507,VE,2019-08-27
-com.sleep.master.bedtime.reminder,SleepReminderLite-Sleepingcompanion,508,VE,2019-08-27
-com.ea.gp.simsmobile,TheSims シムズ ポケット,509,VE,2019-08-27
-com.wondershare.filmorago,FilmoraGo-無料動画編集アプリ,510,VE,2019-08-27
-com.tellmewow.senior.hangman,Hangman,511,VE,2019-08-27
-breastenlarger.bodyeditor.photoeditor,BodyEditor-ボディシェイプエディタ，顔写真エディタ&痩せるアプリ,512,VE,2019-08-27
+com.icecoldapps.screenshoteasy,スクリーンショットイージー,481,VE,2019-08-27
+xyz.youworkshop.collagemaker,CollageMakerPro-PicEditor&PhotoCollage,482,VE,2019-08-27
+tube.video.tubevideo.playtube,PlayTube&VideoTube,483,VE,2019-08-27
+com.word.game.link.connect.find.search.hidden,WordWorldSearchFind:LettersConnectPuzzle,484,VE,2019-08-27
+com.disney.wheresmywater2_goo,Where'sMyWater?2,485,VE,2019-08-27
+com.zenjoy.slideshow,ミュージックビデオメーカー,486,VE,2019-08-27
+com.learn.bibliavalera,SantaBibliaReinaValera+Español,487,VE,2019-08-27
+com.premise.android.prod,Premise,488,VE,2019-08-27
+com.drilens.wamr,WAMR-Recoverdeletedmessages&statusdownload,489,VE,2019-08-27
+com.superking.parchisi.star,ParchisiSTAROnline,490,VE,2019-08-27
+com.videomaker.editor.slideshow.songs.record.album,VideoEditor&VideoMaker-動画編集＆動画作成＆動画加工,491,VE,2019-08-27
+com.quarzo.crosswords,Crosswords-Spanishversion(Crucigramas),492,VE,2019-08-27
+com.sleepremindertooler.android,SleepReminder2019,493,VE,2019-08-27
+os.falcon.archer.stick.war,スティックZボウ,494,VE,2019-08-27
+com.playrix.township,タウンシップ(Township),495,VE,2019-08-27
+com.ninexgen.wifi.password.recovery,無線LANのパスワードを表示,496,VE,2019-08-27
+com.huafu.consumer,BilleteraMóvil,497,VE,2019-08-27
+com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,498,VE,2019-08-27
+com.makemeold.facechangerphotoeditor,作る私古いおかしいフォトエディタ,499,VE,2019-08-27
+com.hsyecheng.blockworldcraft,WorldBuildingCraft,500,VE,2019-08-27
+com.samsung.android.app.notes,GalaxyNotes,501,VE,2019-08-27
+com.fotoable.fotobeauty,InstaBeauty-Selfieカメラ,502,VE,2019-08-27
+com.bayteq.mpos.mercantil,MóvilPagos,503,VE,2019-08-27
+com.outfit7.movingeye.swampattack,スワンプアタック(SwampAttack),504,VE,2019-08-27
+com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キャプチャ・編集無料アプリ(モビゼン),505,VE,2019-08-27
+com.ftxgames.narcos,Narcos:CartelWars,506,VE,2019-08-27
+com.sleep.master.bedtime.reminder,SleepReminderLite-Sleepingcompanion,507,VE,2019-08-27
+com.ea.gp.simsmobile,TheSims シムズ ポケット,508,VE,2019-08-27
+com.wondershare.filmorago,FilmoraGo-無料動画編集アプリ,509,VE,2019-08-27
+com.tellmewow.senior.hangman,Hangman,510,VE,2019-08-27
+breastenlarger.bodyeditor.photoeditor,BodyEditor-ボディシェイプエディタ，顔写真エディタ&痩せるアプリ,511,VE,2019-08-27
+com.amazon.mShop.android.shopping,Amazonショッピングアプリ,512,VE,2019-08-27
 com.downloader.forInstagram,VideoDownloaderforInstagram,513,VE,2019-08-27
 com.fitness.superstar.female.workout,FemaleWorkout,514,VE,2019-08-27
 com.vectorunit.cobalt.googleplay,BeachBuggyRacing2,515,VE,2019-08-27

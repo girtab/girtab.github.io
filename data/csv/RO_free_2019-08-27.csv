@@ -2,11 +2,11 @@ app_id,app_name,rank,country_code,date
 com.google.ar.core,GooglePlay開発者サービス(AR),1,RO,2019-08-27
 com.water.balls,SandBalls,2,RO,2019-08-27
 com.perfect.slices,PerfectSlices,3,RO,2019-08-27
-com.facebook.orca,Messenger,4,RO,2019-08-27
-com.whatsapp,WhatsAppMessenger,5,RO,2019-08-27
-com.popcore.makesandwich,Sandwich!,6,RO,2019-08-27
-com.zhiliaoapp.musically,TikTok,7,RO,2019-08-27
-com.google.android.apps.youtube.music,YouTubeMusic-公式楽曲から最新MVまで楽しめる音楽アプリ,8,RO,2019-08-27
+com.popcore.makesandwich,Sandwich!,4,RO,2019-08-27
+com.zhiliaoapp.musically,TikTok,5,RO,2019-08-27
+com.google.android.apps.youtube.music,YouTubeMusic-公式楽曲から最新MVまで楽しめる音楽アプリ,6,RO,2019-08-27
+com.whatsapp,WhatsAppMessenger,7,RO,2019-08-27
+com.facebook.orca,Messenger,8,RO,2019-08-27
 com.instagram.android,Instagram,9,RO,2019-08-27
 com.waze,Waze-GPS、地図、渋滞情報、カーナビ,10,RO,2019-08-27
 com.dpspace.rocketsky,RocketSky!,11,RO,2019-08-27
@@ -14,17 +14,17 @@ com.supercell.brawlstars,ブロスタ,12,RO,2019-08-27
 com.revolut.revolut,Revolut-ARadicallyBetterAccount,13,RO,2019-08-27
 com.slippy.linerusher,FunRace3D,14,RO,2019-08-27
 com.facebook.katana,Facebook,15,RO,2019-08-27
-com.snapchat.android,Snapchat,16,RO,2019-08-27
-com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,17,RO,2019-08-27
-net.zedge.android,ZEDGE™着信音&壁紙,18,RO,2019-08-27
-com.easybrain.make.music,Groovepad-ミュージック＆ビートメーカー,19,RO,2019-08-27
-com.yuriychechulin.throwio,斧投げio,20,RO,2019-08-27
-com.hambastudio.linecolor,LineColor3D,21,RO,2019-08-27
-com.playstrom.onpipe,OnPipe,22,RO,2019-08-27
-com.evilclicker.evilclicker,IdleEvilClicker,23,RO,2019-08-27
-ro.mercador,OLX.ro,24,RO,2019-08-27
-com.zuuks.bus.simulator.ultimate,BusSimulator:Ultimate,25,RO,2019-08-27
-com.mcdonalds.mobileapp,McDonald's,26,RO,2019-08-27
+com.contextlogic.wish,Wish-電化製品、ファッション、化粧品、靴などが90%OFF,16,RO,2019-08-27
+net.zedge.android,ZEDGE™着信音&壁紙,17,RO,2019-08-27
+com.easybrain.make.music,Groovepad-ミュージック＆ビートメーカー,18,RO,2019-08-27
+com.yuriychechulin.throwio,斧投げio,19,RO,2019-08-27
+com.hambastudio.linecolor,LineColor3D,20,RO,2019-08-27
+com.playstrom.onpipe,OnPipe,21,RO,2019-08-27
+com.evilclicker.evilclicker,IdleEvilClicker,22,RO,2019-08-27
+ro.mercador,OLX.ro,23,RO,2019-08-27
+com.zuuks.bus.simulator.ultimate,BusSimulator:Ultimate,24,RO,2019-08-27
+com.mcdonalds.mobileapp,McDonald's,25,RO,2019-08-27
+com.snapchat.android,Snapchat,26,RO,2019-08-27
 ro.emag.android,eMAG.ro,27,RO,2019-08-27
 com.facebook.lite,FacebookLite,28,RO,2019-08-27
 com.kiloo.subwaysurf,SubwaySurfers,29,RO,2019-08-27
@@ -33,57 +33,57 @@ com.pixel.art.coloring.color.number,HappyColor–数字で塗り絵。数字で�
 com.roblox.client,ROBLOX,32,RO,2019-08-27
 com.playgendary.ktb2,KicktheBuddy:Forever,33,RO,2019-08-27
 com.agminstruments.drumpadmachine,DrumPadMachine-ビートメーカー,34,RO,2019-08-27
-com.facebook.mlite,MessengerLite:無料通話とメッセージ,35,RO,2019-08-27
-com.krafts.building,MasterCraft-NewCraftinggame,36,RO,2019-08-27
-com.cassette.aquapark,aquapark.io,37,RO,2019-08-27
-com.shape.change,JellyShift,38,RO,2019-08-27
-com.kwalee.gunpuzzle,Shootout3D,39,RO,2019-08-27
-com.amanotes.beathopper,TilesHop:EDMRush!,40,RO,2019-08-27
-com.viouk.free.gamecrft.big.opp,Worldkrafts,41,RO,2019-08-27
-com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,42,RO,2019-08-27
-com.gjg.colorfill3d,ColorFill3D,43,RO,2019-08-27
-com.gameley.blademaster.spinning.en,BladeMaster-MiniActionRPGGame,44,RO,2019-08-27
-com.netflix.mediaclient,Netflix,45,RO,2019-08-27
-com.tensquaregames.letsfish2,釣りクラッシュ:スポーツ釣りゲーム(FishingClash),46,RO,2019-08-27
-pampam.ibf2,BottleFlip3D,47,RO,2019-08-27
-com.global.foodpanda.android,foodpanda-LocalFoodDelivery,48,RO,2019-08-27
-com.playrix.homescapes,ホームスケイプ(Homescapes),49,RO,2019-08-27
-com.stx.puzzlefuzzle,PuzzleFuzzle,50,RO,2019-08-27
-com.google.android.play.games,GooglePlayゲーム,51,RO,2019-08-27
-com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,52,RO,2019-08-27
-com.shazam.android,Shazam,53,RO,2019-08-27
-com.miniclip.eightballpool,8BallPool,54,RO,2019-08-27
-com.outfit7.mytalkingtom2,マイ・トーキング・トム2,55,RO,2019-08-27
-com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),56,RO,2019-08-27
-funny.allcool.photo.stupidface,AgeScanner:BestAgeScanner,57,RO,2019-08-27
-com.crtmobile.chestionaredrpciv,ChestionareAutoDRPCIV,58,RO,2019-08-27
-com.youmusic.magictiles,魔法のタイルズ3:ピアノ曲&ゲーム,59,RO,2019-08-27
-com.pinterest,Pinterest（ピンタレスト）,60,RO,2019-08-27
-com.lionstudios.mrbullet,MrBullet-SpyPuzzles,61,RO,2019-08-27
-com.baklabs.taxi.two,タクシー2,62,RO,2019-08-27
-com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,63,RO,2019-08-27
-ro.mobiessence.android.clevertaxi,Clever-affordableandfastrides,64,RO,2019-08-27
-com.impp.city.traindriver.simulator,シティ列車ドライバシミュレータ2019年列車ゲーム,65,RO,2019-08-27
-roll.unblock.ball.block.puzzle,ブロック解除-ブロックパズル,66,RO,2019-08-27
-com.yandex.yango,YangoRide-HailingService,67,RO,2019-08-27
-ro.vodafone.mcare.android,MyVodafoneRomania,68,RO,2019-08-27
-com.skgames.trafficrider,TrafficRider,69,RO,2019-08-27
-com.glovo,Glovo:OrderAnything.FoodDeliveryandMuchMore,70,RO,2019-08-27
-com.moonactive.coinmaster,CoinMaster,71,RO,2019-08-27
-com.rovio.baba,アングリーバード2(AngryBirds2),72,RO,2019-08-27
-com.coke.cokescan,CokeScan,73,RO,2019-08-27
-com.battle.disc,BattleDisc,74,RO,2019-08-27
-com.dts.freefireth,GarenaFreeFire,75,RO,2019-08-27
-com.outfit7.herodash,トーキング・トムのヒーロー・ダッシュ,76,RO,2019-08-27
-com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,77,RO,2019-08-27
-de.aboutyou.mobile.app,ABOUTYOUModeOnlineShop,78,RO,2019-08-27
-com.playrix.zoo_m3.gplay,ワイルドスケイプ(Wildscapes),79,RO,2019-08-27
-com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,80,RO,2019-08-27
-air.com.hypah.io.slither,slither.io,81,RO,2019-08-27
-com.clean.road,CleanRoad,82,RO,2019-08-27
-com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",83,RO,2019-08-27
-com.habby.archero,アーチャー伝説,84,RO,2019-08-27
-com.playgendary.kickthebuddy,KicktheBuddy,85,RO,2019-08-27
+com.krafts.building,MasterCraft-NewCraftinggame,35,RO,2019-08-27
+com.cassette.aquapark,aquapark.io,36,RO,2019-08-27
+com.shape.change,JellyShift,37,RO,2019-08-27
+com.kwalee.gunpuzzle,Shootout3D,38,RO,2019-08-27
+com.amanotes.beathopper,TilesHop:EDMRush!,39,RO,2019-08-27
+com.viouk.free.gamecrft.big.opp,Worldkrafts,40,RO,2019-08-27
+com.spotify.music,Spotify-世界最大の音楽ストリーミングサービス,41,RO,2019-08-27
+com.gjg.colorfill3d,ColorFill3D,42,RO,2019-08-27
+com.gameley.blademaster.spinning.en,BladeMaster-MiniActionRPGGame,43,RO,2019-08-27
+com.tensquaregames.letsfish2,釣りクラッシュ:スポーツ釣りゲーム(FishingClash),44,RO,2019-08-27
+pampam.ibf2,BottleFlip3D,45,RO,2019-08-27
+com.global.foodpanda.android,foodpanda-LocalFoodDelivery,46,RO,2019-08-27
+com.playrix.homescapes,ホームスケイプ(Homescapes),47,RO,2019-08-27
+com.stx.puzzlefuzzle,PuzzleFuzzle,48,RO,2019-08-27
+com.fugo.wow,驚異の言葉：語彙をつなぐクロスワード,49,RO,2019-08-27
+com.shazam.android,Shazam,50,RO,2019-08-27
+com.facebook.mlite,MessengerLite:無料通話とメッセージ,51,RO,2019-08-27
+com.miniclip.eightballpool,8BallPool,52,RO,2019-08-27
+com.outfit7.mytalkingtom2,マイ・トーキング・トム2,53,RO,2019-08-27
+com.outfit7.mytalkingtomfree,マイ・トーキング・トム(MyTalkingTom),54,RO,2019-08-27
+funny.allcool.photo.stupidface,AgeScanner:BestAgeScanner,55,RO,2019-08-27
+com.crtmobile.chestionaredrpciv,ChestionareAutoDRPCIV,56,RO,2019-08-27
+com.youmusic.magictiles,魔法のタイルズ3:ピアノ曲&ゲーム,57,RO,2019-08-27
+com.lionstudios.mrbullet,MrBullet-SpyPuzzles,58,RO,2019-08-27
+com.netflix.mediaclient,Netflix,59,RO,2019-08-27
+com.baklabs.taxi.two,タクシー2,60,RO,2019-08-27
+com.outfit7.mytalkingangelafree,マイ・トーキング・アンジェラ,61,RO,2019-08-27
+ro.mobiessence.android.clevertaxi,Clever-affordableandfastrides,62,RO,2019-08-27
+com.impp.city.traindriver.simulator,シティ列車ドライバシミュレータ2019年列車ゲーム,63,RO,2019-08-27
+roll.unblock.ball.block.puzzle,ブロック解除-ブロックパズル,64,RO,2019-08-27
+com.yandex.yango,YangoRide-HailingService,65,RO,2019-08-27
+ro.vodafone.mcare.android,MyVodafoneRomania,66,RO,2019-08-27
+com.skgames.trafficrider,TrafficRider,67,RO,2019-08-27
+com.glovo,Glovo:OrderAnything.FoodDeliveryandMuchMore,68,RO,2019-08-27
+com.moonactive.coinmaster,CoinMaster,69,RO,2019-08-27
+com.rovio.baba,アングリーバード2(AngryBirds2),70,RO,2019-08-27
+com.coke.cokescan,CokeScan,71,RO,2019-08-27
+com.battle.disc,BattleDisc,72,RO,2019-08-27
+com.dts.freefireth,GarenaFreeFire,73,RO,2019-08-27
+com.outfit7.herodash,トーキング・トムのヒーロー・ダッシュ,74,RO,2019-08-27
+com.outfit7.talkingtomgoldrun,トーキング・トムのゴールド・ラン,75,RO,2019-08-27
+de.aboutyou.mobile.app,ABOUTYOUModeOnlineShop,76,RO,2019-08-27
+com.google.android.play.games,GooglePlayゲーム,77,RO,2019-08-27
+com.playrix.zoo_m3.gplay,ワイルドスケイプ(Wildscapes),78,RO,2019-08-27
+com.fungames.blockcraft,ブロック・クラフト　無料街づくりシミュレーションゲーム,79,RO,2019-08-27
+air.com.hypah.io.slither,slither.io,80,RO,2019-08-27
+com.clean.road,CleanRoad,81,RO,2019-08-27
+com.rocket.tools.clean.antivirus.master,"ベストアンチウイルス2019-ウイルススキャンと駆除,クリーナー",82,RO,2019-08-27
+com.habby.archero,アーチャー伝説,83,RO,2019-08-27
+com.playgendary.kickthebuddy,KicktheBuddy,84,RO,2019-08-27
+com.pinterest,Pinterest（ピンタレスト）,85,RO,2019-08-27
 com.ecosia.android,Ecosia-Trees&Privacy,86,RO,2019-08-27
 com.tencent.ig,PUBGMOBILE,87,RO,2019-08-27
 com.yahoo.mobile.client.android.mail,YahooMail–OrganizedEmail,88,RO,2019-08-27
@@ -136,109 +136,109 @@ com.rsupport.mvagent,Mobizenスクリーンレコーダー：画面録画・キ�
 com.custom.pickmeup,PickMeUp™,135,RO,2019-08-27
 ocean.nomad.survival.simulator,ラフティングのサバイバル:SurvivalonRaft-OceanNomad,136,RO,2019-08-27
 com.tranzmate,ムービット(Moovit):リアルタイムの交通時刻プランナー,137,RO,2019-08-27
-com.ubercab,Uber,138,RO,2019-08-27
-com.eTokenBCR,eToken(IDentity),139,RO,2019-08-27
-com.playgendary.tanks,TankStars,140,RO,2019-08-27
-eu.livesport.FlashScore_ro2,FlashScore-rezultatelive,141,RO,2019-08-27
-com.lemonsquad.simulatorbs,BoxsimulatorforBrawlstars,142,RO,2019-08-27
-com.mobile.legends,モバイル·レジェンド:BangBang,143,RO,2019-08-27
-com.zeptolab.cats.google,CATS:CrashArenaTurboStars,144,RO,2019-08-27
-com.playrix.township,タウンシップ(Township),145,RO,2019-08-27
-com.housepaint.game,HousePaint,146,RO,2019-08-27
-com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),147,RO,2019-08-27
-com.imangi.templerun2,TempleRun2,148,RO,2019-08-27
-com.discord,Discord-ゲーマー向けチャットシステム,149,RO,2019-08-27
-ro.ing.mobile.banking.android.activity,INGHomeBank,150,RO,2019-08-27
-com.levelzed.waterjump,パープルダイバー,151,RO,2019-08-27
-com.azarlive.android,Azar-ビデオチャット、友達検索,152,RO,2019-08-27
-com.playgendary.partymasters,Partymasters-FunIdleGame,153,RO,2019-08-27
-com.tinder,Tinder,154,RO,2019-08-27
-com.colorhole.game,ColorHole3D,155,RO,2019-08-27
-com.fancyphoto.maker,GetFollowersUP,156,RO,2019-08-27
-paint.by.number.pixel.art.coloring.drawing.puzzle,数字で塗り絵-無料塗り絵ブック＆ペイントゲーム＆リラックスゲーム,157,RO,2019-08-27
-com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,158,RO,2019-08-27
-com.ticxogssa.tac.toebase.xvsoone,ThermalCamera:BestThermalCamera,159,RO,2019-08-27
-com.fashiondays.android,FashionDays,160,RO,2019-08-27
-com.differencetenderwhite.skirt,ブロックパズルジュエル,161,RO,2019-08-27
-com.ansangha.drparking4,駐車の達人4,162,RO,2019-08-27
-com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,163,RO,2019-08-27
-com.zeptolab.ctr.ads,CuttheRopeFULLFREE,164,RO,2019-08-27
-com.hwg.neonsplash,NeonSplash,165,RO,2019-08-27
-com.ansangha.drdriving,走行の達人,166,RO,2019-08-27
-net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),167,RO,2019-08-27
-com.h8games.helixjump,HelixJump,168,RO,2019-08-27
-net.apex_designs.payback2,Payback2-TheBattleSandbox,169,RO,2019-08-27
-net.supertreat.solitaire,Solitaire-GrandHarvest-Tripeaks,170,RO,2019-08-27
-com.stx.cutit,CutIt,171,RO,2019-08-27
-messenger.messenger.messanger.messenger,メッセンジャーアプリ,172,RO,2019-08-27
-com.companyname.fortuna_na_okraglo,SpinofFortune-Quiz,173,RO,2019-08-27
-com.alibaba.aliexpresshd,AliExpress-スマートにお買い物して、より良い暮らしを,174,RO,2019-08-27
-com.my.ffs.action.bombasticbrothers,BombasticBrothers–2D銃撃ゲーム,175,RO,2019-08-27
-ro.btrl.mobile,BancaTransilvania,176,RO,2019-08-27
-com.pag.faranumar,"FaraNumar,FaraNumar",177,RO,2019-08-27
-slots.slot.machine.casino.free,Raslots-casinoslotmachines,178,RO,2019-08-27
-com.genetic.realcarparking2,RealCarParking2:DrivingSchool2018,179,RO,2019-08-27
-air.com.triviador.trro,TriviadorRomânia,180,RO,2019-08-27
-com.kaufland.Kaufland,Kaufland-offersandmore,181,RO,2019-08-27
-de.sec.mobile,Lidl-Offers&Leaflets,182,RO,2019-08-27
-pedometer.stepcounter.calorieburner.pedometerforwalking,歩数計-無料のステップカウンター＆カロリー計算,183,RO,2019-08-27
-com.platogo.gmp,GaminatorCasinoSlots-PlayFreeSlotMachines,184,RO,2019-08-27
-com.minicraft.pocketedition2019,Megacraft-PocketEdition,185,RO,2019-08-27
-com.riseup.game,RiseUp,186,RO,2019-08-27
-ro.ascendnet.bringo,BringoDelivery,187,RO,2019-08-27
-com.ovilex.drivingschool2016,DrivingSchool2016,188,RO,2019-08-27
-com.oppanagames.car.simulator,CarSimulator2,189,RO,2019-08-27
-com.samsung.android.app.notes,GalaxyNotes,190,RO,2019-08-27
-com.upjers.zoo2animalpark,Zoo2:AnimalPark,191,RO,2019-08-27
-com.bestringtonesapps.bestringtonesfree,最高の無料着メロ,192,RO,2019-08-27
-air.com.lunime.gachalife,GachaLife,193,RO,2019-08-27
-de.wetteronline.wetterapp,Weather&Radar-Free,194,RO,2019-08-27
-com.masomo.headball2,HeadBall2,195,RO,2019-08-27
-com.ea.gp.fifamobile,FIFAサッカー,196,RO,2019-08-27
-com.playgendary.pinatamasters,Pinatamasters,197,RO,2019-08-27
-com.neonplay.casualidletapstrongman,IdleTapStrongman,198,RO,2019-08-27
-com.duolingo,Duolingo|英語を無料で学ぼう,199,RO,2019-08-27
-com.popcore.wreckingball,WreckingBall,200,RO,2019-08-27
-cat.piano.tiles.magic.kitty.hello.girl.pink.cute.kpop,MagicCatPianoTiles-CrazyTilesPinkGirly,201,RO,2019-08-27
-brd.bankingapp.android,MyBRDMobile,202,RO,2019-08-27
-com.sec.android.app.voicenote,Galaxyボイスレコーダー,203,RO,2019-08-27
-com.zuuks.truck.simulator.euro,トラックシミュレータ2018：欧州,204,RO,2019-08-27
-com.AB.RCDHD,СимуляторвожденияВАЗ2108,205,RO,2019-08-27
-game.bubble.shooter.dragon.pop,バブルシューティング,206,RO,2019-08-27
-com.turner.boomerangsports,BoomerangAll-Stars:TomandJerrySports,207,RO,2019-08-27
-com.sec.android.easyMover,GalaxySmartSwitchMobile,208,RO,2019-08-27
-com.entertaininglogixapps.gps.navigation.direction.find.route.map.guide,GPSナビゲーション＆方向-見つけるルート、地図ガイド,209,RO,2019-08-27
-com.king.farmheroessaga,ファームヒーロー,210,RO,2019-08-27
-com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,211,RO,2019-08-27
-com.twist.hit,TwistHit!,212,RO,2019-08-27
-com.groundhog.mcpemaster,MasterforMinecraft(PocketEdition)-ModLauncher,213,RO,2019-08-27
-com.binatex.trade,Binatextrading,214,RO,2019-08-27
-com.skgames.trafficracer,TrafficRacer,215,RO,2019-08-27
-com.badoo.mobile,Badoo-無料チャット&デートアプリ,216,RO,2019-08-27
-com.playgendary.polyspherecoolgame,Polysphere,217,RO,2019-08-27
-air.com.beachbumgammon,Backgammon–LordoftheBoard–OnlineBoardGame,218,RO,2019-08-27
-com.nekki.shadowfight,シャドウファイト2,219,RO,2019-08-27
-com.gokids.transportbuilding,子供のためのトラックゲーム-家屋🏡洗車,220,RO,2019-08-27
-fi.twomenandadog.walkmaster,ウォークマスター(WalkMaster),221,RO,2019-08-27
-com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,222,RO,2019-08-27
-com.jellybtn.boardkings,BoardKings™️,223,RO,2019-08-27
-com.gameeapp.android.app,GAMEE-Playgameswithyourfriends,224,RO,2019-08-27
-ro.cincimiidepasi.android,5000dePași,225,RO,2019-08-27
-com.keplerians.evilnun,EvilNun:学校の恐怖,226,RO,2019-08-27
-com.pregnantcatemma.virtualpet,妊娠したおしゃべり猫エマ,227,RO,2019-08-27
-com.hsyecheng.blockworldcraft,WorldBuildingCraft,228,RO,2019-08-27
-com.cleanmaster.mguard,CleanMasterーメモリクリーナー、キャッシュクリーナー＆ウイルス対策,229,RO,2019-08-27
-com.autoscout24,AutoScout24:AutosundGebrauchtwagen,230,RO,2019-08-27
-eu.hbogo.android,HBOGO,231,RO,2019-08-27
-phone.cleaner.speed.booster.cache.clean.android.master,"PhoneCleaner-CacheClean,AndroidBoosterMaster",232,RO,2019-08-27
-com.spacegame.homedesign,マイホーム　デザインドリーム,233,RO,2019-08-27
-com.bestringtonesapps.freeringtonesforandroid,無料着信音Android™,234,RO,2019-08-27
-com.wizzair.WizzAirApp,WizzAir,235,RO,2019-08-27
-com.atpc,"音楽ダウンロード無料,ミュージックfm,ユーチューブ無料音楽アプレーヤー,YouTube",236,RO,2019-08-27
-com.google.earth,GoogleEarth,237,RO,2019-08-27
-com.magjg.roundhit,PaintPop3D,238,RO,2019-08-27
-com.myedenred.edenred,MyEdenredRomania,239,RO,2019-08-27
-mini.block.craft.free.mc,ミニブロッククラフト,240,RO,2019-08-27
+com.eTokenBCR,eToken(IDentity),138,RO,2019-08-27
+com.playgendary.tanks,TankStars,139,RO,2019-08-27
+eu.livesport.FlashScore_ro2,FlashScore-rezultatelive,140,RO,2019-08-27
+com.lemonsquad.simulatorbs,BoxsimulatorforBrawlstars,141,RO,2019-08-27
+com.mobile.legends,モバイル·レジェンド:BangBang,142,RO,2019-08-27
+com.zeptolab.cats.google,CATS:CrashArenaTurboStars,143,RO,2019-08-27
+com.playrix.township,タウンシップ(Township),144,RO,2019-08-27
+com.housepaint.game,HousePaint,145,RO,2019-08-27
+com.tocaboca.tocakitchen2,トッカ・キッチン2(TocaKitchen2),146,RO,2019-08-27
+com.imangi.templerun2,TempleRun2,147,RO,2019-08-27
+com.discord,Discord-ゲーマー向けチャットシステム,148,RO,2019-08-27
+ro.ing.mobile.banking.android.activity,INGHomeBank,149,RO,2019-08-27
+com.levelzed.waterjump,パープルダイバー,150,RO,2019-08-27
+com.azarlive.android,Azar-ビデオチャット、友達検索,151,RO,2019-08-27
+com.playgendary.partymasters,Partymasters-FunIdleGame,152,RO,2019-08-27
+com.tinder,Tinder,153,RO,2019-08-27
+com.colorhole.game,ColorHole3D,154,RO,2019-08-27
+com.fancyphoto.maker,GetFollowersUP,155,RO,2019-08-27
+paint.by.number.pixel.art.coloring.drawing.puzzle,数字で塗り絵-無料塗り絵ブック＆ペイントゲーム＆リラックスゲーム,156,RO,2019-08-27
+com.lockwoodpublishing.avakinlife,AvakinLife-3D仮想世界,157,RO,2019-08-27
+com.ticxogssa.tac.toebase.xvsoone,ThermalCamera:BestThermalCamera,158,RO,2019-08-27
+com.fashiondays.android,FashionDays,159,RO,2019-08-27
+com.differencetenderwhite.skirt,ブロックパズルジュエル,160,RO,2019-08-27
+com.ansangha.drparking4,駐車の達人4,161,RO,2019-08-27
+com.igg.android.lordsmobile,ロードモバイル:戦争キングダム–ストラテジーバトルRPG,162,RO,2019-08-27
+com.zeptolab.ctr.ads,CuttheRopeFULLFREE,163,RO,2019-08-27
+com.hwg.neonsplash,NeonSplash,164,RO,2019-08-27
+com.ansangha.drdriving,走行の達人,165,RO,2019-08-27
+net.mobigame.zombietsunami,ZombieTsunami(ゾンビツナミ),166,RO,2019-08-27
+com.h8games.helixjump,HelixJump,167,RO,2019-08-27
+net.apex_designs.payback2,Payback2-TheBattleSandbox,168,RO,2019-08-27
+net.supertreat.solitaire,Solitaire-GrandHarvest-Tripeaks,169,RO,2019-08-27
+com.stx.cutit,CutIt,170,RO,2019-08-27
+messenger.messenger.messanger.messenger,メッセンジャーアプリ,171,RO,2019-08-27
+com.companyname.fortuna_na_okraglo,SpinofFortune-Quiz,172,RO,2019-08-27
+com.alibaba.aliexpresshd,AliExpress-スマートにお買い物して、より良い暮らしを,173,RO,2019-08-27
+com.my.ffs.action.bombasticbrothers,BombasticBrothers–2D銃撃ゲーム,174,RO,2019-08-27
+ro.btrl.mobile,BancaTransilvania,175,RO,2019-08-27
+com.pag.faranumar,"FaraNumar,FaraNumar",176,RO,2019-08-27
+slots.slot.machine.casino.free,Raslots-casinoslotmachines,177,RO,2019-08-27
+com.genetic.realcarparking2,RealCarParking2:DrivingSchool2018,178,RO,2019-08-27
+air.com.triviador.trro,TriviadorRomânia,179,RO,2019-08-27
+com.ubercab,Uber,180,RO,2019-08-27
+de.sec.mobile,Lidl-Offers&Leaflets,181,RO,2019-08-27
+pedometer.stepcounter.calorieburner.pedometerforwalking,歩数計-無料のステップカウンター＆カロリー計算,182,RO,2019-08-27
+com.platogo.gmp,GaminatorCasinoSlots-PlayFreeSlotMachines,183,RO,2019-08-27
+com.minicraft.pocketedition2019,Megacraft-PocketEdition,184,RO,2019-08-27
+com.riseup.game,RiseUp,185,RO,2019-08-27
+ro.ascendnet.bringo,BringoDelivery,186,RO,2019-08-27
+com.ovilex.drivingschool2016,DrivingSchool2016,187,RO,2019-08-27
+com.oppanagames.car.simulator,CarSimulator2,188,RO,2019-08-27
+com.samsung.android.app.notes,GalaxyNotes,189,RO,2019-08-27
+com.upjers.zoo2animalpark,Zoo2:AnimalPark,190,RO,2019-08-27
+com.bestringtonesapps.bestringtonesfree,最高の無料着メロ,191,RO,2019-08-27
+air.com.lunime.gachalife,GachaLife,192,RO,2019-08-27
+de.wetteronline.wetterapp,Weather&Radar-Free,193,RO,2019-08-27
+com.masomo.headball2,HeadBall2,194,RO,2019-08-27
+com.ea.gp.fifamobile,FIFAサッカー,195,RO,2019-08-27
+com.playgendary.pinatamasters,Pinatamasters,196,RO,2019-08-27
+com.neonplay.casualidletapstrongman,IdleTapStrongman,197,RO,2019-08-27
+com.duolingo,Duolingo|英語を無料で学ぼう,198,RO,2019-08-27
+com.popcore.wreckingball,WreckingBall,199,RO,2019-08-27
+cat.piano.tiles.magic.kitty.hello.girl.pink.cute.kpop,MagicCatPianoTiles-CrazyTilesPinkGirly,200,RO,2019-08-27
+brd.bankingapp.android,MyBRDMobile,201,RO,2019-08-27
+com.sec.android.app.voicenote,Galaxyボイスレコーダー,202,RO,2019-08-27
+com.zuuks.truck.simulator.euro,トラックシミュレータ2018：欧州,203,RO,2019-08-27
+com.AB.RCDHD,СимуляторвожденияВАЗ2108,204,RO,2019-08-27
+game.bubble.shooter.dragon.pop,バブルシューティング,205,RO,2019-08-27
+com.turner.boomerangsports,BoomerangAll-Stars:TomandJerrySports,206,RO,2019-08-27
+com.sec.android.easyMover,GalaxySmartSwitchMobile,207,RO,2019-08-27
+com.entertaininglogixapps.gps.navigation.direction.find.route.map.guide,GPSナビゲーション＆方向-見つけるルート、地図ガイド,208,RO,2019-08-27
+com.king.farmheroessaga,ファームヒーロー,209,RO,2019-08-27
+com.ea.game.nfs14_row,ニード・フォー・スピードノーリミットレーシング,210,RO,2019-08-27
+com.twist.hit,TwistHit!,211,RO,2019-08-27
+com.groundhog.mcpemaster,MasterforMinecraft(PocketEdition)-ModLauncher,212,RO,2019-08-27
+com.binatex.trade,Binatextrading,213,RO,2019-08-27
+com.skgames.trafficracer,TrafficRacer,214,RO,2019-08-27
+com.badoo.mobile,Badoo-無料チャット&デートアプリ,215,RO,2019-08-27
+com.playgendary.polyspherecoolgame,Polysphere,216,RO,2019-08-27
+air.com.beachbumgammon,Backgammon–LordoftheBoard–OnlineBoardGame,217,RO,2019-08-27
+com.nekki.shadowfight,シャドウファイト2,218,RO,2019-08-27
+com.gokids.transportbuilding,子供のためのトラックゲーム-家屋🏡洗車,219,RO,2019-08-27
+fi.twomenandadog.walkmaster,ウォークマスター(WalkMaster),220,RO,2019-08-27
+com.miniclip.footballstrike,FootballStrike-MultiplayerSoccer,221,RO,2019-08-27
+com.jellybtn.boardkings,BoardKings™️,222,RO,2019-08-27
+com.gameeapp.android.app,GAMEE-Playgameswithyourfriends,223,RO,2019-08-27
+ro.cincimiidepasi.android,5000dePași,224,RO,2019-08-27
+com.keplerians.evilnun,EvilNun:学校の恐怖,225,RO,2019-08-27
+com.pregnantcatemma.virtualpet,妊娠したおしゃべり猫エマ,226,RO,2019-08-27
+com.hsyecheng.blockworldcraft,WorldBuildingCraft,227,RO,2019-08-27
+com.cleanmaster.mguard,CleanMasterーメモリクリーナー、キャッシュクリーナー＆ウイルス対策,228,RO,2019-08-27
+com.autoscout24,AutoScout24:AutosundGebrauchtwagen,229,RO,2019-08-27
+eu.hbogo.android,HBOGO,230,RO,2019-08-27
+phone.cleaner.speed.booster.cache.clean.android.master,"PhoneCleaner-CacheClean,AndroidBoosterMaster",231,RO,2019-08-27
+com.spacegame.homedesign,マイホーム　デザインドリーム,232,RO,2019-08-27
+com.bestringtonesapps.freeringtonesforandroid,無料着信音Android™,233,RO,2019-08-27
+com.wizzair.WizzAirApp,WizzAir,234,RO,2019-08-27
+com.atpc,"音楽ダウンロード無料,ミュージックfm,ユーチューブ無料音楽アプレーヤー,YouTube",235,RO,2019-08-27
+com.google.earth,GoogleEarth,236,RO,2019-08-27
+com.magjg.roundhit,PaintPop3D,237,RO,2019-08-27
+com.myedenred.edenred,MyEdenredRomania,238,RO,2019-08-27
+mini.block.craft.free.mc,ミニブロッククラフト,239,RO,2019-08-27
+com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),240,RO,2019-08-27
 com.vizorapps.klondike,KlondikeAdventures(クロンダイクの冒険),241,RO,2019-08-27
 com.heavyfall.constructioncity2,ConstructionCity2,242,RO,2019-08-27
 com.ketchapp.knifehit,KnifeHit,243,RO,2019-08-27
@@ -351,14 +351,14 @@ com.music.bgplayer,BGPlayer,349,RO,2019-08-27
 com.sinyee.babybus.shopping,リトルパンダの夏：アイスクリームバー,350,RO,2019-08-27
 com.varbroz.perfectturn,PerfectTurn!,351,RO,2019-08-27
 com.brc.ScoalaAuto,ScoalaAuto-ChestionareAuto,352,RO,2019-08-27
-com.amazon.mShop.android.shopping,Amazonショッピングアプリ,353,RO,2019-08-27
-com.rioo.runnersubway,SubwayPrincessRunner,354,RO,2019-08-27
-com.cartoon.photo.master.android,CartoonPhotoMaster,355,RO,2019-08-27
-com.outfit7.talkingben,おしゃべり犬のトーキング・ベン,356,RO,2019-08-27
-com.bubadu.buildergame,BuilderGame(ビルダー・ゲーム),357,RO,2019-08-27
-mobi.gameguru.racingfevermoto,RacingFever:Moto,358,RO,2019-08-27
-com.nekki.shadowfight3,シャドウファイト3,359,RO,2019-08-27
-com.devaward.soptohttp,SoptoHttp,360,RO,2019-08-27
+com.rioo.runnersubway,SubwayPrincessRunner,353,RO,2019-08-27
+com.cartoon.photo.master.android,CartoonPhotoMaster,354,RO,2019-08-27
+com.outfit7.talkingben,おしゃべり犬のトーキング・ベン,355,RO,2019-08-27
+com.bubadu.buildergame,BuilderGame(ビルダー・ゲーム),356,RO,2019-08-27
+mobi.gameguru.racingfevermoto,RacingFever:Moto,357,RO,2019-08-27
+com.nekki.shadowfight3,シャドウファイト3,358,RO,2019-08-27
+com.devaward.soptohttp,SoptoHttp,359,RO,2019-08-27
+com.karolinaaleksandrova.fastramcleaner,FastRAMCleaner,360,RO,2019-08-27
 com.karolinaaleksandrova.fastramcleaner,FastRAMCleaner,361,RO,2019-08-27
 com.turner.gumballvipro,GumballVIPRO,362,RO,2019-08-27
 com.gs360.antiterrorismcommandomission,Anti-TerrorismCommandoMission2019,363,RO,2019-08-27
@@ -419,40 +419,40 @@ es.treebit.decisionroulette,決定ルーレット,417,RO,2019-08-27
 io.voodoo.holeio,Hole.io,418,RO,2019-08-27
 com.playgendary.sportmasters,Bouncemasters!,419,RO,2019-08-27
 com.secondarm.taptapdash,TapTapDash,420,RO,2019-08-27
-com.PoxelStudios.DudeTheftAuto,DudeTheftWars:OpenWorldSandboxSimulatorBETA,421,RO,2019-08-27
-com.grannybarbie.tonyboyandgirlbarbie.grannybarbieprincess2019,BarbiGrannyV1.7:Horrorgame2019,422,RO,2019-08-27
-com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne―爽快！一流公認マシンレーシング,423,RO,2019-08-27
-com.no.color,"No.Pix-塗り絵-ぬりえ無料,色塗りアプリ,数字で色塗,番号でペイント",424,RO,2019-08-27
-com.tapptitude.imobiliare,Imobiliare.ro,425,RO,2019-08-27
-org.mozilla.firefox,Firefoxブラウザー高速&プライベート,426,RO,2019-08-27
-net.wordbit.enro,WordBitEngleză(Studiupeecranuldeblocare),427,RO,2019-08-27
-com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、人気ゲーム,428,RO,2019-08-27
-com.machsystem.fshrmngo,FishermanGo!,429,RO,2019-08-27
-com.ratelekom.findnow,FindNow,430,RO,2019-08-27
-ro.rcsrds.digionline,DigiOnline,431,RO,2019-08-27
-ro.vodafone.shake,VodafoneShake,432,RO,2019-08-27
-es.mrcl.app.juasapp,Juasapp-ジョーク電話,433,RO,2019-08-27
-com.king.petrescuesaga,ペットレスキュー,434,RO,2019-08-27
-com.halfbrick.fruitninjafree,FruitNinja®,435,RO,2019-08-27
-panda.keyboard.emoji.theme,"CheetahKeyboard-Emoji,Swype,DIYThemes",436,RO,2019-08-27
-com.outfit7.talkinggingerfree,おしゃべり猫のトーキング・ジンジャー,437,RO,2019-08-27
-com.adrian.jereptr,LikesUp-GetMorePopularHashtags,438,RO,2019-08-27
-com.mosquitosound.killer.sound,FaceReductor:BestFaceReductor,439,RO,2019-08-27
-com.pixel.art.coloring.color.by.number,"DailyPixel-ColorbyNumber,HappyPixelArt",440,RO,2019-08-27
-com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),441,RO,2019-08-27
-ro.startaxi.android.client,StarTaxi,442,RO,2019-08-27
-com.bubadu.bubbu,仮想ペット「Bubbu,443,RO,2019-08-27
-com.fortune.forcast.lite,FortuneForecastLite,444,RO,2019-08-27
-com.night.clock.nightclock.live.wallpaper.day.night.analog.digitalclock,スマートナイトクロック：夜景壁紙,445,RO,2019-08-27
-com.instagram.boomerang,BoomerangfromInstagram,446,RO,2019-08-27
-com.babymariagames.puppypetdaycare,子犬ペットデイケア-思いやりのあるペット子犬サロン,447,RO,2019-08-27
-com.mobadu.BlockyFarmRacing,BlockyFarmRacing&Simulator-農場シミュレータ,448,RO,2019-08-27
-bwebmedia.cookbakedlasagna,焼きラザニアを調理します,449,RO,2019-08-27
-com.health.lab.drink.water.tracker,水を飲むリマインダー,450,RO,2019-08-27
-com.tfgco.games.strategy.free.castlecrush,キャッスルクラッシュオンライン戦略ゲーム（CastleCrush),451,RO,2019-08-27
-bubble.shoot.fruit.splash.game2,ShootBubble-FruitSplash,452,RO,2019-08-27
-com.dmg.packmaster,PackMaster,453,RO,2019-08-27
-com.ansangha.drjb,走行の達人2,454,RO,2019-08-27
+com.grannybarbie.tonyboyandgirlbarbie.grannybarbieprincess2019,BarbiGrannyV1.7:Horrorgame2019,421,RO,2019-08-27
+com.gameloft.android.ANMP.GloftA8HM,アスファルト8：Airborne―爽快！一流公認マシンレーシング,422,RO,2019-08-27
+com.no.color,"No.Pix-塗り絵-ぬりえ無料,色塗りアプリ,数字で色塗,番号でペイント",423,RO,2019-08-27
+com.tapptitude.imobiliare,Imobiliare.ro,424,RO,2019-08-27
+org.mozilla.firefox,Firefoxブラウザー高速&プライベート,425,RO,2019-08-27
+net.wordbit.enro,WordBitEngleză(Studiupeecranuldeblocare),426,RO,2019-08-27
+com.more.dayzsurvival.gp,ラストシェルター：この国を守り抜く本格SLG、人気ゲーム,427,RO,2019-08-27
+com.machsystem.fshrmngo,FishermanGo!,428,RO,2019-08-27
+com.ratelekom.findnow,FindNow,429,RO,2019-08-27
+ro.rcsrds.digionline,DigiOnline,430,RO,2019-08-27
+ro.vodafone.shake,VodafoneShake,431,RO,2019-08-27
+es.mrcl.app.juasapp,Juasapp-ジョーク電話,432,RO,2019-08-27
+com.king.petrescuesaga,ペットレスキュー,433,RO,2019-08-27
+com.halfbrick.fruitninjafree,FruitNinja®,434,RO,2019-08-27
+panda.keyboard.emoji.theme,"CheetahKeyboard-Emoji,Swype,DIYThemes",435,RO,2019-08-27
+com.outfit7.talkinggingerfree,おしゃべり猫のトーキング・ジンジャー,436,RO,2019-08-27
+com.adrian.jereptr,LikesUp-GetMorePopularHashtags,437,RO,2019-08-27
+com.mosquitosound.killer.sound,FaceReductor:BestFaceReductor,438,RO,2019-08-27
+com.pixel.art.coloring.color.by.number,"DailyPixel-ColorbyNumber,HappyPixelArt",439,RO,2019-08-27
+com.supercell.clashofclans,クラッシュ・オブ・クラン(ClashofClans),440,RO,2019-08-27
+ro.startaxi.android.client,StarTaxi,441,RO,2019-08-27
+com.bubadu.bubbu,仮想ペット「Bubbu,442,RO,2019-08-27
+com.fortune.forcast.lite,FortuneForecastLite,443,RO,2019-08-27
+com.night.clock.nightclock.live.wallpaper.day.night.analog.digitalclock,スマートナイトクロック：夜景壁紙,444,RO,2019-08-27
+com.instagram.boomerang,BoomerangfromInstagram,445,RO,2019-08-27
+com.babymariagames.puppypetdaycare,子犬ペットデイケア-思いやりのあるペット子犬サロン,446,RO,2019-08-27
+com.mobadu.BlockyFarmRacing,BlockyFarmRacing&Simulator-農場シミュレータ,447,RO,2019-08-27
+bwebmedia.cookbakedlasagna,焼きラザニアを調理します,448,RO,2019-08-27
+com.health.lab.drink.water.tracker,水を飲むリマインダー,449,RO,2019-08-27
+com.tfgco.games.strategy.free.castlecrush,キャッスルクラッシュオンライン戦略ゲーム（CastleCrush),450,RO,2019-08-27
+bubble.shoot.fruit.splash.game2,ShootBubble-FruitSplash,451,RO,2019-08-27
+com.dmg.packmaster,PackMaster,452,RO,2019-08-27
+com.ansangha.drjb,走行の達人2,453,RO,2019-08-27
+com.amazon.mShop.android.shopping,Amazonショッピングアプリ,454,RO,2019-08-27
 com.fungames.flightpilot,フライトパイロットシミュレーター3D無料,455,RO,2019-08-27
 air.com.come2play.backgammon,BackgammonLive:オンラインボードゲーム,456,RO,2019-08-27
 com.your.destiny.teller,YourDestinyTeller,457,RO,2019-08-27
